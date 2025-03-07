@@ -1,1 +1,1 @@
-My name is njika kizito chiag
+My name is njika kizito chiagozie and the introduction is all about  computers and operating system
