@@ -11,8 +11,7 @@ Inside, you'll find **step-by-step solutions, troubleshooting guides, and best p
 ---
 
 ## 📂 What’s Inside?  
-
-### 🔹 **Windows & Windows Server**  
+## 🔹 **Windows & Windows Server**  
 - [Windows Troubleshooting](Windows/Windows-Troubleshooting.md)  
 - [PowerShell Commands](Windows/PowerShell-Commands.md)  
 - [Windows Server Basics](Windows/Windows-Server-Basics.md)  
