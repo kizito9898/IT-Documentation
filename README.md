@@ -11,63 +11,62 @@ This is not just a collection of notes—it's a **personal IT knowledge base** b
 ## 📂 What’s Inside?  
 
 ### 🔹 **Windows & Windows Server**  
-- [Windows Troubleshooting](Windows/Windows-Troubleshooting.md)  
-- [PowerShell Commands](Windows/PowerShell-Commands.md)  
-- [Windows Server Basics](Windows/Windows-Server-Basics.md)  
-- [Active Directory Basics](Windows/Active-Directory-Basics.md)  
-- [Group Policy Management](Windows/Group-Policy-Management.md)  
+- [[Windows/Windows-Troubleshooting]]  
+- [[Windows/PowerShell-Commands]]  
+- [[Windows/Windows-Server-Basics]]  
+- [[Windows/Active-Directory-Basics]]  
+- [[Windows/Group-Policy-Management]]  
 
 ### 🔹 **Networking & Security**  
-- [Networking Commands](Network/Networking-Commands.md)
-- [DNS & DHCP Troubleshooting](Network/DNS-DHCP-Troubleshooting.md)  
-- [VPN Issues](Network/VPN-Issues.md)  
-- [Firewall Configurations](Network/Firewall-Configurations.md)  
-- [CrowdStrike Basics](Security/CrowdStrike-Basics.md)  
-- [MFA & Security Best Practices](Security/MFA-Security-Practices.md)  
-- [Endpoint Security](Security/Endpoint-Security.md)  
+- [[Network/Network-Troubleshooting]]  
+- [[Network/VPN-Issues]]  
+- [[Network/Firewall-Configurations]]  
+- [[Security/CrowdStrike-Basics]]  
+- [[Security/MFA-Security-Practices]]  
+- [[Security/Endpoint-Security]]  
 
 ### 🔹 **Microsoft 365: Deployment, Administration & Management**  
-- [Exchange Server](Microsoft365/Exchange-Server.md)  
-- [SharePoint Server](Microsoft365/SharePoint-Server.md)  
-- [Teams Administration](Microsoft365/Teams-Administration.md)  
-- [Microsoft 365 Deployment](Microsoft365/Microsoft-365-Deployment.md)  
-- [Microsoft 365 Security](Microsoft365/Microsoft-365-Security.md)  
+- [[Microsoft365/Exchange-Server]]  
+- [[Microsoft365/SharePoint-Server]]  
+- [[Microsoft365/Teams-Administration]]  
+- [[Microsoft365/Microsoft-365-Deployment]]  
+- [[Microsoft365/Microsoft-365-Security]]  
 
-### 🔹 **Microsoft Intune, Endpoint Management & MDM**  
-- [Device Enrollment](Intune/Device-Enrollment.md)  
-- [Compliance Policies](Intune/Compliance-Policies.md)  
-- [App Deployment](Intune/App-Deployment.md)  
-- [Endpoint Security](Intune/Endpoint-Security.md)  
-- [MDM (Mobile Device Management)](Intune/MDM-Basics.md) 
+### 🔹 **Microsoft Intune & Endpoint Management**  
+- [[Intune/Device-Enrollment]]  
+- [[Intune/Compliance-Policies]]  
+- [[Intune/App-Deployment]]  
+- [[Intune/Endpoint-Security]]  
+- [[Intune/MDM-Mobile-Device-Management]]  
 
 ### 🔹 **Azure & Cloud Administration**  
-- [Azure Virtual Machines Setup](Azure/Virtual-Machines-Setup.md)  
-- [Azure Entra ID Basics](Azure/Entra-ID-Basics.md)  
-- [Azure Networking](Azure/Azure-Networking.md)  
+- [[Azure/Virtual-Machines-Setup]]  
+- [[Azure/Entra-ID-Basics]]  
+- [[Azure/Azure-Networking]]  
 
 ### 🔹 **IT Support & Customer Service Best Practices**  
-- [Communication Best Practices](CustomerService/Communication-Best-Practices.md)  
-- [Handling Difficult Customers](CustomerService/Handling-Difficult-Customers.md)  
-- [Ticketing Best Practices](CustomerService/Ticketing-Best-Practices.md)  
+- [[CustomerService/Communication-Best-Practices]]  
+- [[CustomerService/Handling-Difficult-Customers]]  
+- [[CustomerService/Ticketing-Best-Practices]]  
 
 ### 🔹 **MSP Tools & Ticketing Systems**  
-- [ConnectWise Ticketing Best Practices](ConnectWise/Ticketing-Best-Practices.md)  
-- [Common Issues & Fixes in ConnectWise](ConnectWise/Common-Issues-Fixes.md)  
-- [ConnectWise Patch Management](ConnectWise/Patch-Management.md)  
-- [IT Glue Documentation Best Practices](ITGlue/Documentation-Best-Practices.md)  
-- [IT Glue Documentation Templates](ITGlue/IT-Documentation-Templates.md)  
+- [[ConnectWise/Ticketing-Best-Practices]]  
+- [[ConnectWise/Common-Issues-Fixes]]  
+- [[ConnectWise/Patch-Management]]  
+- [[ITGlue/Documentation-Best-Practices]]  
+- [[ITGlue/IT-Documentation-Templates]]  
 
 ### 🔹 **Popular Ticketing Systems & Knowledge Base**  
-- [Zendesk Guide](Ticketing-Systems/Zendesk-Guide.md)  
-- [Zoho Desk Guide](Ticketing-Systems/Zoho-Desk-Guide.md)  
-- [Freshdesk Basics](Ticketing-Systems/Freshdesk-Basics.md)  
-- [Jira Service Management](Ticketing-Systems/Jira-Service-Management.md)  
+- [[Ticketing-Systems/Zendesk-Guide]]  
+- [[Ticketing-Systems/Zoho-Desk-Guide]]  
+- [[Ticketing-Systems/Freshdesk-Basics]]  
+- [[Ticketing-Systems/Jira-Service-Management]]  
 
 ### 🔹 **Troubleshooting & Real-World IT Scenarios**  
-- [Slow Computer Issues](Troubleshooting/Slow-Computer.md)  
-- [Printer Issues](Troubleshooting/Printer-Issues.md)  
-- [Microsoft Teams Issues](Troubleshooting/Microsoft-Teams-Issues.md)  
-- [Outlook Issues](Troubleshooting/Outlook-Issues.md)  
+- [[Troubleshooting/Slow-Computer]]  
+- [[Troubleshooting/Printer-Issues]]  
+- [[Troubleshooting/Microsoft-Teams-Issues]]  
+- [[Troubleshooting/Outlook-Issues]]  
 
 ---
 
