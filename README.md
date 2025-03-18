@@ -18,7 +18,7 @@ This is not just a collection of notes—it's a **personal IT knowledge base** b
 - [Group Policy Management](Windows/Group-Policy-Management.md)  
 
 ### 🔹 **Networking & Security**  
-- [Networking Troubleshooting](Network/Networking-Troubleshooting.md) ✅
+- [Networking Troubleshooting](Network/Networking-Troubleshooting.md) 
 - [DNS & DHCP Troubleshooting](Network/DNS-DHCP-Troubleshooting.md)  
 - [VPN Issues](Network/VPN-Issues.md)  
 - [Firewall Configurations](Network/Firewall-Configurations.md)  
