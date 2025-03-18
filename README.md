@@ -18,11 +18,11 @@ This is not just a collection of notes—it's a **personal IT knowledge base** b
 - [Group Policy Management](Windows/Group-Policy-Management.md)  
 
 ### 🔹 **Networking & Security**  
-- [Networking Troubleshooting](Network/Networking-Troubleshooting.md) ✅ **(New!)**  
+- [Networking Troubleshooting](Network/Networking-Troubleshooting.md) ✅
 - [DNS & DHCP Troubleshooting](Network/DNS-DHCP-Troubleshooting.md)  
 - [VPN Issues](Network/VPN-Issues.md)  
 - [Firewall Configurations](Network/Firewall-Configurations.md)  
-- [CrowdStrike Basics](Security/CrowdStrike-Basics.md) ✅ **(Updated!)**  
+- [CrowdStrike Basics](Security/CrowdStrike-Basics.md) 
 - [MFA & Security Best Practices](Security/MFA-Security-Practices.md)  
 - [Endpoint Security](Security/Endpoint-Security.md)  
 
@@ -38,8 +38,8 @@ This is not just a collection of notes—it's a **personal IT knowledge base** b
 - [Compliance Policies](Intune/Compliance-Policies.md)  
 - [App Deployment](Intune/App-Deployment.md)  
 - [Endpoint Security](Intune/Endpoint-Security.md)  
-- [MDM (Mobile Device Management)](Intune/MDM-Basics.md) ✅ **(New!)**  
-- [Intune Enrollment Troubleshooting](Intune/Enrollment-Troubleshooting.md) ✅ **(New!)**  
+- [MDM (Mobile Device Management)](Intune/MDM-Basics.md)  
+- [Intune Enrollment Troubleshooting](Intune/Enrollment-Troubleshooting.md) 
 
 ### 🔹 **Azure & Cloud Administration**  
 - [Azure Virtual Machines Setup](Azure/Virtual-Machines-Setup.md)  
