@@ -22,12 +22,12 @@ This is not just a collection of notes—it's a **personal IT knowledge base** b
 - [DNS & DHCP Troubleshooting](Network/DNS-DHCP-Troubleshooting.md)  
 - [VPN Issues](Network/VPN-Issues.md)  
 - [Firewall Configurations](Network/Firewall-Configurations.md)  
-- [CrowdStrike Basics](Security/CrowdStrike-Basics.md) ✅ **(Updated!)**  
+- [CrowdStrike Basics](Security/CrowdStrike-Basics.md)   
 - [MFA & Security Best Practices](Security/MFA-Security-Practices.md)  
 - [Endpoint Security](Security/Endpoint-Security.md)  
 
 ### 🔹 **Microsoft 365: Deployment, Administration & Management**  
-- [Microsoft 365 Administration](Microsoft365/Microsoft-365-Administration.md) ✅ **(New!)**  
+- [Microsoft 365 Administration](Microsoft365/Microsoft-365-Administration.md) 
 - [Exchange Server](Microsoft365/Exchange-Server.md)  
 - [SharePoint Server](Microsoft365/SharePoint-Server.md)  
 - [Teams Administration](Microsoft365/Teams-Administration.md)  
