@@ -2,7 +2,7 @@
 # Kizito's IT Mastery Repository  
 ## 📍 Personal Documentation of Hands-On IT Learning  
 
-The IT field is more than just solving technical issues—it's about **understanding systems, streamlining processes, delivering reliable solutions, and ensuring exceptional customer service**. I have **immersed myself in IT support, system administration, cloud technologies, and cybersecurity**, while also focusing on **providing excellent customer service and maintaining clear documentation through detailed ticket notes**.  
+The IT field is more than just solving technical issues—it's about **understanding systems, streamlining processes, delivering reliable solutions, and ensuring exceptional customer service**. I have been **deeply engaged in IT support, system administration, cloud technologies, and cybersecurity**, while also focusing on **providing excellent customer service and maintaining clear documentation through detailed ticket notes**.  
 
 This is not just a collection of notes—it's a **personal IT knowledge base** built from **hands-on troubleshooting, real-world challenges, and deep technical learning**.  
 
@@ -69,8 +69,8 @@ This is not just a collection of notes—it's a **personal IT knowledge base** b
 - [Printer Issues](Troubleshooting/Printer-Issues.md)  
 - [Microsoft Teams Issues](Troubleshooting/Microsoft-Teams-Issues.md)  
 - [Outlook Issues](Troubleshooting/Outlook-Issues.md)  
-- [Wi-Fi Connection Issues](Troubleshooting/WiFi-Connection-Issues.md) ✅ **(New!)**  
-- [Domain Trust Relationship Failed](Troubleshooting/Domain-Trust-Relationship-Failed.md) ✅ **(New!)**  
+- [Wi-Fi Connection Issues](Troubleshooting/WiFi-Connection-Issues.md) 
+- [Domain Trust Relationship Failed](Troubleshooting/Domain-Trust-Relationship-Failed.md) 
 
 ---
 
@@ -82,4 +82,4 @@ This documentation is a **reflection of my IT journey**—not just theoretical k
 - **A structured approach to IT learning**, making it easy to reference solutions and best practices.  
 - **A growing knowledge base** that will continue to evolve as I advance in my IT career.  
 
-🚀 **This is my journey, my work, and my contribution to the IT community. For anyone looking to get into IT or struggling to start, I hope this documentation helps you venture into the world of IT.**
+🚀 **This is my journey, my work, and my contribution to the IT community. For anyone looking to get into IT or struggling to start, I hope this documentation helps you venture into the world of IT.**  
