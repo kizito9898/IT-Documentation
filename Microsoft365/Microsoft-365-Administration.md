@@ -41,6 +41,6 @@ The **Microsoft 365 Admin Center** is primarily used by:
 
 
   
-![[screenshot1.jpg]]
+![Screenshot](screenshot1.jpg)
 p'ohjojhofmh
 pomjmpohm,pn,[pn[,h[om[]]]]
