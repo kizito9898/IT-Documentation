@@ -37,13 +37,6 @@ The **Microsoft 365 Admin Center** is primarily used by:
 
 ---
 
-## 🚀 **Next Steps**  
-✅ **Log in to the Admin Center** → [admin.microsoft.com](https://admin.microsoft.com)  
-✅ **Practice managing users, licenses, and security settings**  
-✅ **Learn PowerShell for advanced M365 administration**  
 
----
-
-This Markdown file is **ready to copy-paste into Obsidian** for your **Microsoft 365 documentation** 🚀.
 
 
