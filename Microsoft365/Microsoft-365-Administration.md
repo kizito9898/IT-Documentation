@@ -21,7 +21,7 @@ Microsoft 365 is a **comprehensive suite** of productivity tools that helps **in
 ## ⚙️ **Microsoft 365 Admin Center**  
 The **Microsoft 365 Admin Center** is like a **Control Panel** for managing an organization's **Microsoft 365 subscription**.  
 
-🔹 It is a **web-based portal** where administrators can **manage various aspects of their organization’s Microsoft 365 environment like**
+🔹 It is a **web-based portal** where administrators can **manage various aspects of their organization’s Microsoft 365 environment like E**
 
 🔹 **Think of it as:**  
 ✅ The **central hub** for **Microsoft 365 administration**  
