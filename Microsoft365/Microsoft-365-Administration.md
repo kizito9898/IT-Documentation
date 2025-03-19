@@ -41,7 +41,3 @@ The **Microsoft 365 Admin Center** is primarily used by:
 
 
 
-
-
-
-![[screenshot1.jpg]
