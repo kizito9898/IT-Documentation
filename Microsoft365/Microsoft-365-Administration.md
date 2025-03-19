@@ -41,4 +41,4 @@ The **Microsoft 365 Admin Center** is primarily used by:
 
 
 
-
+![[DOC1.jpg]]
