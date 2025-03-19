@@ -40,4 +40,5 @@ The **Microsoft 365 Admin Center** is primarily used by:
 **Below is a Screenshot of my Dashboard**
 
 
-![[IT-DOCUMENTATION/Microsoft365/screenshot1.jpg]]
+
+![Screenshot](IT-DOCUMENTATION/Microsoft365/screenshot1.jpg)
