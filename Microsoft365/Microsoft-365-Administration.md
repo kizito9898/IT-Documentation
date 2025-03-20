@@ -86,7 +86,7 @@ The **Microsoft 365 Admin Center** is a web-based portal used by IT administrato
 1. Go to **Users > Active users**  
 2. Click **Multi-factor authentication**  
 3. Select the user and enable MFA  
-4. The user will be required to set up MFA on their next login  
+4. The user will be required to set up MFA on their next login with their Device.
 
 ---
 
