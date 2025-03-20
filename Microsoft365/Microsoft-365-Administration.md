@@ -212,7 +212,7 @@ The **Microsoft 365 Admin Center** is a web-based portal used by IT administrato
      - The method depends on whether you want to add a **personal contact** or a **global contact** for the organization.
 
 ---
-## 📌 Summary  
+##  Summary  
 - **Microsoft 365 Admin Center** is the central hub for managing users, devices, and groups.  
 - **User management** involves creating, deleting, and restoring accounts, managing licenses, and troubleshooting login issues.  
 - **Groups & Teams** help organize communication and collaboration through Microsoft 365 Groups, shared mailboxes, and Teams.  
