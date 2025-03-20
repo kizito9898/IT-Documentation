@@ -219,9 +219,6 @@ The **Microsoft 365 Admin Center** is a web-based portal used by IT administrato
 
 ---
 
-This markdown format is structured and easy to use in Obsidian for quick reference. Let me know if you need any modifications!
-
-
 **Below is a Screenshot of my Dashboard**
 
 
