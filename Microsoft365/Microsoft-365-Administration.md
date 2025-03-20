@@ -211,9 +211,7 @@ The **Microsoft 365 Admin Center** is a web-based portal used by IT administrato
   3. Add a contact in **Microsoft 365 Admin Center, Exchange Admin Center, or Outlook Web**.  
      - The method depends on whether you want to add a **personal contact** or a **global contact** for the organization.
 
-
-
-
+---
 ## 📌 Summary  
 - **Microsoft 365 Admin Center** is the central hub for managing users, devices, and groups.  
 - **User management** involves creating, deleting, and restoring accounts, managing licenses, and troubleshooting login issues.  
