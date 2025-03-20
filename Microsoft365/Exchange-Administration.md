@@ -6,7 +6,7 @@ As a **IT Support** technician, you will handle tasks related to **user mailboxe
 
 ---
 
-## 📌 Key Responsibilities in Exchange Administration  
+## Key Responsibilities in Exchange Administration  
 
 ### 1️ Managing Recipients (Mailboxes, Groups, Contacts, and Resources)  
 - Create, modify, and delete **user mailboxes**.  
