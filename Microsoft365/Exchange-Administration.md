@@ -26,7 +26,7 @@ As a **IT Support** technician, you will handle tasks related to **user mailboxe
 
 ---
 
-### ** 1. How to Create a Shared Mailbox**  
+### ** 1. How to Create a Shared Mailbox**
 
 A **shared mailbox** allows multiple users to access and send emails from a single mailbox (e.g., `support@company.com`).  
 
