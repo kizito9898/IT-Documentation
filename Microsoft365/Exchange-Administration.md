@@ -34,7 +34,7 @@ A **shared mailbox** allows multiple users to access and send emails from a sing
 1. Go to **Exchange Admin Center**.  
 2. Navigate to **Recipients > Mailboxes**.  
 3. Click **Add Mailbox > Shared Mailbox**.  
-4. Enter a **name** (e.g., "Support Team") and **email address** (e.g., `support@company.com`).  
+4. Enter a **name** (e.g., "Procurement-Team") and **email address** (e.g., `support@company.com`).  
 5. Click **Create** and wait for the mailbox to be provisioned.  
 6. Assign users who should have access by clicking **Add Members**.  
 7. Click **Save**.  
