@@ -146,23 +146,3 @@ Exchange permissions are managed via **Admin Roles**.
 
 ---
 
-## 🔹 Additional Tasks for Level 1 IT Support in Exchange  
-
-- Reset a **user’s mailbox password** (via Microsoft 365 Admin Center).  
-- Troubleshoot **missing or delayed emails** using Message Trace.  
-- Enable or disable **Out-of-Office messages** for a user.  
-- Delegate **mailbox access** (give one user access to another’s mailbox).  
-- Manage **email forwarding rules** (forward emails to another user).  
-- Create and manage **email signatures** for users via transport rules.  
-
----
-
-## 🎯 Conclusion  
-
-As a **Level 1 IT Support** professional, you will manage email issues, configure mailboxes, track email deliveries, create groups, and apply mail flow rules.  
-
-For advanced tasks like **spam filtering, security policies, and retention policies**, these are typically handled by **Level 2 IT Support or Exchange Administrators**.  
-
-Would you like a **hands-on practice lab guide** for these tasks?  
-
----
