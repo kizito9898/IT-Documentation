@@ -146,9 +146,9 @@ Exchange permissions are managed via **Admin Roles**.
 
 ---
 
-# 📧 Exchange Admin Center - Email Forwarding & Delegate Access
+# Exchange Admin Center - Email Forwarding & Delegate Access
 
-## 📌 Introduction  
+##  Introduction  
 As an IT Support professional, you'll often need to configure **email forwarding** (to automatically send emails to another mailbox) or **delegate access** (allowing someone else to send or manage emails on behalf of a user). This guide walks you through both processes step by step.
 
 ---
