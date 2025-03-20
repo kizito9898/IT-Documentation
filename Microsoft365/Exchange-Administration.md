@@ -160,14 +160,13 @@ Email forwarding allows you to automatically send incoming emails from one mailb
 - Someone is transitioning to a new role.  
 - An executive needs their emails forwarded to an assistant.  
 
-###  How to Enable Email Forwarding  
-1. **Log in** to [Exchange Admin Center](https://admin.exchange.microsoft.com).  
-2. Go to **Recipients** > **Mailboxes**.  
-3. Click on the mailbox you want to configure.  
-4. Under **Mail Flow Settings**, click **Manage** next to **Email Forwarding**.  
-5. Toggle **“Forward all emails sent to this mailbox”** to **ON**.  
-6. Enter the recipient’s email address.    
-7. Click **Save**.  
+###  How to Enable Email Forwarding   
+1. Go to **Recipients** > **Mailboxes**.  
+2. Click on the mailbox you want to configure.  
+3. Under **Mail Flow Settings**, click **Manage** next to **Email Forwarding**.  
+4. Toggle **“Forward all emails sent to this mailbox”** to **ON**.  
+5. Enter the recipient’s email address.    
+6. Click **Save**.  
 
 ✅ Now, all incoming emails will be forwarded to the chosen address!  
 
