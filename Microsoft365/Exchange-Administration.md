@@ -155,21 +155,20 @@ As an IT Support professional, you'll often need to configure **email forwarding
 
 ## 📤 Email Forwarding in Exchange Admin Center  
 
-### 📌 What is Email Forwarding?  
+###  What is Email Forwarding?  
 Email forwarding allows you to automatically send incoming emails from one mailbox to another. This is useful when:  
 - A user is on vacation or leave.  
 - Someone is transitioning to a new role.  
 - An executive needs their emails forwarded to an assistant.  
 
-### 🛠️ How to Enable Email Forwarding  
+###  How to Enable Email Forwarding  
 1. **Log in** to [Exchange Admin Center](https://admin.exchange.microsoft.com).  
 2. Go to **Recipients** > **Mailboxes**.  
 3. Click on the mailbox you want to configure.  
 4. Under **Mail Flow Settings**, click **Manage** next to **Email Forwarding**.  
 5. Toggle **“Forward all emails sent to this mailbox”** to **ON**.  
-6. Enter the recipient’s email address.  
-7. (Optional) Enable **"Keep a copy of forwarded emails"** if needed.  
-8. Click **Save**.  
+6. Enter the recipient’s email address.    
+7. Click **Save**.  
 
 ✅ Now, all incoming emails will be forwarded to the chosen address!  
 
@@ -184,7 +183,7 @@ Email forwarding allows you to automatically send incoming emails from one mailb
 
 ## 👥 Delegate Access (Send As, Send on Behalf, Full Access)  
 
-### 📌 What is Delegate Access?  
+###  What is Delegate Access?  
 Delegate access lets a user **send, read, or fully manage another mailbox’s emails**. This is helpful when:  
 - An assistant needs to send emails on behalf of an executive.  
 - A shared mailbox requires multiple people to send and receive emails.  
