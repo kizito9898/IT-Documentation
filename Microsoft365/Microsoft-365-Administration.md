@@ -150,20 +150,6 @@ The **Microsoft 365 Admin Center** is a web-based portal used by IT administrato
 5. Select **Private** (for restricted access) or **Public** (anyone can join)  
 6. Name your team and add members  
 
-#### **Common Teams Issues & Fixes**  
-| Issue | Solution |
-|-------|----------|
-| User can't sign in | Ensure they have a valid Microsoft 365 license with Teams enabled |
-| Calls/meetings not working | Check device settings & permissions, update Teams app |
-| User can't join a meeting | Ensure meeting link is valid and network connectivity is stable |
-| Team not appearing | Confirm user is added to the correct group in **Teams Admin Center** |
-
----
-
-## 📌 Summary  
-- **Microsoft 365 Admin Center** is the central hub for managing users, devices, and groups.  
-- **User management** involves creating, deleting, and restoring accounts, managing licenses, and troubleshooting login issues.  
-- **Groups & Teams** help organize communication and collaboration through Microsoft 365 Groups, shared mailboxes, and Teams.  
 
 ---
 
