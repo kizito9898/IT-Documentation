@@ -43,6 +43,7 @@ A **shared mailbox** allows multiple users to access and send emails from a sing
 
 ---
 
+
 ###  2. How to Create a Group (Distribution List & Microsoft 365 Group)
 
 Groups allow multiple users to receive emails sent to a single email address.  
