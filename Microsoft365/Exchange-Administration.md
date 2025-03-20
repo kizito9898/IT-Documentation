@@ -43,7 +43,7 @@ A **shared mailbox** allows multiple users to access and send emails from a sing
 
 ---
 
-### ** 2. How to Create a Group (Distribution List & Microsoft 365 Group)
+###  2. How to Create a Group (Distribution List & Microsoft 365 Group)
 
 Groups allow multiple users to receive emails sent to a single email address.  
 
@@ -221,6 +221,6 @@ Delegate access lets a user **send, read, or fully manage another mailbox’s em
 ✅ **Delegate access isn’t working?**  
 - If the user can't send emails as the owner, ensure **Send As** permission is set.  
 - If emails appear as "on behalf of" instead of directly from the sender, check **Send As vs. Send on Behalf** permissions.  
-- Allow time for changes to sync across Microsoft 365 (can take up to **1 hour**).  
+- Allow time for changes to sync across Microsoft 365 (can take up to **1 hour** according to microsft).  
 
 ---  
