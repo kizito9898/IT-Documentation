@@ -28,13 +28,13 @@ As a **IT Support** technician, you will handle tasks related to **user mailboxe
 
 ### 1. How to Create a Shared Mailbox
 
-A **shared mailbox** allows multiple users to access and send emails from a single mailbox (e.g., `Nji`).  
+A **shared mailbox** allows multiple users to access and send emails from a single mailbox (e.g., `Njikason`).  
 
 #### **Steps:**  
 1. Go to **Exchange Admin Center**.  
 2. Navigate to **Recipients > Mailboxes**.  
 3. Click **Add Mailbox > Shared Mailbox**.  
-4. Enter a **name** (e.g., "Procurement-Team") and **email address** (e.g., `support@company.com`).  
+4. Enter a **name** (e.g., "Procurement-Team") and **email address** (e.g., `Procure).  
 5. Click **Create** and wait for the mailbox to be provisioned.  
 6. Assign users who should have access by clicking **Add Members**.  
 7. Click **Save**.  
