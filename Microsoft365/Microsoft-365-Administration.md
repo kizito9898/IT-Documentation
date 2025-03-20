@@ -1,41 +1,177 @@
-# Microsoft 365 (M365) Overview  
 
-## 📌 What is Microsoft 365?  
-Microsoft 365 (M365) is a **cloud-based subscription service** that offers a suite of applications and services.  
+---
+# Microsoft 365 Documentation
 
-It includes familiar desktop applications such as:  
-- **Word**, **Excel**, **PowerPoint**, and **Outlook**  
-- **Online services** like **email, cloud storage, and collaboration tools**  
+## 1. Overview & Definitions
 
-### 🔑 **Key Features**  
-- **Cloud-based**: Access from anywhere  
-- **Subscription Service**: Regular updates  
-- **Always up-to-date**: Latest features & security patches  
-- **Collaboration tools**: Teams, SharePoint, OneDrive  
-- **Storage & Multiple Devices**: Work across different devices  
+### What is Microsoft 365?  
+Microsoft 365 is a **cloud-based suite of productivity and security tools** offered by Microsoft. It includes **Office apps, cloud storage, email, collaboration tools, and security features** to help businesses manage their IT infrastructure.
 
-Microsoft 365 is a **comprehensive suite** of productivity tools that helps **individuals & organizations work efficiently and effectively**.  
+### Key Components of Microsoft 365  
+- **Exchange Online** – Cloud-based email hosting and management.  
+- **SharePoint Online** – Document storage, intranet, and collaboration platform.  
+- **Microsoft Teams** – Chat, video conferencing, and team collaboration tool.  
+- **Microsoft Intune** – Device and application management (MDM/MAM).  
+- **OneDrive for Business** – Personal cloud storage for users.  
+- **Azure AD (Entra ID)** – Identity and access management (IAM).  
+
+### Role of Microsoft 365 Admin Center  
+The **Microsoft 365 Admin Center** is a web-based portal used by IT administrators to:  
+- **Manage users and groups**  
+- **Assign licenses and subscriptions**  
+- **Monitor service health and security**  
+- **Configure security and compliance settings**  
+- **Manage Microsoft 365 services like Exchange, SharePoint, and Teams**  
 
 ---
 
-## ⚙️ **Microsoft 365 Admin Center**  
-The **Microsoft 365 Admin Center** is like a **Control Panel** for managing an organization's **Microsoft 365 subscription**.  
+## 2. User Management  
 
-🔹 It is a **web-based portal** where administrators can **manage various aspects of their organization’s Microsoft 365 environment like Exchange, Teams admin, Sharepoint admins and Teams**
+### Creating, Deleting, and Restoring Users  
 
-🔹 **Think of it as:**  
-✅ The **central hub** for **Microsoft 365 administration**  
-✅ Handles **user & service management, billing, and subscriptions**  
+#### **Creating a New User in Microsoft 365 Admin Center**  
+1. Go to **[Microsoft 365 Admin Center](https://admin.microsoft.com/)**  
+2. Navigate to **Users > Active users**  
+3. Click **Add a user**  
+4. Fill in user details:  
+   - **Name**  
+   - **Username (email address)**  
+   - **Password (auto-generated or manual)**  
+   - **Assign a license** (Microsoft 365 Business Standard, E3, etc.)  
+   - **Set roles** (User, Admin)  
+5. Click **Add user**  
 
-### 🔹 **Who Uses It?**  
-The **Microsoft 365 Admin Center** is primarily used by:  
-- **IT Administrators**  
-- **Anyone responsible for managing their organization's Microsoft 365 environment**  
+#### **Deleting a User**  
+1. Go to **Users > Active users**  
+2. Select the user you want to delete  
+3. Click **Delete user**  
 
-> [!NOTE]  
-> IT admins use this portal to configure security, licenses, and user accounts.
+#### **Restoring a Deleted User**  
+1. Go to **Users > Deleted users**  
+2. Select the user you want to restore  
+3. Click **Restore user**  
+4. Assign a license (if required)  
 
 ---
+
+### Assigning and Managing Licenses  
+
+1. Go to **Users > Active users**  
+2. Click on a user’s name  
+3. Go to the **Licenses and apps** tab  
+4. Select the appropriate Microsoft 365 license (E3, Business Premium, etc.)  
+5. Click **Save changes**  
+
+#### **Bulk License Assignment**  
+1. Select multiple users  
+2. Click **Edit product licenses**  
+3. Choose a license and click **Save changes**  
+
+---
+
+### Resetting Passwords and MFA Setup  
+
+#### **Resetting a User’s Password**  
+1. Go to **Users > Active users**  
+2. Select the user  
+3. Click **Reset password**  
+4. Choose **Auto-generate** or enter a new password manually  
+5. Click **Reset** and notify the user  
+
+#### **Setting Up Multi-Factor Authentication (MFA)**  
+1. Go to **Users > Active users**  
+2. Click **Multi-factor authentication**  
+3. Select the user and enable MFA  
+4. The user will be required to set up MFA on their next login  
+
+---
+
+### Troubleshooting Login Issues  
+
+#### **1. User Can't Sign In (Incorrect Password / Forgot Password)**  
+- Reset the password via **Microsoft 365 Admin Center**  
+
+#### **2. Account Locked**  
+- Unlock via **Users > Active Users > Reset password**  
+- Check **Azure AD Sign-in logs** for failed attempts  
+
+#### **3. MFA Issues (User Lost Access to Authenticator App)**  
+- Disable and re-enable MFA for the user  
+- Provide a temporary password and instruct them to reconfigure MFA  
+
+---
+
+## 3. Microsoft 365 Groups & Teams  
+
+### Creating and Managing Microsoft 365 Groups  
+
+#### **Creating a Microsoft 365 Group**  
+1. Go to **Microsoft 365 Admin Center**  
+2. Navigate to **Teams & Groups > Active teams & groups**  
+3. Click **Add a group**  
+4. Choose **Microsoft 365 Group** and click **Next**  
+5. Enter a **Group Name** and **Email Address**  
+6. Assign **Group Owners** and **Members**  
+7. Click **Create group**  
+
+#### **Managing Group Membership**  
+- To add or remove members, go to **Teams & Groups > Active teams & groups**  
+- Select the group and click **Members**  
+- Add new members or remove existing ones  
+
+---
+
+### Shared Mailboxes vs. Distribution Lists vs. Security Groups  
+
+| Feature               | Shared Mailbox | Distribution List | Security Group |
+|----------------------|---------------|------------------|---------------|
+| **Purpose**          | Shared email access | Email forwarding | Security permissions |
+| **Needs License?**   | ❌ No         | ❌ No            | ❌ No        |
+| **Can Send Emails?** | ✅ Yes         | ❌ No            | ❌ No        |
+| **User Management**  | Members added via Admin Center | Users added via Exchange Admin | Managed in Azure AD |
+
+#### **Creating a Shared Mailbox**  
+1. Go to **Microsoft 365 Admin Center**  
+2. Navigate to **Teams & Groups > Shared mailboxes**  
+3. Click **Add a shared mailbox**  
+4. Enter **Mailbox Name** and **Email Address**  
+5. Assign **Members** who can send/receive emails  
+6. Click **Save**  
+
+---
+
+### Microsoft Teams Setup and Troubleshooting  
+
+#### **Setting Up a Microsoft Teams Group**  
+1. Open **Microsoft Teams**  
+2. Click **Teams > Join or create a team**  
+3. Click **Create a team**  
+4. Choose **From scratch** or **From an existing group**  
+5. Select **Private** (for restricted access) or **Public** (anyone can join)  
+6. Name your team and add members  
+
+#### **Common Teams Issues & Fixes**  
+| Issue | Solution |
+|-------|----------|
+| User can't sign in | Ensure they have a valid Microsoft 365 license with Teams enabled |
+| Calls/meetings not working | Check device settings & permissions, update Teams app |
+| User can't join a meeting | Ensure meeting link is valid and network connectivity is stable |
+| Team not appearing | Confirm user is added to the correct group in **Teams Admin Center** |
+
+---
+
+## 📌 Summary  
+- **Microsoft 365 Admin Center** is the central hub for managing users, devices, and groups.  
+- **User management** involves creating, deleting, and restoring accounts, managing licenses, and troubleshooting login issues.  
+- **Groups & Teams** help organize communication and collaboration through Microsoft 365 Groups, shared mailboxes, and Teams.  
+
+---
+
+### **Next Steps**
+- Document **Exchange Online administration**  
+- Explore **Intune device management**  
+- Practice **PowerShell for Microsoft 365**  
+
 
 **Below is a Screenshot of my Dashboard**
 
