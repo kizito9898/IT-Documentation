@@ -88,7 +88,7 @@ A **resource mailbox** is used to schedule **meeting rooms or equipment**.
 1. Go to **Mail Flow > Message Trace**.  
 2. Click **Start a Trace**.  
 3. Enter the **sender or recipient email address**.  
-4. Select a **time range** (e.g., last 24 hours).  
+4. Select a **time range** (e.g., last 7 Days).  
 5. Click **Search**.  
 6. Review the results:  
    - **Delivered** – The email was successfully sent.  
