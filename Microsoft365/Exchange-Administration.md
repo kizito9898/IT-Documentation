@@ -42,7 +42,7 @@ A **shared mailbox** allows multiple users to access and send emails from a sing
 ✅ **Users can now access this shared mailbox in Outlook under "Shared Mailboxes."**  
 
 ---
-![Screenshot]()
+![Screenshot](images/screenshot11.jpg)
 
 ###  2. How to Create a Group (Distribution List & Microsoft 365 Group)
 
