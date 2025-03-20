@@ -17,12 +17,7 @@ As a **IT Support** technician, you will handle tasks related to **user mailboxe
 ### 2️⃣ Mail Flow Management  
 - Configure **mail transport rules** (to filter or route emails).  
 - Manage **email connectors** (inbound and outbound).  
-- Monitor **email queues** and troubleshoot undelivered emails.  
-
-### 3️⃣ Security & Compliance  
-- Apply **anti-spam and anti-malware** policies.  
-- Manage **email retention and archiving** policies.  
-- Configure **email encryption and security settings**.  
+- Monitor **email queues** and troubleshoot undelivered emails.   
 
 ### 4️⃣ Message Tracking & Troubleshooting  
 - Use **Message Trace** to investigate email delivery issues.  
@@ -30,8 +25,6 @@ As a **IT Support** technician, you will handle tasks related to **user mailboxe
 - Monitor **alerts and audit logs** for compliance.  
 
 ---
-
-## ⚙️ Step-by-Step Tasks for Level 1 IT Support in Exchange Admin Center  
 
 ### **📍 1. How to Create a Shared Mailbox**  
 
