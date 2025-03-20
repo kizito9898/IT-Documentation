@@ -66,6 +66,7 @@ Groups allow multiple users to receive emails sent to a single email address.
 
 ---
 
+
 ### **3. How to Manage Resources (Meeting Rooms & Equipment Mailboxes)**
 
 A **resource mailbox** is used to schedule **meeting rooms or equipment**.  
