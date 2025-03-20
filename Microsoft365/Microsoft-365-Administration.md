@@ -42,10 +42,7 @@ The **Microsoft 365 Admin Center** is a web-based portal used by IT administrato
 5. Click **Add user**  
 ---
 
-![Screenshot](images/screenshot1.jpg)
-
-
-
+![Screenshot](images/screenshot4.jpg)
 #### **Deleting a User**  
 1. Go to **Users > Active users**  
 2. Select the user you want to delete  
