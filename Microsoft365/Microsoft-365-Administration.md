@@ -110,7 +110,7 @@ The **Microsoft 365 Admin Center** is a web-based portal used by IT administrato
 ### Creating and Managing Microsoft 365 Groups  
 
 #### **Creating a Microsoft 365 Group**  
-1. Go to **Microsoft 365 Admin Center**  
+1. Go to **Microsoft 365 Admin Center**/**microsoft  
 2. Navigate to **Teams & Groups > Active teams & groups**  
 3. Click **Add a group**  
 4. Choose **Microsoft 365 Group** and click **Next**  
@@ -118,7 +118,7 @@ The **Microsoft 365 Admin Center** is a web-based portal used by IT administrato
 6. Assign **Group Owners** and **Members**  
 7. Click **Create group**  
 
-![Screenshot](images/screenshot)
+![Screenshot](images/screenshot9.jpg)
 #### **Managing Group Membership**  
 - To add or remove members, go to **Teams & Groups > Active teams & groups**  
 - Select the group and click **Members**  
