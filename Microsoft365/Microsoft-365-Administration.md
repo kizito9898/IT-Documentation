@@ -15,6 +15,7 @@ Microsoft 365 is a **cloud-based suite of productivity and security tools** offe
 - **OneDrive for Business** – Personal cloud storage for users.  
 - **Azure AD (Entra ID)** – Identity and access management (IAM).  
 
+![Screenshot](images/screenshot1.jpg)
 ### Role of Microsoft 365 Admin Center  
 The **Microsoft 365 Admin Center** is a web-based portal used by IT administrators to:  
 - **Manage users and groups**  
@@ -210,11 +211,5 @@ The **Microsoft 365 Admin Center** is a web-based portal used by IT administrato
   3. Add a contact in **Microsoft 365 Admin Center, Exchange Admin Center, or Outlook Web**.  
      - The method depends on whether you want to add a **personal contact** or a **global contact** for the organization.
 
----
-
-**Below is a Screenshot of my Dashboard**
-
-
-![Screenshot](images/screenshot1.jpg)
 
 
