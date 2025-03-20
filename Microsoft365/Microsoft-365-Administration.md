@@ -37,7 +37,7 @@ The **Microsoft 365 Admin Center** is a web-based portal used by IT administrato
    - **Name**  
    - **Username (email address)**  
    - **Password (auto-generated or manual)**  
-   - **Assign a license** (Microsoft 365 Business Standard, E3, etc.)  
+   - **Assign a license** (Microsoft 365 Business Premium, E3, etc.)  
    - **Set roles** (User, Admin)  
 5. Click **Add user**  
 
