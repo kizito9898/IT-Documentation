@@ -115,7 +115,7 @@ Mail Flow Rules control how emails are processed based on conditions (e.g., bloc
 
 ---
 
-### **📍 6. How to Manage Accepted & Remote Domains**  
+### ** 6. How to Manage Accepted & Remote Domains**  
 
 - **Accepted Domains**: Defines which domains Exchange should handle mail for.  
 - **Remote Domains**: Configures how emails are sent to external recipients.  
@@ -123,7 +123,7 @@ Mail Flow Rules control how emails are processed based on conditions (e.g., bloc
 #### **Steps to Add an Accepted Domain:**  
 1. Go to **Mail Flow > Accepted Domains**.  
 2. Click **+ Add Domain**.  
-3. Enter the **domain name** (e.g., `mycompany.com`).  
+3. Enter the **domain name** (e.g., `Njikason.onmicrosoft.com).  
 4. Select **Authoritative** (if this is your primary domain).  
 5. Click **Save**.  
 
