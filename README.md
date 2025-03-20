@@ -1,5 +1,5 @@
 
-# # Kizito's IT Mastery Repository  
+# Kizito's IT Mastery Repository  
 ## 📍 Personal Documentation of Hands-On IT Learning  
 
 The IT field is more than just solving technical issues—it's about **understanding systems, streamlining processes, delivering reliable solutions, and ensuring exceptional customer service**. I have been **deeply engaged in IT support, system administration, cloud technologies, and cybersecurity**, while also focusing on **providing excellent customer service and maintaining clear documentation through detailed ticket notes**.  
@@ -18,18 +18,18 @@ This is not just a collection of notes—it's a **personal IT knowledge base** b
 - [Group Policy Management](Windows/Group-Policy-Management.md)  
 
 ### 🔹 **Networking & Security**  
-- [Networking Troubleshooting](Network/Networking-Troubleshooting.md) 
+- [Networking Troubleshooting](Network/Networking-Troubleshooting.md)  
 - [DNS & DHCP Troubleshooting](Network/DNS-DHCP-Troubleshooting.md)  
 - [VPN Issues](Network/VPN-Issues.md)  
 - [Firewall Configurations](Network/Firewall-Configurations.md)  
-- [CrowdStrike Basics](Security/CrowdStrike-Basics.md)   
+- [CrowdStrike Basics](Security/CrowdStrike-Basics.md) 
 - [MFA & Security Best Practices](Security/MFA-Security-Practices.md)  
 - [Endpoint Security](Security/Endpoint-Security.md)  
 
 ### 🔹 **Microsoft 365: Deployment, Administration & Management**  
 - [Microsoft 365 Administration](Microsoft365/Microsoft-365-Administration.md) 
-- [Exchange Server](Microsoft365/Exchange-Server.md)  
-- [SharePoint Server](Microsoft365/SharePoint-Server.md)  
+- [Exchange Administration](Microsoft365/Exchange-Administration.md)  
+- [SharePoint Administration](Microsoft365/SharePoint-Administration.md)  
 - [Teams Administration](Microsoft365/Teams-Administration.md)  
 - [Microsoft 365 Deployment](Microsoft365/Microsoft-365-Deployment.md)  
 - [Microsoft 365 Security](Microsoft365/Microsoft-365-Security.md)  
@@ -39,8 +39,8 @@ This is not just a collection of notes—it's a **personal IT knowledge base** b
 - [Compliance Policies](Intune/Compliance-Policies.md)  
 - [App Deployment](Intune/App-Deployment.md)  
 - [Endpoint Security](Intune/Endpoint-Security.md)  
-- [MDM (Mobile Device Management)](Intune/MDM-Basics.md)  
-- [Intune Enrollment Troubleshooting](Intune/Enrollment-Troubleshooting.md)  
+- [MDM (Mobile Device Management)](Intune/MDM-Basics.md) 
+- [Intune Enrollment Troubleshooting](Intune/Enrollment-Troubleshooting.md) 
 
 ### 🔹 **Azure & Cloud Administration**  
 - [Azure Virtual Machines Setup](Azure/Virtual-Machines-Setup.md)  
@@ -70,7 +70,7 @@ This is not just a collection of notes—it's a **personal IT knowledge base** b
 - [Printer Issues](Troubleshooting/Printer-Issues.md)  
 - [Microsoft Teams Issues](Troubleshooting/Microsoft-Teams-Issues.md)  
 - [Outlook Issues](Troubleshooting/Outlook-Issues.md)  
-- [Wi-Fi Connection Issues](Troubleshooting/WiFi-Connection-Issues.md)  
+- [Wi-Fi Connection Issues](Troubleshooting/WiFi-Connection-Issues.md)   
 - [Domain Trust Relationship Failed](Troubleshooting/Domain-Trust-Relationship-Failed.md) 
 
 ---
@@ -83,4 +83,4 @@ This documentation is a **reflection of my IT journey**—not just theoretical k
 - **A structured approach to IT learning**, making it easy to reference solutions and best practices.  
 - **A growing knowledge base** that will continue to evolve as I advance in my IT career.  
 
-🚀 **This is my journey, my work, and my contribution to the IT community. For anyone looking to get into IT or struggling to start, I hope this documentation helps you venture into the world of IT.**  
+🚀 **This is my journey, my work, and my contribution to the IT community. For anyone looking to get into IT or struggling to start, I hope this documentation helps you venture into the world of IT.**
