@@ -206,6 +206,7 @@ Delegate access lets a user **send, read, or fully manage another mailbox’s em
 
 ✅ Now, the selected users have the required access!  
 
+
 ###  How to Remove Delegate Access  
 1. Navigate to **Mailbox Permissions** > **Manage mailbox delegation**.  
 2. Remove the user from **Send As, Send on Behalf, or Full Access**.  
