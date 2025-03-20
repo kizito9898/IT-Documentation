@@ -146,3 +146,94 @@ Exchange permissions are managed via **Admin Roles**.
 
 ---
 
+# 📧 Exchange Admin Center - Email Forwarding & Delegate Access
+
+## 📌 Introduction  
+As an IT Support professional, you'll often need to configure **email forwarding** (to automatically send emails to another mailbox) or **delegate access** (allowing someone else to send or manage emails on behalf of a user). This guide walks you through both processes step by step.
+
+---
+
+## 📤 Email Forwarding in Exchange Admin Center  
+
+### 📌 What is Email Forwarding?  
+Email forwarding allows you to automatically send incoming emails from one mailbox to another. This is useful when:  
+- A user is on vacation or leave.  
+- Someone is transitioning to a new role.  
+- An executive needs their emails forwarded to an assistant.  
+
+### 🛠️ How to Enable Email Forwarding  
+1. **Log in** to [Exchange Admin Center](https://admin.exchange.microsoft.com).  
+2. Go to **Recipients** > **Mailboxes**.  
+3. Click on the mailbox you want to configure.  
+4. Under **Mail Flow Settings**, click **Manage** next to **Email Forwarding**.  
+5. Toggle **“Forward all emails sent to this mailbox”** to **ON**.  
+6. Enter the recipient’s email address.  
+7. (Optional) Enable **"Keep a copy of forwarded emails"** if needed.  
+8. Click **Save**.  
+
+✅ Now, all incoming emails will be forwarded to the chosen address!  
+
+### 🔄 How to Disable Email Forwarding  
+1. Navigate to **Mail Flow Settings** > **Email Forwarding**.  
+2. Toggle the forwarding option **OFF**.  
+3. Click **Save**.  
+
+💡 **Tip:** If forwarding isn’t working, check if there's an Exchange transport rule overriding the setting.
+
+---
+
+## 👥 Delegate Access (Send As, Send on Behalf, Full Access)  
+
+### 📌 What is Delegate Access?  
+Delegate access lets a user **send, read, or fully manage another mailbox’s emails**. This is helpful when:  
+- An assistant needs to send emails on behalf of an executive.  
+- A shared mailbox requires multiple people to send and receive emails.  
+- A user temporarily needs access to another mailbox.  
+
+### 🔍 Types of Delegate Access  
+- **Send on Behalf:** The delegate can send emails on behalf of the mailbox owner. The recipient sees: `Sent on behalf of [Owner Name]`.  
+- **Send As:** The delegate can send emails that appear to come directly from the owner. No "on behalf" label.  
+- **Full Access:** The delegate can **open, read, delete, and manage** all emails in the mailbox.  
+
+### 🛠️ How to Assign Delegate Access  
+1. **Log in** to [Exchange Admin Center](https://admin.exchange.microsoft.com).  
+2. Go to **Recipients** > **Mailboxes**.  
+3. Click the mailbox that needs delegate access.  
+4. Scroll down to **Mailbox Permissions**.  
+5. Click **Manage mailbox delegation**.  
+6. Add users under:  
+   - **Send As** (if they should send emails as the mailbox owner).  
+   - **Send on Behalf** (if emails should show "on behalf of").  
+   - **Full Access** (if they need full control).  
+7. Click **Save**.  
+
+✅ Now, the selected users have the required access!  
+
+### 🛑 How to Remove Delegate Access  
+1. Navigate to **Mailbox Permissions** > **Manage mailbox delegation**.  
+2. Remove the user from **Send As, Send on Behalf, or Full Access**.  
+3. Click **Save**.  
+
+💡 **Pro Tip:** For shared mailboxes, permissions can also be managed via **Microsoft 365 Admin Center** under **Teams & Groups > Shared Mailboxes**.
+
+---
+
+## 🔎 Troubleshooting Tips  
+✅ **Email forwarding isn’t working?**  
+- Check if there’s a conflicting **mail flow rule** in **Exchange Admin Center > Mail Flow > Rules**.  
+- Ensure the forwarding user’s mailbox isn’t full.  
+- Verify the correct recipient email was added.  
+
+✅ **Delegate access isn’t working?**  
+- If the user can't send emails as the owner, ensure **Send As** permission is set.  
+- If emails appear as "on behalf of" instead of directly from the sender, check **Send As vs. Send on Behalf** permissions.  
+- Allow time for changes to sync across Microsoft 365 (can take up to **1 hour**).  
+
+---
+
+## 🎯 Summary  
+🔹 **Email Forwarding** sends all incoming emails to another mailbox.  
+🔹 **Delegate Access** allows a user to send, read, or manage emails on behalf of another mailbox.  
+🔹 Use **Send As, Send on Behalf, and Full Access** depending on access needs.  
+
+🎉 That’s it! Now you’re set to handle these tasks like a pro! 🚀  
