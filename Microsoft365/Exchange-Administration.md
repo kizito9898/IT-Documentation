@@ -8,18 +8,18 @@ As a **IT Support** technician, you will handle tasks related to **user mailboxe
 
 ## 📌 Key Responsibilities in Exchange Administration  
 
-### 1️⃣ Managing Recipients (Mailboxes, Groups, Contacts, and Resources)  
+### 1️ Managing Recipients (Mailboxes, Groups, Contacts, and Resources)  
 - Create, modify, and delete **user mailboxes**.  
 - Manage **shared mailboxes** and **distribution groups**.  
 - Configure **resource mailboxes** for meeting rooms and equipment.  
 - Create **mail contacts** for external users.  
 
-### 2️⃣ Mail Flow Management  
+### 2️ Mail Flow Management  
 - Configure **mail transport rules** (to filter or route emails).  
 - Manage **email connectors** (inbound and outbound).  
 - Monitor **email queues** and troubleshoot undelivered emails.   
 
-### 4️⃣ Message Tracking & Troubleshooting  
+### 3 Message Tracking & Troubleshooting  
 - Use **Message Trace** to investigate email delivery issues.  
 - Check **Remote Domains & Accepted Domains** for external email communication.  
 - Monitor **alerts and audit logs** for compliance.  
