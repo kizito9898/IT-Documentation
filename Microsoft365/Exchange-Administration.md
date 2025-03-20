@@ -170,7 +170,7 @@ Email forwarding allows you to automatically send incoming emails from one mailb
 
 ✅ Now, all incoming emails will be forwarded to the chosen address!  
 
-### 🔄 How to Disable Email Forwarding  
+### How to Disable Email Forwarding  
 1. Navigate to **Mail Flow Settings** > **Email Forwarding**.  
 2. Toggle the forwarding option **OFF**.  
 3. Click **Save**.  
