@@ -126,12 +126,12 @@ The **Microsoft 365 Admin Center** is a web-based portal used by IT administrato
 
 ### Shared Mailboxes vs. Distribution Lists vs. Security Groups  
 
-| Feature               | Shared Mailbox | Distribution List | Security Group |
-|----------------------|---------------|------------------|---------------|
-| **Purpose**          | Shared email access | Email forwarding | Security permissions |
-| **Needs License?**   | ❌ No         | ❌ No            | ❌ No        |
-| **Can Send Emails?** | ✅ Yes         | ❌ No            | ❌ No        |
-| **User Management**  | Members added via Admin Center | Users added via Exchange Admin | Managed in Azure AD |
+| Feature              | Shared Mailbox                 | Distribution List              | Security Group       |
+| -------------------- | ------------------------------ | ------------------------------ | -------------------- |
+| **Purpose**          | Shared email access            | Email forwarding               | Security permissions |
+| **Needs License?**   | ❌ No                           | ❌ No                           | ❌ No                 |
+| **Can Send Emails?** | ✅ Yes                          | ❌ No                           | ❌ No                 |
+| **User Management**  | Members added via Admin Center | Users added via Exchange Admin | Managed in Azure AD  |
 
 #### **Creating a Shared Mailbox**  
 1. Go to **Microsoft 365 Admin Center**  
