@@ -115,7 +115,7 @@ Mail Flow Rules control how emails are processed based on conditions (e.g., bloc
 
 ---
 
-### ** 6. How to Manage Accepted & Remote Domains**  
+### **6. How to Manage Accepted & Remote Domains  
 
 - **Accepted Domains**: Defines which domains Exchange should handle mail for.  
 - **Remote Domains**: Configures how emails are sent to external recipients.  
@@ -131,7 +131,7 @@ Mail Flow Rules control how emails are processed based on conditions (e.g., bloc
 
 ---
 
-### ** 7. How to Assign Exchange Admin Roles to Users**  
+### **7. How to Assign Exchange Admin Roles to Users**  
 
 Exchange permissions are managed via **Admin Roles**.  
 
