@@ -221,6 +221,6 @@ Delegate access lets a user **send, read, or fully manage another mailbox’s em
 ✅ **Delegate access isn’t working?**  
 - If the user can't send emails as the owner, ensure **Send As** permission is set.  
 - If emails appear as "on behalf of" instead of directly from the sender, check **Send As vs. Send on Behalf** permissions.  
-- Allow time for changes to sync across Microsoft 365 (can take up to **1 hour** according to microsft).  
+- Allow time for changes to sync across Microsoft 365 (can take up to **1 hour** according to Microsoft).  
 
 ---  
