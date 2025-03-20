@@ -60,12 +60,13 @@ Groups allow multiple users to receive emails sent to a single email address.
 2. Click **Add Group > Choose Microsoft 365 Group**.  
 3. Enter a **name, email, and description**.  
 4. Set **permissions** (Public or Private).  
-5. Click **Create**.  
+5. Click **Create**. 
+6. You
 
 ✅ **Now, emails sent to the group email address will be received by all members.**  
 
 ---
-![sc]
+![Screenshot](images/screenshot12.jpg)
 
 ### **3. How to Manage Resources (Meeting Rooms & Equipment Mailboxes)**
 
