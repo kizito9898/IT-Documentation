@@ -210,12 +210,6 @@ The **Microsoft 365 Admin Center** is a web-based portal used by IT administrato
 
 ---
 
-## Additional Notes
-
-- **Shared Mailboxes vs. Distribution Lists vs. Security Groups**  
-  - Shared Mailbox: Used for team emails, no separate login required.  
-  - Distribution List: Sends emails to multiple users, no shared storage.  
-  - Security Group: Manages permissions and access across Microsoft 365.
 
 ---
 
