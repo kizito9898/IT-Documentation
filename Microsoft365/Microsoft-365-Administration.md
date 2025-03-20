@@ -40,6 +40,7 @@ The **Microsoft 365 Admin Center** is a web-based portal used by IT administrato
    - **Assign a license** (Microsoft 365 Business Premium, E3, etc.)  
    - **Set roles** (User, Admin)  
 5. Click **Add user**  
+---
 
 #### **Deleting a User**  
 1. Go to **Users > Active users**  
