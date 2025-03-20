@@ -167,11 +167,6 @@ The **Microsoft 365 Admin Center** is a web-based portal used by IT administrato
 
 ---
 
-### **Next Steps**
-- Document **Exchange Online administration**  
-- Explore **Intune device management**  
-- Practice **PowerShell for Microsoft 365**  
-
 
 **Below is a Screenshot of my Dashboard**
 
