@@ -175,8 +175,6 @@ Email forwarding allows you to automatically send incoming emails from one mailb
 2. Toggle the forwarding option **OFF**.  
 3. Click **Save**.  
 
-💡 **Tip:** If forwarding isn’t working, check if there's an Exchange transport rule overriding the setting.
-
 ---
 
 ## 👥 Delegate Access (Send As, Send on Behalf, Full Access)  
@@ -187,18 +185,17 @@ Delegate access lets a user **send, read, or fully manage another mailbox’s em
 - A shared mailbox requires multiple people to send and receive emails.  
 - A user temporarily needs access to another mailbox.  
 
-### 🔍 Types of Delegate Access  
+###  Types of Delegate Access  
 - **Send on Behalf:** The delegate can send emails on behalf of the mailbox owner. The recipient sees: `Sent on behalf of [Owner Name]`.  
 - **Send As:** The delegate can send emails that appear to come directly from the owner. No "on behalf" label.  
 - **Full Access:** The delegate can **open, read, delete, and manage** all emails in the mailbox.  
 
-###  How to Assign Delegate Access  
-1. **Log in** to [Exchange Admin Center](https://admin.exchange.microsoft.com).  
-2. Go to **Recipients** > **Mailboxes**.  
-3. Click the mailbox that needs delegate access.  
-4. Scroll down to **Mailbox Permissions**.  
-5. Click **Manage mailbox delegation**.  
-6. Add users under:  
+###  How to Assign Delegate Access   
+1. Go to **Recipients** > **Mailboxes**.  
+2. Click the mailbox that needs delegate access.  
+3. Scroll down to **Mailbox Permissions**.  
+4. Click **Manage mailbox delegation**.  
+5. Add users under:  
    - **Send As** (if they should send emails as the mailbox owner).  
    - **Send on Behalf** (if emails should show "on behalf of").  
    - **Full Access** (if they need full control).  
@@ -206,12 +203,12 @@ Delegate access lets a user **send, read, or fully manage another mailbox’s em
 
 ✅ Now, the selected users have the required access!  
 
-### 🛑 How to Remove Delegate Access  
+###  How to Remove Delegate Access  
 1. Navigate to **Mailbox Permissions** > **Manage mailbox delegation**.  
 2. Remove the user from **Send As, Send on Behalf, or Full Access**.  
 3. Click **Save**.  
 
-💡 **Pro Tip:** For shared mailboxes, permissions can also be managed via **Microsoft 365 Admin Center** under **Teams & Groups > Shared Mailboxes**.
+ **Pro Tip:** For shared mailboxes, permissions can also be managed via **Microsoft 365 Admin Center** under **Teams & Groups > Shared Mailboxes**.
 
 ---
 
