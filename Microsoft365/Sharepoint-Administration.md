@@ -25,8 +25,7 @@ A **SharePoint Admin** is responsible for managing SharePoint in an organization
 - **Monitoring Site Storage and Usage** – Ensuring storage limits are not exceeded.  
 - **Enforcing Security Policies** – Implementing restrictions like external sharing limits.  
 - **Troubleshooting Issues** – Resolving errors like missing files and access problems.  
-
-A S
+---
 
 # SharePoint Admin Guide for IT Support  
 
