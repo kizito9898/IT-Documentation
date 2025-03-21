@@ -93,7 +93,7 @@ Common SharePoint issues and how to fix them:
 ### OneDrive Sync Issues with SharePoint  
 Users may report that their OneDrive is not syncing properly with SharePoint.  
 
-![Screenshot]
+![Screenshot](images/screenshot23.jpg)
 #### **Fix OneDrive Sync Issues:**  
 1. **Restart OneDrive**  
    - Right-click the OneDrive icon in the system tray.  
