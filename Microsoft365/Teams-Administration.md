@@ -246,3 +246,151 @@ Microsoft Teams Administration involves:
 Save this document in **Obsidian** for quick reference.
 
 
+# Microsoft Teams Administration Guide  
+
+## 1️⃣ Introduction to Microsoft Teams  
+### What is Microsoft Teams?  
+Microsoft Teams is a collaboration and communication platform that integrates **chat, video meetings, file storage, and app integration** into a single workspace. It enables teams to **work efficiently** from anywhere.  
+
+### What is Microsoft Teams Administration?  
+Microsoft Teams administration involves managing Teams settings, users, security policies, and integrations within an organization. IT support plays a crucial role in ensuring Teams is **secure, efficient, and user-friendly**.  
+
+---
+
+## 2️⃣ Teams Admin Center Overview  
+The **Teams Admin Center** (TAC) is the web-based interface for managing Teams settings and configurations.  
+☑️ **Access it here:** [Teams Admin Center](https://admin.teams.microsoft.com/)  
+
+### Key Features:  
+- **Manage Users & Teams**  
+- **Configure Policies & Permissions**  
+- **Monitor Call Quality & Analytics**  
+- **Manage External & Guest Access**  
+- **Integrate Apps & Bots**  
+
+---
+
+## 3️⃣ Managing Teams  
+### ✔️ Create a Team  
+1. **Go to** **Teams Admin Center** → **Teams**  
+2. Click **"Add a team"**  
+3. Choose **"From scratch"** or **use a template**  
+4. Select **Privacy settings** (Public/Private)  
+5. Add **Team Owners & Members**  
+6. Click **"Create"** ✅  
+
+### ✔️ Delete a Team  
+1. **Go to** **Teams Admin Center** → **Teams**  
+2. Select the team you want to delete  
+3. Click **"Delete"**  
+
+### ✔️ Manage Teams  
+- Edit team **name, description, or settings**  
+- Set a **default channel**  
+- Enable/disable **guest access**  
+
+---
+
+## 4️⃣ Managing Channels  
+### ✔️ Add a Channel  
+1. **Go to** **Teams Admin Center** → **Teams**  
+2. Select a team → Click **"Add Channel"**  
+3. Enter a **name and description**  
+4. Choose **Privacy settings**  
+5. Click **"Add"** ✅  
+
+### ✔️ Manage Channels  
+- Rename or delete channels  
+- **Pin important channels** for visibility  
+- Set **moderation rules**  
+
+---
+
+## 5️⃣ Managing Users  
+### ✔️ Add Users to Teams  
+1. **Go to** **Teams Admin Center** → **Users**  
+2. Click **"Add a user"**  
+3. Enter the user’s email or name  
+4. Select their **role** (Member/Owner)  
+5. Click **"Save"** ✅  
+
+### ✔️ Manage Users  
+- Reset passwords  
+- Block or remove users  
+- Assign admin roles  
+
+---
+
+## 6️⃣ Guest & External Access  
+### ✔️ Enable Guest Access  
+1. **Go to** **Teams Admin Center** → **Users**  
+2. Select the user  
+3. Under **Guest Access**, enable the option  
+4. Click **"Save"** ✅  
+
+### ✔️ Enable External Access  
+1. **Go to** **Teams Admin Center** → **External Access**  
+2. Turn on **Allow external access**  
+3. Define allowed or blocked domains  
+4. Click **"Save"** ✅  
+
+---
+
+## 7️⃣ Teams Policies & Configuration  
+### ✔️ Configure Teams Policies  
+1. **Go to** **Teams Admin Center** → **Teams Policies**  
+2. Select a policy or create a new one  
+3. Define settings for **messaging, calling, and meetings**  
+4. Assign users or groups  
+5. Click **"Save"** ✅  
+
+---
+
+## 8️⃣ Teams Templates  
+### ✔️ Create & Apply a Template  
+1. **Go to** **Teams Admin Center** → **Teams Templates**  
+2. Select **"Create Template"**  
+3. Customize settings, channels, and permissions  
+4. Click **"Save"** ✅  
+
+---
+
+## 9️⃣ File Sharing & Collaboration  
+### ✔️ Enable File Sharing  
+1. **Go to** **Teams Admin Center** → **File Sharing Settings**  
+2. Set **OneDrive & SharePoint permissions**  
+3. Click **"Save"** ✅  
+
+### ✔️ Manage Collaboration Settings  
+- Enable **co-authoring**  
+- Allow **guest sharing**  
+- Restrict **sensitive file access**  
+
+---
+
+## 🔟 Meetings & Calls  
+### ✔️ Manage Meeting Settings  
+1. **Go to** **Teams Admin Center** → **Meetings**  
+2. Configure **recording, lobby, and chat settings**  
+3. Click **"Save"** ✅  
+
+### ✔️ Manage Calling Settings  
+1. **Go to** **Teams Admin Center** → **Voice**  
+2. Configure **call forwarding, voicemail, and caller ID**  
+3. Click **"Save"** ✅  
+
+---
+
+## 1️⃣1️⃣ Apps & Integrations  
+### ✔️ Add & Manage Apps  
+1. **Go to** **Teams Admin Center** → **Apps**  
+2. Browse or upload an app  
+3. Configure permissions  
+4. Click **"Save"** ✅  
+
+---
+
+## 📌 Conclusion  
+Microsoft Teams Administration ensures smooth collaboration and security within an organization. Regularly monitor settings, policies, and user activities for an **optimized experience**.  
+
+✅ **Use this guide in your daily IT support tasks to manage Teams effectively.**  
