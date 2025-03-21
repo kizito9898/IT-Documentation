@@ -43,6 +43,8 @@ As an IT support person, you may need to create and manage SharePoint sites.
 6. Click **"Finish"**, and the site will be created.  
 
 ![Screenshot](images/screenshot15.jpg)
+
+
 ### Manage Existing Sites  
 1. In the **SharePoint Admin Center**, go to **Sites > Active Sites**.  
 2. Find the site you want to manage.  
