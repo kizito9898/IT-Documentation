@@ -156,29 +156,11 @@ As an IT Helpdesk or 365 Administrator you can create accounts in Microsoft 365 
 
 ## Devices in Entra ID  
 
+
+
 Microsoft Entra ID (formerly Azure AD) provides centralized device management, allowing organizations to enforce security policies, monitor compliance, and manage device lifecycles.  
 
-### Key Features of Device Management  
 
-1. **Device Enrollment**  
-   - Devices can be registered or joined to Entra ID for identity-based access management.  
-   - Supports **Azure AD Registered**, **Azure AD Joined**, and **Hybrid Azure AD Joined** devices.  
-
-2. **Device Compliance**  
-   - Enforces policies to ensure devices meet security and compliance requirements.  
-   - Integration with **Microsoft Intune** enables policy enforcement, such as requiring BitLocker encryption or antivirus protection.  
-
-3. **Access Control**  
-   - Devices can be restricted using **Conditional Access Policies**, allowing access based on compliance status.  
-   - Organizations can block or limit access to noncompliant or unmanaged devices.  
-
-4. **Monitoring and Troubleshooting**  
-   - Provides logs for device sign-ins, compliance status, and configuration changes.  
-   - IT admins can remotely manage devices, collect diagnostics, and troubleshoot issues.  
-
-5. **Device Lifecycle Management**  
-   - Devices can be **retired, wiped, or deleted** based on organizational policies.  
-   - Supports **automatic device cleanup** for inactive or stale devices.  
 
 ### Managing Devices in Entra ID  
 
@@ -192,11 +174,7 @@ Microsoft Entra ID (formerly Azure AD) provides centralized device management, a
 - Regularly **review device compliance reports** to identify and address security risks.  
 - Implement **Conditional Access** to restrict access from noncompliant or unmanaged devices.  
 - Use **device cleanup policies** to remove stale or inactive devices.  
-- Integrate with **Microsoft Intune** for advanced device management and endpoint security.  
-
----
-
-This documentation provides an overview of how devices are managed in **Microsoft Entra I 
+- Integrate with **Microsoft Intune** for advanced device management and endpoint security. 
 
 
 ---
