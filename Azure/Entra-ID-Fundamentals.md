@@ -193,23 +193,20 @@ As an IT Helpdesk or 365 Administrator you can create accounts in Microsoft 365 
 
 ---
 
+## 2. Authentication Methods – Best Practices
 
----
-
-## 4. Authentication Methods – Best Practices
-
-### **4.1 Password Protection**
+### **2.1 Password Protection**
 - Use **at least 14 characters** with a mix of **uppercase, lowercase, numbers, and symbols**.
 - **Block weak passwords** with **Password Protection**:
   1. Go to **Microsoft Entra admin center** > **Security** > **Password Protection**.
   2. Enable **Enforce custom banned passwords**.
 
-### **4.2 Multi-Factor Authentication (MFA) Best Practices**
+### **2.2 Multi-Factor Authentication (MFA) Best Practices**
 - **Enforce MFA for all users** via **Security Defaults**.
 - **Use Microsoft Authenticator** instead of SMS (Best recommended practices)
 - **Enable passwordless authentication** (FIDO2 keys, Windows Hello).
 
-### **4.3 Authentication Strength Policy**
+### **2.3 Authentication Strength Policy**
 1. Go to **Microsoft Entra admin center** > **Security** > **Authentication Methods**.
 2. Enable:
    - **Passwordless sign-in** (FIDO2 security keys, Windows Hello).
