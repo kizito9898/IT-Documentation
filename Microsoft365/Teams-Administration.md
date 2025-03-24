@@ -36,7 +36,7 @@ To access the Teams Admin Center, go to [Microsoft Teams Admin Center](https://a
 4. Choose **Public** or **Private**.
 5. Enter a **Team Name** and **Description**.
 6. Click **Create** and add members if needed.
-![Screensh]
+![Screenshot](images/screenshot24.jpg)
 ### Delete a Team
 1. Go to **Teams Admin Center** > **Manage Teams**.
 2. Select the team to delete.
