@@ -23,7 +23,7 @@ The **Teams Admin Center** allows administrators to:
 - Integrate third-party applications.
 - Apply and enforce Teams policies.
 
-To access the Teams Admin Center, go to [Microsoft Teams Admin Center](https://admin.teams.microsoft.com).
+To access the Teams Admin Center, go to [Microsoft Teams Admin Center](https://admin.teams.microsoft.com)and click on Teams.
 
 ---
 
