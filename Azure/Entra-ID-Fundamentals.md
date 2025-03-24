@@ -172,13 +172,6 @@ As an IT Helpdesk or 365 Administrator you can create accounts in Microsoft 365 
 
 ## Conclusion
 
-Microsoft Entra ID is **essential** for managing users, security, and devices in an IT environment. As an IT admin, mastering **user management, MFA, Conditional Access, and device security** will help you support businesses effectively.
-
-**✅ Next Steps:**
-- Practice creating users and groups.
-- Set up MFA and Conditional Access.
-- Explore audit logs and security features.
-
 # Microsoft Entra ID (Azure AD) - Advanced IT Support Guide
 
 ## 1. Troubleshooting Entra ID Issues
