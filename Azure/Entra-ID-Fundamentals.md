@@ -14,7 +14,7 @@
 - **Device Management** – Enforces security policies on Windows, iOS, Android, and macOS devices
 
 ---
-
+![]
 ## 2. How to Create and Manage Users in Entra ID
 
 ### **2.1 Creating a New User**
@@ -141,9 +141,9 @@ Microsoft Entra ID (formerly Azure AD) provides centralized device management, a
 - **All Devices Dashboard**: Provides a list of all enrolled devices with their compliance and enrollment status.  
 - **Device Actions**: IT admins can perform actions such as **remote wipe, sync, restart, or password reset**.  
 - **Integration with Intune**: Devices managed in Entra ID can be linked with Intune for additional security policies and app management.  
-- **BitLocker and Security Policies**: Ensures data protection through encryption and security baselines.  
+- **BitLocker and Security Policies**: Ensures data protection through encryption and security baselines. 
 
-## Best Practices for Device Management  
+##  Device Management  
 
 - Regularly **review device compliance reports** to identify and address security risks.  
 - Implement **Conditional Access** to restrict access from noncompliant or unmanaged devices.  
