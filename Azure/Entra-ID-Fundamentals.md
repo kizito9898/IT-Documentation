@@ -28,7 +28,7 @@ As an IT Helpdesk or 365 Administrator you can create accounts in Microsoft 365 
 4. Enter the following details:
    - **User principal name (UPN)** (e.g., `James@Njikason.onmicrosoft.com)
    - **Name** (Full name of the user)
-   - **Password** (Auto-generated or create one for them)(allow them change password on )
+   - **Password** (Auto-generated or create one for them)(allow them change password on next login)
    - **Groups and Roles** (Assign permissions)
 5. Click **Create** to add the user.
 
