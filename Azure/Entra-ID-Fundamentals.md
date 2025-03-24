@@ -102,7 +102,7 @@ As an IT Helpdesk or 365 Administrator you can create a user account in Microsof
 
 ## 6. How to Enable Self-Service Password Reset (SSPR)
 
-1. Go to **Microsoft Entra admin center** > **Password reset**.
+1. Go to **Microsoft Entra admin center** > **Protection** 
 2. Click **Properties** > Enable **Self-service password reset** for:
    - **None** (Disabled)
    - **Selected users** (Choose specific groups)
