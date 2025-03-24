@@ -20,7 +20,7 @@
 ## 2. How to Create and Manage Users in Entra ID
 
 ### **2.1 Creating a New User**
-Follow these steps to add a new user in Microsoft Entra ID:
+As an IT Helpdesk or 365 Administrator you can c
 
 1. **Sign in** to the [Microsoft Entra admin center](https://entra.microsoft.com/).
 2. Navigate to **Users** > **All Users**.
