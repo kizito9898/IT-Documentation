@@ -20,13 +20,13 @@
 ## 2. How to Create and Manage Users in Entra ID
 
 ### **2.1 Creating a New User**
-As an IT Helpdesk or 365 Administrator you can create accounts in Microsoft 365 and Entra ID but you can't assign a license to user 
+As an IT Helpdesk or 365 Administrator you can create accounts in Microsoft 365 and Entra ID but you can't assign a license to user in Entra ID.
 
 1. **Sign in** to the [Microsoft Entra admin center](https://entra.microsoft.com/).
 2. Navigate to **Users** > **All Users**.
 3. Click **+ New user** > **Create user**.
 4. Enter the following details:
-   - **User principal name (UPN)** (e.g., `johndoe@yourdomain.com`)
+   - **User principal name (UPN)** (e.g., `James@Njikason.onmicrosoft.com)
    - **Name** (Full name of the user)
    - **Password** (Auto-generated or custom)
    - **Groups and Roles** (Assign permissions)
