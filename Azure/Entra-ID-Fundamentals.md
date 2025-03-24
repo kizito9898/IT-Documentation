@@ -306,11 +306,6 @@ As a Level 1 IT Support technician, **mastering Microsoft Entra ID troubleshooti
 4. **Knowing the basics of Conditional Access and Identity Protection**.
 5. **Providing excellent documentation in IT Glue or your ticketing system**.
 
-**✅ Next Steps:**
-- Practice **creating and managing users/groups** in a lab.
-- Simulate **MFA login issues** and troubleshoot.
-- Explore **Conditional Access and Identity Protection** settings.
-- Learn how to **document troubleshooting steps** professionally.
 
 ---
 
