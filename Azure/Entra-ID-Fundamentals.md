@@ -2,7 +2,7 @@
 
 ## 1. What is Microsoft Entra ID?
 
-**Microsoft Entra ID (formerly Azure Active Directory)** is a cloud-based identity and access management (IAM) service from Microsoft. It helps organizations manage **user identities, authentication, and security policies** for applications and devices in Microsoft 365 and Azure envi
+**Microsoft Entra ID (formerly Azure Active Directory)** is a cloud-based identity and access management (IAM) service from Microsoft. It helps organizations manage **user identities, authentication, and security policies** for applications and devices in Microsoft 365 and Azure environments.
 
 ### Key Uses of Entra ID:
 - **User Authentication** – Secure sign-in for Microsoft 365, Azure, and third-party apps.
