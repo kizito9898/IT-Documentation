@@ -30,6 +30,7 @@ As an IT Helpdesk or 365 Administrator you can create a user account in Microsof
    - **Groups and Roles** (Assign permissions)
 5. Click **Create** to add the user.
 
+![Screenshot](images/screenshot29.jpg)
 ### **2.2 Managing Users**
 - To **reset a password**, select the user > Click **Reset password**.
 - To **assign roles**, select the user > Click **Assigned roles** > Choose a role (e.g., Global Admin, User Admin).
