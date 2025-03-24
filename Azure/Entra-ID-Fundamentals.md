@@ -64,7 +64,7 @@ As an IT Helpdesk or 365 Administrator you can create accounts in Microsoft 365 
 - **Assign a group owner**: Select **Owners** > **+ Add owners** > Choose a user.
 - **Delete a group**: Open the group > Click **Delete group**.
 
-
+---
 ## 4. Configuring Multi-Factor Authentication (MFA)
 
 ### **4.1 Enforcing MFA for Users**
