@@ -14,7 +14,7 @@
 - **Device Management** – Enforces security policies on Windows, iOS, Android, and macOS devices
 
 ---
-![]
+![Screenshot](images/screenshot27.jpg)
 ## 2. How to Create and Manage Users in Entra ID
 
 ### **2.1 Creating a New User**
