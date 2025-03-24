@@ -164,7 +164,7 @@ Teams templates allow administrators to create predefined structures for teams.
 2. Click the **Files** tab.
 3. Click **Upload** and select a file.
 4. Click **Share** to set permissions.
-!
+![Screenshot](images/screenshot37.j)
 *Note:* File Sharing is the cloud alternative to network file sharing on windows server (share file/mapping drive)
 
 ---
