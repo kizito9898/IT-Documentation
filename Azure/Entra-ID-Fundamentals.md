@@ -271,19 +271,6 @@ Identity Protection helps detect and respond to security risks like:
 
 ---
 
-## 5. What to Focus on as Level 1 IT Support
-
-
-
-
-### **5.3 Important Things to Remember**
-- **Always check the sign-in logs first** when troubleshooting login issues.
-- **Resetting a password fixes most sign-in problems** (unless blocked by Conditional Access).
-- **MFA failures are common** – Always check if the user has the correct authentication method set up.
-- **Document every action you take** in the IT ticketing system (IT Glue, ConnectWise, etc.).
-
----
-
 ## Conclusion
 
 
