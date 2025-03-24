@@ -148,7 +148,7 @@ Teams templates allow administrators to create predefined structures for teams.
    - **Private**: Only selected members can access.  
    - **Shared**: Share with users outside the team.
 6. Click **Create**.
-![]
+![Screenshot](images/screenshot26.jpg)
 ### Delete a Channel
 1. In **Teams Admin Center**, go to **Manage Teams**.
 2. Select the team.
