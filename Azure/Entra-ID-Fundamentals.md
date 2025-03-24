@@ -170,12 +170,6 @@ As an IT Helpdesk or 365 Administrator you can create accounts in Microsoft 365 
 
 ---
 
-## Conclusion
-
-# Microsoft Entra ID (Azure AD) - Advanced IT Support Guide
-
-## 1. Troubleshooting Entra ID Issues
-
 ### **1.1 Common Entra ID Issues and Fixes**
 | Issue                                       | Cause                                            | Solution                                                                             |
 | ------------------------------------------- | ------------------------------------------------ | ------------------------------------------------------------------------------------ |
@@ -199,53 +193,6 @@ As an IT Helpdesk or 365 Administrator you can create accounts in Microsoft 365 
 
 ---
 
-## 2. Creating Groups in Microsoft Entra ID
-
-### **2.1 Microsoft 365 Groups vs. Security Groups vs. Dynamic Groups**
-| Group Type              | Purpose                                              |
-| ----------------------- | ---------------------------------------------------- |
-| **Microsoft 365 Group** | Used for collaboration (Teams, Outlook, SharePoint)  |
-| **Security Group**      | Used for permission control (Access to resources)    |
-| **Dynamic Group**       | Auto-assigns members based on user/device attributes |
-
-### **2.2 Creating a Microsoft 365 Group**
-1. Go to **Microsoft Entra admin center** > **Groups**.
-2. Click **+ New group**.
-3. Select **Group type**: **Microsoft 365**.
-4. Enter **Group name** and **Description**.
-5. Add **Owners** and **Members**.
-6. Click **Create**.
-
-### **2.3 Creating a Dynamic Group**
-1. Navigate to **Microsoft Entra admin center** > **Groups**.
-2. Click **+ New group**.
-3. Choose **Security** or **Microsoft 365 Group**.
-4. Under **Membership type**, select **Dynamic User** or **Dynamic Device**.
-5. Click **Add dynamic query**.
-6. Set rules (e.g., `department -eq "IT"` to add all IT users).
-7. Click **Create**.
-
----
-
-## 3. Identity Protection in Entra ID
-
-### **3.1 What is Microsoft Entra ID Identity Protection?**
-Identity Protection helps detect and respond to security risks like:
-- **Leaked credentials** – If a user’s credentials are found in a data breach.
-- **Unusual sign-in locations** – Flags risky logins from unknown locations.
-- **Impossible travel** – If a user logs in from Nigeria and the US within minutes.
-
-### **3.2 How to Monitor Identity Protection**
-1. Go to **Microsoft Entra admin center** > **Identity Protection**.
-2. Check:
-   - **Risky Users** – Users with suspicious activity.
-   - **Risky Sign-ins** – Logins flagged as high risk.
-   - **Risk Detections** – Alerts for suspicious activity.
-
-### **3.3 How to Respond to Identity Risks**
-- **Block risky sign-ins** using Conditional Access.
-- **Force password resets** for compromised users.
-- **Enable MFA** for high-risk users.
 
 ---
 
@@ -268,12 +215,6 @@ Identity Protection helps detect and respond to security risks like:
    - **Passwordless sign-in** (FIDO2 security keys, Windows Hello).
    - **Strong MFA enforcement** for admin accounts.
 3. Save the policy.
-
----
-
-## Conclusion
-
-
 
 ---
 
