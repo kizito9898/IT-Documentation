@@ -52,7 +52,7 @@ To access the Teams Admin Center, go to [Microsoft Teams Admin Center](https://a
 3. Click **+ Add User**.
 4. Enter the user's email or username.
 5. Assign roles and click **Save**.
-
+![Screenshot](images)
 ### Manage Existing Users
 1. In **Teams Admin Center**, go to **Users**.
 2. Select a user to manage their settings.
