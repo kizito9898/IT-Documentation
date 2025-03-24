@@ -75,7 +75,7 @@ As an IT Helpdesk or 365 Administrator you can create a user account in Microsof
 4. Instruct users to complete setup using:
    - Microsoft Authenticator App
    - Phone call or SMS verification
-
+![Screenshot](images/screenshot34.)
 ### **4.2 Enabling MFA for All Users (Security Defaults)**
 1. Navigate to **Microsoft Entra admin center** > **Properties**.
 2. Click **Manage security defaults**.
