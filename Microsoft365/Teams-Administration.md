@@ -113,26 +113,7 @@ Policies in Teams help enforce security and compliance.
 4. Assign the required policies.
 5. Click **Save**.
 
----
-
-## 8. Using Teams Templates
-
-Teams templates allow administrators to create predefined structures for teams.
-
-### Create a Team from a Template
-1. Open **Teams Admin Center**.
-2. Go to **Teams** > **Manage Teams**.
-3. Click **+ Add Team**.
-4. Select **Create from Template**.
-5. Choose a template that fits your needs.
-6. Configure settings and click **Create**.
-
-### Customize a Teams Template
-1. Open **Teams Admin Center**.
-2. Navigate to **Teams templates**.
-3. Select a template to edit.
-4. Modify channels, tabs, and settings.
-5. Click **Save**.
+-
 
 ---
 
@@ -148,7 +129,7 @@ Teams templates allow administrators to create predefined structures for teams.
    - **Private**: Only selected members can access.  
    - **Shared**: Share with users outside the team.
 6. Click **Create**.
-![Screenshot](images/screenshot26.jpg)
+
 ### Delete a Channel
 1. In **Teams Admin Center**, go to **Manage Teams**.
 2. Select the team.
