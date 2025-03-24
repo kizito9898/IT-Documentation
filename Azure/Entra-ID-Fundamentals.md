@@ -51,19 +51,13 @@ As an IT Helpdesk or 365 Administrator you can create accounts in Microsoft 365 
 5. Assign **members** (users, devices, or other groups).
 6. Click **Create**.
 
+
 ### **3.2 Managing Groups**
 - **Add or remove members**: Open the group > Click **Members** > **+ Add members** or **Remove members**.
 - **Assign a group owner**: Select **Owners** > **+ Add owners** > Choose a user.
 - **Delete a group**: Open the group > Click **Delete group**.
 
-### **2.3 Creating a Dynamic Group**
-1. Navigate to **Microsoft Entra admin center** > **Groups**.
-2. Click **+ New group**.
-3. Choose **Security** or **Microsoft 365 Group**.
-4. Under **Membership type**, select **Dynamic User** or **Dynamic Device**.
-5. Click **Add dynamic query**.
-6. Set rules (e.g., `department -eq "IT"` to add all IT users).
-7. Click **Create**.
+
 
 
 ---
