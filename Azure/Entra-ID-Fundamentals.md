@@ -66,7 +66,7 @@ As an IT Helpdesk or 365 Administrator you can create accounts in Microsoft 365 
 
 ---
 ## 4. Configuring Multi-Factor Authentication (MFA)
- 
+ - By Default you can also create Multi-Factor Authenti
 ### **4.1 Enforcing MFA for Users**
 1. Go to **Microsoft Entra admin center** > **Users**.
 2. Click **Per-user MFA** settings.
