@@ -44,7 +44,7 @@ This is not just a collection of notes—it's a **personal IT knowledge base** b
 
 ### 🔹 **Azure & Cloud Administration**  
 - [Azure Virtual Machines Setup](Azure/Virtual-Machines-Setup.md)  
-- [Azure Entra ID Basics](Azure/Entra-ID-Basics.md)
+- [Azure Entra ID Basics](Azure/Entra-ID.md)
 - [Azure Networking](Azure/Azure-Networking.md)  
 
 ### 🔹 **IT Support & Customer Service Best Practices**  
