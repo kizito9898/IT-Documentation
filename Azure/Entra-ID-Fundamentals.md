@@ -49,7 +49,7 @@ As an IT Helpdesk or 365 Administrator you can create a user account in Microsof
 4. Enter a **Group name** and **Description**.
 5. Assign **members** (users, devices, or other groups).
 6. Click **Create**.
-![Screenshot]()
+![Screenshot](images/screenshot31.jpg)
 ### Creating a Dynamic Group
 1. Navigate to **Microsoft Entra admin center** > **Groups**.
 2. Click **+ New group**.
