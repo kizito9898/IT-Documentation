@@ -229,6 +229,5 @@ Teams templates allow administrators to create predefined structures for teams.
 - **Limit Guest Access** to protect sensitive data.
 - **Use Private Channels** for restricted discussions.
 - **Regularly Audit Teams** to remove inactive users.
-- **Apply Naming Conventions** for better organization (`Dept-Project-Region`).
 
 ---
