@@ -152,22 +152,52 @@ As an IT Helpdesk or 365 Administrator you can create accounts in Microsoft 365 
 
 ---
 
-## 9. Device Management in Entra ID
+# Microsoft Entra ID – Devices Overview  
 
-### **9.1 Registering Devices**
-1. Navigate to **Microsoft Intune admin center** > **Devices**.
-2. Click **Enroll devices**.
-3. Select **Windows, macOS, iOS, or Android**.
-4. Follow the on-screen steps for enrollment.
+## Devices in Entra ID  
 
-### **9.2 Managing Device Compliance**
-1. Go to **Microsoft Intune admin center** > **Compliance policies**.
-2. Click **+ Create policy**.
-3. Select **OS type** (Windows, macOS, etc.).
-4. Set policies like:
-   - Require BitLocker encryption.
-   - Block jailbroken/rooted devices.
-5. Click **Create**.
+Microsoft Entra ID (formerly Azure AD) provides centralized device management, allowing organizations to enforce security policies, monitor compliance, and manage device lifecycles.  
+
+### Key Features of Device Management  
+
+1. **Device Enrollment**  
+   - Devices can be registered or joined to Entra ID for identity-based access management.  
+   - Supports **Azure AD Registered**, **Azure AD Joined**, and **Hybrid Azure AD Joined** devices.  
+
+2. **Device Compliance**  
+   - Enforces policies to ensure devices meet security and compliance requirements.  
+   - Integration with **Microsoft Intune** enables policy enforcement, such as requiring BitLocker encryption or antivirus protection.  
+
+3. **Access Control**  
+   - Devices can be restricted using **Conditional Access Policies**, allowing access based on compliance status.  
+   - Organizations can block or limit access to noncompliant or unmanaged devices.  
+
+4. **Monitoring and Troubleshooting**  
+   - Provides logs for device sign-ins, compliance status, and configuration changes.  
+   - IT admins can remotely manage devices, collect diagnostics, and troubleshoot issues.  
+
+5. **Device Lifecycle Management**  
+   - Devices can be **retired, wiped, or deleted** based on organizational policies.  
+   - Supports **automatic device cleanup** for inactive or stale devices.  
+
+### Managing Devices in Entra ID  
+
+- **All Devices Dashboard**: Provides a list of all enrolled devices with their compliance and enrollment status.  
+- **Device Actions**: IT admins can perform actions such as **remote wipe, sync, restart, or password reset**.  
+- **Integration with Intune**: Devices managed in Entra ID can be linked with Intune for additional security policies and app management.  
+- **BitLocker and Security Policies**: Ensures data protection through encryption and security baselines.  
+
+## Best Practices for Device Management  
+
+- Regularly **review device compliance reports** to identify and address security risks.  
+- Implement **Conditional Access** to restrict access from noncompliant or unmanaged devices.  
+- Use **device cleanup policies** to remove stale or inactive devices.  
+- Integrate with **Microsoft Intune** for advanced device management and endpoint security.  
+
+---
+
+This documentation provides an overview of how devices are managed in **Microsoft Entra I 
+
 
 ---
 
