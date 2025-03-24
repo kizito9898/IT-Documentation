@@ -132,24 +132,6 @@ As an IT Helpdesk or 365 Administrator you can create accounts in Microsoft 365 
 
 ---
 
-## 8. Role-Based Access Control (RBAC)
-
-### **8.1 Assigning Roles to Users**
-1. Go to **Microsoft Entra admin center** > **Roles and administrators**.
-2. Choose a **Role** (e.g., Global Admin, User Admin).
-3. Click **+ Add assignments**.
-4. Select a **user** and click **Assign**.
-
-### **8.2 Common Roles in Entra ID**
-| Role                       | Description                          |
-| -------------------------- | ------------------------------------ |
-| **Global Administrator**   | Full access to all settings          |
-| **User Administrator**     | Manages users and groups             |
-| **Security Administrator** | Manages security policies            |
-| **Helpdesk Administrator** | Resets passwords and manages tickets |
-
----
-
 ## Devices in Entra ID  
 
 Microsoft Entra ID (formerly Azure AD) provides centralized device management, allowing organizations to enforce security policies, monitor compliance, and manage device lifecycles.  
