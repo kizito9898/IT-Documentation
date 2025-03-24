@@ -259,7 +259,7 @@ Identity Protection helps detect and respond to security risks like:
 
 ### **4.2 Multi-Factor Authentication (MFA) Best Practices**
 - **Enforce MFA for all users** via **Security Defaults**.
-- **Use Microsoft Authenticator** instead of SMS (Best
+- **Use Microsoft Authenticator** instead of SMS (Best recommended practices)
 - **Enable passwordless authentication** (FIDO2 keys, Windows Hello).
 
 ### **4.3 Authentication Strength Policy**
