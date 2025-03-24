@@ -216,7 +216,7 @@ Teams templates allow administrators to create predefined structures for teams.
 #### Teams Not Loading
 - Clear the cache (`%appdata%\Microsoft\Teams\cache`).
 - Restart **Teams** and **PC**.
-- Check Microsoft 365 service status at [Service Health](https://portal.office.com/servicestatus).
+- Check Microsoft 365 service status at [Service Health](https://portal.office.com/servicestatu
 
 #### Audio/Video Issues in Meetings
 - Verify **Microphone and Camera settings** in Teams.
