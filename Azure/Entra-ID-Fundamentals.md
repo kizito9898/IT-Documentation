@@ -273,21 +273,8 @@ Identity Protection helps detect and respond to security risks like:
 
 ## 5. What to Focus on as Level 1 IT Support
 
-### **5.1 Key Responsibilities**
-| Area                                  | Tasks                                                    |
-| ------------------------------------- | -------------------------------------------------------- |
-| **User Account Management**           | Reset passwords, unlock accounts, assign licenses        |
-| **Troubleshooting Sign-In Issues**    | Check sign-in logs, resolve MFA problems                 |
-| **Managing Groups**                   | Add/remove users, create Microsoft 365 & Security Groups |
-| **MFA Configuration**                 | Enforce MFA, troubleshoot authentication problems        |
-| **Device Enrollment Support**         | Help users enroll devices in Intune                      |
-| **Basic Conditional Access Policies** | Review blocked sign-ins, modify policies if needed       |
 
-### **5.2 Key Tools You Must Learn**
-- **Microsoft Entra admin center** – User and group management.
-- **Microsoft Intune** – Device management and compliance.
-- **Azure Monitor & Logs** – Checking sign-in issues.
-- **Microsoft 365 Admin Center** – License assignments.
+
 
 ### **5.3 Important Things to Remember**
 - **Always check the sign-in logs first** when troubleshooting login issues.
@@ -299,12 +286,6 @@ Identity Protection helps detect and respond to security risks like:
 
 ## Conclusion
 
-As a Level 1 IT Support technician, **mastering Microsoft Entra ID troubleshooting, user management, MFA configuration, and group management** will help you **stand out**. Focus on:
-1. **Understanding user authentication issues** and **checking sign-in logs**.
-2. **Setting up MFA correctly** and **helping users with authentication problems**.
-3. **Creating and managing Microsoft 365 and Security Groups**.
-4. **Knowing the basics of Conditional Access and Identity Protection**.
-5. **Providing excellent documentation in IT Glue or your ticketing system**.
 
 
 ---
