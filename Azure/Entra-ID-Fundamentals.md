@@ -152,15 +152,9 @@ As an IT Helpdesk or 365 Administrator you can create accounts in Microsoft 365 
 
 ---
 
-# Microsoft Entra ID – Devices Overview  
-
 ## Devices in Entra ID  
 
-
-
 Microsoft Entra ID (formerly Azure AD) provides centralized device management, allowing organizations to enforce security policies, monitor compliance, and manage device lifecycles.  
-
-
 
 ### Managing Devices in Entra ID  
 
