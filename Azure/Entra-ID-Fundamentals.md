@@ -113,24 +113,6 @@ As an IT Helpdesk or 365 Administrator you can create a user account in Microsof
    - Security questions
 4. Click **Save**.
 
----
-
-## 7. Monitoring and Audit Logs
-
-### **7.1 Viewing Sign-In Logs**
-1. Navigate to **Microsoft Entra admin center** > **Sign-in logs**.
-2. Filter by **date, user, or application**.
-3. Click an event to view details like:
-   - IP address
-   - Login status (Success/Failure)
-   - MFA prompt (Yes/No)
-
-### **7.2 Viewing Audit Logs**
-1. Go to **Microsoft Entra admin center** > **Audit logs**.
-2. Check logs for:
-   - User creations, deletions, and modifications.
-   - Role assignments.
-   - Security policy changes.
 
 ---
 
