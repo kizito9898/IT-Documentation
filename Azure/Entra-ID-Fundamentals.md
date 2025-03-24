@@ -171,3 +171,4 @@ Microsoft Entra ID is **essential** for managing users, security, and devices in
 - Practice creating users and groups.
 - Set up MFA and Conditional Access.
 - Explore audit logs and security features.
+
