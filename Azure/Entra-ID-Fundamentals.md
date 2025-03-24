@@ -50,8 +50,7 @@ As an IT Helpdesk or 365 Administrator you can create accounts in Microsoft 365 
 4. Enter a **Group name** and **Description**.
 5. Assign **members** (users, devices, or other groups).
 6. Click **Create**.
-
-
+### **2.3 
 ### **3.2 Managing Groups**
 - **Add or remove members**: Open the group > Click **Members** > **+ Add members** or **Remove members**.
 - **Assign a group owner**: Select **Owners** > **+ Add owners** > Choose a user.
