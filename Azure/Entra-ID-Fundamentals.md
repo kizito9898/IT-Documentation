@@ -126,7 +126,7 @@ Microsoft Entra ID (formerly Azure AD) provides centralized device management, a
 - **Device Actions**: IT admins can perform actions such as **remote wipe, sync, restart, or password reset**.  
 - **Integration with Intune**: Devices managed in Entra ID can be linked with Intune for additional security policies and app management.  
 - **BitLocker and Security Policies**: Ensures data protection through encryption and security baselines. 
-
+![Screenshot](images/screenshot35.jpg)
 ##  Device Management  
 
 - Regularly **review device compliance reports** to identify and address security risks.  
