@@ -176,7 +176,7 @@ Microsoft Entra ID (formerly Azure AD) provides centralized device management, a
 
 ---
 
-## 2. Authentication Methods – Best Practices
+## 2. Authentication Methods – MFA
 
 ### **2.1 Password Protection**
 - Use **at least 14 characters** with a mix of **uppercase, lowercase, numbers, and symbols**.
