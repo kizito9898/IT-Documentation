@@ -113,7 +113,6 @@ Policies in Teams help enforce security and compliance.
 4. Assign the required policies.
 5. Click **Save**.
 
--
 
 ---
 
