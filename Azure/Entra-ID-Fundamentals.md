@@ -50,7 +50,7 @@ As an IT Helpdesk or 365 Administrator you can create accounts in Microsoft 365 
 4. Enter a **Group name** and **Description**.
 5. Assign **members** (users, devices, or other groups).
 6. Click **Create**.
-### **2.3 Creating a Dynamic Group**
+### Creating a Dynamic Group**
 1. Navigate to **Microsoft Entra admin center** > **Groups**.
 2. Click **+ New group**.
 3. Choose **Security** or **Microsoft 365 Group**.
