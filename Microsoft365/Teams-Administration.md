@@ -128,7 +128,7 @@ Policies in Teams help enforce security and compliance.
    - **Private**: Only selected members can access.  
    - **Shared**: Share with users outside the team.
 6. Click **Create**.
-
+![Screenshot](images/screenshot26)
 ### Delete a Channel
 1. In **Teams Admin Center**, go to **Manage Teams**.
 2. Select the team.
