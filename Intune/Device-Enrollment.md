@@ -10,7 +10,7 @@ Microsoft Intune is a cloud-based endpoint management solution that allows organ
 ### Devices Overview
 The **Devices** section in Intune provides a centralized dashboard displaying all managed devices. It allows IT administrators to monitor device compliance, onboard new devices, and manage existing ones.
 
-### Setting Up Basic Equipment to Manage Devices
+### Setting Up Base Equipment to Manage Devices
 1. **Devices Overview** → **Windows Devices** → Click on **Enrollment**.
 
 2. **Select Deployment Profiles** (Under **Windows Autopilot**)
