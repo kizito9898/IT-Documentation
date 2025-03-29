@@ -1,5 +1,4 @@
 
- 
 # Device Enrollment for Windows Machines
 
 ## Microsoft Intune and Admin Center
