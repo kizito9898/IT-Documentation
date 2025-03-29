@@ -1,36 +1,63 @@
 # Device Enrollment for Windows Machines
 
 ## What is Microsoft Intune?
-Microsoft Intune is a cloud-based endpoint management solution that allows organizations to manage and secure devices, applications, and data. It enables IT admins to enforce policies, deploy software, and ensure compliance across Windows, macOS, iOS, and Android devices. Intune is a key component of Microsoft Endpoint Manager.
+Microsoft Intune is a cloud-based endpoint management solution that allows organizations to manage and secure devices, applications, and data. It helps IT administrators enforce security policies, deploy software, and monitor device compliance across Windows, macOS, iOS, and Android devices.
+
+### Benefits of Microsoft Intune for Organizations:
+- **Device Management:** Allows IT teams to enroll, configure, and manage devices remotely.
+- **Application Deployment:** Enables secure deployment and management of business apps.
+- **Security & Compliance:** Enforces security policies like encryption, antivirus, and conditional access.
+- **Cloud Integration:** Works seamlessly with Microsoft 365, Azure AD, and Defender for Endpoint.
+- **BYOD Support:** Allows organizations to manage corporate data on personal devices securely.
 
 ---
 
 ## Microsoft Intune Admin Center
 
 ### Devices Overview
-The **Devices** section in Intune provides a centralized dashboard displaying all managed devices. It allows IT administrators to monitor device compliance, onboard new devices, and manage existing ones.
+1. Shows an overview of all devices.
+2. Displays device onboarding and management options.
+3. Provides insights into device info within Intune.
 
-### Setting Up Base Equipment to Manage Devices
-1. **Devices Overview** → **Windows Devices** → Click on **Enrollment**.
-
-2. **Select Deployment Profiles** (Under **Windows Autopilot**)
-   - **Windows Autopilot Deployment Profiles** → **Select Create Profile**
-   - **Windows PC** → Basics (Give it a Name/Description)
-
-3. **Convert All Targeted Devices to Autopilot**
-   - **YES** → Out-of-the-Box Experience (Deployment Mode: **Joined to Entra ID** or **Hybrid**, User Account: **Admin or Standard**, Allow Pre-Provisioned Deployment: **Yes/No**)
-   - **Assignments** (Add Groups + Add All Devices) → **Review & Create**.
+### Setting Up Basic Equipment to Manage Devices
+1. Go to **Devices Overview** → **Windows Devices**.
+2. Click on **Enrollment**.
 
 ---
 
-## Next Configurations
+## Deployment Profiles
 
-1. **Configurations** → **Create** → **New Policy** (Windows 10 and Later)
-2. **Profile Type** (Templates Name) → **Device Restrictions**
-3. Select the **Restrictions** you want to enforce and click **Next**.
-4. **Assignments** (Add Groups / All Users + Add All Devices) → **Review & Applicability**.
+### Creating a Deployment Profile
+1. Select **Deployment Profiles** under **Windows Autopilot**.
+2. Click **Create Profile**.
+   - **Platform:** Windows PC  
+   - **Profile Type:** Basics  
+   - **Name & Description:** Provide a descriptive name.
+
+### Configuration Options
+1. **Out-of-Box Experience (OOBE)**
+   - **Deployment Mode:** Join to Azure AD or Hybrid AD Join.
+   - **User Account Type:** Standard user or Administrator.
+   - **Pre-Provisioned Deployment (Windows Autopilot for pre-setup devices):** Yes/No.
+
+2. **Assignments**
+   - Add **Groups** → **All Devices**.
+
+3. Click **Review & Create** to finalize the setup.
 
 ---
 
-## Screenshot:
-![Device Enrollment Notes](attachment:<your_screenshot_filename>)
+## Next Configuration
+
+### Creating a Configuration Profile
+1. Go to **Configuration** → **Create** → **New Policy** (Includes Windows 10 and later).
+2. Choose **Profile Type** and enter a template name.
+3. Select **Device Restrictions** and configure desired restrictions.
+4. Click **Next**.
+5. **Assignments**
+   - Add **Groups/Users** → **All Devices**.
+6. Click **Apply & Deploy**.
+
+---
+
+This Markdown format is structured for easy readability in Obsidian. Let me know if you need any modifications!  
