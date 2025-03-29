@@ -99,3 +99,23 @@ Inside `C:\Chrome`
 - **Category:** Productivity
     
 - **Add a Logo:** (Select Image)
+
+## Step 2: Configure App Installation
+
+- **Install Program** (Options: Available, Uninstall: No)  
+- **Step 3: Requirements**  
+  - Operating System Architecture: 32-bit and 64-bit  
+  - Minimum Operating System: Windows 10, 20H2  
+
+- **Step 4: Detection Rules**  
+  - Rule Format: Manually configure detection rules  
+  - Add Rule Type: MSI and click OK  
+
+- **Step 5: Dependencies**  
+
+- **Step 6: Supersedence**  
+
+- **Step 7: Assignments**  
+  - Add all users  
+
+- **Step 8: Review + Create and Create**
