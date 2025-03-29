@@ -31,7 +31,7 @@
     
 - **Assignments (Add groups + Add all devices)** → **Rules & Create**
     
-
+![Screenshot]
 ## Next Configuration
 
 - **Configurations** → Create → New policy (**Windows 10 and later**) →
