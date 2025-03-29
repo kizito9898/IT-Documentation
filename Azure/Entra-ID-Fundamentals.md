@@ -63,7 +63,7 @@ As an IT Helpdesk or 365 Administrator you can create a user account in Microsof
 - **Add or remove members**: Open the group > Click **Members** > **+ Add members** or **Remove members**.
 - **Assign a group owner**: Select **Owners** > **+ Add owners** > Choose a user.
 - **Delete a group**: Open the group > Click **Delete group**.
-
+![Screenshot](scre)
 ---
 ## 4. Configuring Multi-Factor Authentication (MFA)
 
