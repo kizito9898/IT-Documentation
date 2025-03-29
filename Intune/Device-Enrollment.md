@@ -18,7 +18,7 @@
 
 - **Devices > Enroll devices > Windows devices** → Click on **Enroll** →
     
-
+![Screenshot](images/screenshot40)
 ## Select Deployment Profiles (Under Windows Autopilot)
 
 - **Windows Autopilot Deployment Profiles** → Select **Create Profile** →
