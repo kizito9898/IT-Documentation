@@ -43,6 +43,59 @@ Download **Google Chrome Enterprise** (Download the 64-bit `.msi` file).
 - Open **Command Prompt (CMD) as Administrator**.
 - Navigate to your working directory:
 
-```sh
+``sh
 cd C:\Chrome
- 
+
+## Packaging Google Chrome MSI for Intune
+
+Run the following command to package the MSI:
+
+```powershell
+IntuneWinAppUtil.exe -C C:\Chrome -S GoogleChromeStandaloneEnterprise64.msi -O C:\Chrome
+```
+
+### Parameters:
+
+- `-C` → Source folder containing Chrome MSI
+    
+- `-S` → Chrome MSI file name
+    
+- `-O` → Output folder where `.intunewin` file will be saved
+    
+
+### Output:
+
+The tool will generate a file named:
+
+```text
+GoogleChromeEnterprise64.intunewin
+```
+
+Inside `C:\Chrome`
+
+## Upload the Win32 App to Intune
+
+1. Select **App type** → Choose **Windows app (Win32)**
+    
+2. Upload the `.intunewin` file
+    
+3. Click **Select app package file**
+    
+4. Browse to:
+    
+    ```text
+    C:\Chrome\GoogleChromeEnterprise64.intunewin
+    ```
+    
+5. Click **OK**
+    
+
+## Enter App Information
+
+- **Name:** Google Chrome
+    
+- **Publisher:** Google
+    
+- **Category:** Productivity
+    
+- **Add a Logo:** (Select Image)
