@@ -88,8 +88,6 @@ Inside `C:\Chrome`
     ```
     
 5. Click **OK**
-    
-
 ## Enter App Information
 
 - **Name:** Google Chrome
