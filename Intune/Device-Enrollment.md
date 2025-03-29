@@ -13,7 +13,7 @@
 
 - **Devices (Overview)**: Shows everything from all devices, monitor, device onboarding, manage devices. It shows the **overview** of device info in Intune.
     
-!
+![Screenshot](screenshot39.jpg)
 ## Setting up base equipment to manage devices
 
 - **Devices > Enroll devices > Windows devices** → Click on **Enroll** →
