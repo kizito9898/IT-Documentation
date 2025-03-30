@@ -69,7 +69,7 @@
         
     - Ensure **anti-virus/anti-malware is enabled**
         
-
+![screenshot](images/screenshot45.jpg)
 ### Conditional Access Integration
 
 - Compliance policies can be used with **Entra ID Conditional Access** to **block or restrict access** to company resources if a device is **non-compliant**.
