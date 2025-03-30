@@ -54,7 +54,7 @@ Run the following command to package the MSI:
 ```powershell
 IntuneWinAppUtil.exe -C C:\Chrome -S GoogleChromeStandaloneEnterprise64.msi -O C:\Chrome
 ```
-
+!
 ### Parameters:
 
 - `-C` → Source folder containing Chrome MSI
