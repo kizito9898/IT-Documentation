@@ -44,7 +44,7 @@
     
 - **Apply & auditing**
     
-![screenshot](images/)
+![Screenshot](images/screenshot43.jpg)
 ## Rules
 
 - **Assign Profile** → **OS Edition** → **Windows 10/11 Enterprise or Home** → Click **Next** → **Create**
