@@ -118,3 +118,4 @@ Inside `C:\Chrome`
   - Add all users  
 
 - **Step 8: Review + Create and Create**
+![Screenshot](images/screenshot51.jpg)
