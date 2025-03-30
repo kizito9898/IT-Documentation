@@ -73,7 +73,7 @@ GoogleChromeEnterprise64.intunewin
 ```
 
 Inside `C:\Chrome`
-
+![]
 ## Upload the Win32 App to Intune
 
 1. Select **App type** → Choose **Windows app (Win32)**
