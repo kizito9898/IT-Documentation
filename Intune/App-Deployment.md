@@ -32,7 +32,7 @@ A Win32 app must be **converted into an Intunewin format** before being uploaded
 ### 1. Download the Win32 Content Prep Tool
 Download the **Win32 Content Prep Tool** from Microsoft's GitHub repository:  
 [Microsoft-Win32-Content-Prep-Tool](https://github.com/microsoft/Microsoft-Win32-Content-Prep-Tool)
-![Screenshot](images/screenshot4)
+![Screenshot](images/screenshot48.jpg)
 ### 2. Download the Application
 Download **Google Chrome Enterprise** (Download the 64-bit `.msi` file).
 
