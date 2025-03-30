@@ -98,7 +98,7 @@ Inside `C:\Chrome`
 - **Category:** Productivity
     
 - **Add a Logo:** (Select Image)
-
+![Screenshot]
 ## Step 2: Configure App Installation
 
 - **Install Program** (Options: Available, Uninstall: No)  
