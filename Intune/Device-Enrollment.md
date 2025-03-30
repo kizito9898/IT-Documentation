@@ -86,7 +86,7 @@ Assign Profile -> OS Edition -> Windows 10/11 (Enterprise or Home) -> Click Next
 
 ## How it Works
 Compliance -> Create policy (Windows 10 and later) -> Basics (Name, Enforce BitLocker) -> Compliance settings -> Add in for non-compliance ⚠ -> Notification for users for non-compliance policy -> Assignments (Add all users) -> Review & Create
-![Screenshot](image)
+![Screenshot](images/screenshot46.jpg)
 ## Windows Updates
 ### Update Rings
 (This is to make sure updates are created)
