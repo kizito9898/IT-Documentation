@@ -56,7 +56,7 @@
 
 - **Compliance refers to the process of ensuring that devices should meet specific security and configuration requirements before they can access corporate resources.**
     
-
+![Screenshot](images/scre)
 ### Compliance Policies
 
 - **These define the security requirements that devices must meet.**
