@@ -135,4 +135,4 @@ To check if policies apply, open **Microsoft Outlook** or **Teams** on the enrol
 - Adjust policies based on security needs.
 - Test access restrictions to ensure security policies work as expected.
 
-This guide now includes **Compliance Policies, Conditional Access, and App Protection Policies**. Let me know if you need further details!
+This guide now includes **Compliance Policies, Conditional Access, and App Protection Policies**.
