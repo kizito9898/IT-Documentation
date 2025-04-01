@@ -85,11 +85,9 @@ Even without access to IT Glue, these Markdown templates can be used in **Obsidi
 ## Backup & Disaster Recovery
 - **Email Backup Provider:** [Barracuda / SkyKick]
 - **SharePoint & OneDrive Backup:** [Enabled / Not Enabled]
-```
 
 ## **4. Standard Operating Procedure (SOP) - Password Reset**
 
-```markdown
 # Procedure: Password Reset  
 ## Overview  
 When a user forgets their password, follow this procedure to reset it securely.  
@@ -114,11 +112,9 @@ When a user forgets their password, follow this procedure to reset it securely.
 3. **Notify the User**  
    - Provide them with the new password securely (phone call or IT Glue secure note).  
    - Advise them to update their credentials across devices.  
-```
 
 ## **5. VPN Issues Troubleshooting**
 
-```markdown
 # Issue: VPN Connection Not Working  
 ## Overview  
 User reports they are unable to connect to the company VPN.  
