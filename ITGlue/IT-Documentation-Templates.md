@@ -7,9 +7,6 @@ Effective IT documentation should:
 - Be **clear and concise** to help IT staff quickly find solutions.
 - Follow a **consistent format** for ease of use.
 - Be **updated regularly** to ensure accuracy.
-- Be **secure** to protect sensitive company data.
-
-Even without access to IT Glue, these Markdown templates can be used in **Obsidian** or **GitHub Pages** to maintain professional IT documentation.
 
 ## **1. Server Documentation**
 
