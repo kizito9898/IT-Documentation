@@ -25,7 +25,7 @@ Due to the lack of access to an IT Glue trial version, this documentation is bas
 ### IT Assets (Network, Servers, Applications)
 - **Servers** – Active Directory Server, File Server, Remote Desktop Server
 - **Network Devices** – Firewall, Switches, VPN
-- **Applications** – Microsoft 365, Intune, ConnectWise
+- **Applications** – Microsoft 365, Intune, 
 
 ### Standard Operating Procedures (SOPs)
 - Password Reset
