@@ -30,7 +30,7 @@ Effective IT documentation should:
 - **Recovery Procedure:** [Step-by-step guide]
 
 ## Monitoring & Alerts
-- **Monitoring Tool:** [PRTG / SolarWinds / ConnectWise Automate]
+- **Monitoring Tool:** [ SolarWinds / ConnectWise Automate]
 - **Alerting Method:** [Email / Ticket Creation]
 
 
