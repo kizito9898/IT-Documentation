@@ -61,12 +61,11 @@ Even without access to IT Glue, these Markdown templates can be used in **Obsidi
 
 ## Backup & Recovery
 - **Configuration Backup Location:** [Cloud / Local Repository]
-- **Restoration Procedure:** [Step-by-step guide]
+- **Restoration Procedure:** [Step-by-step guide
 
 ## **3. Microsoft 365 Documentation**
 
-```markdown
-# Microsoft 365 Tenant: [Company_Name.onmicrosoft.com]
+# Microsoft 365 Tenant: [Njikason.onmicrosoft.com]
 ## General Information
 - **Admin Portal:** [admin.microsoft.com]
 - **Primary Administrator:** [admin@company.com]
