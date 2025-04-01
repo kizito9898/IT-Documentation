@@ -279,8 +279,8 @@ Each troubleshooting entry contains:
 - **Roles:** Domain Controller, DNS  
 
 ### Credentials (Stored in IT Glue)
-- **Administrator Account:**  
-- **Recovery Account:** recovery@company.com  
+- **Administrator Account:** kizitoNjika@onmicrosoft.com 
+- **Recovery Account:** recovery@onmicrosoft.com  
 
 ### Common Issues & Fixes
 #### User Account Locked
