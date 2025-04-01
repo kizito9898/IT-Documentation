@@ -120,61 +120,7 @@ If errors appear, check **event logs** and restart **Active Directory Services**
 1. Create a shared folder on the **File Server**.
 2. Set permissions using **NTFS & Share Permissions**.
 3. Map the drive via **Group Policy Preferences**.
-4. Test access from multiple user accounts.
-
-## Network Devices Documentation
-
-| Device Name | Type     | IP Address  | Location      | Notes                   |
-| ----------- | -------- | ----------- | ------------- | ----------------------- |
-| Firewall-01 | Firewall | 192.168.1.1 | Data Center   | Main perimeter firewall |
-| Switch-01   | Switch   | 192.168.1.2 | Office Floor  | 48-Port Gigabit Switch  |
-| VPN-01      | VPN      | 192.168.1.3 | Remote Access | VPN for external users  |
-
-### Troubleshooting VPN Issues
-- If VPN is down, check **firewall logs** and ensure **IKE/IPSec services** are running.
-
-## Printer Troubleshooting Guide
-
-### Common Printer Issues
-- Printer is offline
-- Print jobs stuck in queue
-- Cannot connect to the network printer
-
-### Fixing a Printer Offline Issue
-1. Restart the **print spooler service**.
-2. Ensure the printer is **set as the default**.
-3. Reinstall the printer driver.
-
-## Updating IT Glue Documentation
-
-### How to Update an Existing Entry
-1. Search for the existing document in **IT Glue**.
-2. Click **Edit**, make necessary changes, and add the **update date**.
-3. Save and review the update for accuracy.
-
-### How to Create a New Documentation Entry
-1. Click **New Document** in IT Glue.
-2. Select the appropriate **category (Server, Network, SOP, etc.)**.
-3. Add **relevant details, screenshots, and steps**.
-4. Save and **tag for easy searching**.
-
-## How IT Glue is Used in an MSP Workflow
-
-### Step 1: Review Ticket in Zendesk or ConnectWise
-- User reports: *"Cannot log in to VPN."*
-- Check **past issues** in IT Glue.
-
-### Step 2: Search IT Glue for Documentation
-- Look up **VPN-01** in Network Devices.
-- Find **troubleshooting steps**.
-
-### Step 3: Remote Into the Device
-- Use **ConnectWise Control** to access the user’s PC.
-- Check **VPN client logs** for error codes.
-
-### Step 4: Apply Fix and Update IT Glue
-- If the issue is resolved, document the fix in IT Glue.
-  *Example: "Resolved VPN login issue for UserX by resetting VPN profile."*
+4. Te
 
 
 # IT Glue Documentation
