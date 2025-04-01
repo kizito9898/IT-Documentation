@@ -75,7 +75,7 @@ Even without access to IT Glue, these Markdown templates can be used in **Obsidi
 ## Users & Groups
 - **User Count:** [50+]
 - **Group Types:** [Security / Distribution / M365 Groups]
-- **Shared Mailboxes:** [support@company.com, sales@company.com]
+- **Shared Mailboxes:** [support@onmicrosoft.com, sales@njikason.onmicrosoft.com]
 
 ## Email Security & Compliance
 - **Spam Filtering:** Enabled
