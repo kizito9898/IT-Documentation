@@ -9,7 +9,6 @@ IT Glue is a cloud-based IT documentation platform designed for Managed Service 
 ### Importance of IT Glue
 - **Efficiency**: Reduces troubleshooting time by providing quick access to documented solutions.
 - **Consistency**: Ensures standardized documentation across the IT team.
-- **Security**: Protects sensitive IT information with role-based access controls.
 - **Accountability**: Tracks updates and changes for better audit control.
 
 ### Why Good Documentation Matters in IT Support
