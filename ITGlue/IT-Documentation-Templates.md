@@ -67,7 +67,7 @@ Even without access to IT Glue, these Markdown templates can be used in **Obsidi
 
 # Microsoft 365 Tenant: [Njikason.onmicrosoft.com]
 ## General Information
-- **Admin Portal:** [admin.microsoft.com]
+- **Admin Portal:** [kizito@njikason.onmicrosoft.com]
 - **Primary Administrator:** [admin@company.com]
 - **License Type:** [Business Premium / Enterprise E3]
 - **MFA Status:** [Enabled / Disabled]
@@ -75,7 +75,7 @@ Even without access to IT Glue, these Markdown templates can be used in **Obsidi
 ## Users & Groups
 - **User Count:** [50+]
 - **Group Types:** [Security / Distribution / M365 Groups]
-- **Shared Mailboxes:** [support@onmicrosoft.com, sales@njikason.onmicrosoft.com]
+- **Shared Mailboxes:** [support@Njikason.onmicrosoft.com, sales@njikason.onmicrosoft.com]
 
 ## Email Security & Compliance
 - **Spam Filtering:** Enabled
