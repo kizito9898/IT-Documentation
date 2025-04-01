@@ -311,6 +311,37 @@ If errors appear, check **event logs** and restart **Active Directory Services**
 3. Right-click and select **Reset Password**.
 4. Enter the new password and confirm.
 
+## File Sharing Configuration
+
+### Configuring a Shared Drive
+1. Create a shared folder on the **File Server**.
+2. Set permissions using **NTFS & Share Permissions**.
+3. Map the drive via **Group Policy Preferences**.
+4. Test access from multiple user accounts.
+
+## Network Devices Documentation
+
+| Device Name | Type     | IP Address  | Location      | Notes                   |
+| ----------- | -------- | ----------- | ------------- | ----------------------- |
+| Firewall-01 | Firewall | 192.168.1.1 | Data Center   | Main perimeter firewall |
+| Switch-01   | Switch   | 192.168.1.2 | Office Floor  | 48-Port Gigabit Switch  |
+| VPN-01      | VPN      | 192.168.1.3 | Remote Access | VPN for external users  |
+
+### Troubleshooting VPN Issues
+- If VPN is down, check **firewall logs** and ensure **IKE/IPSec services** are running.
+
+## Printer Troubleshooting Guide
+
+### Common Printer Issues
+- Printer is offline
+- Print jobs stuck in queue
+- Cannot connect to the network printer
+
+### Fixing a Printer Offline Issue
+1. Restart the **print spooler service**.
+2. Ensure the printer is **set as the default**.
+3. Reinstall the printer driver.
+
 ### Step 3: Update IT Glue Documentation
 - Add a note: *"Password reset for [User] on [Date]."*
 
