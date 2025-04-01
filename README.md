@@ -13,7 +13,7 @@ This is not just a collection of notes—it's a **personal IT knowledge base** b
 ### 🔹 **Windows & Windows Server**  
 - [Windows Troubleshooting](Windows/Windows-Troubleshooting.md)  
 - [PowerShell Commands](Windows/PowerShell-Commands.md)  
-- [Windows Server Basics](Windows/Windows-Server-Basics.md)  
+- [Windows Server Basics](Windows/Windows-Server.md)  
 - [Active Directory Basics](Windows/Active-Directory-Basics.md)  
 - [Group Policy Management](Windows/Group-Policy-Management.md)  
 
