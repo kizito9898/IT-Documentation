@@ -13,7 +13,7 @@ Effective IT documentation should:
 # Server Name: [SERVER-2022]
 ## General Information
 - **Role:** [Domain Controller / File Server / Application Server]
-- **Operating System:** [Windows Server 2019 / Linux Ubuntu 20.04]
+- **Operating System:** [Windows Server 2022]
 - **IP Address:** [192.168.1.X]
 - **Location:** [On-Prem / Cloud (Azure, AWS)]
 - **Administrator Account:** [Documented in IT Glue / Vault]
@@ -22,7 +22,7 @@ Effective IT documentation should:
 ## Services Running
 - **Active Directory / DHCP / DNS**
 - **File Sharing / Print Services**
-- **Virtualization / Hyper-V / VMware**
+- **Virtualization  / VMware**
 
 ## Backup & Recovery
 - **Backup Solution:** [Veeam / Azure Backup / Acronis]
