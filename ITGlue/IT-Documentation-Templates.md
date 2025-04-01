@@ -35,11 +35,11 @@ Even without access to IT Glue, these Markdown templates can be used in **Obsidi
 ## Monitoring & Alerts
 - **Monitoring Tool:** [PRTG / SolarWinds / ConnectWise Automate]
 - **Alerting Method:** [Email / Ticket Creation]
-```
+
 
 ## **2. Network Device Documentation (Router, Switch, Firewall)**
 
-```markdown
+
 # Device Name: [Router_Name / Switch_Name]
 ## General Information
 - **Device Type:** [Firewall / Router / Switch]
@@ -62,7 +62,6 @@ Even without access to IT Glue, these Markdown templates can be used in **Obsidi
 ## Backup & Recovery
 - **Configuration Backup Location:** [Cloud / Local Repository]
 - **Restoration Procedure:** [Step-by-step guide]
-```
 
 ## **3. Microsoft 365 Documentation**
 
