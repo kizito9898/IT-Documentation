@@ -37,7 +37,7 @@ Effective IT documentation should:
 ## **2. Network Device Documentation (Router, Switch, Firewall)**
 
 
-# Device Name: [Cisco Meraki/ Switch_Name]
+# Device Name: [Meraki-MX68/ Cisco-2960]
 ## General Information
 - **Device Type:** [Firewall / Router / Switch]
 - **Model:** [Cisco Meraki MX / pfSense / Fortinet]
