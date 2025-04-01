@@ -275,7 +275,7 @@ Each troubleshooting entry contains:
 - **Name:** AD-DC01  
 - **IP Address:** 192.168.1.10  
 - **Location:** Main Office  
-- **Operating System:** Windows Server 2019  
+- **Operating System:** Windows Server 2022  
 - **Roles:** Domain Controller, DNS  
 
 ### Credentials (Stored in IT Glue)
