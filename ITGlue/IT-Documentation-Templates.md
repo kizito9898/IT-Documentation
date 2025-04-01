@@ -1,8 +1,18 @@
 # IT Documentation Templates
 
+## **Overview**
+IT documentation is essential for managing IT assets, troubleshooting issues, and ensuring smooth operations in an MSP or IT support environment. A well-structured documentation system improves efficiency, reduces resolution times, and ensures consistency across IT teams. This document provides structured templates for documenting servers, network devices, Microsoft 365, standard operating procedures (SOPs), and troubleshooting guides.
+
+Effective IT documentation should:
+- Be **clear and concise** to help IT staff quickly find solutions.
+- Follow a **consistent format** for ease of use.
+- Be **updated regularly** to ensure accuracy.
+- Be **secure** to protect sensitive company data.
+
+Even without access to IT Glue, these Markdown templates can be used in **Obsidian** or **GitHub Pages** to maintain professional IT documentation.
+
 ## **1. Server Documentation**
 
-```markdown
 # Server Name: [Server_Name]
 ## General Information
 - **Role:** [Domain Controller / File Server / Application Server]
@@ -146,7 +156,3 @@ I currently do not have access to an IT Glue free trial, which limits my ability
 # IT Documentation Strategy
 Even without IT Glue, you can still document IT environments professionally using Markdown in **Obsidian** or **GitHub Pages**. The templates above serve as a foundation for maintaining structured, organized, and accessible IT documentation.
 ```
-
----
-
-This Markdown document is now ready for use in **Obsidian**. Let me know if you need any further adjustments!
