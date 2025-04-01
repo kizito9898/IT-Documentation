@@ -135,18 +135,9 @@ User reports they are unable to connect to the company VPN.
 
 5. **Escalation**  
    - If the issue persists, escalate to Level 2 with logs attached.  
-```
 
 ## **Why Screenshots Are Not Included**
 
-```markdown
 # Why I Can't Include IT Glue Screenshots
 I currently do not have access to an IT Glue free trial, which limits my ability to provide screenshots or firsthand experience. However, I have compiled this documentation template based on research, including YouTube videos and technical guides. This structure follows IT Glue’s best practices for maintaining accurate and accessible IT documentation.
-```
-
-## **Final Thoughts**
-
-```markdown
-# IT Documentation Strategy
-Even without IT Glue, you can still document IT environments professionally using Markdown in **Obsidian** or **GitHub Pages**. The templates above serve as a foundation for maintaining structured, organized, and accessible IT documentation.
-```
+``
