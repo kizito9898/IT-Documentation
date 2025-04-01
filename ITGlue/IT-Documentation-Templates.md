@@ -13,7 +13,7 @@ Even without access to IT Glue, these Markdown templates can be used in **Obsidi
 
 ## **1. Server Documentation**
 
-# Server Name: [Server_Name]
+# Server Name: [SERVER-2022]
 ## General Information
 - **Role:** [Domain Controller / File Server / Application Server]
 - **Operating System:** [Windows Server 2019 / Linux Ubuntu 20.04]
