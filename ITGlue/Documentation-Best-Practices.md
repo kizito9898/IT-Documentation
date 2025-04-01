@@ -47,7 +47,6 @@ Subnets & VLANs:
 ISP & Public IP:
   - ISP Name: [Provider]
   - Static IP: [X.X.X.X]
-```
 
 ## 2. **Server Documentation Template**
 ```yaml
