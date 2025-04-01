@@ -344,11 +344,3 @@ If errors appear, check **event logs** and restart **Active Directory Services**
 ### Step 4: Apply Fix and Update IT Glue
 - If the issue is resolved, document the fix in IT Glue.
   *Example: "Resolved VPN login issue for UserX by resetting VPN profile."*
-
-## Next Steps
-- **Create these documentation files in Obsidian**.
-- **Organize them into categories** (IT Assets, SOPs, Troubleshooting).
-- **Push them to GitHub Pages**.
-- **Use this as your MSP IT knowledge base in interviews**.
-
-For further assistance on setting up **MkDocs Material** for publishing on GitHub, feel free to ask.
