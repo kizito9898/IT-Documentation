@@ -216,14 +216,5 @@ wmic startup where name="appname" call disable
 ```powershell
 net user username /delete
 ```
-
----powershell
- ;dslcldcmdlcm
- ---
-
-
-
-
-
-netuse
----
+```
+```
