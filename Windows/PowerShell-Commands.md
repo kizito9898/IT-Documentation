@@ -52,7 +52,7 @@ Import-Module ActiveDirectory
 
 ---
 
-## 🖥️ 3. System Information
+##  3. System Information
 
 Displays the computer name:
 
@@ -98,7 +98,7 @@ Get-Service
 
 ---
 
-## 🌐 4. Network Troubleshooting
+##  4. Network Troubleshooting
 
 Pings a remote host:
 
@@ -132,9 +132,9 @@ Resolve-DnsName google.com
 
 ---
 
-## 👥 5. User Management
+##  5. User Management
 
-### 🧍 Local Users
+###  Local Users
 
 Lists all local users:
 
@@ -148,7 +148,7 @@ Gets domain user account information:
 net user username /domain
 ```
 
-### 🧑‍💼 Active Directory Users (Requires AD Module)
+###  Active Directory Users (Requires AD Module)
 
 Retrieves a user from Active Directory:
 
@@ -194,9 +194,9 @@ Set-ADAccountPassword -Identity username -Reset -NewPassword (ConvertTo-SecureSt
 
 ---
 
-## ☁️ 6. Microsoft 365 (Requires MSOnline or ExchangeOnline Module)
+##  6. Microsoft 365 (Requires MSOnline or ExchangeOnline Module)
 
-### 🔐 Connect to Services
+###  Connect to Services
 
 Connects to Microsoft 365 (MSOnline module):
 
@@ -210,7 +210,7 @@ Connects to Exchange Online:
 Connect-ExchangeOnline
 ```
 
-### 👥 User and Mailbox Management
+### User and Mailbox Management
 
 Lists all Microsoft 365 users:
 
@@ -238,7 +238,7 @@ Set-Mailbox user@domain.com -EmailAddresses "SMTP:user@domain.com","smtp:alias@d
 
 ---
 
-## 📁 7. File and Folder Management
+##  7. File and Folder Management
 
 Lists files and folders:
 
@@ -278,7 +278,7 @@ New-Item -Path "C:\NewFolder" -ItemType Directory
 
 ---
 
-## ⚙️ 8. Service Management
+##  8. Service Management
 
 Gets all services:
 
