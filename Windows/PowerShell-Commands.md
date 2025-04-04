@@ -1,10 +1,10 @@
-# 🧠 **PowerShell Cheat Sheet for IT Support** (Beginner Friendly)
+#  **PowerShell Cheat Sheet for IT Support** (Beginner Friendly)
 
 PowerShell is a powerful tool that helps IT support teams troubleshoot, manage systems, and automate tasks efficiently. This guide covers the most commonly used commands to help you get started.  
 
 ---
 
-## 🆘 **1. Getting Help**  
+##  **1. Getting Help**  
 
 New to PowerShell? Don't worry! You can always ask for help.  
 
@@ -28,7 +28,7 @@ If you're unsure how to use a command, this will show real-world examples.
 
 ---
 
-## 🔍 **2. Finding Commands and Modules**  
+##  **2. Finding Commands and Modules**  
 
 ### List all available PowerShell commands:
 ```powershell
@@ -56,7 +56,7 @@ You need this if you're working with users in an organization.
 
 ---
 
-## 🖥️ **3. Checking System Information**  
+##  **3. Checking System Information**  
 
 ### Find out your computer’s name:
 ```powershell
@@ -96,7 +96,7 @@ If something isn’t working, check if the required service is running.
 
 ---
 
-## 🌐 **4. Network Troubleshooting**  
+##  **4. Network Troubleshooting**  
 
 ### Test if a website or server is reachable (like using "ping"):
 ```powershell
@@ -124,9 +124,9 @@ Use this if you have internet but websites don’t load properly.
 
 ---
 
-## 👥 **5. Managing Users (Local & Active Directory)**  
+##  **5. Managing Users (Local & Active Directory)**  
 
-### 🏠 Local Users  
+###  Local Users  
 
 ### List all user accounts on your computer:
 ```powershell
@@ -140,7 +140,7 @@ net user username /domain
 ```
 Useful when checking login issues for domain users.  
 
-### 🏢 Active Directory (For IT Support in Organizations)  
+###  Active Directory (For IT Support in Organizations)  
 
 ### Find a user in Active Directory:
 ```powershell
