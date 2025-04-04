@@ -168,7 +168,7 @@ If a user gets locked out, this will let them log back in.
 
 ---
 
-## ☁️ **6. Microsoft 365 Management (Requires MSOnline Module)**  
+##  **6. Microsoft 365 Management (Requires MSOnline Module)**  
 
 ### Connect to Microsoft 365 admin services:
 ```powershell
@@ -196,7 +196,7 @@ Verify if a user has a mailbox assigned.
 
 ---
 
-## 📁 **7. Managing Files and Folders**  
+##  **7. Managing Files and Folders**  
 
 ### View files in a folder:
 ```powershell
@@ -224,7 +224,7 @@ Be careful—this doesn’t go to the Recycle Bin!
 
 ---
 
-## ⚙️ **8. Managing Windows Services**  
+##  **8. Managing Windows Services**  
 
 ### Check if a service is running:
 ```powershell
