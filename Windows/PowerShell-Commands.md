@@ -258,21 +258,4 @@
 
 ## Pro Tip
 
-Use `Tab` to autocomplete command names and parameters, and `Ctrl + C` to stop a running command.
-
-from pathlib import Path
-
-# Define the markdown content
-markdown_content = """
-# PowerShell Cheat Sheet for IT Support (Beginner Friendly)
-
-...
-
-Use `Tab` to autocomplete and `Ctrl + C` to stop a running command.
-"""
-
-# Save to a markdown file
-output_path = Path("/mnt/data/PowerShell_CheatSheet_ITSupport.md")
-output_path.write_text(markdown_content)
-
-output_path
+Use `Tab` to autocomplet
