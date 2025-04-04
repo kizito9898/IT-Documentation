@@ -250,10 +250,10 @@ If an app isn’t working, restarting its service might fix it.
 
 ---
 
-## ✅ **Pro Tips**  
+##  **Pro Tips**  
 
-✔️ Press `Tab` to autocomplete commands.  
-✔️ Use `Ctrl + C` to stop a running command.  
-✔️ To save your session's output, use:  
+ Press `Tab` to autocomplete commands.  
+ Use `Ctrl + C` to stop a running command.  
+To save your session's output, use:  
 ```powershell
 Start-Transcript -Path "C:\PowerShellLog.txt"
