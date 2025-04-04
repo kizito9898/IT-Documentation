@@ -1,250 +1,430 @@
-# PowerShell Cheat Sheet for IT Support (Beginner Friendly)
+#  PowerShell Cheat Sheet for IT Support (Beginner Friendly)
 
 ---
 
-## 1. Getting Help
+##  1. Getting Help
 
-- `Get-Help`  
-  Displays help about PowerShell commands.
+Displays help about PowerShell commands:
 
-- `Get-Help Get-Service`  
-  Shows help info for the `Get-Service` command.
+```powershell
+Get-Help
+```
 
-- `Get-Help Get-Service -Examples`  
-  Shows usage examples.
+Shows help info for a specific command:
 
----
+```powershell
+Get-Help Get-Service
+```
 
-## 2. Getting Commands and Modules
+Displays usage examples for a command:
 
-- `Get-Command`  
-  Lists all available PowerShell commands.
-
-- `Get-Module`  
-  Shows currently loaded modules.
-
-- `Get-Module -ListAvailable`  
-  Lists all installed PowerShell modules.
-
-- `Import-Module ActiveDirectory`  
-  Loads the Active Directory module.
+```powershell
+Get-Help Get-Service -Examples
+```
 
 ---
 
-## 3. System Information
+##  2. Getting Commands and Modules
 
-- `hostname`  
-  Displays the computer name.
+Lists all available PowerShell commands:
 
-- `Get-ComputerInfo`  
-  Displays detailed system information.
+```powershell
+Get-Command
+```
 
-- `systeminfo`  
-  Legacy command for system summary.
+Shows currently loaded modules:
 
-- `Get-WmiObject win32_operatingsystem`  
-  Retrieves OS info using WMI.
+```powershell
+Get-Module
+```
 
-- `Get-WmiObject Win32_ComputerSystem`  
-  Shows memory, manufacturer, and model.
+Lists all installed PowerShell modules:
 
-- `Get-Process`  
-  Lists running processes.
+```powershell
+Get-Module -ListAvailable
+```
 
-- `Get-Service`  
-  Lists all services and their statuses.
+Loads the Active Directory module:
 
----
-
-## 4. Network Troubleshooting
-
-- `Test-Connection google.com`  
-  Sends a ping to google.com.
-
-- `Get-NetIPAddress`  
-  Displays IP address info.
-
-- `ipconfig`  
-  Legacy command to show network info.
-
-- `Get-NetAdapter`  
-  Shows network adapter configuration.
-
-- `Resolve-DnsName google.com`  
-  Tests DNS resolution.
+```powershell
+Import-Module ActiveDirectory
+```
 
 ---
 
-## 5. Users and Active Directory
+## 🖥️ 3. System Information
 
-### Local Users
+Displays the computer name:
 
-- `net user`  
-  Lists local user accounts.
+```powershell
+hostname
+```
 
-- `net user username /domain`  
-  Gets domain user account info.
+Shows detailed system info:
 
-### Active Directory (requires AD module)
+```powershell
+Get-ComputerInfo
+```
 
-- `Get-ADUser username`  
-  Retrieves user object from AD.
+Legacy command for system summary:
 
-- `Get-ADUser username -Properties *`  
-  Shows all AD attributes of the user.
+```powershell
+systeminfo
+```
 
-- `Set-ADUser username -Title "Support Technician"`  
-  Updates the user's job title.
+Retrieves OS information via WMI:
 
-- `Unlock-ADAccount -Identity username`  
-  Unlocks a locked-out user account.
+```powershell
+Get-WmiObject win32_operatingsystem
+```
 
-- `Enable-ADAccount -Identity username`  
-  Enables a user account.
+Displays system manufacturer, model, and memory info:
 
-- `Disable-ADAccount -Identity username`  
-  Disables a user account.
+```powershell
+Get-WmiObject Win32_ComputerSystem
+```
 
-- `Set-ADAccountPassword -Identity username -Reset -NewPassword (ConvertTo-SecureString "NewPassword123" -AsPlainText -Force)`  
-  Resets the user’s password.
+Lists all running processes:
 
----
+```powershell
+Get-Process
+```
 
-## 6. Microsoft 365 (Requires MSOnline or ExchangeOnline Module)
+Lists all Windows services:
 
-### Connect to Microsoft 365
-
-- `Connect-MsolService`  
-  Signs in to Microsoft 365 via MSOnline.
-
-- `Connect-ExchangeOnline`  
-  Connects to Exchange Online.
-
-### User Management
-
-- `Get-MsolUser`  
-  Lists all Microsoft 365 users.
-
-- `Set-MsolUserPassword -UserPrincipalName user@domain.com -NewPassword "Password123" -ForceChangePassword $true`  
-  Resets a user’s password.
-
-- `Get-Mailbox`  
-  Lists all mailboxes.
-
-- `Set-Mailbox user@domain.com -EmailAddresses "SMTP:user@domain.com","smtp:alias@domain.com"`  
-  Sets primary and alias email addresses.
+```powershell
+Get-Service
+```
 
 ---
 
-## 7. File and Folder Management
+## 🌐 4. Network Troubleshooting
 
-- `Get-ChildItem`  
-  Lists files and folders (like `ls`).
+Pings a remote host:
 
-- `Get-ChildItem -Path "C:\Users" -Recurse`  
-  Recursively lists files/folders.
+```powershell
+Test-Connection google.com
+```
 
-- `Copy-Item -Path "C:\file.txt" -Destination "D:\Backup\file.txt"`  
-  Copies a file.
+Displays IP address configuration:
 
-- `Move-Item -Path "C:\file.txt" -Destination "D:\file.txt"`  
-  Moves or renames a file.
+```powershell
+Get-NetIPAddress
+```
 
-- `Remove-Item -Path "C:\file.txt"`  
-  Deletes a file.
+Legacy IP configuration command:
 
-- `New-Item -Path "C:\NewFolder" -ItemType Directory`  
-  Creates a new folder.
+```powershell
+ipconfig
+```
 
----
+Lists network adapters:
 
-## 8. Service Management
+```powershell
+Get-NetAdapter
+```
 
-- `Get-Service`  
-  Lists all Windows services.
+Tests DNS resolution:
 
-- `Get-Service -Name wuauserv`  
-  Shows Windows Update service status.
-
-- `Start-Service -Name wuauserv`  
-  Starts a service.
-
-- `Stop-Service -Name wuauserv`  
-  Stops a service.
-
-- `Restart-Service -Name wuauserv`  
-  Restarts a service.
+```powershell
+Resolve-DnsName google.com
+```
 
 ---
 
-## 9. Windows Updates (Requires PSWindowsUpdate Module)
+## 👥 5. User Management
 
-- `Get-WindowsUpdate`  
-  Checks for available updates.
+### 🧍 Local Users
 
-- `Install-WindowsUpdate -AcceptAll -AutoReboot`  
-  Installs all updates and reboots if needed.
+Lists all local users:
 
----
+```powershell
+net user
+```
 
-## 10. Event Logs
+Gets domain user account information:
 
-- `Get-EventLog -LogName System -Newest 20`  
-  Displays the last 20 system logs.
+```powershell
+net user username /domain
+```
 
-- `Get-EventLog -LogName Application -EntryType Error -Newest 10`  
-  Shows the last 10 application errors.
+### 🧑‍💼 Active Directory Users (Requires AD Module)
 
----
+Retrieves a user from Active Directory:
 
-## 11. Disk and Storage Info
+```powershell
+Get-ADUser username
+```
 
-- `Get-PSDrive`  
-  Lists drives and free space.
+Retrieves all properties of a user:
 
-- `Get-Volume`  
-  Displays volume info.
+```powershell
+Get-ADUser username -Properties *
+```
 
-- `Get-Disk`  
-  Shows physical disk details.
+Changes the title attribute of a user:
 
-- `Get-Partition`  
-  Lists partitions on all disks.
+```powershell
+Set-ADUser username -Title "Support Technician"
+```
 
----
+Unlocks a locked AD account:
 
-## 12. Process Management
+```powershell
+Unlock-ADAccount -Identity username
+```
 
-- `Get-Process`  
-  Shows all running processes.
+Enables a user account:
 
-- `Stop-Process -Name "notepad"`  
-  Kills a process by name.
+```powershell
+Enable-ADAccount -Identity username
+```
 
-- `Start-Process -FilePath "notepad.exe"`  
-  Launches a program.
+Disables a user account:
 
----
+```powershell
+Disable-ADAccount -Identity username
+```
 
-## 13. Miscellaneous Useful Commands
+Resets a user's password:
 
-- `Clear-Host`  
-  Clears the terminal screen.
-
-- `Get-History`  
-  Shows previously used commands.
-
-- `Start-Transcript -Path "C:\PowerShellLog.txt"`  
-  Starts recording your PowerShell session.
-
-- `Stop-Transcript`  
-  Stops session recording.
+```powershell
+Set-ADAccountPassword -Identity username -Reset -NewPassword (ConvertTo-SecureString "NewPassword123" -AsPlainText -Force)
+```
 
 ---
 
-## 14. Common Aliases
+## ☁️ 6. Microsoft 365 (Requires MSOnline or ExchangeOnline Module)
 
-| Alias | Command         |
+### 🔐 Connect to Services
+
+Connects to Microsoft 365 (MSOnline module):
+
+```powershell
+Connect-MsolService
+```
+
+Connects to Exchange Online:
+
+```powershell
+Connect-ExchangeOnline
+```
+
+### 👥 User and Mailbox Management
+
+Lists all Microsoft 365 users:
+
+```powershell
+Get-MsolUser
+```
+
+Resets a Microsoft 365 user’s password:
+
+```powershell
+Set-MsolUserPassword -UserPrincipalName user@domain.com -NewPassword "Password123" -ForceChangePassword $true
+```
+
+Lists mailboxes:
+
+```powershell
+Get-Mailbox
+```
+
+Sets primary and alias email addresses:
+
+```powershell
+Set-Mailbox user@domain.com -EmailAddresses "SMTP:user@domain.com","smtp:alias@domain.com"
+```
+
+---
+
+## 📁 7. File and Folder Management
+
+Lists files and folders:
+
+```powershell
+Get-ChildItem
+```
+
+Recursively lists files/folders in a directory:
+
+```powershell
+Get-ChildItem -Path "C:\Users" -Recurse
+```
+
+Copies a file:
+
+```powershell
+Copy-Item -Path "C:\file.txt" -Destination "D:\Backup\file.txt"
+```
+
+Moves a file:
+
+```powershell
+Move-Item -Path "C:\file.txt" -Destination "D:\file.txt"
+```
+
+Deletes a file:
+
+```powershell
+Remove-Item -Path "C:\file.txt"
+```
+
+Creates a new folder:
+
+```powershell
+New-Item -Path "C:\NewFolder" -ItemType Directory
+```
+
+---
+
+## ⚙️ 8. Service Management
+
+Gets all services:
+
+```powershell
+Get-Service
+```
+
+Checks the status of Windows Update service:
+
+```powershell
+Get-Service -Name wuauserv
+```
+
+Starts a service:
+
+```powershell
+Start-Service -Name wuauserv
+```
+
+Stops a service:
+
+```powershell
+Stop-Service -Name wuauserv
+```
+
+Restarts a service:
+
+```powershell
+Restart-Service -Name wuauserv
+```
+
+---
+
+## 🔄 9. Windows Updates (Requires PSWindowsUpdate Module)
+
+Checks for Windows updates:
+
+```powershell
+Get-WindowsUpdate
+```
+
+Installs all available updates and restarts automatically:
+
+```powershell
+Install-WindowsUpdate -AcceptAll -AutoReboot
+```
+
+---
+
+## 📋 10. Event Logs
+
+Shows the latest 20 system log entries:
+
+```powershell
+Get-EventLog -LogName System -Newest 20
+```
+
+Shows the last 10 application error logs:
+
+```powershell
+Get-EventLog -LogName Application -EntryType Error -Newest 10
+```
+
+---
+
+## 💽 11. Disk and Storage
+
+Shows drive info and free space:
+
+```powershell
+Get-PSDrive
+```
+
+Lists volume info:
+
+```powershell
+Get-Volume
+```
+
+Shows physical disk details:
+
+```powershell
+Get-Disk
+```
+
+Lists all partitions:
+
+```powershell
+Get-Partition
+```
+
+---
+
+## 🔧 12. Process Management
+
+Shows all running processes:
+
+```powershell
+Get-Process
+```
+
+Stops a specific process:
+
+```powershell
+Stop-Process -Name "notepad"
+```
+
+Starts a program:
+
+```powershell
+Start-Process -FilePath "notepad.exe"
+```
+
+---
+
+## 🧹 13. Miscellaneous
+
+Clears the PowerShell screen:
+
+```powershell
+Clear-Host
+```
+
+Shows command history:
+
+```powershell
+Get-History
+```
+
+Starts recording the session to a log file:
+
+```powershell
+Start-Transcript -Path "C:\PowerShellLog.txt"
+```
+
+Stops the recording session:
+
+```powershell
+Stop-Transcript
+```
+
+---
+
+## 🧭 14. Common Aliases
+
+| Alias | Equivalent      |
 | ----- | --------------- |
 | `ls`  | `Get-ChildItem` |
 | `cd`  | `Set-Location`  |
@@ -256,6 +436,8 @@
 
 ---
 
-## Pro Tip
+## ✅ Pro Tip
 
-Use `Tab` to autocomplet
+Use `Tab` to autocomplete and `Ctrl + C` to stop a running command.
+
+---
