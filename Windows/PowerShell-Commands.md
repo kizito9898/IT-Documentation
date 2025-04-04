@@ -312,7 +312,7 @@ Restart-Service -Name wuauserv
 
 ---
 
-## 🔄 9. Windows Updates (Requires PSWindowsUpdate Module)
+## 9. Windows Updates (Requires PSWindowsUpdate Module)
 
 Checks for Windows updates:
 
@@ -328,7 +328,7 @@ Install-WindowsUpdate -AcceptAll -AutoReboot
 
 ---
 
-## 📋 10. Event Logs
+##  10. Event Logs
 
 Shows the latest 20 system log entries:
 
@@ -344,7 +344,7 @@ Get-EventLog -LogName Application -EntryType Error -Newest 10
 
 ---
 
-## 💽 11. Disk and Storage
+##  11. Disk and Storage
 
 Shows drive info and free space:
 
@@ -372,7 +372,7 @@ Get-Partition
 
 ---
 
-## 🔧 12. Process Management
+##  12. Process Management
 
 Shows all running processes:
 
@@ -394,7 +394,7 @@ Start-Process -FilePath "notepad.exe"
 
 ---
 
-## 🧹 13. Miscellaneous
+##  13. Miscellaneous
 
 Clears the PowerShell screen:
 
@@ -422,7 +422,7 @@ Stop-Transcript
 
 ---
 
-## 🧭 14. Common Aliases
+##  14. Common Aliases
 
 | Alias | Equivalent      |
 | ----- | --------------- |
@@ -434,10 +434,5 @@ Stop-Transcript
 | `rm`  | `Remove-Item`   |
 | `cat` | `Get-Content`   |
 
----
-
-## ✅ Pro Tip
-
-Use `Tab` to autocomplete and `Ctrl + C` to stop a running command.
 
 ---
