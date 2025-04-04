@@ -217,4 +217,3 @@ wmic startup where name="appname" call disable
 net user username /delete
 ```
 ```
-```
