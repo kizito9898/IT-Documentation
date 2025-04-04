@@ -1,438 +1,259 @@
-#  PowerShell Cheat Sheet for IT Support (Beginner Friendly)
+# 🧠 **PowerShell Cheat Sheet for IT Support** (Beginner Friendly)
+
+PowerShell is a powerful tool that helps IT support teams troubleshoot, manage systems, and automate tasks efficiently. This guide covers the most commonly used commands to help you get started.  
 
 ---
 
-##  1. Getting Help
+## 🆘 **1. Getting Help**  
 
-Displays help about PowerShell commands:
+New to PowerShell? Don't worry! You can always ask for help.  
 
+### See general help information:
 ```powershell
 Get-Help
 ```
+This command will show basic information about PowerShell commands.  
 
-Shows help info for a specific command:
-
+### Find out what a specific command does:
 ```powershell
 Get-Help Get-Service
 ```
+Think of this like checking a dictionary for a word’s meaning.  
 
-Displays usage examples for a command:
-
+### See examples of how to use a command:
 ```powershell
 Get-Help Get-Service -Examples
 ```
+If you're unsure how to use a command, this will show real-world examples.  
 
 ---
 
-##  2. Getting Commands and Modules
+## 🔍 **2. Finding Commands and Modules**  
 
-Lists all available PowerShell commands:
-
+### List all available PowerShell commands:
 ```powershell
 Get-Command
 ```
+This helps you discover what PowerShell can do.  
 
-Shows currently loaded modules:
-
+### Check which modules (toolkits) are loaded:
 ```powershell
 Get-Module
 ```
+Modules contain extra commands for specific tasks.  
 
-Lists all installed PowerShell modules:
-
+### See all installed modules on your system:
 ```powershell
 Get-Module -ListAvailable
 ```
+If you're missing a command, it might be in a module that isn't loaded yet.  
 
-Loads the Active Directory module:
-
+### Load the Active Directory module (for managing users, groups, and computers):
 ```powershell
 Import-Module ActiveDirectory
 ```
+You need this if you're working with users in an organization.  
 
 ---
 
-##  3. System Information
+## 🖥️ **3. Checking System Information**  
 
-Displays the computer name:
-
+### Find out your computer’s name:
 ```powershell
 hostname
 ```
+Useful when connecting to remote systems.  
 
-Shows detailed system info:
-
+### Get detailed system information:
 ```powershell
 Get-ComputerInfo
 ```
+This gives a full breakdown of your PC’s specs.  
 
-Legacy command for system summary:
-
-```powershell
-systeminfo
-```
-
-Retrieves OS information via WMI:
-
+### Check your Windows version and OS details:
 ```powershell
 Get-WmiObject win32_operatingsystem
 ```
+Helpful when troubleshooting compatibility issues.  
 
-Displays system manufacturer, model, and memory info:
-
+### Find out how much RAM you have and your computer model:
 ```powershell
 Get-WmiObject Win32_ComputerSystem
 ```
+Good for checking if a PC meets software requirements.  
 
-Lists all running processes:
-
+### List all running programs (processes):
 ```powershell
 Get-Process
 ```
+If your PC is running slow, this helps you see what’s consuming resources.  
 
-Lists all Windows services:
-
+### List all services (background programs) running:
 ```powershell
 Get-Service
 ```
+If something isn’t working, check if the required service is running.  
 
 ---
 
-##  4. Network Troubleshooting
+## 🌐 **4. Network Troubleshooting**  
 
-Pings a remote host:
-
+### Test if a website or server is reachable (like using "ping"):
 ```powershell
 Test-Connection google.com
 ```
+If a website isn’t loading, this checks if the issue is on your end.  
 
-Displays IP address configuration:
-
+### View your computer’s IP address:
 ```powershell
 Get-NetIPAddress
 ```
+Use this when setting up a network or troubleshooting connection issues.  
 
-Legacy IP configuration command:
-
-```powershell
-ipconfig
-```
-
-Lists network adapters:
-
+### See all available network adapters:
 ```powershell
 Get-NetAdapter
 ```
+Helpful for checking if your Wi-Fi or Ethernet is working.  
 
-Tests DNS resolution:
-
+### Test if a domain name resolves correctly (DNS check):
 ```powershell
 Resolve-DnsName google.com
 ```
+Use this if you have internet but websites don’t load properly.  
 
 ---
 
-##  5. User Management
+## 👥 **5. Managing Users (Local & Active Directory)**  
 
-###  Local Users
+### 🏠 Local Users  
 
-Lists all local users:
-
+### List all user accounts on your computer:
 ```powershell
 net user
 ```
+If you need to check who has access to the PC.  
 
-Gets domain user account information:
-
+### View details of a domain user:
 ```powershell
 net user username /domain
 ```
+Useful when checking login issues for domain users.  
 
-###  Active Directory Users (Requires AD Module)
+### 🏢 Active Directory (For IT Support in Organizations)  
 
-Retrieves a user from Active Directory:
-
+### Find a user in Active Directory:
 ```powershell
 Get-ADUser username
 ```
+See if a user exists in the system.  
 
-Retrieves all properties of a user:
-
+### View all details about a user:
 ```powershell
 Get-ADUser username -Properties *
 ```
+Useful for troubleshooting access issues.  
 
-Changes the title attribute of a user:
-
-```powershell
-Set-ADUser username -Title "Support Technician"
-```
-
-Unlocks a locked AD account:
-
-```powershell
-Unlock-ADAccount -Identity username
-```
-
-Enables a user account:
-
-```powershell
-Enable-ADAccount -Identity username
-```
-
-Disables a user account:
-
-```powershell
-Disable-ADAccount -Identity username
-```
-
-Resets a user's password:
-
+### Reset a user’s password:
 ```powershell
 Set-ADAccountPassword -Identity username -Reset -NewPassword (ConvertTo-SecureString "NewPassword123" -AsPlainText -Force)
 ```
+A lifesaver when someone forgets their password!  
+
+### Unlock a locked account:
+```powershell
+Unlock-ADAccount -Identity username
+```
+If a user gets locked out, this will let them log back in.  
 
 ---
 
-##  6. Microsoft 365 (Requires MSOnline or ExchangeOnline Module)
+## ☁️ **6. Microsoft 365 Management (Requires MSOnline Module)**  
 
-###  Connect to Services
-
-Connects to Microsoft 365 (MSOnline module):
-
+### Connect to Microsoft 365 admin services:
 ```powershell
 Connect-MsolService
 ```
+Required before managing users in Microsoft 365.  
 
-Connects to Exchange Online:
-
-```powershell
-Connect-ExchangeOnline
-```
-
-### User and Mailbox Management
-
-Lists all Microsoft 365 users:
-
+### List all Microsoft 365 users:
 ```powershell
 Get-MsolUser
 ```
+Check if an employee has a valid Microsoft 365 account.  
 
-Resets a Microsoft 365 user’s password:
-
+### Reset a user’s Microsoft 365 password:
 ```powershell
 Set-MsolUserPassword -UserPrincipalName user@domain.com -NewPassword "Password123" -ForceChangePassword $true
 ```
+Very useful for IT support when someone forgets their login.  
 
-Lists mailboxes:
-
+### List all mailboxes in Exchange Online:
 ```powershell
 Get-Mailbox
 ```
-
-Sets primary and alias email addresses:
-
-```powershell
-Set-Mailbox user@domain.com -EmailAddresses "SMTP:user@domain.com","smtp:alias@domain.com"
-```
+Verify if a user has a mailbox assigned.  
 
 ---
 
-##  7. File and Folder Management
+## 📁 **7. Managing Files and Folders**  
 
-Lists files and folders:
-
+### View files in a folder:
 ```powershell
 Get-ChildItem
 ```
+Think of this as using "ls" in Linux or "dir" in Windows.  
 
-Recursively lists files/folders in a directory:
-
-```powershell
-Get-ChildItem -Path "C:\Users" -Recurse
-```
-
-Copies a file:
-
+### Copy a file to another location:
 ```powershell
 Copy-Item -Path "C:\file.txt" -Destination "D:\Backup\file.txt"
 ```
+Great for backups.  
 
-Moves a file:
-
+### Move (cut & paste) a file:
 ```powershell
 Move-Item -Path "C:\file.txt" -Destination "D:\file.txt"
 ```
+Use this instead of dragging files manually.  
 
-Deletes a file:
-
+### Delete a file:
 ```powershell
 Remove-Item -Path "C:\file.txt"
 ```
-
-Creates a new folder:
-
-```powershell
-New-Item -Path "C:\NewFolder" -ItemType Directory
-```
+Be careful—this doesn’t go to the Recycle Bin!  
 
 ---
 
-##  8. Service Management
+## ⚙️ **8. Managing Windows Services**  
 
-Gets all services:
-
-```powershell
-Get-Service
-```
-
-Checks the status of Windows Update service:
-
+### Check if a service is running:
 ```powershell
 Get-Service -Name wuauserv
 ```
+(Checks Windows Update service status)  
 
-Starts a service:
-
+### Start a service:
 ```powershell
 Start-Service -Name wuauserv
 ```
 
-Stops a service:
-
+### Stop a service:
 ```powershell
 Stop-Service -Name wuauserv
 ```
 
-Restarts a service:
-
+### Restart a service:
 ```powershell
 Restart-Service -Name wuauserv
 ```
+If an app isn’t working, restarting its service might fix it.  
 
 ---
 
-## 9. Windows Updates (Requires PSWindowsUpdate Module)
+## ✅ **Pro Tips**  
 
-Checks for Windows updates:
-
-```powershell
-Get-WindowsUpdate
-```
-
-Installs all available updates and restarts automatically:
-
-```powershell
-Install-WindowsUpdate -AcceptAll -AutoReboot
-```
-
----
-
-##  10. Event Logs
-
-Shows the latest 20 system log entries:
-
-```powershell
-Get-EventLog -LogName System -Newest 20
-```
-
-Shows the last 10 application error logs:
-
-```powershell
-Get-EventLog -LogName Application -EntryType Error -Newest 10
-```
-
----
-
-##  11. Disk and Storage
-
-Shows drive info and free space:
-
-```powershell
-Get-PSDrive
-```
-
-Lists volume info:
-
-```powershell
-Get-Volume
-```
-
-Shows physical disk details:
-
-```powershell
-Get-Disk
-```
-
-Lists all partitions:
-
-```powershell
-Get-Partition
-```
-
----
-
-##  12. Process Management
-
-Shows all running processes:
-
-```powershell
-Get-Process
-```
-
-Stops a specific process:
-
-```powershell
-Stop-Process -Name "notepad"
-```
-
-Starts a program:
-
-```powershell
-Start-Process -FilePath "notepad.exe"
-```
-
----
-
-##  13. Miscellaneous
-
-Clears the PowerShell screen:
-
-```powershell
-Clear-Host
-```
-
-Shows command history:
-
-```powershell
-Get-History
-```
-
-Starts recording the session to a log file:
-
+✔️ Press `Tab` to autocomplete commands.  
+✔️ Use `Ctrl + C` to stop a running command.  
+✔️ To save your session's output, use:  
 ```powershell
 Start-Transcript -Path "C:\PowerShellLog.txt"
-```
-
-Stops the recording session:
-
-```powershell
-Stop-Transcript
-```
-
----
-
-##  14. Common Aliases
-
-| Alias | Equivalent      |
-| ----- | --------------- |
-| `ls`  | `Get-ChildItem` |
-| `cd`  | `Set-Location`  |
-| `pwd` | `Get-Location`  |
-| `cp`  | `Copy-Item`     |
-| `mv`  | `Move-Item`     |
-| `rm`  | `Remove-Item`   |
-| `cat` | `Get-Content`   |
-
-
----
