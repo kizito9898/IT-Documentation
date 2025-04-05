@@ -92,6 +92,7 @@ If you want more features displayed (like showing more details about a user):
 
 ---
 
-* **Creating an Organizational Unit in Active Directory ** 
-- Start Menu → Active Directory Users & Computers → Navigate to your domain Controller (**)  
+* **Creating an Organizational Unit in Active Directory**
+
+- Start Menu → Active Directory Users & Computers → Navigate to your domain Controller (**Njikason**)  
 Right click on it → New → Organizational Unit → Name it (HR) and OK
