@@ -73,10 +73,6 @@ Virtual machines on one server
 
 - Navigate to **Server Manager** from the **Start Menu** ➝  
   On the top right, click **Manage** ➝ **Add roles and features**
-# Windows Server Setup & Static IP Configuration
-
-## Active Directory Domain Services Installation
-
 **Before you begin:**
 
 1. Open **Server Manager**.
@@ -88,7 +84,7 @@ Virtual machines on one server
 7. Click **Next**, then **Install** (wait for it to succeed).
 8. Click **Promote this server to a domain controller**.
 9. Select **Add a new forest**.
-10. Enter the **Root domain name** (e.g., `mykasm.com`).
+10. Enter the **Root domain name** (e.g., `Njikason.com`).
 11. Create a password (e.g., `Password@123`).
 12. Click **Next**.
 13. Wait for **Prerequisites check**.
