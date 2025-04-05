@@ -73,7 +73,7 @@ Virtual machines on one server
 
 - Navigate to **Server Manager** from the **Start Menu** ➝  
   On the top right, click **Manage** ➝ **Add roles and features**
-
+![Screenshot]
 **Before you begin:**
 1. Open **Server Manager**.
 2. Click **Next**.
