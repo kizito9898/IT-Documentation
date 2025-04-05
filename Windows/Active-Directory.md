@@ -7,8 +7,7 @@ It helps organizations:
 - Enforce security policies  
 - Simplify administration  
 
----
-# Windows Server Setup & Static IP Configuration
+-
 
 ## Active Directory Domain Services Installation
 
@@ -32,25 +31,6 @@ It helps organizations:
 > **Note:** Active Directory Users & Computers are now installed in the server.
 
 ---
-
-## Creating a Static IP for Server 2022
-
-1. In the search bar, type **Control Panel**.
-2. Go to **Network and Internet**.
-3. Click **View network status and tasks**.
-4. Click **Change adapter settings**.
-5. Right-click **Ethernet** > Select **Properties**.
-6. Click on **Internet Protocol Version 4 (TCP/IPv4)**.
-7. Select **Use the following IP address** and configure the static IP.
-
-> In a **corporate environment**, Windows Server usually has a **static IP address**.
-
----
-
-## VM Network Configuration
-
-- Change the **virtual machine network** from **NAT** to **Host-only**.
-
 ## Creating a New Account in Active Directory
 
 1. From the **Start Menu**, click on **Windows Administrative Tools**.
