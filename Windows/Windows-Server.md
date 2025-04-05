@@ -128,7 +128,7 @@ Click on the Active File Explorer → Properties → change Settings → Compute
 * Navigate to your Control panel → Search & type Control Panel → View network status & tasks → change adapter
 Settings → Ethernet → Properties → Disable IPv6 → Click on (TCP/IPv4) → Use the following IP address and click ok  
 Use ping command to try and reach your Windows Server
-!
+![Screenshot](images/screenshot)
 
 ---
 
