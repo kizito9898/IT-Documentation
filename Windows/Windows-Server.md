@@ -26,7 +26,7 @@ Virtual machines on one server
    - Download VMware Workstation Pro on the official website (Browser)
      *(32 or 64bit depending on your computer)*  
    - **Download Windows Server 2022 ISO file** *(Free trial 180 days)*
-![Screenshot](images/screenshot)
+![Screenshot](images/screenshot02.jpg)
 ---
 
 2. **Open your Workstation and click on Create a New Virtual Machine**
@@ -37,7 +37,7 @@ Virtual machines on one server
 ---
 
 - **Once the Virtual Machine is Created**, click on **Edit Virtual Settings** ➝ CD/DVD (SATA) ➝ Use ISO Image file *(Browse to your downloaded ISO file)* and Select and OK
-
+![Screenshot](images/screens)
 ---
 
 3. **Power on the Virtual Machine**
