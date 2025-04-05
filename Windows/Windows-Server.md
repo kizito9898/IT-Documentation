@@ -119,7 +119,7 @@ Virtual machines on one server
 
 * To enforce/practice with Windows Server (group policy, Active Directory users & Computers, Troubleshooting Skills )
 
-* If it's a new Computer, for home lab (Renaming the PC will be easy to remember the Computer)  
+* If it's a new install, for home lab (Renaming the PC will be easy to remember the Computer)  
 Click on the Active File Explorer → Properties → change Settings → Computer name → Rename the Computer → Restart the Computer
 
 ---
