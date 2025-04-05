@@ -73,7 +73,7 @@ Virtual machines on one server
 
 - Navigate to **Server Manager** from the **Start Menu** ➝  
   On the top right, click **Manage** ➝ **Add roles and features**
-![Screenshot]
+![Screenshot](images/screenshot05.jpg)
 **Before you begin:**
 1. Open **Server Manager**.
 2. Click **Next**.
@@ -110,5 +110,5 @@ Virtual machines on one server
 
 ## VM Network Configuration
 
-- Change the **virtual machine network** from **NAT** to **Host-only**.
+- Change the **virtual machine network** from **NAT** to **Host-only** sp that
 
