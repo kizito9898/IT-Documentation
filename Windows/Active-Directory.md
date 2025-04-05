@@ -61,7 +61,7 @@ If you want more features displayed (like showing more details about a user):
 - Set the location to **Entire Directory**.
 - Type the name or description of the object.
 - Click **Find Now**.
-![]
+![Screenshot](images/screenshot56.jpg)
 ---
 
 ## Enable Recycle Bin in Active Directory
