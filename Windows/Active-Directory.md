@@ -54,7 +54,39 @@ If you want more features displayed (like showing more details about a user):
 
 ## How to Find a User, Contact, and Groups in Active Directory
 
-1. Navigate to your Domain Controller (e.g., **Njikason.com**).
-2. Right-click on it → Select **Find**.
-3. Set the search scope to **Entire Directory** (in case the users or objects are not in the default Users OU).
-![Screenshot](images/screenshot56.jpg)
+## Finding a User, Contact, or Group in Active Directory
+
+- Open **Active Directory Users & Computers**.
+- In the left-hand panel, select your domain (e.g., **Mykason**).
+- Go to the **Find** option.
+- Select the object type (User, Contact, or Group).
+- Set the location to **Entire Directory**.
+- Type the name or description of the object.
+- Click **Find Now**.
+
+---
+
+## Enable Recycle Bin in Active Directory
+
+1. On your **Start Menu**, click on **Active Directory Administrative Center**.
+2. Select your **Domain Name** (e.g., *Mykason*).
+3. On the right-hand pane, look for **Enable Recycle Bin for Domain Level**.
+4. Click to enable. You’ll get a prompt → Click **OK**.
+
+> This allows you to retrieve accidentally deleted accounts or objects using the Recycle Bin.
+
+---
+
+## Using the Copy Method
+
+- **Copying a user account** gives you the ability to fast-track account creation—especially when the new user should have similar group memberships and permissions as an existing user.
+- This is useful when the user belongs to the same groups, OUs, etc.
+
+### Steps:
+
+1. Right-click on the existing user.
+2. Select **Copy**.
+3. Enter a **New Username** and **Password**.
+4. Click **Next**, then **Finish**.
+
+> Now both users have the same privileges and are members of the same groups.
