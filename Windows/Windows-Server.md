@@ -103,7 +103,7 @@ Virtual machines on one server
 5. Right-click **Ethernet** > Select **Properties**.
 6. Click on **Internet Protocol Version 4 (TCP/IPv4)**.
 7. Select **Use the following IP address** and configure the static IP.
-
+![Screenshot](images/screenshot59.jpg)
 > In a **corporate environment**, Windows Server usually has a **static IP address**.
 
 ---
