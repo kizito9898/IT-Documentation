@@ -73,4 +73,46 @@ Virtual machines on one server
 
 - Navigate to **Server Manager** from the **Start Menu** ➝  
   On the top right, click **Manage** ➝ **Add roles and features**
+# Windows Server Setup & Static IP Configuration
+
+## Active Directory Domain Services Installation
+
+**Before you begin:**
+
+1. Open **Server Manager**.
+2. Click **Next**.
+3. Select **Role-based or feature-based installation**.
+4. Click **Next**.
+5. Click on **Active Directory Domain Services**.
+6. Click **Add Features**.
+7. Click **Next**, then **Install** (wait for it to succeed).
+8. Click **Promote this server to a domain controller**.
+9. Select **Add a new forest**.
+10. Enter the **Root domain name** (e.g., `mykasm.com`).
+11. Create a password (e.g., `Password@123`).
+12. Click **Next**.
+13. Wait for **Prerequisites check**.
+14. Click **Install** — it will restart your computer.
+
+> **Note:** Active Directory Users & Computers are now installed in the server.
+
+---
+
+## Creating a Static IP for Server 2022
+
+1. In the search bar, type **Control Panel**.
+2. Go to **Network and Internet**.
+3. Click **View network status and tasks**.
+4. Click **Change adapter settings**.
+5. Right-click **Ethernet** > Select **Properties**.
+6. Click on **Internet Protocol Version 4 (TCP/IPv4)**.
+7. Select **Use the following IP address** and configure the static IP.
+
+> In a **corporate environment**, Windows Server usually has a **static IP address**.
+
+---
+
+## VM Network Configuration
+
+- Change the **virtual machine network** from **NAT** to **Host-only**.
 
