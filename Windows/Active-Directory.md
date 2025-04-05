@@ -67,7 +67,7 @@ If you want more features displayed (like showing more details about a user):
 ## Enable Recycle Bin in Active Directory
 
 1. On your **Start Menu**, click on **Active Directory Administrative Center**.
-2. Select your **Domain Name** (e.g., *Mykason*).
+2. Select your **Domain Name** (e.g., **Njikason.com**).
 3. On the right-hand pane, look for **Enable Recycle Bin for Domain Level**.
 4. Click to enable. You’ll get a prompt → Click **OK**.
 
