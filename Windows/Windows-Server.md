@@ -121,6 +121,7 @@ Virtual machines on one server
 
 * If it's a new install, for home lab (Renaming the PC will be easy to remember the Computer)  
 Click on the Active File Explorer → Properties → change Settings → Computer name → Rename the Computer → Restart the Computer
+!
 
 ---
 
