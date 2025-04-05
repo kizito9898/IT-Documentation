@@ -131,7 +131,7 @@ Use ping command to try and reach your Windows Server
 ![Screenshot](images/screenshot61.jpg)
 
 **pinging the server**
-![Screenshot]
+![Screenshot](images/screenshot62.jpg)
 
 ---
 
