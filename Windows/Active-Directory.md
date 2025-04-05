@@ -96,5 +96,5 @@ If you want more features displayed (like showing more details about a user):
 
 - Start Menu → Active Directory Users & Computers → Navigate to your domain Controller (**Njikason**)  
 Right click on it → New → Organizational Unit → Name it (HR) and OK.
-
+![Screennshot](images/screenshot08.jpg)
 
