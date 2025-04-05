@@ -130,15 +130,15 @@ Use ping command to try and reach your Windows Server
 
 ---
 
-* Now join the Computer to the Domain  
+* **Now join the Computer to the Domain  
 Click on the File Explorer → Right click on This PC → Properties → Domain or Workgroup (Win 11) → Advance Settings (Win10) → member of Domain  
-administrator *username* (capitalpc\03) and password  
+administrator *username* (capitalp123) and password  
 The Computer has been joined to the domain
 
 ---
 
-* Logged in with the account (username) i created on Active Directory and now i can manage this account, reset password, disable account & apply group policies to the Computer.
+* Logged in with the account (username) I created on Active Directory and now i can manage this account, reset password, disable account & apply group policies to the Computer.
 
 ---
 
-*
+
