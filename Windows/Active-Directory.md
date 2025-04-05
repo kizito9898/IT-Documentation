@@ -7,8 +7,7 @@ It helps organizations:
 - Enforce security policies  
 - Simplify administration  
 
--
-
+---
 ## Active Directory Domain Services Installation
 
 **Before you begin:**
