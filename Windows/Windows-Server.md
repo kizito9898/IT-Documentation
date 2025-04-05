@@ -7,14 +7,15 @@ Windows Servers (like file, backup, company systems) — IT system. Keeps everyt
 - Various Versions of Windows Server  
 Windows Server 2003, 2008 & R2, 2012 & R2, 2016, 2019 and 2022.
 
-- **Windows Server Uses  
+- **Windows Server Uses**  
 Manage users & computers (Active Directory)  
 Shares & Security across a folder  
 DNS & Other Services - Helps Computers find each other on a Network  
 Virtual machines on one server  
 
-- Network  
+- **Network**  
 - Active Integration (Remote Desktop Services)  
 - Group Policy (GPO): Control Settings for multiple Computers  
 - WMI (Windows Management Instrumentation)  
 - Firewall Rules and Software Restrictions
+
