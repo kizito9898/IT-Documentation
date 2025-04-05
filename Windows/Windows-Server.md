@@ -37,7 +37,7 @@ Virtual machines on one server
 ---
 
 - **Once the Virtual Machine is Created**, click on **Edit Virtual Settings** ➝ CD/DVD (SATA) ➝ Use ISO Image file *(Browse to your downloaded ISO file)* and Select and OK
-![Screenshot](images/screens)
+![Screenshot](images/screenshot54.jpg)
 ---
 
 3. **Power on the Virtual Machine**
