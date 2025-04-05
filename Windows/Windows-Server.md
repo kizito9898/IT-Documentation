@@ -130,7 +130,7 @@ Use ping command to try and reach your Windows Server
 
 ---
 
-* **Now join the Computer to the Domain  
+* **Now join the Computer to the Domain**  
 Click on the File Explorer → Right click on This PC → Properties → Domain or Workgroup (Win 11) → Advance Settings (Win10) → member of Domain  
 administrator *username* (capitalp123) and password  
 The Computer has been joined to the domain
