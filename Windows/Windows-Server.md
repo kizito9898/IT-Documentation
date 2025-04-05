@@ -130,6 +130,8 @@ Settings → Ethernet → Properties → Disable IPv6 → Click on (TCP/IPv4) �
 Use ping command to try and reach your Windows Server
 ![Screenshot](images/screenshot61.jpg)
 
+**pinging the server**
+
 
 ---
 
