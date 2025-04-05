@@ -57,3 +57,4 @@ If you want more features displayed (like showing more details about a user):
 1. Navigate to your Domain Controller (e.g., **Njikason.com**).
 2. Right-click on it → Select **Find**.
 3. Set the search scope to **Entire Directory** (in case the users or objects are not in the default Users OU).
+![Screenshot](images/screenshot56.)
