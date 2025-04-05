@@ -54,16 +54,14 @@ If you want more features displayed (like showing more details about a user):
 
 ## How to Find a User, Contact, and Groups in Active Directory
 
-## Finding a User, Contact, or Group in Active Directory
-
 - Open **Active Directory Users & Computers**.
-- In the left-hand panel, select your domain (e.g., **Mykason**).
+- In the left-hand panel, select your domain (e.g., **Njikason.com**).
 - Go to the **Find** option.
 - Select the object type (User, Contact, or Group).
 - Set the location to **Entire Directory**.
 - Type the name or description of the object.
 - Click **Find Now**.
-
+![]
 ---
 
 ## Enable Recycle Bin in Active Directory
