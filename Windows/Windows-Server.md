@@ -51,7 +51,7 @@ Virtual machines on one server
   *(Windows Server 2022 Standard Evaluation - Desktop Experience)* ➝ **Next** ➝ Accept terms & conditions ➝  
   Custom: Install Microsoft Server operating system only ➝  
   Installing Microsoft Server operating system...
-![]
+![Screenshot](images/screenshot03.jpg)
 ### After Installing
 - **Username**: administrator *(only default)*
 - **Password**:  
