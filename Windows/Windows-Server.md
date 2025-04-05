@@ -44,3 +44,33 @@ Virtual machines on one server
    - During the booting process, quickly press any key to boot from CD or DVD to load the ISO.  
      If you miss it, shut it down and power again. Keep pressing any key to boot.
 
+## Installing Windows Server 2022
+
+- The ISO file will prompt Server operating system setup. Click on **Next** ➝ **Install Now**
+- Select the operating system you want to install  
+  *(Windows Server 2022 Standard Evaluation - Desktop Experience)* ➝ **Next** ➝ Accept terms & conditions ➝  
+  Custom: Install Microsoft Server operating system only ➝  
+  Installing Microsoft Server operating system...
+
+### After Installing
+- **Username**: administrator *(only default)*
+- **Password**:  
+- **Re-enter Password**
+
+---
+
+### 3. Renaming the Server to Something Simple
+
+- Navigate to **File Explorer** ➝  
+  Right click on **This PC** ➝ **Properties** ➝ **Advanced System Settings** ➝  
+  Computer Name tab ➝ Click **Change** ➝ Enter new computer name *(e.g., Server2022)* ➝  
+  Click **OK** (it will prompt to restart the machine) ➝  
+  **Restart Now**
+
+---
+
+### 4. Create Active Directory Domain Services
+
+- Navigate to **Server Manager** from the **Start Menu** ➝  
+  On the top right, click **Manage** ➝ **Add roles and features**
+
