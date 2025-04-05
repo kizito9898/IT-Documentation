@@ -1,6 +1,6 @@
 # How to Get Started with Windows Server 2022 (Hands-on)
 
-- **What is Windows Server** 
+## **What is Windows Server** 
 Windows Server is a special version of Windows made for businesses to help manage computers, users and networks. Unlike Windows 10 or 11, which people use for personal tasks, Windows Server is designed for IT professionals to control and organize company systems.  
 Windows Servers (like file, backup, company systems) — IT system. Keeps everything running smoothly.
 
