@@ -19,3 +19,28 @@ Virtual machines on one server
 - WMI (Windows Management Instrumentation)  
 - Firewall Rules and Software Restrictions
 
+# Setting up Windows Server 2022 on a Virtual Machine
+
+1. **Download VirtualBox or VMware Workstation Pro**
+   - Download Windows host (for Windows) & Extension Pack
+   - Download VMware Workstation Pro on the official website (Browser)
+     *(32 or 64bit depending on your computer)*  
+   - **Download Windows Server 2022 ISO file** *(Free trial 180 days)*
+
+---
+
+2. **Open your Workstation and click on Create a New Virtual Machine**
+   - Click on Typical *(Recommended)* ➝ Installer disc image file *(Browse the Downloads folder on your PC and click on the ISO file you just downloaded)*  
+   - Guest Operating System *(Windows)*  
+   - Name the Virtual Machine ➝ Specify Disk capacity *(by default it's 80GB)* ➝ Ready to Create Virtual Machine and Finish
+
+---
+
+- **Once the Virtual Machine is Created**, click on **Edit Virtual Settings** ➝ CD/DVD (SATA) ➝ Use ISO Image file *(Browse to your downloaded ISO file)* and Select and OK
+
+---
+
+3. **Power on the Virtual Machine**
+   - During the booting process, quickly press any key to boot from CD or DVD to load the ISO.  
+     If you miss it, shut it down and power again. Keep pressing any key to boot.
+
