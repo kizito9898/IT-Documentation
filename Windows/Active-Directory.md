@@ -11,7 +11,7 @@ It helps organizations:
 ## Active Directory Domain Services Installation
 
 **Before you begin:**
-
+![Screenshot](images/screenshot05.jpg)
 1. Open **Server Manager**.
 2. Click **Next**.
 3. Select **Role-based or feature-based installation**.
