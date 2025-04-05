@@ -6,7 +6,7 @@ Windows Servers (like file, backup, company systems) — IT system. Keeps everyt
 
 - Various Versions of Windows Server  
 Windows Server 2003, 2008 & R2, 2012 & R2, 2016, 2019 and 2022.
-
+![Screenshot](images/screenshot01.jpg)
 - **Windows Server Uses**  
 Manage users & computers (Active Directory)  
 Shares & Security across a folder  
