@@ -70,7 +70,7 @@ If you want more features displayed (like showing more details about a user):
 2. Select your **Domain Name** (e.g., **Njikason.com**).
 3. On the right-hand pane, look for **Enable Recycle Bin for Domain Level**.
 4. Click to enable. You’ll get a prompt → Click **OK**.
-![Screenshot]
+![Screenshot](images/screenshot07.jpg)
 > This allows you to retrieve accidentally deleted accounts or objects using the Recycle Bin.
 
 ---
