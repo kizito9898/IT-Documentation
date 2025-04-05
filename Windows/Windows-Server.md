@@ -111,3 +111,4 @@ Virtual machines on one server
 ## VM Network Configuration
 
 - Change the **virtual machine network** from **NAT** to **Host-only** so that the **VM** can talk to each other on the same network.
+![Screenshot](images/screenshot06.jpg)
