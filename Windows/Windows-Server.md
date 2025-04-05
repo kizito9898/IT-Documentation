@@ -66,7 +66,7 @@ Virtual machines on one server
   Computer Name tab ➝ Click **Change** ➝ Enter new computer name *(e.g., Server2022)* ➝  
   Click **OK** (it will prompt to restart the machine) ➝  
   **Restart Now**
-
+![Screenshot](images/screenshot04)
 ---
 
 ### 4. Create Active Directory Domain Services
