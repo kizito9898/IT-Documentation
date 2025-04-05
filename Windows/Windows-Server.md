@@ -125,3 +125,20 @@ Click on the Active File Explorer → Properties → change Settings → Compute
 ---
 
 * Navigate to your Control panel → Search & type Control Panel → View network status & tasks → change adapter
+Settings → Ethernet → Properties → Disable IPv6 → Click on (TCP/IPv4) → Use the following IP address and click ok  
+Use ping command to try and reach your Windows Server
+
+---
+
+* Now join the Computer to the Domain  
+Click on the File Explorer → Right click on This PC → Properties → Domain or Workgroup (Win 11) → Advance Settings (Win10) → member of Domain  
+administrator *username* (capitalpc\03) and password  
+The Computer has been joined to the domain
+
+---
+
+* Logged in with the account (username) i created on Active Directory and now i can manage this account, reset password, disable account & apply group policies to the Computer.
+
+---
+
+*
