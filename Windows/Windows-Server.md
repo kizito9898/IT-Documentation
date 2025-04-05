@@ -73,8 +73,8 @@ Virtual machines on one server
 
 - Navigate to **Server Manager** from the **Start Menu** ➝  
   On the top right, click **Manage** ➝ **Add roles and features**
-**Before you begin:**
 
+**Before you begin:**
 1. Open **Server Manager**.
 2. Click **Next**.
 3. Select **Role-based or feature-based installation**.
