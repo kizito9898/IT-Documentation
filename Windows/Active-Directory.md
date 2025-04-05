@@ -86,5 +86,6 @@ If you want more features displayed (like showing more details about a user):
 2. Select **Copy**.
 3. Enter a **New Username** and **Password**.
 4. Click **Next**, then **Finish**.
+5. check the members of and 
 ![Screenshot](images/screenshot57.jpg)
 > Now both users have the same privileges and are members of the same groups.
