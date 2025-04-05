@@ -146,6 +146,6 @@ The Computer has been joined to the domain
 
 * Logged in with the account (username) I created on Active Directory and now I can manage this account, reset password, disable account & apply group policies to the Computer.
 
-![Screensho]
+![Screenshot](images/screenshot63.jpg)
 
 
