@@ -40,7 +40,7 @@ It helps organizations:
    - User's name  
    - Password (check "User must change password at next login")  
 6. Click **Finish**.
-
+![Screenshot](images/screenshot55.)
 ---
 
 ## Show More Details About a User
