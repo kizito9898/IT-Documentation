@@ -113,3 +113,51 @@ Click **Apply** and **OK**.
    - **Wallpaper Style**: Choose **Center** or **Fill**
 
 5. Click **Apply** and **OK**
+
+# Group Policy Notes (Control Panel Restriction & USB Storage)
+
+## Restrict Access to Control Panel
+
+- **Purpose**: Prevent users from accessing the Control Panel.
+
+**Steps:**
+
+1. Create a GPO within the domain:
+   - Name it **Restrict Control Panel**
+
+2. Right-click on the GPO and click **Edit**.
+
+3. Navigate to:
+   - `User Configuration` → `Policies` → Expand `Administrative Templates` → `Control Panel`
+
+4. Double-click on:
+   - **Prohibit access to Control Panel and PC Settings**
+
+5. Set it to **Enabled**, then click **Apply** and **OK**.
+
+---
+
+## Disable USB Storage
+
+- **Purpose**: Prevent users from using USB storage devices.
+
+**Steps:**
+
+1. Right-click on the domain and create a GPO:
+   - Name it **Disable USB Devices**
+
+2. Right-click on the GPO and click **Edit**.
+
+3. Navigate to:
+   - `Computer Configuration` → `Policies` → Expand `Administrative Templates` → `System` → `Removable Storage Access`
+
+4. Double-click on:
+   - **All Removable Storage classes: Deny all access**
+
+5. Set it to **Enabled**, then click **Apply** and **OK**.
+
+---
+
+## Note
+
+You can configure any type of Group Policy depending on the company's need and apply it to the desired computers.
