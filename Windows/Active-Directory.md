@@ -183,6 +183,7 @@ Click **OK** to create the group.
 7. Click **Apply** and **OK**.
 ![Screenshot](images/screenshot004.jpg)
 > The account has been unblocked and the user can now log in.
+![]
 
 ---
 
