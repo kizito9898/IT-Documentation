@@ -122,7 +122,6 @@ Click **Apply** and **OK**.
 5. Set it to **Enabled**, then click **Apply** and **OK**.
 
 ---
-
 ## Disable USB Storage
 
 - **Purpose**: Prevent users from using USB storage devices.
@@ -138,8 +137,8 @@ Click **Apply** and **OK**.
 
 4. Double-click on:
    - **All Removable Storage classes: Deny all access**
-
-5. Set it to **Enabled**, then click **Apply** and **OK**.
+![Screenshot]
+4. Set it to **Enabled**, then click **Apply** and **OK**.
 
 ---
 
