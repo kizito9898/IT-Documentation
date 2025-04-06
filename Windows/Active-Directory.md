@@ -181,7 +181,7 @@ Click **OK** to create the group.
 5. Go to **Account** tab.
 6. Check **Unlock Account**.
 7. Click **Apply** and **OK**.
-
+![Screenshot](images/screenshot004.jpg)
 > The account has been unblocked and the user can now log in.
 
 ---
