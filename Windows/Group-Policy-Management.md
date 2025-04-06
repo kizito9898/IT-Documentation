@@ -100,8 +100,8 @@ Click **Apply** and **OK**.
    - Set to **Enabled**
    - **Wallpaper Name**: Provide full path to the wallpaper
    - **Wallpaper Style**: Choose **Center** or **Fill**
-
-5. Click **Apply** and **OK**
+![Screenshot](images/screenshot70.jpg)
+1. Click **Apply** and **OK**
 
 # Group Policy Notes (Control Panel Restriction & USB Storage)
 
