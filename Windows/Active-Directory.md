@@ -138,7 +138,7 @@ Right click on it → New → Organizational Unit → Name it (HR) and OK.
 ---
 
 ## Step 3: Configure the Group
-- **Group Name**: Enter a name for the group (e.g., `IT_Support_Team`).
+- **Group Name**: Enter a name for the group (e.g., `Senior Developers`).
 - **Group Scope**: Choose one of the following:
   - **Global** (default for user groups)
   - **Domain Local**
