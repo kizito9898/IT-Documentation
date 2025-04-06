@@ -51,11 +51,10 @@
    - **Minimum password length** – Define the policy and change
    - **Password must meet complexity requirements** – Enable
    - **Maximum password age** – Set to 90 days
-![Screenshot](images/screenshot)
+![Screenshot](images/screenshot68.jpg)
 Click **Apply** and **OK**.
 
 ---
-
 ## Account Lockout Policy
 
 **Steps:**
