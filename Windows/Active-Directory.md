@@ -134,7 +134,7 @@ Right click on it → New → Organizational Unit → Name it (HR) and OK.
 - Right-click the OU → Select **New** → Click **Group**.
 
 ## Step 3: Configure the Group
-- **Group Name**: Enter a name for the group (e.g., `Senior Developers`).
+- **Group Name**: Enter a name for the group (e.g., `Senior Engineers).
 - **Group Scope**: Choose one of the following:
   - **Global** (default for user groups)
   - **Domain Local**
@@ -144,7 +144,7 @@ Right click on it → New → Organizational Unit → Name it (HR) and OK.
   - **Distribution** (used for email distribution lists)
 
 Click **OK** to create the group.
-![Screenshot](images/screenshot00.j)
+![Screenshot](images/screenshot00.jpg)
 
 ---
 
@@ -153,6 +153,7 @@ Click **OK** to create the group.
 - Go to the **Members** tab → Click **Add**.
 - In the dialog box, type the names of users you want to add.
 - Click **Check Names** to verify → Click **OK** to add the users.
+!
 ##  Verify Group Membership
 - Open a user’s properties → Go to the **Member Of** tab to see their group memberships
 ---
