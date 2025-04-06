@@ -16,7 +16,7 @@
 1. Navigate to **Server Manager** → **Tools** → **Group Policy Management**.
 2. Click on **Forest** → **Domains** → Right-click on **Domain**.
 3. Select **Create a GPO in this domain**.
-
+![Screenshot](images/screenshot)
 
 ---
 
