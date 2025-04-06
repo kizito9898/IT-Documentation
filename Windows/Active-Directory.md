@@ -123,6 +123,50 @@ Right click on it → New → Organizational Unit → Name it (HR) and OK.
 - **Security**: Used to assign permissions to shared resources.
 - **Distribution**: Used to create email distribution lists (used to send email to a collection of users by using an email application like Exchange Server).
 ---
+# How to Create a Group and Add Members in Active Directory
+
+## Step 1: Open Active Directory Users and Computers (ADUC)
+- Press `Win + R`, type `dsa.msc`, and press `Enter`.
+- This opens the **Active Directory Users and Computers** console.
+
+---
+
+## Step 2: Navigate to the Desired OU (Organizational Unit)
+- Browse to the **Organizational Unit** where you want to create the group.
+- Right-click the OU → Select **New** → Click **Group**.
+
+---
+
+## Step 3: Configure the Group
+- **Group Name**: Enter a name for the group (e.g., `IT_Support_Team`).
+- **Group Scope**: Choose one of the following:
+  - **Global** (default for user groups)
+  - **Domain Local**
+  - **Universal**
+- **Group Type**:
+  - **Security** (used for permissions)
+  - **Distribution** (used for email distribution lists)
+
+Click **OK** to create the group.
+
+---
+
+## Step 4: Add Members to the Group
+- Right-click the group you just created → Click **Properties**.
+- Go to the **Members** tab → Click **Add**.
+- In the dialog box, type the names of users you want to add.
+- Click **Check Names** to verify → Click **OK** to add the users.
+
+---
+
+## Optional: Verify Group Membership
+- Open a user’s properties → Go to the **Member Of** tab to see their group memberships.
+
+---
+
+## Summary
+- Creating groups helps with **permission management**, **resource access**, and **organization** within Active Directory.
+- Use **security groups** for access control and **distribution groups** for email communications.
 
 ## How to Reset Password on Active Directory:
 
