@@ -45,7 +45,6 @@
 ## Configuring Password Policies
 
 **Steps:**
-
 1. Go to `Computer Configuration` → `Windows Settings` → `Security Settings`
 2. Click on `Account Policies` → `Password Policy`
 3. Configure the following:
