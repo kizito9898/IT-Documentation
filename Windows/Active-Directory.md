@@ -107,7 +107,7 @@ Right click on it → New → Organizational Unit → Name it (HR) and OK.
   - Navigate to the desired object (User, Computer, Group).
   - Right-click the object and select **Properties**.
   - Click on the **Attribute Editor** tab.
-![Screensho]
+![Screenshot](images/screenshot09.jpg)
 ---
 
 # Creating Groups in Active Directory
@@ -122,8 +122,8 @@ Right click on it → New → Organizational Unit → Name it (HR) and OK.
 
 - **Security**: Used to assign permissions to shared resources.
 - **Distribution**: Used to create email distribution lists (used to send email to a collection of users by using an email application like Exchange Server).
+---
 
-# Resetting Password in Active Directory
 
 ## How to Reset Password on Active Directory:
 
