@@ -129,13 +129,9 @@ Right click on it → New → Organizational Unit → Name it (HR) and OK.
 - Press `Win + R`, type `dsa.msc`, and press `Enter`.
 - This opens the **Active Directory Users and Computers** console.
 
----
-
 ## Step 2: Navigate to the Desired OU (Organizational Unit)
 - Browse to the **Organizational Unit** where you want to create the group.
 - Right-click the OU → Select **New** → Click **Group**.
-
----
 
 ## Step 3: Configure the Group
 - **Group Name**: Enter a name for the group (e.g., `Senior Developers`).
