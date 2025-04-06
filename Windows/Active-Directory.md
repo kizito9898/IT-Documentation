@@ -165,7 +165,7 @@ Click **OK** to create the group.
 4. Type the name of the user and find the name.
 5. Right-click on the user > **Reset Password**.
 6. Enter new password and confirm it (Reset & OK).
-![Screenshot]
+![Screenshot](images/screenshot002.jpg)
 > The user account password has been reset.
 
 ---
