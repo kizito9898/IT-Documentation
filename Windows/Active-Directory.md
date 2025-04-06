@@ -190,6 +190,6 @@ Click **OK** to create the group.
 # Disabling and Enabling User Accounts
 
 - You can **disable an account** by right-clicking on the user profile in **Active Directory** and selecting **Disable**.
-- 
- To **enable** the account, perform the same steps and select **Enable**.
+-  To **enable** the account, perform the same steps and select **Enable**.
+![Screenshot](images/screenshot00)
 
