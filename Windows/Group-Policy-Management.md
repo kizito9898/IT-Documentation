@@ -17,7 +17,7 @@
 1. Navigate to **Server Manager** → **Tools** → **Group Policy Management**.
 2. Click on **Forest** → **Domains** → Right-click on **Domain**.
 3. Select **Create a GPO in this domain**.
-4. Cl
+
 
 ---
 
@@ -28,3 +28,4 @@
 **Example:**
 - Name: `Password Policy`
 - Click **OK** and right-click to configure settings.
+- Click and **edit** 
