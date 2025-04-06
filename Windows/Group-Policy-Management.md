@@ -102,7 +102,7 @@ Click **Apply** and **OK**.
    - **Wallpaper Style**: Choose **Center** or **Fill**
 ![Screenshot](images/screenshot70.jpg)
 1. Click **Apply** and **OK**
-
+---
 # Group Policy Notes (Control Panel Restriction & USB Storage)
 
 ## Restrict Access to Control Panel
@@ -110,13 +110,10 @@ Click **Apply** and **OK**.
 - **Purpose**: Prevent users from accessing the Control Panel.
 
 **Steps:**
-
 1. Create a GPO within the domain:
    - Name it **Restrict Control Panel**
-
-2. Right-click on the GPO and click **Edit**.
-
-3. Navigate to:
+1. Right-click on the GPO and click **Edit**.
+2. Navigate to:
    - `User Configuration` → `Policies` → Expand `Administrative Templates` → `Control Panel`
 
 4. Double-click on:
