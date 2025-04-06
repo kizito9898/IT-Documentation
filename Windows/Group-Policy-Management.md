@@ -138,8 +138,8 @@ Click **Apply** and **OK**.
 
 4. Double-click on:
    - **All Removable Storage classes: Deny all access**
-
-5. Set it to **Enabled**, then click **Apply** and **OK**.
+!
+1. Set it to **Enabled**, then click **Apply** and **OK**.
 
 ---
 
