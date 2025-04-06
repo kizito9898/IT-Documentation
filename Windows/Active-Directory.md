@@ -123,3 +123,38 @@ Right click on it → New → Organizational Unit → Name it (HR) and OK.
 - **Security**: Used to assign permissions to shared resources.
 - **Distribution**: Used to create email distribution lists (used to send email to a collection of users by using an email application like Exchange Server).
 
+# Resetting Password in Active Directory
+
+## How to Reset Password on Active Directory:
+
+1. Navigate to **Windows Admin Tools** from the Start menu.
+2. Open **Active Directory Users & Computers** > select **Domain**.
+3. Right-click > Find > **Enter Directory**.
+4. Type the name of the user and find the name.
+5. Right-click on the user > **Reset Password**.
+6. Enter new password and confirm it (Reset & OK).
+
+> The user account password has been reset.
+
+---
+
+# Unlocking a User in Active Directory
+
+## How to Unlock a User from Active Directory:
+
+1. Go to **Active Directory** > Domain.
+2. Right-click and search for the user (or their OU or group).
+3. Select the correct entry in **Entire Directory**.
+4. Type the name correctly > tap on the user.
+5. Go to **Account** tab.
+6. Check **Unlock Account**.
+7. Click **Apply** and **OK**.
+
+> The account has been unblocked and the user can now log in.
+
+---
+
+# Disabling and Enabling User Accounts
+
+- You can **disable an account** by right-clicking on the user profile in **Active Directory** and selecting **Disable**.
+- To **enable** the account, perform the same steps and select **Enable**.
