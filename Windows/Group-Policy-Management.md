@@ -90,16 +90,12 @@ Click **Apply** and **OK**.
 - **Purpose**: Set a default desktop wallpaper for all users.
 
 **Steps:**
-
 1. Create a GPO in the domain:
    - Name it **Desktop Wallpaper**
-
 2. Right-click the GPO and select **Edit**
-
 3. Navigate to:
    - `User Configuration` → `Policies` → Expand `Administrative Templates` → Expand `Desktop` → `Desktop`  
    - Double-click on **Desktop Wallpaper**
-
 4. Configure the policy:
    - Set to **Enabled**
    - **Wallpaper Name**: Provide full path to the wallpaper
