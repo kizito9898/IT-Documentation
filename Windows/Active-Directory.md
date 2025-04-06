@@ -98,3 +98,28 @@ If you want more features displayed (like showing more details about a user):
 Right click on it → New → Organizational Unit → Name it (HR) and OK.
 ![Screennshot](images/screenshot08.jpg)
 
+# Attribute Editor
+
+- Displays detailed properties on an object that are not visible with standard GUI tabs.
+- **Steps to Access:**
+  - Open **Active Directory Users & Computers**.
+  - Click **View** > Enable **Advanced Features**.
+  - Navigate to the desired object (User, Computer, Group).
+  - Right-click the object and select **Properties**.
+  - Click on the **Attribute Editor** tab.
+
+---
+
+# Creating Groups in Active Directory
+
+## Group Scope
+
+- **Universal**: Account from any domain in the same forest.
+- **Global**: Account from the same domain.
+- **Domain Local**: Account from any domains or any trusted domains.
+
+## Group Type
+
+- **Security**: Used to assign permissions to shared resources.
+- **Distribution**: Used to create email distribution lists (used to send email to a collection of users by using an email application like Exchange Server).
+
