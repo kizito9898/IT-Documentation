@@ -141,7 +141,5 @@ Click **Apply** and **OK**.
 5. Set it to **Enabled**, then click **Apply** and **OK**.
 
 ---
-
 ## Note
-
 You can configure any type of Group Policy depending on the company's need and apply it to the desired computers.
