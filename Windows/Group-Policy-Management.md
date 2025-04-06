@@ -118,8 +118,8 @@ Click **Apply** and **OK**.
 
 4. Double-click on:
    - **Prohibit access to Control Panel and PC Settings**
-
-5. Set it to **Enabled**, then click **Apply** and **OK**.
+![Screenshot]
+4. Set it to **Enabled**, then click **Apply** and **OK**.
 
 ---
 
