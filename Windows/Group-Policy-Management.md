@@ -81,8 +81,8 @@ Click **Apply** and **OK**.
 4. Set the following:
    - **Location**: (e.g., \\Server2021\ShareFolder)
    - **Use**: Set to available (e.g., E: drive) or set as available to anyone.
-
-5. Click **Apply** and **OK**
+![Screenshot](images/screenshot69.jpg)
+4. Click **Apply** and **OK**
 
 ---
 ## Desktop Wallpaper Policy
