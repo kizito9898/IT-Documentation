@@ -36,7 +36,7 @@
 ## User Configuration
 - Applies to **users on the local machine**.
 - Will apply to **any new users in the future** on a local computer.
-
+![Screenshot](images/screenshot007.jpg)
 ### Under Configuration:
 - **Policies** – Can't be changed by users (e.g., password policies, account lockout policies).
 - **Preferences** – Can be changed by users (e.g., mapped network drives, printers, desktop shortcuts).
