@@ -58,7 +58,6 @@ Click **Apply** and **OK**.
 ## Account Lockout Policy
 
 **Steps:**
-
 1. Click on `Account Policies` → `Account Lockout Policy`
 2. Define:
    - **Account lockout duration** – Define this policy setting → Change → Apply → OK
@@ -70,7 +69,6 @@ Click **Apply** and **OK**.
 - **Purpose**: Map network drives for users when they log in using Group Policy Object (GPO).
 
 **Steps:**
-
 1. Create a GPO within the domain:
    - Right-click on the domain → Click `Create a GPO` → Name it **Drive Mapping** → Click OK
 
@@ -87,7 +85,6 @@ Click **Apply** and **OK**.
 5. Click **Apply** and **OK**
 
 ---
-
 ## Desktop Wallpaper Policy
 
 - **Purpose**: Set a default desktop wallpaper for all users.
