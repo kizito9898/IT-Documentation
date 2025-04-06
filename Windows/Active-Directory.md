@@ -124,7 +124,6 @@ Right click on it → New → Organizational Unit → Name it (HR) and OK.
 - **Distribution**: Used to create email distribution lists (used to send email to a collection of users by using an email application like Exchange Server).
 ---
 
-
 ## How to Reset Password on Active Directory:
 
 1. Navigate to **Windows Admin Tools** from the Start menu.
