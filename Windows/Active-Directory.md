@@ -183,7 +183,7 @@ Click **OK** to create the group.
 7. Click **Apply** and **OK**.
 ![Screenshot](images/screenshot004.jpg)
 > The account has been unblocked and the user can now log in.
-![]
+![Screenshot](images/screenshot003.jpg)
 
 ---
 
@@ -191,3 +191,4 @@ Click **OK** to create the group.
 
 - You can **disable an account** by right-clicking on the user profile in **Active Directory** and selecting **Disable**.
 - To **enable** the account, perform the same steps and select **Enable**.
+
