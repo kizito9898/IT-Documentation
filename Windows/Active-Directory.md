@@ -153,7 +153,7 @@ Click **OK** to create the group.
 - Go to the **Members** tab → Click **Add**.
 - In the dialog box, type the names of users you want to add.
 - Click **Check Names** to verify → Click **OK** to add the users.
-!
+![Screenshot](images/screenshot001.jpg)
 ##  Verify Group Membership
 - Open a user’s properties → Go to the **Member Of** tab to see their group memberships
 ---
