@@ -107,7 +107,7 @@ Right click on it → New → Organizational Unit → Name it (HR) and OK.
   - Navigate to the desired object (User, Computer, Group).
   - Right-click the object and select **Properties**.
   - Click on the **Attribute Editor** tab.
-
+![Screensho]
 ---
 
 # Creating Groups in Active Directory
