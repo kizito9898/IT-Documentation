@@ -112,8 +112,8 @@ Click **Apply** and **OK**.
 **Steps:**
 1. Create a GPO within the domain:
    - Name it **Restrict Control Panel**
-1. Right-click on the GPO and click **Edit**.
-2. Navigate to:
+2. Right-click on the GPO and click **Edit** 
+3. Navigate to:
    - `User Configuration` → `Policies` → Expand `Administrative Templates` → `Control Panel`
 
 4. Double-click on:
