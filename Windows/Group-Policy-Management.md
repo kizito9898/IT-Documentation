@@ -61,7 +61,7 @@ Click **Apply** and **OK**.
 1. Click on `Account Policies` → `Account Lockout Policy`
 2. Define:
    - **Account lockout duration** – Define this policy setting → Change → Apply → OK
-
+---
 # Group Policy Notes (Drive Mapping & Desktop Wallpaper)
 
 ## Drive Mapping
