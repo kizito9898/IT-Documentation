@@ -118,7 +118,7 @@ Click **Apply** and **OK**.
 
 4. Double-click on:
    - **Prohibit access to Control Panel and PC Settings**
-![Screenshot]
+![Screenshot](images/screenshot71.jpg)
 4. Set it to **Enabled**, then click **Apply** and **OK**.
 
 ---
@@ -128,7 +128,6 @@ Click **Apply** and **OK**.
 - **Purpose**: Prevent users from using USB storage devices.
 
 **Steps:**
-
 1. Right-click on the domain and create a GPO:
    - Name it **Disable USB Devices**
 
