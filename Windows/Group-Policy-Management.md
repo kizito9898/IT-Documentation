@@ -4,7 +4,6 @@
 ![Screenshot](images/screenshot66.jpg)
 
 ---
-
 ## How It Works
 
 - **Group Policy Objects (GPOs)** contain the rules and settings.
@@ -12,7 +11,6 @@
 - When a user logs in or a computer starts, it checks for policies and applies them.
 
 ---
-
 ## How to Locate Group Policy Management
 
 1. Navigate to **Server Manager** → **Tools** → **Group Policy Management**.
