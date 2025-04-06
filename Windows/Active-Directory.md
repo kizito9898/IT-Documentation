@@ -144,6 +144,7 @@ Right click on it → New → Organizational Unit → Name it (HR) and OK.
   - **Distribution** (used for email distribution lists)
 
 Click **OK** to create the group.
+![Screenshot](images/screenshot00.j)
 
 ---
 
