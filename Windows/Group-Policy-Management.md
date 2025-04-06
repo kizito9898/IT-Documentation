@@ -82,7 +82,7 @@ Click **Apply** and **OK**.
    - **Location**: (e.g., \\Server2021\ShareFolder)
    - **Use**: Set to available (e.g., E: drive) or set as available to anyone.
 ![Screenshot](images/screenshot69.jpg)
-4. Click **Apply** and **OK**
+5. Click **Apply** and **OK**
 
 ---
 ## Desktop Wallpaper Policy
@@ -101,7 +101,7 @@ Click **Apply** and **OK**.
    - **Wallpaper Name**: Provide full path to the wallpaper
    - **Wallpaper Style**: Choose **Center** or **Fill**
 ![Screenshot](images/screenshot70.jpg)
-1. Click **Apply** and **OK**
+5. Click **Apply** and **OK**
 ---
 # Group Policy Notes (Control Panel Restriction & USB Storage)
 
@@ -119,7 +119,7 @@ Click **Apply** and **OK**.
 4. Double-click on:
    - **Prohibit access to Control Panel and PC Settings**
 ![Screenshot](images/screenshot71.jpg)
-4. Set it to **Enabled**, then click **Apply** and **OK**.
+5. Set it to **Enabled**, then click **Apply** and **OK**.
 
 ---
 
@@ -138,8 +138,8 @@ Click **Apply** and **OK**.
 
 4. Double-click on:
    - **All Removable Storage classes: Deny all access**
-!
-1. Set it to **Enabled**, then click **Apply** and **OK**.
+
+5. Set it to **Enabled**, then click **Apply** and **OK**.
 
 ---
 
