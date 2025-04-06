@@ -156,18 +156,9 @@ Click **OK** to create the group.
 - Go to the **Members** tab → Click **Add**.
 - In the dialog box, type the names of users you want to add.
 - Click **Check Names** to verify → Click **OK** to add the users.
-
+##  Verify Group Membership
+- Open a user’s properties → Go to the **Member Of** tab to see their group memberships
 ---
-
-## Optional: Verify Group Membership
-- Open a user’s properties → Go to the **Member Of** tab to see their group memberships.
-
----
-
-## Summary
-- Creating groups helps with **permission management**, **resource access**, and **organization** within Active Directory.
-- Use **security groups** for access control and **distribution groups** for email communications.
-
 ## How to Reset Password on Active Directory:
 
 1. Navigate to **Windows Admin Tools** from the Start menu.
