@@ -4,7 +4,7 @@
 
 ## 1. How I Approach a Client in Need
 
-**My Goal**: Build trust, stay calm, and get the full picture of the issue before jumping into a solution.
+**My Goal**: is to Build trust, stay calm, and get the full picture of the issue before jumping into a solution.
 
 ### Here's how I usually handle it:
 
@@ -15,7 +15,7 @@
 
 - **I introduce myself and what I’ll be doing**
 
-  > *I’m Daniel—I'll be assisting you today to get this sorted out.*
+  > *I’m —I'll be assisting you today to get this sorted out.*
 
 - **I show that I understand it’s a real issue for them**
 
