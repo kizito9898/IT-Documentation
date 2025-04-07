@@ -180,7 +180,7 @@ If you'd like, I can also help you reset your password or guide you through sett
 Let me know how things go.
 
 Best regards,  
-Daniel  
+Kizito 
 IT Support
 
 ---
@@ -201,7 +201,7 @@ Please log in and change it to something secure as soon as possible.
 Let me know once you're back in, or if you need help changing it.
 
 Kind regards,  
-Daniel  
+Kizito  
 IT Support
 
 ---
