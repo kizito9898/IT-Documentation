@@ -15,7 +15,7 @@
 
 - **I introduce myself and what I’ll be doing**
 
-  > *I’m —I'll be assisting you today to get this sorted out.*
+  > *I’m Kizito for IT Support—I'll be assisting you today to get this sorted out.*
 
 - **I show that I understand it’s a real issue for them**
 
