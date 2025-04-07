@@ -1,7 +1,11 @@
 # My Customer Service Communication Style (IT Support)
 
 ---
+### **What is Customer Service in IT Support?**
 
+**Customer Service** in IT support refers to the way you interact with end-users when resolving their technical issues. It’s not just about solving problems—it’s about doing so in a way that makes users feel **heard, respected, and supported**.
+
+It's the bridge between technical solutions and user satisfaction.
 ## 1. How I Approach a Client in Need
 
 **My Goal**: is to Build trust, stay calm, and get the full picture of the issue before jumping into a solution.
