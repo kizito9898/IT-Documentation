@@ -223,7 +223,7 @@ IT Support
 
 - **I greet the client warmly**
 
-  > *Hi John! I’m Daniel from IT—just picked up your ticket. Let’s get this sorted out.*
+  > *Hi John! I’m Kizito from IT—just picked up your ticket. Let’s get this sorted out.*
 
 - **I give quick updates so they’re not left waiting**
 
