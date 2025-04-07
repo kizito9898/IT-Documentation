@@ -206,7 +206,7 @@ IT Support
 
 ---
 
-**Best Practices I Follow in Email:**
+**Best Practices I Follow in writing Email:**
 
 - I avoid blame or overly technical language.
 - I keep responses short, polite, and solution-focused.
