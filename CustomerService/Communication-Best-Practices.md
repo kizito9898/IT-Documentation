@@ -77,6 +77,45 @@ It's the bridge between technical solutions and user satisfaction.
   I keep it simple and don’t over-explain unless they ask.
 
 ---
+## 3.1 How I Explain Technical Terms to Non-Technical Clients
+
+**My Goal**: Help clients feel informed, not overwhelmed.
+
+Many clients I support aren’t tech-savvy, and that’s okay. I take care to **translate technical language into plain English**, especially when working with executives or users who may feel anxious about the problem.
+
+### What I do:
+
+- **I use everyday comparisons**
+  
+  > *The VPN is kind of like a secure tunnel that connects your computer to the office. Right now, it looks like the tunnel isn’t opening, but I can fix that.*
+
+- **I check their comfort level before diving into explanations**
+
+  > *Would you like a quick explanation of what happened, or just the steps to fix it? Totally up to you.*
+
+- **I focus on impact, not tech jargon**
+
+  > *The syncing issue was caused by a permissions error—basically, your account wasn’t allowed to access that folder, but I’ve updated it now so everything should work.*
+
+- **I avoid abbreviations unless I explain them**
+
+  > *We’ll use MFA—that’s multi-factor authentication, kind of like a second lock on the door when you sign in.*
+
+### My approach with executives:
+
+- I keep it high-level and impact-focused.
+
+  > *There was a temporary disruption in the file-sharing service. We’ve fixed it and added a backup rule to prevent it in the future. No data was lost.*
+
+- I offer reassurance and ownership.
+
+  > *We’ve got eyes on it and will continue monitoring. You’re good to go now.*
+
+---
+
+**Why This Matters**
+
+People trust you more when they **understand what’s going on**—and they feel respected when you take the time to explain it in a way that makes sense to them. My goal isn’t just to fix issues; it’s to empower users and reduce stress through clarity and calmness.
 
 ## 4. How I Practice Active Listening
 
