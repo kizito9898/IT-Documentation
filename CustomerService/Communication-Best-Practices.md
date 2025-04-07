@@ -30,7 +30,7 @@
 
 ## 2. How I Show Empathy
 
-**My Goal**: Make the client feel understood and supported, even if the issue is small.
+**My Goal**: is to Make the client feel understood and supported, even if the issue is small.
 
 ### What I focus on:
 
