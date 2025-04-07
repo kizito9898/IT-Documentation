@@ -240,7 +240,7 @@ IT Support
 
 ---
 
-## Final Thoughts
+## My Thoughts
 
 I always aim to be approachable, clear, and empathetic. I believe that good support is more than just fixing things—it’s about making the person feel supported and respected throughout the process.
 
