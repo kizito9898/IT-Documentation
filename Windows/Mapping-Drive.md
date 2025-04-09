@@ -85,4 +85,3 @@ Example:
 1. **Log into the user computer**
 2. Navigate to **File Explorer** → **This PC**
 3. Type in the search bar the UNC path:
-
