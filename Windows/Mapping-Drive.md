@@ -79,3 +79,9 @@ A mapped drive or shared folder is a network location assigned a drive letter on
 - Log in to the user account and map the drive using the correct path.
 Example:
 \\server2022\hr
+
+## Mapping Network Drives on a User Computer
+
+1. **Log into the user computer**
+2. Navigate to **File Explorer** → **This PC**
+3. Type in the search bar the UNC path:
