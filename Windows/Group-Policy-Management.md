@@ -143,3 +143,27 @@ Click **Apply** and **OK**.
 ---
 ## Note
 You can configure any type of Group Policy depending on the company's need and apply it to the desired computers.
+
+# Account lockout policy
+
+- Configure account lockout settings to prevent brute force attacks
+- Create a GPO in the domain (Named Account lockout policy)
+- Right click on the GPO and Edit
+- Computer Configuration → Policies → Security Settings → Account Policies → Define this policy and set it up via your organization needs → Apply and OK
+
+---
+
+# Group policy CMD Command
+
+- gpresult /f > C:\results.txt  
+  This creates a file containing the group policy of the computer
+
+- gpupdate /help  
+  This shows you everything you need to know about the command
+
+- gpresult /r  
+  Shows applied policies for the User and Computer
+
+- gpresult /h C:\GPOReport.html  
+  Saves a detailed report in HTML format
+
