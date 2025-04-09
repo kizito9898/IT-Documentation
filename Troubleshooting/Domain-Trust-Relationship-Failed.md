@@ -21,3 +21,26 @@ Domain trust relationship failure usually means that the computer’s secure con
 3. Set to **Workgroup** (type any name like `Workgroup`) → Click **OK** → **Restart**.
 
 > **Note:** You will get a prompt to enter the username and password of the administrator.
+
+## Rejoin the Domain
+
+1. **Log back in with your local account**  
+   → Go to **File Explorer**  
+   → Right-click on **This PC**  
+   → Click **Properties**  
+   → Go to **Advanced System Settings**  
+   → Select **Computer Name** tab  
+   → Click on **Change**.
+
+2. **Rejoin the domain**  
+   → Select **Domain**  
+   → Re-enter the domain name  
+   → Enter **Username** (e.g., `administrator`) and **password**.
+
+3. **Restart the computer**  
+   > The computer has now been re-added back to the domain.
+
+---
+
+### Final Check:
+- CHthe **computer name** is now showing in **Active Directory Users and Computers** under the **Computers** container.
