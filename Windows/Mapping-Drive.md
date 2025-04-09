@@ -74,9 +74,8 @@ A mapped drive or shared folder is a network location assigned a drive letter on
 - It blocks unwanted permissions and ensures that **only the groups added** can access the files.
 
 ---
-
 ## Map the Drive
 
 - Log in to the user account and map the drive using the correct path.
-
 Example:
+\\server2022\hr
