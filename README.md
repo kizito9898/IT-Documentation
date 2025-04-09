@@ -16,6 +16,7 @@ This is not just a collection of notes—it's a **personal IT knowledge base** b
 - [Windows Server](Windows/Windows-Server.md)
 - [Active Directory](Windows/Active-Directory.md)
 - [Group Policy Management](Windows/Group-Policy-Management.md)  
+- [Map Drive]
 
 ### 🔹 **Networking & Security**  
 - [Networking Troubleshooting](Network/Networking-Troubleshooting.md)  
