@@ -167,4 +167,4 @@ You can configure any type of Group Policy depending on the company's need and a
 - gpresult /h C:\GPOReport.html  
   Saves a detailed report in HTML format
 - gpupdate /Force
- 
+This force group policies to apply on a device 
