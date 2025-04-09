@@ -193,3 +193,19 @@ Click **OK** to create the group.
 -  To **enable** the account, perform the same steps and select **Enable**.
 ![Screenshot](images/screenshot005.jpg)
 
+
+---
+
+## Account Expires on Active Directory
+
+**Steps to fix an expired account:**
+
+1. Go to **Active Directory**.
+2. Click on the domain to find the user or go to the **OU** where the user is located.
+3. Click on the **User**.
+4. Go to the **Account** tab.
+5. Look for **Account Expires** (shows a date when an account expires).
+6. Reset the end date according to the **Company policy**.
+7. Click **Apply** and **OK**.
+
+> Now the user account will be functional again.
