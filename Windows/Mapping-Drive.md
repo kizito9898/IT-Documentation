@@ -31,3 +31,52 @@ A mapped drive or shared folder is a network location assigned a drive letter on
 - Typically in a work environment, shared folders are assigned to a **group**.
 - Only group members are allowed to access that folder.
 - These groups are created in **Active Directory Users and Computers** (Group type: *Security*) to be able to access the files.
+
+## Create a Group in Active Directory
+
+1. Go to **Active Directory Users & Computers**
+2. Create a group:
+   - Navigate to **Users** → Right-click → **New** → **Group**
+   - Name the group (e.g., HR)
+3. Tap on the group and add members:
+   - Go to **Members** → Click **Add**
+   - Enter the usernames and click **Check Name**
+   - Click **Apply** and then **OK**
+
+---
+
+## How to Set Permissions on the Folder
+
+1. On the folder:
+   - Right-click → **Properties** → **Security**
+   - Tap **Advanced**
+   - Click **Disable Inheritance**
+   - Choose **Convert inherited permissions into explicit permissions on this object**
+   - Remove existing users
+2. Add permissions:
+   - Click **Add** → **Select Principal**
+   - Enter the username → Click **Check Name** → Click **OK**
+   - Set **Basic permissions** (e.g., Modify) and click **OK**
+3. Also add the personal group and modify permissions
+
+---
+
+## Share the Folder
+
+- Go to **Sharing** tab → Click on **Share** (below the network path)
+- Grant **Read/Write** permissions as required
+
+---
+
+## Note
+
+- **Disabling inheritance** prevents other users from accessing the folder.
+- It blocks unwanted permissions and ensures that **only the groups added** can access the files.
+
+---
+
+## Map the Drive
+
+- Log in to the user account and map the drive using the correct path.
+
+Example:
