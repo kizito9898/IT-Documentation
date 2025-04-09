@@ -42,5 +42,5 @@ Domain trust relationship failure usually means that the computer’s secure con
 
 ---
 
-### Final Check:
-- CHthe **computer name** is now showing in **Active Directory Users and Computers** under the **Computers** container.
+### NOTE:
+- Check if the **computer name** is now showing in **Active Directory Users and Computers** under the **Computers** container.
