@@ -26,7 +26,7 @@ This is not just a collection of notes—it's a **personal IT knowledge base** b
 - [CrowdStrike Basics](Security/CrowdStrike-Basics.md) 
 - [MFA & Security Best Practices](Security/MFA-Security-Practices.md)  
 - [Endpoint Security](Security/Endpoint-Security.md)
-- 
+- [DHCP](Networl)
 
 ### 🔹 **Microsoft 365: Deployment, Administration & Management**  
 - [Microsoft 365 Administration](Microsoft365/Microsoft-365-Administration.md) 
