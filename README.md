@@ -20,7 +20,7 @@ This is not just a collection of notes—it's a **personal IT knowledge base** b
 
 ### 🔹 **Networking & Security**  
 - [Networking Troubleshooting](Network/Networking-Troubleshooting.md)  
-- [DNS & DHCP Troubleshooting](Network/DNS.md) 
+- [DNS & DHCP Troubleshooting](Network/DNS.md)
 - [VPN Issues](Network/VPN-Issues.md)  
 - [Firewall Configurations](Network/Firewall-Configurations.md)  
 - [CrowdStrike Basics](Security/CrowdStrike-Basics.md) 
