@@ -8,7 +8,7 @@ This is not just a collection of notes—it's a **personal IT knowledge base** b
 
 ---
 
-## 📂 What’s Inside?  
+##  What’s Inside?  
 
 ### 🔹 **Windows & Windows Server**  
 - [Windows Troubleshooting](Windows/Windows-Troubleshooting.md)  
@@ -25,7 +25,8 @@ This is not just a collection of notes—it's a **personal IT knowledge base** b
 - [Firewall Configurations](Network/Firewall-Configurations.md)  
 - [CrowdStrike Basics](Security/CrowdStrike-Basics.md) 
 - [MFA & Security Best Practices](Security/MFA-Security-Practices.md)  
-- [Endpoint Security](Security/Endpoint-Security.md)  
+- [Endpoint Security](Security/Endpoint-Security.md)
+- 
 
 ### 🔹 **Microsoft 365: Deployment, Administration & Management**  
 - [Microsoft 365 Administration](Microsoft365/Microsoft-365-Administration.md) 
