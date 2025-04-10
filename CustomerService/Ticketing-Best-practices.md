@@ -1,4 +1,4 @@
-## 8. Ticketing Best Practices (My Personal Flow)
+##  Ticketing Best Practices (My Personal Flow)
 
 **My Goal**: Make every ticket clear, helpful, and professional—so anyone reading it knows exactly what happened and when.
 
