@@ -85,3 +85,23 @@ Example:
 1. **Log into the user computer**
 2. Navigate to **File Explorer** → **This PC**
 3. Type in the search bar the UNC path:
+- Log into the User Computer → Navigated to File Explorer → This PC → If the User has been mapped to a drive before, try to confirm the path `\\Server2022\hr`
+
+- This PC → Right click on it → Select Map network drive and select a drive (Z: or any letter based on available drive in the Company) → Folder (Type the path, `\\Server2022\hr` and finish)
+
+> The Reconnect at Sign in allows the User to access the drive whenever they re-login to the Computer, it connects automatically.
+
+---
+
+- You can also map a network drive in active directory  
+→ Go to active directory → Select the User's properties → go to Profile → Home Folder → Connect
+
+→ Select a network path then type the path as:  
+`\\Server2022\hr`
+
+→ Use username to it allows each User to automatically map personal drive when they log in.
+
+---
+
+> You can also sign in how to save with that script:  
+`\\Server2022\` → Map the drive
