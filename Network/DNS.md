@@ -91,3 +91,28 @@ A DNS Server is a computer or network device that stores and manages domain name
 2. Enter **Host Name** → **Browse**  
 3. Navigate: `Server 2022` → `Forward Lookup` → `dns.course` (click on it) → **OK**
 
+# Checking our DNS
+
+## Steps:
+
+- Go to the **Server** (right-click → Launch nslookup)
+- Type the default IP address: `10.1.10.2`  
+  *(This IP address is associated with nykarson.com - Server 2022)*
+- Type `10.1.10.20` → It will point back to our newly created host DNS called: `SBT.Com`
+- Launch the **nslookup** again and type the host name, not the IP address → It will retrieve the IP address and information.
+
+---
+
+## Creating and Testing DNS Resolution
+
+- Check on `SBT.Com` and create a new host  
+  - **Name**: `www`  
+  - **IP Address**: `10.1.10.25`
+- When you launch **nslookup** and type the IP address, it points back to: `www.SBT.Com`
+
+---
+
+## Confirming with Command Prompt
+
+- To confirm further → Open **CMD** and ping `10.1.10.25` or `www.SBT.Com`  
+- It is going to ping it with **0% loss**
