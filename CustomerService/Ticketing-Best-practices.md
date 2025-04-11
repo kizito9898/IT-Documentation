@@ -6,7 +6,7 @@
 
 ### The Golden Rule I Follow
 
-I treat ticket notes like a timeline. Whether I’ve found the solution or not, **I leave a note every 15 minutes** while actively working on the issue.
+I treat ticket notes like a timeline. Whether I’ve found the solution or not, **I leave a note every 15 minutes** to show progress and steps taken so far to while actively working on the issue.
 
 > *Still troubleshooting—just finished resetting the user profile, now checking login permissions. Will update again shortly.*
 
