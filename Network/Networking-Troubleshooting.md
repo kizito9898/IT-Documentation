@@ -1,4 +1,4 @@
-# Network Troubleshooting Guide for IT Support
+# Network Troubleshooting
 
 ## Initial Troubleshooting Checklist
 
@@ -125,7 +125,6 @@
      - Attach screenshots or logs if needed
 
 ---
-
 ## Tools Used
 
 - `ipconfig`
@@ -137,7 +136,6 @@
 - Network Adapter settings
 
 ---
-
 ## Notes
 
 - IPv4 is most commonly used; IPv6 is newer but not always supported on all systems.
