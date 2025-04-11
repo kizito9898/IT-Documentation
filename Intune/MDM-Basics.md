@@ -1,4 +1,4 @@
-# Android Device Enrollment in Intune (Home Lab Guide)
+# Android Device Enrollment in Intune (Home Lab)
 
 ## Overview
 This guide will help you set up a home lab to enroll an Android device in Microsoft Intune. You can use a **real Android phone** or a **virtual Android emulator** like BlueStacks or Android Studio.

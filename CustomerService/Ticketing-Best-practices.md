@@ -17,7 +17,6 @@ Why? Because:
 - It builds a clear history in case of escalation
 
 ---
-
 ### My Personal Ticketing Workflow
 
 1. **Start of Ticket – I summarize the request clearly**
