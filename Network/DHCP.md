@@ -64,6 +64,21 @@ A **DHCP Server** is a device (usually a router or Windows Server) that manages 
   → Add a description → IP address Range 
 Start IP address: 192.168.15.20  
 End IP address: 192.168.15.70
+- It’s going to reserve 50 IP addresses  
+- Length (3d) or (16) recommended 24  
+- Subnet mask: 255.255.255.0  
+
+**Add Exclusions and Delay**  
+- Exclude IP address for existing systems (Ex: IP address for a printer)  
+- Type in the Start IP address and End IP address and click add  
+
+**Lease duration**  
+(The lease duration specifies how long a client can use an IP address from this Scope)  
+Put in Days, Hours & Minutes you want IP address to last on a Computer → Next  
+
+**Note**: For security reasons (Select 4 hours so it changes)
+
+
 
 pgsql
 
