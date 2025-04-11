@@ -79,3 +79,30 @@ To verify the printer is showing on a client machine:
 2. Search for **Control Panel**
 3. Navigate to:
    - **Hardware and Sound → View Devices and Printers**
+# Add a New Driver to the Printer
+
+1. Go to **Tools** in **Server Manager** → **Printer Management**
+2. Under **Print Servers**, right-click on the printer name → **Properties**
+3. Uncheck **List in the Directory** (temporarily)
+4. Remove **Everyone** (connected to the printer)
+5. Go to **Advanced** → **Driver**:
+   - Select the printer → **Next/Next**
+   - Welcome Wizard → Ports → Driver Selection
+6. Select the **Manufacturer**
+7. Choose **Have Disk** → Click **Browse** to find the driver and **Install**
+8. Go back to **Sharing** and check **List in the Directory**
+9. On the client machines or groups:
+   - Remove and re-add the printer against start printing issues
+
+---
+# Network Printer Configuration
+
+## How to Set Up a Network Printer
+
+1. Navigate to the **DHCP Server** from **Server Manager**:
+   - DHCP Server → IPv4 → Scope
+1. **Setting up a Scope (IP Range)**:
+   - Example Range: `10.1.10.41` to `10.1.10.50`
+1. Click on **Reservations** → **New Reservation**
+   - Enter **Reservation Name**: `Printer1` (or as needed)
+   - Enter **IP Address**: `10.1.10.15`
