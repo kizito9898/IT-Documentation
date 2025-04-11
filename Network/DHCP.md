@@ -17,3 +17,15 @@ A **DHCP Server** is a device (usually a router or Windows Server) that manages 
 ### Post Installation
 
 - Go to **Flag icon** → **Post-deployment Configuration** → **Complete DHCP Configuration**
+# DHCP Pool Configuration
+
+**DHCP Pool – Install Configuration**  
+→ Description → Next  
+(Select User’s Credentials) and Commit  
+
+**Go to Tools and click on DHCP**
+
+- Create a Scope (A Scope is a range of IP addresses assigned to Computers requesting a dynamic IP address)  
+- Right on IPv4 → New Scope → Next → Scope Name (Name whatever Scope)  
+  → Add a description → IP address Range  
+
