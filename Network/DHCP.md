@@ -28,4 +28,43 @@ A **DHCP Server** is a device (usually a router or Windows Server) that manages 
 - Create a Scope (A Scope is a range of IP addresses assigned to Computers requesting a dynamic IP address)  
 - Right on IPv4 → New Scope → Next → Scope Name (Name whatever Scope)  
   → Add a description → IP address Range  
+# DHCP Pool Configuration
 
+**DHCP Pool – Install Configuration**  
+→ Description → Next  
+(Select User’s Credentials) and Commit  
+
+**Go to Tools and click on DHCP**
+
+- Create a Scope (A Scope is a range of IP addresses assigned to Computers requesting a dynamic IP address)  
+- Right on IPv4 → New Scope → Next → Scope Name (Name whatever Scope)  
+  → Add a description → IP address Range  
+# DHCP Pool Configuration
+
+**DHCP Pool – Install Configuration**  
+→ Description → Next  
+(Select User’s Credentials) and Commit  
+
+**Go to Tools and click on DHCP**
+
+- Create a Scope (A Scope is a range of IP addresses assigned to Computers requesting a dynamic IP address)  
+- Right on IPv4 → New Scope → Next → Scope Name (Name whatever Scope)  
+  → Add a description → IP address Range  
+
+# DHCP Pool Configuration
+
+**DHCP Pool – Install Configuration**  
+→ Description → Next  
+(Select User’s Credentials) and Commit  
+
+**Go to Tools and click on DHCP**
+
+- Create a Scope (A Scope is a range of IP addresses assigned to Computers requesting a dynamic IP address)  
+- Right on IPv4 → New Scope → Next → Scope Name (Name whatever Scope)  
+  → Add a description → IP address Range 
+Start IP address: 192.168.15.20  
+End IP address: 192.168.15.70
+
+pgsql
+
+CopyEdit
