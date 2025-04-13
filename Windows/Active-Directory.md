@@ -208,7 +208,7 @@ Click **OK** to create the group.
 6. Reset the end date according to the **Company policy**.
 7. Click **Apply** and **OK**.
 ![Screenshot](images/screenshot80.jpg)
-
+![Screenshot](images/screenshot79.jpg)
 
 > Now the user account will be functional again.
 
