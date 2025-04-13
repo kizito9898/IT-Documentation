@@ -40,7 +40,7 @@ Domain trust relationship failure usually means that the computer’s secure con
 ![Screenshot](images/screenshot86.jpg)
 3. **Restart the computer**  
    > The computer has now been re-added back to the domain.
-
+![Screenshot](images/screenshot87.jpg)
 ---
 
 ### NOTE:
