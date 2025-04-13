@@ -22,7 +22,7 @@ Domain trust relationship failure usually means that the computer’s secure con
 3. Set to **Workgroup** (type any name like `Workgroup`) → Click **OK** → **Restart**.
 ![Screenshot](images/screenshot83.jpg)
 > **Note:** You will get a prompt to enter the username and password of the administrator.
-
+![Screenshot](images/screenshot85.jpg)
 ## Rejoin the Domain
 
 1. **Log back in with your local account**  
