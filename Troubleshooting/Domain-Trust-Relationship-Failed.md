@@ -37,7 +37,7 @@ Domain trust relationship failure usually means that the computer’s secure con
    → Select **Domain**  
    → Re-enter the domain name  
    → Enter **Username** (e.g., `administrator`) and **password**.
-![Screenshot](images/screenshot)
+![Screenshot](images/screenshot86.jpg)
 3. **Restart the computer**  
    > The computer has now been re-added back to the domain.
 
