@@ -14,7 +14,8 @@ Domain trust relationship failure usually means that the computer’s secure con
 1. Log in with a **local admin account** (e.g., `ComputerName\localadmin` and password).
    > Now you can access the computer as a local admin user.
 
-2. Go to **File Explorer** → Right-click on **This PC** → **Properties**  
+![Screenshot]
+1. Go to **File Explorer** → Right-click on **This PC** → **Properties**  
    → **Advanced system settings** → **Computer Name** tab  
    → Click on **Change**.
 
