@@ -210,5 +210,6 @@ Click **OK** to create the group.
 ![Screenshot](images/screenshot80.jpg)
 ![Screenshot](images/screenshot79.jpg)
 
+
 > Now the user account will be functional again.
 
