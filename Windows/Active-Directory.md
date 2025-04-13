@@ -209,7 +209,6 @@ Click **OK** to create the group.
 7. Click **Apply** and **OK**.
 ![Screenshot](images/screenshot80.jpg)
 ![Screenshot](images/screenshot79.jpg)
-
-
-> Now the user account will be functional again.
+!
+> Now the user account will be functional again. it is bad practice to use never for accoun
 
