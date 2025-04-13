@@ -93,7 +93,8 @@ Example:
 
 ---
 
-- You can also map a network drive in active directory  
+- ## You can also map a network drive in active directory 
+
 → Go to active directory → Select the User's properties → go to Profile → Home Folder → Connect
 
 → Select a network path then type the path as:  
