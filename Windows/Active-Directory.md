@@ -207,5 +207,8 @@ Click **OK** to create the group.
 5. Look for **Account Expires** (shows a date when an account expires).
 6. Reset the end date according to the **Company policy**.
 7. Click **Apply** and **OK**.
-![Screenshot](images/screenshot80.)
+![Screenshot](images/screenshot80.jpg)
+
+
 > Now the user account will be functional again.
+
