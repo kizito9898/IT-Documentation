@@ -25,7 +25,7 @@ Domain trust relationship failure usually means that the computer’s secure con
 ![Screenshot](images/screenshot85.jpg)
 ## Rejoin the Domain
 
-1. **Log back in with your local account**  
+1. **Log back in with your local account** details
    → Go to **File Explorer**  
    → Right-click on **This PC**  
    → Click **Properties**  
