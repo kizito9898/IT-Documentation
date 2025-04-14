@@ -15,7 +15,7 @@ A mapped drive or shared folder is a network location assigned a drive letter on
 6. Enter **Share name** (e.g., `HR` or `Sales`) → Click **Next**
 7. Configure **Other Settings** → Click **Next**
 8. Set **Permissions** → Confirm and click **Create**
-![Screenshot]()
+![Screenshot](images/screenshot90.jpg)
 ---
 ## Access the Shared Folder
 
