@@ -63,7 +63,7 @@ Added members to the group
 
 - Go to **Sharing** tab → Click on **Share** (below the network path)
 - Grant **Read/Write** permissions as required
-![Screenshot](images/scree)
+![Screenshot](images/screenshot95.jpg)
 ---
 ## Note
 
