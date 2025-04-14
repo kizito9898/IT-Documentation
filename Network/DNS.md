@@ -87,13 +87,11 @@ A DNS Server is a computer or network device that stores and manages domain name
 3. Enter **IP Address**: `10.1.10.20` (or any IP address for your organization)
 
 ---
-
 # Creating a PTR Record (Reverse Lookup Zone)
 
 1. Right-click on the reverse zone (`10.1.10.in-addr.arpa`) → **New Pointer**
 2. Enter **Host Name** → **Browse**  
 3. Navigate: `Server 2022` → `Forward Lookup` → `dns.course` (click on it) → **OK**
-
 # Checking our DNS
 
 ## Steps:
@@ -114,7 +112,6 @@ A DNS Server is a computer or network device that stores and manages domain name
 - When you launch **nslookup** and type the IP address, it points back to: `www.SBT.Com`
 
 ---
-
 ## Confirming with Command Prompt
 
 - To confirm further → Open **CMD** and ping `10.1.10.25` or `www.SBT.Com`  
