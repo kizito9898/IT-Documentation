@@ -69,7 +69,6 @@ A DNS Server is a computer or network device that stores and manages domain name
 4. **Dynamic Update**: Select **Do not allow** → **Finish**
 
 ---
-
 ## Reverse Lookup Zone
 
 1. Right-click on **Reverse Lookup Zones** → **New Zone** → **Next**
@@ -78,7 +77,7 @@ A DNS Server is a computer or network device that stores and manages domain name
 4. Choose **IPv4 Reverse Lookup Zone** → **Next**
 5. **Network ID**: `10.1.10` → **Next**
 6. Select **Do not allow dynamic updates** → **Next** → **Finish**
-
+![Screenshot](images/screenshot109.jpg)
 ---
 
 # Creating a New Host (Forward Lookup Zone)
