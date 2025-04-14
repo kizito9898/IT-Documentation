@@ -44,7 +44,7 @@ A DNS Server is a computer or network device that stores and manages domain name
 2. Under **Server 2022**, expand →  
    - **Forward Lookup Zones**  
    - **Reverse Lookup Zones**
-![]
+![Screenshot](images/screenshot107.jpg)
 ---
 
 ## Forward Lookup Zones (FLZ)
