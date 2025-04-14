@@ -6,7 +6,7 @@ Effective IT documentation should:
 - Be **clear and concise** to help fellow IT workers to find information quickly.
 - Follow a **consistent format** for ease of use.
 - Be **updated regularly** to ensure accuracy.
-
+![Screenshot](images/screenshot100.jpg)
 ## **1. Server Documentation**
 
 # Server Name: [SERVER-2022]
