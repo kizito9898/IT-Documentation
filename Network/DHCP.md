@@ -36,7 +36,7 @@ End IP address: 192.168.18.70
 **Add Exclusions and Delay**  
 - Exclude IP address for existing systems (Ex: IP address for a printer)  
 - Type in the Start IP address and End IP address and click add  
-![Screenshot](images/screensh)
+![Screenshot](images/screenshot116.jpg)
 **Lease duration**  
 (The lease duration specifies how long a client can use an IP address from this Scope)  
 Put in Days, Hours & Minutes you want IP address to last on a Computer → Next  
