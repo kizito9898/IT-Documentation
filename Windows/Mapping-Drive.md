@@ -44,7 +44,6 @@ A mapped drive or shared folder is a network location assigned a drive letter on
    - Click **Apply** and then **OK**
 
 ---
-
 ## How to Set Permissions on the Folder
 
 1. On the folder:
@@ -60,7 +59,6 @@ A mapped drive or shared folder is a network location assigned a drive letter on
 3. Also add the personal group and modify permissions
 
 ---
-
 ## Share the Folder
 
 - Go to **Sharing** tab → Click on **Share** (below the network path)
