@@ -1,6 +1,4 @@
 
----
-
 ### Virtual Machine with Azure
 
 **Step 1**  
