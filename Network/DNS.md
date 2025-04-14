@@ -117,3 +117,4 @@ A DNS Server is a computer or network device that stores and manages domain name
 - To confirm further → Open **CMD** and ping `10.1.10.25` or `www.SBT.Com`  
 - It is going to ping it with **0% loss**
 ![Screenshot](images/screenshot110.jpg)
+![Screenshot](images/screenshot111)
