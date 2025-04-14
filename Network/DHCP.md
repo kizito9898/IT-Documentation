@@ -17,7 +17,6 @@ A **DHCP Server** is a device (usually a router or Windows Server) that manages 
 
 - Go to **Flag icon** → **Post-deployment Configuration** → **Complete DHCP Configuration**
 
-
 **DHCP Pool – Install Configuration**  
 → Description → Next  
 (Select User’s Credentials) and Commit  
