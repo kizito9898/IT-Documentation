@@ -57,7 +57,7 @@ Added members to the group
    - Enter the username → Click **Check Name** → Click **OK**
    - Set **Basic permissions** (e.g., Modify) and click **OK**
 3. Also add the personal group and modify permissions
-
+![Screenshot](images/screenshot)
 ---
 ## Share the Folder
 
