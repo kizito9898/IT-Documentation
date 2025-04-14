@@ -100,8 +100,7 @@ Example:
 `\\Server2022\hr`
 
 → Use username to it allows each User to automatically map personal drive when they log in.
-
 ---
-
+!
 > You can also sign in how to save with that script:  
 `\\Server2022\` → Map the drive
