@@ -33,7 +33,9 @@ A DNS Server is a computer or network device that stores and manages domain name
 5. **Server Selection** → **Next**  
 6. **Server Roles** (click on **DNS Server**) → Add role and click **Next**  
 7. Click **Next** and **Install**
-![Screenshot](images/screenshot)
+![Screenshot](images/screenshot105.jpg)
+![Screenshot](images/sct)
+
 ---
 
 ## Navigating to DNS Zones
