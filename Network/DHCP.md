@@ -1,4 +1,3 @@
-# DHCP
 
 ## What is DHCP?
 
@@ -13,10 +12,10 @@ A **DHCP Server** is a device (usually a router or Windows Server) that manages 
 3. Select **Destination Server** as default → **Next**  
 4. Click on **DHCP Server** (Add Features) → **Next** → **Confirmation**  
 5. Click **Install**
-![Screenshot]
+![Screenshot](images/screenshot112.jpg)
 ### Post Installation
 
-- Go to **Flag icon** → **Post-deployment Configuration** → **Complete DHCP Configuration**
+- Go to **Flag icon** → **Post-deployment Configuration** → **Complete DHCP Configuration*
 # DHCP Pool Configuration
 
 **DHCP Pool – Install Configuration**  
