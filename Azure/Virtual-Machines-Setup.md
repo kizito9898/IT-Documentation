@@ -16,7 +16,7 @@
 **Password**: Chigozie798  
 - Review & Create (Once the validity is good)  
 - Create
-
+![Screenshot]
 ---
 
 ### After Azure Virtual Machine has been Created, you can login by:
