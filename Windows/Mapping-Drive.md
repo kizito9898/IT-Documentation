@@ -67,7 +67,6 @@ A mapped drive or shared folder is a network location assigned a drive letter on
 - Grant **Read/Write** permissions as required
 
 ---
-
 ## Note
 
 - **Disabling inheritance** prevents other users from accessing the folder.
