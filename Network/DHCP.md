@@ -65,7 +65,7 @@ Put in Days, Hours & Minutes you want IP address to last on a Computer → Next
   → Change it to *Obtain an IP address automatically*  
   → OK  
 ![Screenshot](images/screenshot118.jpg)
-
+![Screen]
 
 ---
 
