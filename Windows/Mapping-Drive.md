@@ -88,7 +88,7 @@ Example:
 ![Screenshot](images/screenshot96.jpg)
 
 > The Reconnect at Sign in allows the User to access the drive whenever they re-login to the Computer, it connects automatically
-
+![Screenshot](images/screenshot97.jpg)
 
 ---
 
