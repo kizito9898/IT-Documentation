@@ -29,9 +29,9 @@ A **DHCP Server** is a device (usually a router or Windows Server) that manages 
 ![Screenshot](images/screenshot114.jpg)
 ![Screenshot](images/screenshot115.jpg)
   
-Start IP address: 192.168.15.20  
-End IP address: 192.168.15.70
-- It’s going to reserve 50 IP addresses  
+Start IP address: 192.168.18.20  
+End IP address: 192.168.18.25
+- It’s going to reserve 5 IP addresses  
 - Length (3d) or (16) recommended 24  
 - Subnet mask: 255.255.255.0  
 **Add Exclusions and Delay**  
