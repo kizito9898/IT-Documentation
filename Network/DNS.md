@@ -34,7 +34,7 @@ A DNS Server is a computer or network device that stores and manages domain name
 6. **Server Roles** (click on **DNS Server**) → Add role and click **Next**  
 7. Click **Next** and **Install**
 ![Screenshot](images/screenshot105.jpg)
-![Screenshot](images/sct)
+![Screenshot](images/screenshot106.jpg)
 
 ---
 
@@ -44,7 +44,7 @@ A DNS Server is a computer or network device that stores and manages domain name
 2. Under **Server 2022**, expand →  
    - **Forward Lookup Zones**  
    - **Reverse Lookup Zones**
-
+![]
 ---
 
 ## Forward Lookup Zones (FLZ)
