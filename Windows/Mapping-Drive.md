@@ -102,6 +102,6 @@ Example:
 → Use username to it allows each User to automatically map personal drive when they log in.
 
 ---
-![Screenshot](images/screenshot98.j)
+![Screenshot](images/screenshot98.jpg)
 > You can also sign in how to save with that script:  
 `\\Server2022\` → Map the drive
