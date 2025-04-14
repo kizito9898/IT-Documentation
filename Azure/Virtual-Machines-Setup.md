@@ -16,7 +16,7 @@
 **Password**: Chigozie798  
 - Review & Create (Once the validity is good)  
 - Create
-![Screenshot]
+![Screenshot](images/screenshot135.jpg)
 ---
 
 ### After Azure Virtual Machine has been Created, you can login by:
@@ -26,7 +26,7 @@
 - Click on the RDP  
 - Then enter your password and login  
   - **Server Name**: DCNY-01
-
+![Screenshot](images/screenshot)
 ---
 
 ### Log into the Windows 10 PC
