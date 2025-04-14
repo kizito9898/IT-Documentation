@@ -85,9 +85,10 @@ Example:
 - Log into the User Computer → Navigated to File Explorer → This PC → If the User has been mapped to a drive before, try to confirm the path `\\Server2022\hr`
 
 - This PC → Right click on it → Select Map network drive and select a drive (Z: or any letter based on available drive in the Company) → Folder (Type the path, `\\Server2022\hr` and finish)
-![Screenshot](images/screenshot)
+![Screenshot](images/screenshot96.jpg)
 
-> The Reconnect at Sign in allows the User to access the drive whenever they re-login to the Computer, it connects automatically.
+> The Reconnect at Sign in allows the User to access the drive whenever they re-login to the Computer, it connects automatically
+
 
 ---
 
