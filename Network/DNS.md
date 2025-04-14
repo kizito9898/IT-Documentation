@@ -103,7 +103,6 @@ A DNS Server is a computer or network device that stores and manages domain name
 - Launch the **nslookup** again and type the host name, not the IP address → It will retrieve the IP address and information.
 
 ---
-
 ## Creating and Testing DNS Resolution
 
 - Check on `SBT.Com` and create a new host  
@@ -114,7 +113,8 @@ A DNS Server is a computer or network device that stores and manages domain name
 ---
 ## Confirming with Command Prompt
 
-- To confirm further → Open **CMD** and ping `10.1.10.25` or `www.SBT.Com`  
+- To confirm further → Open **CMD** and ping `10.1.10.25` or `www.SBT.Com`
 - It is going to ping it with **0% loss**
 ![Screenshot](images/screenshot110.jpg)
-![Screenshot](images/screenshot111)
+![Screenshot](images/screenshot111.jpg)
+
