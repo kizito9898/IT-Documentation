@@ -21,7 +21,7 @@ A mapped drive or shared folder is a network location assigned a drive letter on
 
 1. Go to **File Explorer** → **This PC** → **Local Disk (C:)**
 2. Check under **HR Folders** (This is the shared folder we just created)
-
+![Screennshot]
 ---
 ## Note
 
