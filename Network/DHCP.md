@@ -28,9 +28,8 @@ A **DHCP Server** is a device (usually a router or Windows Server) that manages 
   → Add a description → IP address Range 
 ![Screenshot](images/screenshot114.jpg)
 ![Screenshot](images/screenshot115.jpg)
-# 
 
-# DHCP Pool Configuration
+#DHCP Pool Configuration
 
 **DHCP Pool – Install Configuration**  
 → Description → Next  
