@@ -17,7 +17,8 @@ A DNS Server is a computer or network device that stores and manages domain name
 - Click on **Internet Protocol Version 4 (TCP/IPv4)** → Properties
   - → Use the following IP address (Static IP address)
 - Disable **Internet Protocol Version 6 (TCP/IPv6)** and close
-!
+![Screenshot](images/screenshot103.jpg)
+
 ---
 
 > If you go back to the Local Server, you will observe the static IP that was just created.
