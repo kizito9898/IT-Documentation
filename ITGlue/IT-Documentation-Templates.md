@@ -81,11 +81,11 @@ Effective IT documentation should:
 ## Backup & Disaster Recovery
 - **Email Backup Provider:** [Barracuda / SkyKick]
 - **SharePoint & OneDrive Backup:** [Enabled / Not Enabled]
-
+---
 ## **4. Standard Operating Procedure (SOP) - Password Reset**
 
 # Procedure: Password Reset  
-## Overview  
+
 When a user forgets their password, follow this procedure to reset it securely.  
 
 ## Steps  
@@ -108,13 +108,12 @@ When a user forgets their password, follow this procedure to reset it securely.
 3. **Notify the User**  
    - Provide them with the new password securely (phone call or IT Glue secure note).  
    - Advise them to update their credentials across devices.  
-
+---
 ## **5. VPN Issues Troubleshooting**
 
 # Issue: VPN Connection Not Working  
-## Overview  
-User reports they are unable to connect to the company VPN.  
 
+User reports they are unable to connect to the company VPN.  
 ## Troubleshooting Steps  
 1. **Verify Internet Connection**  
    - Ensure the user can browse the web.  
