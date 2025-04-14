@@ -31,10 +31,8 @@ Effective IT documentation should:
 ## Monitoring & Alerts
 - **Monitoring Tool:** [ SolarWinds / ConnectWise Automate]
 - **Alerting Method:** [Email / Ticket Creation]
-
-
+---
 ## **2. Network Device Documentation (Router, Switch, Firewall)**
-
 
 # Device Name: [Meraki-MX68/ Cisco-2960X-01]
 ## General Information
@@ -58,7 +56,7 @@ Effective IT documentation should:
 ## Backup & Recovery
 - **Configuration Backup Location:** [Cloud / Local Repository]
 - **Restoration Procedure:** [Step-by-step guide
-
+---
 ## **3. Microsoft 365 Documentation**
 
 # Microsoft 365 Tenant: [Njikason.onmicrosoft.com]
