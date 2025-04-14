@@ -51,6 +51,7 @@ Put in Days, Hours & Minutes you want IP address to last on a Computer → Next
 → Domain Name and DNS Server (default) → Next  
 → Wins Server → Next  
 → Activate Scope (Yes/No) and Next → Finish  
+![]
 
 ---
 ## Log on into Windows machine
