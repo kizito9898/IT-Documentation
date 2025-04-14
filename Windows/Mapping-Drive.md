@@ -41,7 +41,7 @@ A mapped drive or shared folder is a network location assigned a drive letter on
    - Click **Apply** and then **OK**
 ![Screenshot](images/screenshot92.jpg)
 Added members to the group
-![Screenshot]
+![Screenshot](images/screenshot93.jpg)
 
 ---
 ## How to Set Permissions on the Folder
