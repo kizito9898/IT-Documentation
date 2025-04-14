@@ -64,7 +64,9 @@ Put in Days, Hours & Minutes you want IP address to last on a Computer → Next
   → You can see it’s using a static IP address  
   → Change it to *Obtain an IP address automatically*  
   → OK  
-![Screenshot](images/screenshot)
+![Screenshot](images/screenshot118.jpg)
+
+
 ---
 
 > **Note:** Go to the DHCP Scope, right click and activate the scope.
