@@ -84,7 +84,7 @@ Effective IT documentation should:
 # Procedure: Password Reset  
 
 When a user forgets their password, follow this procedure to reset it securely.  
-
+![Screenshot](images/screenshot101.jpg)
 ## Steps  
 1. **Verify User Identity**  
    - Confirm user's identity via security questions or an alternate method.  
@@ -127,7 +127,7 @@ User reports they are unable to connect to the company VPN.
 
 5. **Escalation**  
    - If the issue persists, escalate to Level 2 with logs attached.  
-
+---
 ## **Why Screenshots Are Not Included**
 
 # Why I Can't Include IT Glue Screenshots
