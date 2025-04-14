@@ -5,7 +5,6 @@
 A mapped drive or shared folder is a network location assigned a drive letter on a computer, allowing users to access files and folders on a remote server as if they were stored locally.
 
 ---
-
 ## Steps to Create a Shared Folder
 
 1. Go to **Start menu** → Search for **Server Manager**
@@ -18,14 +17,12 @@ A mapped drive or shared folder is a network location assigned a drive letter on
 8. Set **Permissions** → Confirm and click **Create**
 
 ---
-
 ## Access the Shared Folder
 
 1. Go to **File Explorer** → **This PC** → **Local Disk (C:)**
 2. Check under **HR Folders** (This is the shared folder we just created)
 
 ---
-
 ## Note
 
 - Typically in a work environment, shared folders are assigned to a **group**.
