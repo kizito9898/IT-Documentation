@@ -58,7 +58,7 @@ A DNS Server is a computer or network device that stores and manages domain name
 - Performs the **opposite function** of FLZ  
 - Translates an **IP address** (e.g., `172.168.1.10`) back into a **domain name** (e.g., `nykarson.com`)  
 - It is used for **security**, **logging**, and **troubleshooting**
-
+![Screenshot](images/screenshot108.jpg)
 # Creating a Zone
 
 ## Forward Lookup Zone
