@@ -39,7 +39,7 @@ A mapped drive or shared folder is a network location assigned a drive letter on
    - Go to **Members** → Click **Add**
    - Enter the usernames and click **Check Name**
    - Click **Apply** and then **OK**
-
+![Screenshot](images/screenshot92.jpg)
 ---
 ## How to Set Permissions on the Folder
 
