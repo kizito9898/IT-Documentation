@@ -34,7 +34,7 @@ End IP address: 192.168.15.70
 - It’s going to reserve 50 IP addresses  
 - Length (3d) or (16) recommended 24  
 - Subnet mask: 255.255.255.0  
-
+![S]
 **Add Exclusions and Delay**  
 - Exclude IP address for existing systems (Ex: IP address for a printer)  
 - Type in the Start IP address and End IP address and click add  
