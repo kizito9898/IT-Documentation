@@ -26,7 +26,7 @@
 - Click on the RDP  
 - Then enter your password and login  
   - **Server Name**: DCNY-01
-![Screenshot](images/screenshot)
+![Screenshot](images/screenshot136.jpg)
 ---
 
 ### Log into the Windows 10 PC
