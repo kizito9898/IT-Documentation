@@ -1,4 +1,4 @@
-#  **PowerShell Cheat Sheet for IT Support**
+#  **PowerShell
 
 PowerShell is a powerful tool that helps IT support teams troubleshoot, manage systems, and automate tasks efficiently. This guide covers the most commonly used commands to help you get started.  
 
