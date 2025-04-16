@@ -15,7 +15,7 @@ Printers are often set up on servers in business environments for centralized ma
 7. Under **Role Services**, select:
    - **Print Server**
 8. Confirm and Install
-
+![Screenshot](images/screenshot)
 ---
 ## On the Server Manager:
 
