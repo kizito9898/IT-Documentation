@@ -119,9 +119,7 @@ To verify the printer is showing on a client machine:
   - `DNS Server` → Expand on `Forward Lookup Zones` → `Printer`
   - Click on the domain (e.g., `xyz.kom.com`) → New Host (A or AAAA)
   - Enter printer details.
-
 ---
-
 ## Adding a Printer via Print Management
 
 - Navigate to **Print Management** from the **Server Manager**:
@@ -147,7 +145,6 @@ To verify the printer is showing on a client machine:
 ## Group Policy and Permissions
 
 - Add the printer to a group from the print root via **Security Group**
-
 ---
 ## Troubleshooting Print Job Issues
 - If a print job is being held up:
