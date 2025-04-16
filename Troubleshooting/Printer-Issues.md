@@ -46,7 +46,7 @@ Navigate to:
    - **Printer name**
    - **Sharing** (Uncheck if you don't want to share yet)
 5. Click **Next → Finish**
-![Screenshot](images/screenshot)
+![Screenshot](images/screenshot123.jpg)
 ---
 ## Configure Printer Sharing
 
