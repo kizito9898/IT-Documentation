@@ -94,7 +94,7 @@ To verify the printer is showing on a client machine:
 8. Go back to **Sharing** and check **List in the Directory**
 9. On the client machines or groups:
    - Remove and re-add the printer against start printing issues
-
+![Screenshot](images/screenshot126.jpg)
 ---
 # Network Printer Configuration
 
