@@ -119,15 +119,12 @@ Example:
     - Click `OK`
 
 ---
-
 ## Step 2: Create Shared Folder Structure
 
 - Open **File Explorer** → `This PC` → `Local Disk (C:)`
 - Create a new folder named: `Common`
 - Inside the folder, create subfolders: `Projects` and `Seats`
-
 ---
-
 ## Step 3: Set Sharing Permissions
 
 - Right-click on the `Common` folder → `Properties` → `Sharing` tab
