@@ -70,7 +70,7 @@ Navigate to:
 ## Active Directory Listing
 
 - Use "List in the directory" to publish printers to **Active Directory**
-![Screenshot](images/screennshot)
+![Screenshot](images/screenshot124.jpg)
 ---
 ## Confirm Printer on Client Computer
 
