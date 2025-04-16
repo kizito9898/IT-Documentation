@@ -107,4 +107,5 @@ To verify the printer is showing on a client machine:
 1. Click on **Reservations** → **New Reservation**
    - Enter **Reservation Name**: `Printer1` (or as needed)
    - Enter **IP Address**: `10.1.10.15`
-![Screenshot](images/)
+![Screenshot](images/screenshot127.jpg)
+
