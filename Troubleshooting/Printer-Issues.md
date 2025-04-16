@@ -109,3 +109,47 @@ To verify the printer is showing on a client machine:
    - Enter **IP Address**: `10.1.10.15`
 ![Screenshot](images/screenshot127.jpg)
 
+# Printer Setup and Troubleshooting Notes
+
+## DNS Configuration for Printer Setup
+
+- Navigate to **DNS Server**
+- Set up DNS for the printer so that it can get the printer name and not depend on the IP address.
+- Go to:
+  - `DNS Server` → Expand on `Forward Lookup Zones` → `Printer`
+  - Click on the domain (e.g., `xyz.kom.com`) → New Host (A or AAAA)
+  - Enter printer details.
+
+---
+
+## Adding a Printer via Print Management
+
+- Navigate to **Print Management** from the **Server Manager**:
+  - `Printers` → `Add Printer`
+  - Select `Add an IPP, TCP/IP or Web Services Printer`
+  - Add printer by IP address or hostname and Next.
+  - Enter `Printer Address`, `Type of Device: TCP/IP Device`
+  - If detecting TCP/IP port fails:
+    - Select `Add the Printer Manually`
+    - Choose `Printer Driver`:
+      - Use an existing printer driver or install a new one.
+    - Click `Next` → `Printer Installation Succeeded`
+
+---
+## Adding Printer to a Client Machine (Windows 11)
+- Log in to the client machine.
+- Tap the printer:
+  - Search for `Control Panel` → `Hardware & Sound` → `View Devices & Printers`
+  - Click `Add Printer and/or Scanner`
+  - If the printer doesn't show up, search again.
+
+---
+## Group Policy and Permissions
+
+- Add the printer to a group from the print root via **Security Group**
+
+---
+## Troubleshooting Print Job Issues
+- If a print job is being held up:
+  - Right-click on the printer → Open `Printer Queue` → Delete anything being held up.
+
