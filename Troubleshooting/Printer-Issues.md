@@ -21,7 +21,7 @@ Printers are often set up on servers in business environments for centralized ma
 
 Navigate to:  
 **Tools → Print Management → Print Servers → Server 2022 (Local)**
-![Screenshot](images/screenshot123.jpg)
+![Screenshot](images/screenshot122.jpg)
 ### Components:
 - **Drivers**:  
   Software that allows the server to communicate with different printer models.
