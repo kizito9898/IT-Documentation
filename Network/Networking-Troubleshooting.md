@@ -32,8 +32,58 @@ A **network** is a group of two or more devices (like computers, servers, printe
 - It shows a list of hops (routers) the data passes through.
 - If a website is slow or not loading, `tracert` shows **where the slowdown is happening**.
 
+# What is ipconfig and How to Use it for Network Troubleshooting
 
-1. **Ask the user**:
+**ipconfig** is a Windows command that shows your computer’s network settings, such as:
+- IP address
+- Subnet mask
+- DNS server
+- Default gateway
+
+---
+
+## How to Use ipconfig
+
+### Basic Command
+- Open **Command Prompt**.
+- Type: `ipconfig`  
+  - This shows your basic IP information.
+
+### Detailed Info
+- Type: `ipconfig /all`  
+  - Shows detailed info like:
+    - MAC address
+    - DHCP status
+    - DNS suffix
+
+---
+
+## Troubleshooting APIPA (Automatic Private IP Address)
+
+- If your IP address falls within the range:
+  - `169.254.1.0` to `169.254.254.255`  
+  - This is called an **APIPA address**, which means **no internet access**.
+
+### Solution
+1. Run command: `ipconfig /release`
+2. Then: `ipconfig /renew`  
+   → This will request a new IP address from the router.
+
+---
+
+## Disable & Enable Network Adapter (Reset a Network Adapter)
+
+1. Go to **Search** and type: `Control Panel`
+2. Navigate to:  
+   `Network & Internet` → `Network & Sharing Center` →  
+   `Change adapter settings`
+3. Right-click your Wi-Fi or Ethernet adapter.
+4. Click **Disable**
+5. Wait a few seconds, then click **Enable** again.
+
+
+
+6. **Ask the user**:
    - Is the issue only affecting them or multiple people?
 
 2. **Check physical connections**:
