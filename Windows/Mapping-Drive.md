@@ -144,3 +144,23 @@ Example:
 - Check the subfolders:
   - They should inherit permissions from the parent folder (`Common`)
   - Any files or folders created inside the subfolders will carry the **same inheritance**
+
+# NTFS Permissions
+
+## Disable Inheritance
+- **Give permissions only to Project group** and disable non-group members from accessing the folder.
+- Right-click on **Project folder** → **Properties** → **Security** → **Advanced** → Click on **Disable Inheritance**.
+  - Click on **Everyone** → **Remove** → **Apply** → **OK**
+- Click on **Add** (from advanced) → **Add** → Select a **Principal** (type the group & OK)
+  - Set **Basic permissions** → **Full Control** → **Apply** → **OK**
+
+---
+## Implementing Explicit Deny in NTFS Permissions
+
+- **Create a folder** (parent folder) → **Create a Subfolder** (Confidential & materials)
+  - Go to **Project** → Right-click → **Properties** → **Share** → Add **Everyone** → **Share** & Done
+
+- Navigate to the **Subfolder** (Confidential) → Right-click → **Properties** → **Security** → Click on **Edit** → Add and OK
+  - Click on **User** (that you want to deny NTFS permissions) → Tap on **Deny (Read)**
+
+- **Prompt Windows Security** → **YES**
