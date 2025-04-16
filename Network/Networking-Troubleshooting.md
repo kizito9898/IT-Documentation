@@ -1,6 +1,37 @@
 # Network Troubleshooting
 
-## Initial Troubleshooting Checklist
+# Network Troubleshooting
+
+A **network** is a group of two or more devices (like computers, servers, printers, or phones) that are connected together to share resources and communicate.
+
+---
+
+## How to Diagnose Issues for Network Troubleshooting
+
+### What is Ping and How to Ping a Network
+
+- **Ping** is a command used to check if your computer can communicate with another device (like a website or a router).
+
+#### Steps:
+1. Open **Command Prompt** (Press `Windows + R`, type `cmd` and press Enter).
+2. Common ping tests to check network connectivity:
+   - `ping google.com` or `ping 8.8.8.8`
+   - `ping [your default gateway]` (to reach your router)
+   - `ping 127.0.0.1` (Check your computer’s network loopback)
+
+---
+
+## Tracert (Trace Route)
+
+- `tracert` (short for **trace route**) shows the path that data takes from your computer to a destination, like reaching a particular website.
+
+#### Steps:
+1. Open **Command Prompt**.
+2. Type: `tracert google.com`
+
+- It shows a list of hops (routers) the data passes through.
+- If a website is slow or not loading, `tracert` shows **where the slowdown is happening**.
+
 
 1. **Ask the user**:
    - Is the issue only affecting them or multiple people?
