@@ -105,3 +105,45 @@ Example:
 ![Screenshot](images/screenshot98.jpg)
 > You can also sign in how to save with that script:  
 `\\Server2022\` → Map the drive
+
+# Effective Permissions and Inheritance
+
+## Step 1: Create a Security Group in Active Directory
+
+- Navigate to **Active Directory Users & Computers**
+- Create a **Security Group** under an Organization Unit  
+  - Example:  
+    - Right-click on `HR` → `New` → `Group`
+    - Enter group name  
+    - Select `Global` and `Security` for group scope and group type  
+    - Click `OK`
+
+---
+
+## Step 2: Create Shared Folder Structure
+
+- Open **File Explorer** → `This PC` → `Local Disk (C:)`
+- Create a new folder named: `Common`
+- Inside the folder, create subfolders: `Projects` and `Seats`
+
+---
+
+## Step 3: Set Sharing Permissions
+
+- Right-click on the `Common` folder → `Properties` → `Sharing` tab
+- Click on `Share` → Add `Everyone` → Click on `Share` and `Done`
+---
+## Step 4: Set NTFS Permissions
+
+- Click on `Advanced Settings` → `Permissions`
+- Set permissions for **Everyone (Allow)** → Click `OK`
+
+- Go to the **Security** tab  
+  - Tap `Edit` → Select `Everyone`  
+  - Grant **Full Control** and **Modify**  
+  - Click `Apply` and `OK`
+---
+## Step 5: Verify Inheritance
+- Check the subfolders:
+  - They should inherit permissions from the parent folder (`Common`)
+  - Any files or folders created inside the subfolders will carry the **same inheritance**
