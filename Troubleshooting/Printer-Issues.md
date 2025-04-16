@@ -55,7 +55,7 @@ Navigate to:
    - Check **Share this printer**
    - You can list it in the directory to show on **Active Directory**
    - Click **Apply** and **OK**
-
+![Screenshot](images/screenshot124.jpg)
 ---
 ## Set Printer Permissions
 
