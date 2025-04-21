@@ -132,6 +132,7 @@ To verify the printer is showing on a client machine:
     - Choose `Printer Driver`:
       - Use an existing printer driver or install a new one.
     - Click `Next` → `Printer Installation Succeeded`
+    !
 
 ---
 ## Adding Printer to a Client Machine (Windows 11)
