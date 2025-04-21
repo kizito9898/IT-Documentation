@@ -51,7 +51,7 @@ A **network** is a group of two or more devices (like computers, servers, printe
     - MAC address
     - DHCP status
     - DNS suffix
-![Screenshot](im)
+![Screenshot](images/screenshot141.jpg)
 ---
 
 ## Troubleshooting APIPA (Automatic Private IP Address)
