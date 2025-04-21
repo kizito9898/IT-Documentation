@@ -142,7 +142,7 @@ To verify the printer is showing on a client machine:
   - Search for `Control Panel` → `Hardware & Sound` → `View Devices & Printers`
   - Click `Add Printer and/or Scanner`
   - If the printer doesn't show up, search again.
-![Screenshot](images/screenshot)
+![Screenshot](images/screenshot125.jpg)
 
 ---
 ## Group Policy and Permissions
