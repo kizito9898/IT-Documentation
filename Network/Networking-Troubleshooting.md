@@ -17,14 +17,13 @@ A **network** is a group of two or more devices (like computers, servers, printe
    - `ping google.com` or `ping 8.8.8.8`
    - `ping [your default gateway]` (to reach your router)
    - `ping 127.0.0.1` (Check your computer’s network loopback)
-![Screenshot](im)
+![Screenshot](images/screenshot138.jpg)
 
 ---
 
 ## Tracert (Trace Route)
 
 - `tracert` (short for **trace route**) shows the path that data takes from your computer to a destination, like reaching a particular website.
-
 #### Steps:
 1. Open **Command Prompt**.
 2. Type: `tracert google.com`
