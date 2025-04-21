@@ -18,6 +18,7 @@ A **network** is a group of two or more devices (like computers, servers, printe
    - `ping [your default gateway]` (to reach your router)
    - `ping 127.0.0.1` (Check your computer’s network loopback)
 
+
 ---
 
 ## Tracert (Trace Route)
