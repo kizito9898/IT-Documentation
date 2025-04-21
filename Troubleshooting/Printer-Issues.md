@@ -119,7 +119,7 @@ To verify the printer is showing on a client machine:
   - `DNS Server` → Expand on `Forward Lookup Zones` → `Printer`
   - Click on the domain (e.g., `njikason.com`) → New Host (A or AAAA)
   - Enter printer details.
-[Screenshot](ima)
+![Screenshot]
 ![Screenshot](images/)
 ---
 ## Adding a Printer via Print Management
