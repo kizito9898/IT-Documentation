@@ -64,7 +64,6 @@ This is not just a collection of notes—it's a **personal IT knowledge base** b
 ### 🔹 **Troubleshooting & Real-World IT Scenarios**  
 - [Slow Computer Issues](Troubleshooting/Slow-Computer.md)  
 - [Printer Issues](Troubleshooting/Printer-Issues.md)  
-- [Microsoft Teams Issues](Troubleshooting/Microsoft-Teams-Issues.md)  
 - [Outlook Issues](Troubleshooting/Outlook-Issues.md)  
 - [Wi-Fi Connection Issues](Troubleshooting/WiFi-Connection-Issues.md)   
 - [Domain Trust Relationship Failed](Troubleshooting/Domain-Trust-Relationship-Failed.md) 
