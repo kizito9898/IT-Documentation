@@ -117,8 +117,9 @@ To verify the printer is showing on a client machine:
 - Set up DNS for the printer so that it can get the printer name and not depend on the IP address.
 - Go to:
   - `DNS Server` → Expand on `Forward Lookup Zones` → `Printer`
-  - Click on the domain (e.g., `xyz.kom.com`) → New Host (A or AAAA)
+  - Click on the domain (e.g., `njikason.com`) → New Host (A or AAAA)
   - Enter printer details.
+![S]
 ---
 ## Adding a Printer via Print Management
 
