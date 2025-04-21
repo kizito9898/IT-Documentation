@@ -27,7 +27,7 @@ A **network** is a group of two or more devices (like computers, servers, printe
 #### Steps:
 1. Open **Command Prompt**.
 2. Type: `tracert google.com`
-
+![Screensh]
 - It shows a list of hops (routers) the data passes through.
 - If a website is slow or not loading, `tracert` shows **where the slowdown is happening**.
 
