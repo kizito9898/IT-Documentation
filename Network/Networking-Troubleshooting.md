@@ -77,7 +77,7 @@ A **network** is a group of two or more devices (like computers, servers, printe
 5. Wait a few seconds, then click **Enable** again.
 6. **Ask the user**:
    - Is the issue only affecting them or multiple people?
-![Screenshot]
+![Screenshot](images/screenshot142.jpg)
 1. **Check physical connections**:
    - Is the device connected to Wi-Fi or Ethernet?
    - Is the network cable plugged in properly?
