@@ -21,10 +21,7 @@ This is not just a collection of notes—it's a **personal IT knowledge base** b
 ### 🔹 **Networking & Security**  
 - [Networking Troubleshooting](Network/Networking-Troubleshooting.md)  
 - [DNS](Network/DNS.md)
--
-- [CrowdStrike Basics](Security/CrowdStrike-Basics.md) 
 - [MFA & Security Best Practices](Security/MFA-Security-Practices.md)  
-- [Endpoint Security](Security/Endpoint-Security.md)
 - [DHCP](Network/DHCP)
 
 ### 🔹 **Microsoft 365: Deployment, Administration & Management**  
@@ -39,7 +36,6 @@ This is not just a collection of notes—it's a **personal IT knowledge base** b
 - [Device Enrollment](Intune/Device-Enrollment.md)  
 - [Compliance Policies](Intune/Compliance-Policies.md)  
 - [App Deployment](Intune/App-Deployment.md)  
-- [Endpoint Security](Intune/Endpoint-Security.md)  
 - [MDM (Mobile Device Management)](Intune/MDM-Basics.md) 
 - [Intune Enrollment Troubleshooting](Intune/Enrollment-Troubleshooting.md) 
 
