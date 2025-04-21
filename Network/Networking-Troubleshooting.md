@@ -66,7 +66,6 @@ A **network** is a group of two or more devices (like computers, servers, printe
    → This will request a new IP address from the router.
 
 ---
-
 ## Disable & Enable Network Adapter (Reset a Network Adapter)
 
 1. Go to **Search** and type: `Control Panel`
@@ -76,9 +75,6 @@ A **network** is a group of two or more devices (like computers, servers, printe
 3. Right-click your Wi-Fi or Ethernet adapter.
 4. Click **Disable**
 5. Wait a few seconds, then click **Enable** again.
-
-
-
 6. **Ask the user**:
    - Is the issue only affecting them or multiple people?
 
