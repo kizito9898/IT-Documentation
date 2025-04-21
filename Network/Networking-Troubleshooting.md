@@ -44,14 +44,14 @@ A **network** is a group of two or more devices (like computers, servers, printe
 - Open **Command Prompt**.
 - Type: `ipconfig`  
   - This shows your basic IP information.
-!
+![Screenshot](images/screenshot140.jpg)
 ### Detailed Info
 - Type: `ipconfig /all`  
   - Shows detailed info like:
     - MAC address
     - DHCP status
     - DNS suffix
-
+![Screenshot](im)
 ---
 
 ## Troubleshooting APIPA (Automatic Private IP Address)
