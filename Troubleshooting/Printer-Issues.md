@@ -120,11 +120,10 @@ To verify the printer is showing on a client machine:
   - Click on the domain (e.g., `njikason.com`) → New Host (A or AAAA)
   - Enter printer details.
 ![Screenshot](images/screenshot128.jpg)
-![Scre
 ## Adding a Printer via Print Management
 
 - Navigate to **Print Management** from the **Server Manager**:
-  - `P![[screenshot128.jpg]]rinters` → `Add Printer`
+  - `Printers` → `Add Printer`
   - Select `Add an IPP, TCP/IP or Web Services Printer`
   - Add printer by IP address or hostname and Next.
   - Enter `Printer Address`, `Type of Device: TCP/IP Device`
