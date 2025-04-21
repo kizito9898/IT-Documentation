@@ -137,7 +137,7 @@ To verify the printer is showing on a client machine:
 
 ---
 ## Adding Printer to a Client Machine (Windows 11)
-- Log in to the client machine.
+- Log in to the client machine.(TeamViewer)
 - Tap the printer:
   - Search for `Control Panel` → `Hardware & Sound` → `View Devices & Printers`
   - Click `Add Printer and/or Scanner`
