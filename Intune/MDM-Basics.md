@@ -133,6 +133,4 @@ To check if policies apply, open **Microsoft Outlook** or **Teams** on the enrol
 
 - Monitor device compliance in **Intune Admin Center**.
 - Adjust policies based on security needs.
-- Test access restrictions to ensure security policies work as expected.
-
-This guide now includes **Compliance Policies, Conditional Access, and App Protection Policies**.
+- Test access restrictions to ensure security policies work as expected
