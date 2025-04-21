@@ -143,6 +143,7 @@ To verify the printer is showing on a client machine:
   - Click `Add Printer and/or Scanner`
   - If the printer doesn't show up, search again.
 ![Screenshot](images/screenshot125.jpg)
+![Screenshot](images/screenshot132.jpg)
 
 ---
 ## Group Policy and Permissions
