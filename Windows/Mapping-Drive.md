@@ -117,7 +117,7 @@ Example:
     - Enter group name  
     - Select `Global` and `Security` for group scope and group type  
     - Click `OK`
-![Screenshot](images/screenshot144.jp)
+![Screenshot](images/screenshot144.jpg)
 ---
 ## Step 2: Create Shared Folder Structure
 
