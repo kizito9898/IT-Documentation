@@ -33,8 +33,28 @@ As Windows operating system is popular in a business environment, knowing how to
    Select **"Adjust for best performance"**
 5. Click **Apply** and **OK**
 
+# Printer Troubleshooting - Print Queue Stuck
 
-## 1. Hosts File - Fix Website Access Issues
+When a printer is not responding and the print queue is stuck:
+
+---
+
+## Steps to Clear Print Queue
+
+1. **Cancel all print jobs**  
+   - Go to **Control Panel** → **Devices & Printers**  
+   - Right-click the printer → Click **"Cancel all documents"** to clear the queue
+
+2. **If the print jobs don’t cancel, reboot the printer**
+
+3. **Restart the Print Spooler service**
+   - Press `Windows + R`, type `services.msc`, and press **Enter**
+   - Scroll down to **Print Spooler**
+   - Right-click it and choose **Restart**
+
+> This clears the print queue and refreshes the Print Spooler.
+
+##  Hosts File - Fix Website Access Issues
 
 ### GUI Method:
 1. Open **File Explorer** and navigate to:
@@ -52,7 +72,7 @@ notepad C:\Windows\System32\drivers\etc\hosts
 Edit and save the file.
 
 ---
-## 2. Encryption & BitLocker
+##  Encryption & BitLocker
 
 ### GUI Method:
 1. Open **Control Panel > BitLocker Drive Encryption**.
@@ -66,7 +86,7 @@ manage-bde -on C: -password
 
 ---
 
-## 3. Check Windows Version
+##  Check Windows Version
 
 ### GUI Method:
 1. Open **Settings > System > About**.
