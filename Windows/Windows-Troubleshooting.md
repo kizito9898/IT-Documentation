@@ -18,7 +18,6 @@ notepad C:\Windows\System32\drivers\etc\hosts
 Edit and save the file.
 
 ---
-
 ## 2. Encryption & BitLocker
 
 ### GUI Method:
