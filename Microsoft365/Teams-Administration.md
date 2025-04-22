@@ -12,7 +12,6 @@ A Microsoft Teams Administrator is responsible for managing Teams settings, user
 - Integrating apps and workflows.
 
 ---
-
 ## 2. Features of Microsoft Teams Admin Center
 
 The **Teams Admin Center** allows administrators to:
