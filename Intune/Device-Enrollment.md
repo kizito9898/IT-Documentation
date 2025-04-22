@@ -74,7 +74,6 @@
 
 - Compliance policies can be used with **Entra ID Conditional Access** to **block or restrict access** to company resources if a device is **non-compliant**.
     
-
 ### Monitoring & Reporting
 
 - **Intune provides reports on device compliance status, helping IT admins take action.**
@@ -93,7 +92,6 @@ Compliance -> Create policy (Windows 10 and later) -> Basics (Name, Enforce BitL
 - **Basics:** Update ring settings (Update Windows 10 devices to latest Windows 11 release)
 - **Assignments:** Add groups (users)
 - **Review & Create**
-
 ### Why is this important?
 - Helps IT admins control Windows updates across all managed devices.
 - Ensures stability by delaying updates to test compatibility before deployment.
