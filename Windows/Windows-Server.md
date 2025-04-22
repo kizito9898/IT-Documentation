@@ -116,7 +116,7 @@ Virtual machines on one server
 
 ---
 
-## Adding a Computer to a Domain (Windows to a Linux) rules
+## Adding a Computer to a Domain (Windows) rules
 
 * To enforce/practice with Windows Server (group policy, Active Directory users & Computers, Troubleshooting Skills )
 
