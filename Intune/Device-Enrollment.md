@@ -108,5 +108,10 @@ Compliance -> Create policy (Windows 10 and later) -> Basics (Name, Enforce BitL
 - **Enter password and passes MFA(if needed)
 - **Device automatically joins Intune(MDM)
 ![Screenshot](images/screenshot155.jpg)
-**All the apps are automatically getting installed and the user  can access the apps immediately 
-![Screensh]
+**All the apps are automatically getting installed and the user  can access the apps immediately
+![Screenshot](images/screenshot156.jpg)
+
+
+
+
+
