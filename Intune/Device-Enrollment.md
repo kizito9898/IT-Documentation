@@ -102,4 +102,5 @@ Compliance -> Create policy (Windows 10 and later) -> Basics (Name, Enforce BitL
 ![Screenshot](images/screenshot153.jpg)
 
 - **Download Windows 11 ISO
-- **Create a VM with atleast 4
+- **Create a VM with atleast 4GB RAM ,2vCPUs and 64GB Disk.
+- 
