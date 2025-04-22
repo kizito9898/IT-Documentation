@@ -77,11 +77,7 @@ Edit and save the file.
 ### GUI Method:
 1. Open **Control Panel > BitLocker Drive Encryption**.
 2. Click **Turn on BitLocker** and follow the setup.
-3. Save the recovery key in **OneDrive or a USB drive**.
-
-### CMD Method:
-```powershell
-manage-bde -on C: -password
+3. Save the recovery key in **OneDrive or a USB drive**
 ```
 
 ---
@@ -93,8 +89,6 @@ manage-bde -on C: -password
 ### CMD Method:
 ```powershell
 winver
-```
-
 ---
 ##  Virus & Malware Removal
 
