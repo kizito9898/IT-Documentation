@@ -172,6 +172,7 @@ wmic product where name="appname" call uninstall
 wmic computersystem where name="%computername%" call rename name="NewPCName"
 netdom join %computername% /domain:yourdomain.com /userd:AdminUser /passwordd:*
 ```
+![Screenshot](images/screenshot86.jpg)
 
 
 ---
