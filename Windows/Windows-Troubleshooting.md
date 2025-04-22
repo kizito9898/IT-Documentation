@@ -184,40 +184,35 @@ netdom join %computername% /domain:yourdomain.com /userd:AdminUser /passwordd:*
 
 ### GUI Method:
 1. Open **Settings > System > Activation**.
-
 ### CMD Method:
 ```powershell
 slmgr /xpr
 ```
 
 ---
-
-## 12. End Processes
+##  End Processes
 
 ### GUI Method:
 1. Press **Ctrl + Shift + Esc** to open **Task Manager**.
 2. Right-click a process and select **End Task**.
-
 ### CMD Method:
 ```powershell
 taskkill /IM processname.exe /F
 ```
 
 ---
-
-## 13. Check & Fix Disk Errors
+##  Check & Fix Disk Errors
 
 ### GUI Method:
 1. Open **File Explorer > This PC**.
 2. Right-click **C: Drive > Properties > Tools > Error Checking > Check**.
-
 ### CMD Method:
 ```powershell
 chkdsk C: /f /r
 ```
 
 ---
-## 14. Increase Virtual RAM
+##  Increase Virtual RAM
 
 ### GUI Method:
 1. Open **Settings > System > About > Advanced System Settings**.
@@ -229,7 +224,7 @@ wmic pagefile list /format:list
 ```
 
 ---
-## 15. Speed Up a Slow PC
+## Speed Up a Slow PC
 
 ### GUI Method:
 1. Open **Task Manager > Startup**.
