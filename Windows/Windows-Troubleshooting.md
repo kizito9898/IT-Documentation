@@ -178,7 +178,6 @@ chkdsk C: /f /r
 ```
 
 ---
-
 ## 14. Increase Virtual RAM
 
 ### GUI Method:
