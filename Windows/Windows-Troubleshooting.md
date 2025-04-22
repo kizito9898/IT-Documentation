@@ -185,20 +185,17 @@ chkdsk C: /f /r
 1. Open **Settings > System > About > Advanced System Settings**.
 2. Click **Performance Settings > Advanced > Virtual Memory**.
 3. Increase the **Page File size**.
-
 ### CMD Method:
 ```powershell
 wmic pagefile list /format:list
 ```
 
 ---
-
 ## 15. Speed Up a Slow PC
 
 ### GUI Method:
 1. Open **Task Manager > Startup**.
 2. Disable unnecessary startup programs.
-
 ### CMD Method:
 ```powershell
 wmic startup where name="appname" call disable
