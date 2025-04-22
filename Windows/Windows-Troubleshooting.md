@@ -135,7 +135,6 @@ powercfg /setactive SCHEME_MIN
 
 ##  Manage Windows Updates
 
-### GUI Method:
 1. Open **Settings > Windows Update**.
 2. Click **Pause Updates**.
 ### CMD Method:
@@ -145,7 +144,7 @@ wuauclt /detectnow
 
 ---
 
-## 8. Check System Information
+## Check System Information
 
 ### GUI Method:
 1. Right-click **Start > System**.
@@ -158,25 +157,22 @@ systeminfo
 
 ---
 
-## 9. Install & Uninstall Applications
+## Install & Uninstall Applications
 
 ### GUI Method:
 1. Open **Control Panel > Programs & Features**.
 2. Click an app and select **Uninstall**.
-
 ### CMD Method:
 ```powershell
 wmic product where name="appname" call uninstall
 ```
 
 ---
-
 ## 10. Rename PC & Join a Domain
 
 ### GUI Method:
 1. Open **Settings > System > About > Rename this PC**.
 2. To join a domain: Open **Settings > Accounts > Access Work or School**.
-
 ### CMD Method:
 ```powershell
 wmic computersystem where name="%computername%" call rename name="NewPCName"
@@ -184,8 +180,7 @@ netdom join %computername% /domain:yourdomain.com /userd:AdminUser /passwordd:*
 ```
 
 ---
-
-## 11. Check Windows Activation
+##  Check Windows Activation
 
 ### GUI Method:
 1. Open **Settings > System > Activation**.
