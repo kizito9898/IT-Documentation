@@ -4,7 +4,6 @@
 A **network** is a group of two or more devices (like computers, servers, printers, or phones) that are connected together to share resources and communicate.
 
 ---
-
 ## How to Diagnose Issues for Network Troubleshooting
 
 ### What is Ping and How to Ping a Network
