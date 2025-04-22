@@ -214,20 +214,4 @@ chkdsk C: /f /r
 1. Open **Settings > System > About > Advanced System Settings**.
 2. Click **Performance Settings > Advanced > Virtual Memory**.
 3. Increase the **Page File size**.
-### CMD Method:
-```powershell
-wmic pagefile list /format:list
-```
-
 ---
-##  Manage Local Users
-
-### GUI Method:
-1. Open **Settings > Accounts > Other Users**.
-2. Select a user and click **Remove**.
-
-### CMD Method:
-```powershell
-net user username /delete
-```
-```
