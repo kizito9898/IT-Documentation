@@ -101,4 +101,5 @@ Compliance -> Create policy (Windows 10 and later) -> Basics (Name, Enforce BitL
  **After the whole process and steps including app deployment you can now enroll a windows machine to a device (I will be using a virtual machine that I installed windows windows 11 )
 ![Screenshot](images/screenshot153.jpg)
 
-**Download Windows 11 ISO
+- **Download Windows 11 ISO
+- **Create a VM with atleast 4
