@@ -97,7 +97,7 @@ Compliance -> Create policy (Windows 10 and later) -> Basics (Name, Enforce BitL
 - Allows gradual rollout of new Windows versions to avoid potential issues.
 
 ## Device Enrollment
- **After the whole process and steps including app depeloy
+ **After the whole process and steps including app deployment you can now enroll a windows machine to a device (I will be using a vir)
 
 
 
