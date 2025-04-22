@@ -106,4 +106,4 @@ Compliance -> Create policy (Windows 10 and later) -> Basics (Name, Enforce BitL
 - **Install Windows 11 and during the Windows set up, you get a prompt to log in with your work account.
 - **Access work or school account and Enter the work email address ( created in Microsoft 365 admin)
 - **Enter password and passes MFA(if needed)
-- **Device auto
+- **Device automatically joins Intune(MDM)
