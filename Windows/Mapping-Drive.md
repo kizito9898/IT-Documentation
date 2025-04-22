@@ -140,7 +140,7 @@ Example:
   - Tap `Edit` → Select `Everyone`  
   - Grant **Full Control** and **Modify**  
   - Click `Apply` and `OK`
-![Screensho]
+![Screenshot](images/screenshot146.jpg)
 ---
 ## Step 5: Verify Inheritance
 - Check the subfolders:
