@@ -52,7 +52,7 @@ When a printer is not responding and the print queue is stuck:
 
 > This clears the print queue and refreshes the Print Spooler.
 ![Screenshot](images/screenshot161.jpg)
-!
+![Screenshot](images/screenshot162.jpg)
 ##  Hosts File - Fix Website Access Issues
 
 ### GUI Method:
