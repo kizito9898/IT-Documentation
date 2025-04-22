@@ -20,7 +20,10 @@ As Windows operating system is popular in a business environment, knowing how to
    - Press `Windows + R`
    - Type `cleanmgr` and run Disk Cleanup  
    - Check for Windows updates (install any pending updates & reboot)
-![Screenshot](images/screenshot1)
+![Screenshot](images/screenshot163.jpg)
+![S]
+
+
 ---
 ## Speed Up a Slow Computer  
 (Adjust for best performance)
