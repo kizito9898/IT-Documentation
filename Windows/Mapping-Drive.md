@@ -168,3 +168,4 @@ Example:
   - Click on **User** (that you want to deny NTFS permissions) → Tap on **Deny (Read)**
 
 - **Prompt Windows Security** → **YES**
+![Screenshot](images/screenshot149.jpg)
