@@ -114,8 +114,8 @@ A **network** is a group of two or more devices (like computers, servers, printe
      nslookup google.com
      ```
    - If this fails, DNS may be the issue.
-
-6. **Run `tracert`**:
+![Screenshot](images/screenshot143.jpg)
+5. **Run `tracert`**:
    - Trace where the connection fails:
      ```
      tracert google.com
