@@ -166,12 +166,11 @@ Microsoft Entra ID (formerly Azure AD) provides centralized device management, a
 - **Block weak passwords** with **Password Protection**:
   1. Go to **Microsoft Entra admin center** > **Security** > **Password Protection**.
   2. Enable **Enforce custom banned passwords**.
-
+![Screenshot](images/screenshot151.jpg)
 ### **2.2 Multi-Factor Authentication (MFA) Best Practices**
 - **Enforce MFA for all users** via **Security Defaults**.
 - **Use Microsoft Authenticator** instead of SMS (Best recommended practices)
 - **Enable passwordless authentication** (FIDO2 keys, Windows Hello).
-
 ### **2.3 Authentication Strength Policy**
 1. Go to **Microsoft Entra admin center** > **Security** > **Authentication Methods**.
 2. Enable:
