@@ -77,12 +77,10 @@
 ### Monitoring & Reporting
 
 - **Intune provides reports on device compliance status, helping IT admins take action.**
-
 ## Rules
 Assign Profile -> OS Edition -> Windows 10/11 (Enterprise or Home) -> Click Next -> Create  
 
 **Note:** (You can do the same and create other policies like Domain Name, Endpoint protection, Email, etc.)  
-
 ## How it Works
 Compliance -> Create policy (Windows 10 and later) -> Basics (Name, Enforce BitLocker) -> Compliance settings -> Add in for non-compliance ⚠ -> Notification for users for non-compliance policy -> Assignments (Add all users) -> Review & Create
 ![Screenshot](images/screenshot46.jpg)
