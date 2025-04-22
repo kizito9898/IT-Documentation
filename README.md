@@ -50,18 +50,10 @@ This is not just a collection of notes—it's a **personal IT knowledge base** b
 ### 🔹 **MSP Tools & Ticketing Systems**  
 - [ConnectWise Ticketing Best Practices](ConnectWise/Ticketing-Best-Practices.md)  
 - [Common Issues & Fixes in ConnectWise](ConnectWise/Common-Issues-Fixes.md)  
-- [Con
 - [IT Glue Documentation Best Practices](ITGlue/Documentation-Best-Practices.md)  
 - [IT Glue Documentation Templates](ITGlue/IT-Documentation-Templates.md)  
 
-### 🔹 **Popular Ticketing Systems & Knowledge Base**  
-- [Zendesk Guide](Ticketing-Systems/Zendesk-Guide.md)  
-- [Zoho Desk Guide](Ticketing-Systems/Zoho-Desk-Guide.md)  
-- [Freshdesk Basics](Ticketing-Systems/Freshdesk-Basics.md)  
-- [Jira Service Management](Ticketing-Systems/Jira-Service-Management.md)  
-
 ### 🔹 **Troubleshooting & Real-World IT Scenarios**  
-- [Slow Computer Issues](Troubleshooting/Slow-Computer.md)  
 - [Printer Issues](Troubleshooting/Printer-Issues.md)  
 - [Outlook Issues](Troubleshooting/Outlook-Issues.md)  
 - [Wi-Fi Connection Issues](Troubleshooting/WiFi-Connection-Issues.md)   
