@@ -96,4 +96,19 @@ Compliance -> Create policy (Windows 10 and later) -> Basics (Name, Enforce BitL
 - Prevents disruptive updates from installing automatically.
 - Allows gradual rollout of new Windows versions to avoid potential issues.
 
-##
+## Device Enrollment
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
