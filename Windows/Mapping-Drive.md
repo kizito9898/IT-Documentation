@@ -156,7 +156,7 @@ Example:
 - Click on **Add** (from advanced) → **Add** → Select a **Principal** (type the group & OK)
   - Set **Basic permissions** → **Full Control** → **Apply** → **OK**
 ![Screenshot](images/screenshot147.jpg)
-
+![Screenshot]
 
 ---
 ## Implementing Explicit Deny in NTFS Permissions
