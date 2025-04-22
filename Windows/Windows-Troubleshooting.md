@@ -218,17 +218,6 @@ wmic pagefile list /format:list
 ```
 
 ---
-## Speed Up a Slow PC
-
-### GUI Method:
-1. Open **Task Manager > Startup**.
-2. Disable unnecessary startup programs.
-### CMD Method:
-```powershell
-wmic startup where name="appname" call disable
-```
-
----
 ##  Manage Local Users
 
 ### GUI Method:
