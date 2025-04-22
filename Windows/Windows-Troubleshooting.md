@@ -132,7 +132,6 @@ powercfg /setactive SCHEME_MIN
 ```
 
 ---
-
 ##  Manage Windows Updates
 
 1. Open **Settings > Windows Update**.
@@ -143,20 +142,17 @@ wuauclt /detectnow
 ```
 
 ---
-
 ## Check System Information
 
 ### GUI Method:
 1. Right-click **Start > System**.
 2. Open **Task Manager > Performance Tab**.
-
 ### CMD Method:
 ```powershell
 systeminfo
 ```
 
 ---
-
 ## Install & Uninstall Applications
 
 ### GUI Method:
@@ -235,8 +231,7 @@ wmic startup where name="appname" call disable
 ```
 
 ---
-
-## 16. Manage Local Users
+##  Manage Local Users
 
 ### GUI Method:
 1. Open **Settings > Accounts > Other Users**.
