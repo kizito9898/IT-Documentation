@@ -129,7 +129,7 @@ Example:
 
 - Right-click on the `Common` folder → `Properties` → `Sharing` tab
 - Click on `Share` → Add `Everyone` → Click on `Share` and `Done`
-![Screenshot](images/screenshot145)
+![Screenshot](images/screenshot145.jpg)
 ---
 ## Step 4: Set NTFS Permissions
 
