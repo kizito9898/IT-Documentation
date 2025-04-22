@@ -123,12 +123,13 @@ Example:
 
 - Open **File Explorer** → `This PC` → `Local Disk (C:)`
 - Create a new folder named: `Common`
-- Inside the folder, create subfolders: `Projects` and `Seats`
+- Inside the folder, create subfolders: `Projects` and `events`
 ---
 ## Step 3: Set Sharing Permissions
 
 - Right-click on the `Common` folder → `Properties` → `Sharing` tab
 - Click on `Share` → Add `Everyone` → Click on `Share` and `Done`
+![S]
 ---
 ## Step 4: Set NTFS Permissions
 
