@@ -13,10 +13,8 @@ As a **IT Support** technician, you will handle tasks related to **user mailboxe
 - Manage **shared mailboxes** and **distribution groups**.  
 - Configure **resource mailboxes** for meeting rooms and equipment.  
 - Create **mail contacts** for external users.  
-
 ### 2️ Mail Flow Management  
 - Configure **mail transport rules** (to filter or route emails).  
-- Manage **email connectors** (inbound and outbound).  
 - Monitor **email queues** and troubleshoot undelivered emails.   
 
 ### 3 Message Tracking & Troubleshooting  
