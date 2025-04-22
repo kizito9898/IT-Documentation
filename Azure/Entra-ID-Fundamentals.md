@@ -171,6 +171,7 @@ Microsoft Entra ID (formerly Azure AD) provides centralized device management, a
 - **Enforce MFA for all users** via **Security Defaults**.
 - **Use Microsoft Authenticator** instead of SMS (Best recommended practices)
 - **Enable passwordless authentication** (FIDO2 keys, Windows Hello).
+![Screenshot](images/screenshot152.jpg)
 ### **2.3 Authentication Strength Policy**
 1. Go to **Microsoft Entra admin center** > **Security** > **Authentication Methods**.
 2. Enable:
