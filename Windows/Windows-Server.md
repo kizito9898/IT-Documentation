@@ -149,4 +149,3 @@ The Computer has been joined to the domain
 
 ![Screenshot](images/screenshot63.jpg)
 
-
