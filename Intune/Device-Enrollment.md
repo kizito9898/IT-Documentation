@@ -111,8 +111,7 @@ Compliance -> Create policy (Windows 10 and later) -> Basics (Name, Enforce BitL
 All the apps are automatically getting installed and the user can access the apps when they log in
 
 ![Screenshot](images/screenshot156.jpg)
-
-
+![Screenshot](images)
 
 
 
