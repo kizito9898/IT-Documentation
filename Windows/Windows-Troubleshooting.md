@@ -1,4 +1,38 @@
-# IT Troubleshooting 
+# Windows Troubleshooting
+
+Identifying and fixing problems with the hardware, operating system to help users get their computer working properly again.  
+As Windows operating system is popular in a business environment, knowing how to troubleshoot issues is an important skill to have for tech support.
+
+---
+## Troubleshooting a Slow Computer
+
+1. **Search for Task Manager**  
+   Press `Ctrl + Shift + Esc`
+
+2. **Look Under Processes and Performance Tabs**  
+   - Check for applications taking memory or anything consuming power.
+   - **End Task** on unnecessary apps.
+
+3. **Restart the Computer**  
+   (Most computer uptime can cause system to malfunction.)
+
+4. **Run Disk Cleanup**  
+   - Press `Windows + R`
+   - Type `cleanmgr` and run Disk Cleanup  
+   - Check for Windows updates (install any pending updates & reboot)
+
+---
+
+## Speed Up a Slow Computer  
+(Adjust for best performance)
+
+1. Go to **File Explorer** → **This PC**
+2. Right-click → **Properties**
+3. Click on **Advanced System Settings**
+4. Under the **Advanced** tab → Under **Performance (Settings)** →  
+   Select **"Adjust for best performance"**
+5. Click **Apply** and **OK**
+
 
 ## 1. Hosts File - Fix Website Access Issues
 
