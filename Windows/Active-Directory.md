@@ -6,7 +6,8 @@ It helps organizations:
 - Control access to resources  
 - Enforce security policies  
 - Simplify administration  
-![]
+
+![Screenshot](images/screenshot150.)
 ---
 ## Active Directory Domain Services Installation
 
