@@ -107,3 +107,4 @@ Compliance -> Create policy (Windows 10 and later) -> Basics (Name, Enforce BitL
 - **Access work or school account and Enter the work email address ( created in Microsoft 365 admin)
 - **Enter password and passes MFA(if needed)
 - **Device automatically joins Intune(MDM)
+![Screenshot]
