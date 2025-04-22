@@ -31,7 +31,7 @@ As Windows operating system is popular in a business environment, knowing how to
 4. Under the **Advanced** tab → Under **Performance (Settings)** →  
    Select **"Adjust for best performance"**
 5. Click **Apply** and **OK**
-
+![Screenshot](images/screenshot160.jpg)
 # Printer Troubleshooting - Print Queue Stuck
 
 When a printer is not responding and the print queue is stuck:
