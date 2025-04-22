@@ -22,7 +22,6 @@ As Windows operating system is popular in a business environment, knowing how to
    - Check for Windows updates (install any pending updates & reboot)
 
 ---
-
 ## Speed Up a Slow Computer  
 (Adjust for best performance)
 
@@ -38,7 +37,6 @@ As Windows operating system is popular in a business environment, knowing how to
 When a printer is not responding and the print queue is stuck:
 
 ---
-
 ## Steps to Clear Print Queue
 
 1. **Cancel all print jobs**  
