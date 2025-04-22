@@ -85,41 +85,35 @@ manage-bde -on C: -password
 ```
 
 ---
-
 ##  Check Windows Version
 
 ### GUI Method:
 1. Open **Settings > System > About**.
 2. Check **Edition**.
-
 ### CMD Method:
 ```powershell
 winver
 ```
 
 ---
-
-## 4. Virus & Malware Removal
+##  Virus & Malware Removal
 
 ### GUI Method:
 1. Open **Windows Security > Virus & Threat Protection**.
 2. Click **Quick Scan**.
-
 ### CMD Method:
 ```powershell
 MpCmdRun -Scan -ScanType 2
 ```
 
 ---
-
-## 5. Fix Internet Connection Issues
+## Fix Internet Connection Issues
 
 ### GUI Method:
 1. Open **Settings > Network & Internet > Status**.
 2. Click **Change Adapter Options**.
 3. Right-click **Wi-Fi** → **Disable > Enable**.
 4. Click **Network Troubleshooter**.
-
 ### CMD Method:
 ```powershell
 ipconfig /release
@@ -127,13 +121,11 @@ ipconfig /renew
 ```
 
 ---
-
-## 6. Manage Power Options
+## Manage Power Options
 
 ### GUI Method:
 1. Open **Control Panel > Power Options**.
 2. Select **Balanced** or **High Performance**.
-
 ### CMD Method:
 ```powershell
 powercfg /setactive SCHEME_MIN
@@ -141,12 +133,11 @@ powercfg /setactive SCHEME_MIN
 
 ---
 
-## 7. Manage Windows Updates
+##  Manage Windows Updates
 
 ### GUI Method:
 1. Open **Settings > Windows Update**.
 2. Click **Pause Updates**.
-
 ### CMD Method:
 ```powershell
 wuauclt /detectnow
