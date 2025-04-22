@@ -30,7 +30,6 @@ This is not just a collection of notes—it's a **personal IT knowledge base** b
 - [SharePoint Administration](Microsoft365/SharePoint-Administration.md)  
 - [Teams Administration](Microsoft365/Teams-Administration.md)  
 - [Microsoft 365 Deployment](Microsoft365/Microsoft-365-Deployment.md)  
-- [Microsoft 365 Security](Microsoft365/Microsoft-365-Security.md)  
 
 ### 🔹 **Microsoft Intune, Endpoint Management & MDM**  
 - [Device Enrollment](Intune/Device-Enrollment.md)  
@@ -51,7 +50,7 @@ This is not just a collection of notes—it's a **personal IT knowledge base** b
 ### 🔹 **MSP Tools & Ticketing Systems**  
 - [ConnectWise Ticketing Best Practices](ConnectWise/Ticketing-Best-Practices.md)  
 - [Common Issues & Fixes in ConnectWise](ConnectWise/Common-Issues-Fixes.md)  
-- [ConnectWise Patch Management](ConnectWise/Patch-Management.md)  
+- [Con
 - [IT Glue Documentation Best Practices](ITGlue/Documentation-Best-Practices.md)  
 - [IT Glue Documentation Templates](ITGlue/IT-Documentation-Templates.md)  
 
