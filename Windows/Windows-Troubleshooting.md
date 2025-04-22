@@ -115,7 +115,8 @@ MpCmdRun -Scan -ScanType 2
 ipconfig /release
 ipconfig /renew
 ```
-![Screenshot](images/screenshot)
+![Screenshot](images/screenshot142.jpg)
+
 
 ---
 ## Manage Power Options
