@@ -173,6 +173,7 @@ wmic computersystem where name="%computername%" call rename name="NewPCName"
 netdom join %computername% /domain:yourdomain.com /userd:AdminUser /passwordd:*
 ```
 
+
 ---
 ##  Check Windows Activation
 
