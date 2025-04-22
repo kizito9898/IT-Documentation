@@ -51,7 +51,8 @@ When a printer is not responding and the print queue is stuck:
    - Right-click it and choose **Restart**
 
 > This clears the print queue and refreshes the Print Spooler.
-![Screensh]
+![Screenshot](images/screenshot161.jpg)
+!
 ##  Hosts File - Fix Website Access Issues
 
 ### GUI Method:
