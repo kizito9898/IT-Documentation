@@ -87,8 +87,6 @@ If you’re a **CTO, IT Manager, or hiring recruiter** looking for practical han
 
 ---
 
-<p align="center">
-  <strong>Always documenting. Always improving. Always job-ready.</strong>
-</p>
 
----
+
+
