@@ -81,6 +81,6 @@ If you're a **CTO, MSP recruiter, or IT hiring manager** looking for someone who
 
 - **LinkedIn:** [linkedin.com/in/chiagozie-njika](https://www.linkedin.com/in/chiagozie-njika-a24660284)  
 - **GitHub:** [github.com/kizito9898](https://github.com/kizito9898)  
-- **Email:** chiagozienjika@gmail.com
+- **Email:** chiagozienjika078@gmail.com
 
 ---
