@@ -46,7 +46,7 @@ This is not just a collection of notes—it's a **personal IT knowledge base** b
 - [Exchange Administration](Microsoft365/Exchange-Administration.md)  
 - [SharePoint Administration](Microsoft365/SharePoint-Administration.md)  
 - [Teams Administration](Microsoft365/Teams-Administration.md)  
-- [Microsoft 365 Deployment](Microsoft365/Microsoft-365-Deployment.md)  
+- [Microsoft 365 Deployment](Microsoft365/Microsoft-365-Deployment.md) 
 
 ### 🔹 **Microsoft Intune, Endpoint Management & MDM**  
 - [Device Enrollment](Intune/Device-Enrollment.md)  
