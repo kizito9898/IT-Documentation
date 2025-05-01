@@ -86,47 +86,5 @@ This documentation is a **reflection of my IT journey**—not just theoretical k
 ---
 
 ### **About Me**  
-I'm Chiagozie Njika, a hands-on IT Support Technician with over 6 months of documented home lab experience. My focus is on solving real-world problems, mastering tools used by support teams, and always documenting the process like I’m working in a live environment.
-
----
-
-### **Documentation Index**
-
-| Skill Area                 | Description                                       | Folder                                   |
-| -------------------------- | ------------------------------------------------- | ---------------------------------------- |
-| **Windows Server**         | Installation, domain setup, DHCP/DNS, file server | [Windows Server](./Windows%20Server)     |
-| **Active Directory**       | User management, OU structure, group policy       | [Active Directory](./Active%20Directory) |
-| **Microsoft 365 Admin**    | User licenses, Exchange, SharePoint, Teams        | [Microsoft 365](./Microsoft%20365)       |
-| **MDM / Intune**           | Device enrollment, compliance, app deployment     | [Microsoft Intune](./Microsoft%20Intune) |
-| **Group Policy (GPO)**     | Restriction policies, automation, enforcement     | [Group Policy](./Group%20Policy)         |
-| **Ticketing Systems**      | Ticket response examples, workflows               | [Ticketing System](./Ticketing%20System) |
-| **PDQ Deploy & Inventory** | Automated installs, system audit                  | [PDQ](./PDQ)                             |
-| **Networking**             | Static IP, DNS, ping tests, troubleshooting       | [Networking](./Networking)               |
-| **IT Glue Style Docs**     | SOPs, knowledge base articles                     | [IT Documentation](./IT%20Documentation) |
-
----
-
-### **Highlight Labs**
-
-- Created domain environment in VMware and joined Windows 11 client  
-- Managed users, OUs, and GPOs like disabling Control Panel and USB ports  
-- Simulated support tickets and documented solutions  
-- Used Microsoft Intune for MDM & deployed apps to devices  
-- Automated app deployment with PDQ and tracked with PDQ Inventory  
-
----
-
-### **Let’s Connect**
-
-If you’re a **CTO, IT Manager, or hiring recruiter** looking for practical hands-on skills — I’d love to connect.
-
-- **LinkedIn:** [Chiagozie Njika](https://www.linkedin.com/in/chiagozie-njika-a24660284)  
-- **GitHub:** [kizito9898](https://github.com/kizito9898)  
-- **Email:** chiagozienjika@gmail.com  
-
----
-
-<p align="center">
-  <strong>Always documenting. Always improving. Always job-ready.</strong>
-</p>
+I'm Chiagozie Njika, a hands-on IT Support Technician with over 6 months of documented home lab experience. My focus is on solvin
 
