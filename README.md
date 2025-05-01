@@ -72,4 +72,61 @@ This documentation is a **reflection of my IT journey**—not just theoretical k
 🚀 **This is my journey, my work, and my contribution to the IT community. For anyone looking to get into IT or struggling to start, I hope this documentation helps you venture into the world of IT.**
 
 
+<h1 align="center">IT Documentation Portfolio</h1>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Windows_Server-2019/2022-blue?logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/Active_Directory-User_Management-blueviolet?logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/Intune-MDM/MAM-lightgrey?logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft_365-Admin-orange?logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ticketing-Freshdesk/Zendesk-success?logo=freshdesk&logoColor=white" />
+  <img src="https://img.shields.io/badge/PDQ_Deploy-Silent_Install-lightblue?logo=windows&logoColor=white" />
+</p>
+
+---
+
+### **About Me**  
+I'm Chiagozie Njika, a hands-on IT Support Technician with over 6 months of documented home lab experience. My focus is on solving real-world problems, mastering tools used by support teams, and always documenting the process like I’m working in a live environment.
+
+---
+
+### **Documentation Index**
+
+| Skill Area                 | Description                                       | Folder                                   |
+| -------------------------- | ------------------------------------------------- | ---------------------------------------- |
+| **Windows Server**         | Installation, domain setup, DHCP/DNS, file server | [Windows Server](./Windows%20Server)     |
+| **Active Directory**       | User management, OU structure, group policy       | [Active Directory](./Active%20Directory) |
+| **Microsoft 365 Admin**    | User licenses, Exchange, SharePoint, Teams        | [Microsoft 365](./Microsoft%20365)       |
+| **MDM / Intune**           | Device enrollment, compliance, app deployment     | [Microsoft Intune](./Microsoft%20Intune) |
+| **Group Policy (GPO)**     | Restriction policies, automation, enforcement     | [Group Policy](./Group%20Policy)         |
+| **Ticketing Systems**      | Ticket response examples, workflows               | [Ticketing System](./Ticketing%20System) |
+| **PDQ Deploy & Inventory** | Automated installs, system audit                  | [PDQ](./PDQ)                             |
+| **Networking**             | Static IP, DNS, ping tests, troubleshooting       | [Networking](./Networking)               |
+| **IT Glue Style Docs**     | SOPs, knowledge base articles                     | [IT Documentation](./IT%20Documentation) |
+
+---
+
+### **Highlight Labs**
+
+- Created domain environment in VMware and joined Windows 11 client  
+- Managed users, OUs, and GPOs like disabling Control Panel and USB ports  
+- Simulated support tickets and documented solutions  
+- Used Microsoft Intune for MDM & deployed apps to devices  
+- Automated app deployment with PDQ and tracked with PDQ Inventory  
+
+---
+
+### **Let’s Connect**
+
+If you’re a **CTO, IT Manager, or hiring recruiter** looking for practical hands-on skills — I’d love to connect.
+
+- **LinkedIn:** [Chiagozie Njika](https://www.linkedin.com/in/chiagozie-njika-a24660284)  
+- **GitHub:** [kizito9898](https://github.com/kizito9898)  
+- **Email:** chiagozienjika@gmail.com  
+
+---
+
+<p align="center">
+  <strong>Always documenting. Always improving. Always job-ready.</strong>
+</p>
 
