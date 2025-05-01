@@ -76,11 +76,19 @@ This documentation is a **reflection of my IT journey**—not just theoretical k
 
  **This is my journey, my work, and my contribution to the IT community. For anyone looking to get into IT or struggling to start, I hope this documentation helps you venture into the world of IT.**
 
-## Let’s Connect  
-If you're a **CTO, MSP recruiter, or IT hiring manager** looking for someone who learns fast, adapts well, and comes prepared — I’d love to talk.
+---
+### **Let’s Connect**
 
-- **LinkedIn:** [linkedin.com/in/chiagozie-njika](https://www.linkedin.com/in/chiagozie-njika-a24660284)  
-- **GitHub:** [github.com/kizito9898](https://github.com/kizito9898)  
-- **Email:** chiagozienjika078@gmail.com
+If you’re a **CTO, IT Manager, or hiring recruiter** looking for practical hands-on skills — I’d love to connect.
+
+- **LinkedIn:** [Chiagozie Njika](https://www.linkedin.com/in/chiagozie-njika-a24660284)  
+- **GitHub:** [kizito9898](https://github.com/kizito9898)  
+- **Email:** chiagozienjika078@gmail.com  
+
+---
+
+<p align="center">
+  <strong>Always documenting. Always improving. Always job-ready.</strong>
+</p>
 
 ---
