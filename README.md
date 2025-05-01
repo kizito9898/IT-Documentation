@@ -74,6 +74,13 @@ This documentation is a **reflection of my IT journey**—not just theoretical k
 - **A structured approach to IT learning**, making it easy to reference solutions and best practices.  
 - **A growing knowledge base** that will continue to evolve as I advance in my IT career.  
 
-🚀 **This is my journey, my work, and my contribution to the IT community. For anyone looking to get into IT or struggling to start, I hope this documentation helps you venture into the world of IT.**
+ **This is my journey, my work, and my contribution to the IT community. For anyone looking to get into IT or struggling to start, I hope this documentation helps you venture into the world of IT.**
 
+## Let’s Connect  
+If you're a **CTO, MSP recruiter, or IT hiring manager** looking for someone who learns fast, adapts well, and comes prepared — I’d love to talk.
 
+- **LinkedIn:** [linkedin.com/in/chiagozie-njika](https://www.linkedin.com/in/chiagozie-njika-a24660284)  
+- **GitHub:** [github.com/kizito9898](https://github.com/kizito9898)  
+- **Email:** chiagozienjika@gmail.com
+
+---
