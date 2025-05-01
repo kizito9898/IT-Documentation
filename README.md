@@ -86,18 +86,8 @@ If you’re a **CTO, IT Manager, or hiring recruiter** looking for practical han
 - **Email:** chiagozienjika078@gmail.com  
 
 ---
-<h1 align="center">IT Documentation Portfolio</h1>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Windows_Server-2019/2022-blue?logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/Active_Directory-User_Management-blueviolet?logo=microsoft&logoColor=white" />
-  <img src="https://img.shields.io/badge/Intune-MDM/MAM-lightgrey?logo=microsoft&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft_365-Admin-orange?logo=microsoft&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ticketing-Freshdesk/Zendesk-success?logo=freshdesk&logoColor=white" />
-  <img src="https://img.shields.io/badge/PDQ_Deploy-Silent_Install-lightblue?logo=windows&logoColor=white" />
-</p>
 
----
 
 
 
