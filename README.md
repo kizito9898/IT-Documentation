@@ -1,20 +1,18 @@
 
-# # IT Documentation Portfolio  
+#  IT Documentation Portfolio  
 
 **By Chiagozie Njika – IT Support Specialist (Home Lab Projects & Hands-On Skills)**
 
 Welcome to my IT Documentation portfolio! Here, I document real-world labs, simulated tickets, troubleshooting walkthroughs, and configurations — all based on my personal home lab built over several months.
 
 ---
-
-## 📍 Personal Documentation of Hands-On IT Learning  
+##  Personal Documentation of Hands-On IT Learning  
 
 The IT field is more than just solving technical issues—it's about **understanding systems, streamlining processes, delivering reliable solutions, and ensuring exceptional customer service**. I have been **deeply engaged in IT support, system administration, cloud technologies, and cybersecurity**, while also focusing on **providing excellent customer service and maintaining clear documentation through detailed ticket notes**.  
 
 This is not just a collection of notes—it's a **personal IT knowledge base** built from **hands-on troubleshooting, real-world challenges, and deep technical learning**.  
 
 ---
-
 ##  What’s Inside?  
 
 ### 🔹 **Windows & Windows Server**  
