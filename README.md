@@ -79,7 +79,7 @@ This is not just a collection of notes—it's a **personal IT knowledge base** b
 ## 🔹 SCCM (System Center Configuration Manager)
 - [Overview of SCCM](SCCM/SCCM-Overview.md)  
 - [Deploying Applications](SCCM/Deploying-Applications.md)  
-- [Windows Updates Management](SCCM/Windows-Updates-Management.md)  
+- [Windows Updates Management](SCCM/Windows-Updates-Management.md)
 - [Device Collection & Inventory](SCCM/Device-Collection-Inventory.md)  
 - [SCCM Logs & Troubleshooting](SCCM/Logs-Troubleshooting.md)
 
