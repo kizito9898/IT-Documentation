@@ -76,6 +76,76 @@ This is not just a collection of notes—it's a **personal IT knowledge base** b
 - [Wi-Fi Connection Issues](Troubleshooting/WiFi-Connection-Issues.md)   
 - [Domain Trust Relationship Failed](Troubleshooting/Domain-Trust-Relationship-Failed.md) 
 
+## 🔹 SCCM (System Center Configuration Manager)
+- [Overview of SCCM](SCCM/SCCM-Overview.md)  
+- [Deploying Applications](SCCM/Deploying-Applications.md)  
+- [Windows Updates Management](SCCM/Windows-Updates-Management.md)  
+- [Device Collection & Inventory](SCCM/Device-Collection-Inventory.md)  
+- [SCCM Logs & Troubleshooting](SCCM/Logs-Troubleshooting.md)
+
+---
+
+## 🔹 PDQ Deploy & Inventory
+- [PDQ Deploy Overview](PDQ/PDQ-Deploy-Overview.md)  
+- [Deploying Software](PDQ/Deploying-Software.md)  
+- [PDQ Inventory Setup](PDQ/PDQ-Inventory-Setup.md)  
+- [Scheduling Deployments](PDQ/Scheduling-Deployments.md)  
+- [PDQ Best Practices](PDQ/Best-Practices.md)
+
+> **Key Uses**:  
+> - Silent software deployment  
+> - Targeted deployment using filters  
+> - Integration with AD  
+> - Live system inventory tracking  
+> - Patch automation
+
+---
+
+## 🔹 ServiceNow
+- [ServiceNow Overview](ServiceNow/ServiceNow-Overview.md)  
+- [Creating and Managing Incidents](ServiceNow/Managing-Incidents.md)  
+- [Change Requests & Approvals](ServiceNow/Change-Requests.md)  
+- [Service Catalog & Automation](ServiceNow/Service-Catalog.md)  
+- [ServiceNow Reporting](ServiceNow/ServiceNow-Reporting.md)
+
+> **Key Uses**:  
+> - IT ticketing system  
+> - Workflow automation  
+> - Change management  
+> - Service requests  
+> - SLA tracking
+
+---
+
+## 🔹 Zendesk
+- [Zendesk Overview](Zendesk/Zendesk-Overview.md)  
+- [Ticket Handling Best Practices](Zendesk/Ticket-Handling.md)  
+- [Using Macros and Views](Zendesk/Macros-Views.md)  
+- [Customer Communication Tips](Zendesk/Customer-Communication.md)  
+- [Zendesk Reporting](Zendesk/Zendesk-Reporting.md)
+
+> **Key Uses**:  
+> - Ticket tracking  
+> - Customer service automation  
+> - Self-service portals  
+> - Live chat and email support  
+> - Reporting and analytics
+
+---
+
+## 🔹 Duo (MDM & MFA)
+- [Duo Overview](Duo/Duo-Overview.md)  
+- [Enrolling Devices](Duo/Device-Enrollment.md)  
+- [Setting MFA Policies](Duo/MFA-Policies.md)  
+- [Duo for Windows Logon](Duo/Windows-Logon.md)  
+- [Troubleshooting Duo](Duo/Troubleshooting.md)
+
+> **Key Uses**:  
+> - Multi-factor authentication (MFA)  
+> - Secure remote access  
+> - Device trust enforcement  
+> - Endpoint control  
+> - User-based security policies
 
 
 ---
