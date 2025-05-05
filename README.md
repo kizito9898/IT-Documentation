@@ -97,7 +97,7 @@ This is not just a collection of notes—it's a **personal IT knowledge base** b
 ---
 
 ### 🔹 **Ticketing Systems: ServiceNow & Zendesk**  
-- [ServiceNow Ticketing Guide](Ticketing-Systems/ServiceNow-Ticketing.md) ✅ 
+- [ServiceNow Ticketing Guide](Ticketing-Systems/ServiceNow-Ticketing.md) 
 - [Zendesk Guide](Ticketing-Systems/Zendesk-Guide.md)
 
 
