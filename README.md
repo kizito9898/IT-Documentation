@@ -94,13 +94,9 @@ This is not just a collection of notes—it's a **personal IT knowledge base** b
 - [SCCM Deployment Basics](SCCM/SCCM-Deployment-Basics.md)  
 - [SCCM Inventory & Reporting](SCCM/SCCM-Inventory-Reporting.md) 
 
----
-
 ### 🔹 **Ticketing Systems: ServiceNow & Zendesk**  
 - [ServiceNow Ticketing Guide](Ticketing-Systems/ServiceNow-Ticketing.md) 
 - [Zendesk Guide](Ticketing-Systems/Zendesk-Guide.md)
-
-
 
 
 ---
