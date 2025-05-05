@@ -88,7 +88,7 @@ This is not just a collection of notes—it's a **personal IT knowledge base** b
 
 ### 🔹 **PDQ Deploy & Inventory**  
 - [PDQ Deploy Automation Guide](PDQ/PDQ-Deploy-Automation.md) 
-- [PDQ Inventory Basics](PDQ/PDQ-Inventory-Basics.md) 
+- [PDQ Inventory Basics](PDQ/PDQ-Inventory.md)
 
 ### 🔹 **SCCM (System Center Configuration Manager)**  
 - [SCCM Deployment ](SCCM-Deployment.md)
