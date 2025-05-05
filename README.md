@@ -38,7 +38,7 @@ This is not just a collection of notes—it's a **personal IT knowledge base** b
 ### 🔹 **Networking & Security**  
 - [Networking Troubleshooting](Network/Networking-Troubleshooting.md)  
 - [DNS](Network/DNS.md)
-- [MFA & Security Best Practices](Security/MFA-Security-Practices.md)  
+- [MFA & Security Best Practices](Security/MFA-Security-Practices.md)
 - [DHCP](Network/DHCP)
 
 ### 🔹 **Microsoft 365: Deployment, Administration & Management**  
