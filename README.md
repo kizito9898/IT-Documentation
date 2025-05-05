@@ -91,7 +91,7 @@ This is not just a collection of notes—it's a **personal IT knowledge base** b
 - [PDQ Inventory Basics](PDQ/PDQ-Inventory-Basics.md) 
 
 ### 🔹 **SCCM (System Center Configuration Manager)**  
-- [SCCM Deployment Basics](SCCM/SCCM-Deployment-Basics.md) 
+- [SCCM Deployment ](SCCM-Deployment.md)
 
 ### 🔹 **Ticketing Systems: ServiceNow & Zendesk**  
 - [ServiceNow Ticketing Guide](Ticketing-Systems/ServiceNow-Ticketing.md) 
