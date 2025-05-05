@@ -92,6 +92,8 @@ This is not just a collection of notes—it's a **personal IT knowledge base** b
 
 ### 🔹 **SCCM (System Center Configuration Manager)**  
 - [SCCM Deployment ](SCCM-Deployment.md)
+- [Windows Updates Management](SCCM/Windows-Updates-Management.md)
+- 
 
 ### 🔹 **Ticketing Systems: ServiceNow & Zendesk**  
 - [ServiceNow Ticketing Guide](Ticketing-Systems/ServiceNow-Ticketing.md) 
