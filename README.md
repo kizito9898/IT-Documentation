@@ -83,6 +83,25 @@ This is not just a collection of notes—it's a **personal IT knowledge base** b
 - [Device Collection & Inventory](SCCM/Device-Collection-Inventory.md)  
 - [SCCM Logs & Troubleshooting](SCCM/Logs-Troubleshooting.md)
 
+### 🔹 **MDM (Mobile Device Management)**  
+- [Duo MDM Configuration](MDM/Duo-MDM-Configuration.md) ✅ **(New!)**
+
+---
+
+### 🔹 **PDQ Deploy & Inventory**  
+- [PDQ Deploy Automation Guide](PDQ/PDQ-Deploy-Automation.md) 
+- [PDQ Inventory Basics](PDQ/PDQ-Inventory-Basics.md) ✅ **(New!)**
+
+---
+
+### 🔹 **SCCM (System Center Configuration Manager)**  
+- [SCCM Deployment Basics](SCCM/SCCM-Deployment-Basics.md) 
+
+---
+
+### 🔹 **Ticketing Systems: ServiceNow & Zendesk**  
+- [ServiceNow Ticketing Guide](Ticketing-Systems/ServiceNow-Ticketing.md) ✅ **(New!)**  
+- [Zendesk Guide](Ticketing-Systems/Zendesk-Guide.md)
 
 
 
