@@ -87,7 +87,7 @@ This is not just a collection of notes—it's a **personal IT knowledge base** b
 - [Duo MDM Configuration](MDM/Duo-MDM-Configuration.md) 
 
 ### 🔹 **PDQ Deploy & Inventory**  
-- [PDQ Deploy Automation Guide](PDQ/PDQ-Deploy-Automation.md) 
+- [PDQ Deploy Automation Guide](PDQ/PDQ-Deploy-Automation.md)
 - [PDQ Inventory](PDQ/PDQ-Inventory.md)
 
 ### 🔹 **SCCM (System Center Configuration Manager)**  
