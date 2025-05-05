@@ -62,7 +62,7 @@ This is not just a collection of notes—it's a **personal IT knowledge base** b
 ### 🔹 **IT Support & Customer Service Best Practices**  
 - [Communication Best Practices](CustomerService/Communication-Best-Practices.md)  
 - [Handling Difficult Customers](CustomerService/Handling-Difficult-Customers.md)  
-- [Ticketing Best Practices](CustomerService/Ticketing-Best-Practices.md)  
+- [Ticketing Best Practices](CustomerService/Ticketing-Best-Practices.md)
 
 ### 🔹 **MSP Tools & Ticketing Systems**  
 - [ConnectWise Ticketing Best Practices](ConnectWise/Ticketing-Best-Practices.md)  
