@@ -181,3 +181,31 @@ The Computer has been joined to the domain
    - Bob Smith  
    - Billy Barnes  
    - Holly Cross
+# Configuring Shared Folder Permissions & Network Drive Mapping
+
+## Disable Inheritance for Each User
+
+1. Navigate to the folder for **HR**, **Sales**, or **Finance**.
+2. Right-click on **Sales** → **Properties** → **Security** → **Advanced Settings**.
+3. Click **Add** → **Select Principal** → Add **Bob Smith** → Click on **Modify** → Click **OK**.
+
+## Remove Default Users, Keep Only Required Users
+
+- Disable inheritance.
+- Remove all users, leaving only **Administrators** and **Bob Smith**.
+- Set **Bob Smith** as the owner.
+- Click **Apply** and **OK**.
+
+> Apply the same format to **HR** and **Finance** folders:
+- Add only **Billy Barnes** for HR.
+- Add only **Holly Cross** for Finance.
+- Disable inheritance in each case.
+
+---
+## Logging into Each User PC
+
+1. Log into **Bob Smith’s PC** using the assigned **username** and **password**.
+2. Navigate to **This PC** → In the **search bar**, type:
+
+```
+\\Server2022\Nykason
