@@ -51,7 +51,7 @@ Example: *"Request access to SharePoint,"* or *"Software install."*
 Used to investigate the **underlying cause** of one or more incidents.  
 Example: *If 10 users report VPN dropping every morning, a problem ticket might be opened to identify the root cause.*
 
-# ServiceNow Ticketing - Additional Concepts
+# Additional Concepts
 
 - **System admins or specialists** usually handle **problems**.
 ## Knowledge Base (KB)
