@@ -159,6 +159,31 @@ Example: *If 10 users report VPN dropping every morning, a problem ticket might 
 
 - Added a **Work Note** detailing my steps with accurate **time stamps**.
 - Added **Resolution Notes** and **Resolved the ticket**.
+# Resolving a Ticket (ServiceNow)
+
+## General Ticket Resolution Flow
+
+- Logged into my account.
+- Navigated to **Incidents → Open** → Selected ticket based on **Priorities** → Assigned to Self → Open the ticket.
+- Inside the ticket: “Assigned to Self” means SLA won’t be breached.
+- Issue: **Unable to access team file share**.
+- Contacted the user for further details (using **Additional Comment**).
+- Notified the user that the issue is getting resolved.
+- Issue fixed → Reached out to the user to confirm access to the file share.
+- User confirmed and issue resolved.
+- Updated my **Work Notes**.
+  - For every step and interaction taken with the user, this should be documented.
+  - **Chat logs** can be used for internal purposes.
+---
+## Performance Problem with Wi-Fi
+
+- Assigned to me.
+- The user (**Beatrice Judy**) reported help for connection issues:
+  - “Web pages are taking a very long time to load.”
+- Reached out to the user via **Additional Comments**.
+- Instructed the user on a quick resolution, but issue persisted.
+- Remotely connected to the user PC via **ConnectWise ScreenConnect**.
+- **Issue: IP Conflict**.
 
 
 
