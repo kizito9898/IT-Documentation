@@ -149,3 +149,35 @@ The Computer has been joined to the domain
 
 ![Screenshot](images/screenshot63.jpg)
 
+# Shared Drive Permissions & User Account Creation
+---
+## Shared Drive Permissions
+
+- **Creating a shared folder** for Sales, HR & Finance.  
+  - Disable inheritance for each group (so each group has custom permissions and can't access the other groups' folders).
+
+### Steps to Create a Shared Folder:
+1. Navigate to **Server Manager** → **File and Storage Services** → **Shares**.
+2. Right-click on blank space → **New Share** → **SMB Share - Quick**.
+3. Click **Next** → **Share Name**: `Nykason` → **Other Settings** → **Permissions** → **Next**.
+4. Confirm and **Create**.
+
+> To confirm the share drive is created:
+
+- Navigate to **File Explorer** → **This PC** → **Local Disk (C:)** → **Shares** → `Nykason` folder.
+
+- Create folders inside `Nykason` for:
+  - HR  
+  - Sales  
+  - Finance  
+
+---
+## Creating User Accounts in Active Directory Users and Computers
+
+### Steps to Create User Accounts:
+1. Navigate to **Active Directory** → **Users** → **New**.
+2. Scroll down to **Users** → Create a **Username** and **Password**.
+3. Created user accounts for:
+   - Bob Smith  
+   - Billy Barnes  
+   - Holly Cross
