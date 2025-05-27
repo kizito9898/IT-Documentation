@@ -135,16 +135,13 @@ Example: *If 10 users report VPN dropping every morning, a problem ticket might 
 - Updated my ticket notes on **every step taken** and used **PhraseExpress** to input time, making my ticket note stand out.
 - Updated the **Resolution Information**.
 - Clicked **Resolve Ticket**.
+---
 # ServiceNow - VPN Issue Ticket Handling
 
 ## Creating a New Incident
 
 - **New Incident** → Enter **Name (Caller)** → Fill out all necessary details.
-- Assigned to **Helpdesk** and also **Assigned to me**.
-
----
-
-## Short Description
+- Assigned to **Helpdesk** and also **Assigned to me**
 
 - **User unable to connect to VPN.**
 
@@ -164,9 +161,7 @@ Example: *If 10 users report VPN dropping every morning, a problem ticket might 
 
 - Sent an additional comment to the user, instructing her with the **right steps to follow**.
 - **User confirmed** access to VPN was restored.
-
 ---
-
 ## Final Steps
 
 - Added a **Work Note** detailing my steps with accurate **time stamps**.
