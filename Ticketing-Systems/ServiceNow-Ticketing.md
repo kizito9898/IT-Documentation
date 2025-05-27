@@ -60,7 +60,6 @@ Example: *If 10 users report VPN dropping every morning, a problem ticket might 
 - Created from resolved tickets or documented procedures.
 - Helps technicians solve **common issues faster**.
 - Users may also access this for **self-service**.
-
 ---
 ## ServiceNow Dashboard
 
@@ -70,7 +69,6 @@ Example: *If 10 users report VPN dropping every morning, a problem ticket might 
   - **Catalog tasks**
   - **Problems**
   - etc.
-
 ---
 ## User Creation in ServiceNow
 
