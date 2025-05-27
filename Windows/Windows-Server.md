@@ -207,6 +207,37 @@ The Computer has been joined to the domain
 1. Log into **Bob Smith’s PC** using the assigned **username** and **password**.
 2. Navigate to **This PC** → In the **search bar**, type:
 
-```
-\\Server2022\Nykason
+\\Server2022\Njikason
 
+> Try accessing other folders:
+
+- You will get an error saying "You don’t have access to this folder."
+    
+---
+## Mapping a Network Drive for Bob Smith
+
+1. Right-click on **This PC** → Select **Map Network Drive**.
+    
+2. Select **Drive (Z:)**.
+    
+3. In the **Folder** field, enter the path:
+    
+
+plaintext
+
+CopyEdit
+
+`\\Server2022\Nykason\Sales`
+
+4. Click **Finish**.
+    
+
+yaml
+
+CopyEdit
+
+`---  Let me know if you want me to help you link this with your earlier notes or organize it into an Obsidian vault structure.`
+
+4o
+
+##### You said:
