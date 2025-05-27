@@ -24,6 +24,30 @@ For IT support, Zendesk functions as a ticketing system that allows IT teams to:
 
 - **Sign up for Zendesk 14-Day Trial.**
 - **Create a new ticket** on Zendesk.
+---
+# Ticketing System Tips
+
+- **Always show empathy for the customer.**  
+  Example:  
+  > I'm going to have that fixed. Let me help you.  
+  > Definitely reach out to IT helpdesk or me if you have any other issues. I hope you have a great day.
+
+- **Make sure to look at old tickets** if you've never seen an issue before.
+- **Google is your best friend too.**  
+  (Remember: no one knows everything.)
+- **Understand where the ticket goes.**
+- **Whenever you close a ticket, put notes on it.**
+- **Why notes?**  
+  You might see that issue again.
+
+- **Be sure to attach all any approved emails** on the ticket or notes inside the ticket.
+- **Use the ticket system to your advantage** by looking at old tickets.
+- **Follow your tickets that were assigned to you**, even if you gave it to someone else, like Level 2.
+- **Always update your tickets every day.**  
+  (Managers check this.)
+
+- **Always communicate with the client after closing a ticket.**  
+  Don’t just close the ticket because you feel like it.
 
 
 ## Creating and Managing Tickets
