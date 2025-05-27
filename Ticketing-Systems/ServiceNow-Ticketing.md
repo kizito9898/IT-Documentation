@@ -100,7 +100,7 @@ Example: *If 10 users report VPN dropping every morning, a problem ticket might 
    - **Callers**
    - **Knowledge Base**
    - **Group Work**, etc.
-
+---
 # ServiceNow - Incident Creation & Troubleshooting Notes
 
 ## Creating an Incident Ticket
@@ -126,13 +126,11 @@ Example: *If 10 users report VPN dropping every morning, a problem ticket might 
   - Quickly opened a ticket.
   - After the call, sent an email requesting to **RDP** into her system.
   - Meanwhile, she can use the **web version** of Outlook on her mobile device.
----
 ## Troubleshooting Steps
 
 - **RDP** into the system with the right approval.
 - Logged in using **Safe Mode**, and **Outlook opened in normal mode**.
 - **Issue resolved.**
----
 ## Follow-Up Actions
 
 - Sent an email to the user about the issue being resolved and advised her to **feel free to reach out** if anything happens again.
