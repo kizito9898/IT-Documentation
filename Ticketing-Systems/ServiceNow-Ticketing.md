@@ -100,15 +100,12 @@ Example: *If 10 users report VPN dropping every morning, a problem ticket might 
    - **Callers**
    - **Knowledge Base**
    - **Group Work**, etc.
----
-## New Incident Example
 
-- A caller reached out about **Outlook crashing** whenever she tries to log in.
-- During the call, it's important to **create a ticket** documenting the issue and steps taken.
 # ServiceNow - Incident Creation & Troubleshooting Notes
 
 ## Creating an Incident Ticket
-
+- A caller reached out about **Outlook crashing** whenever she tries to log in.
+- During the call, it's important to **create a ticket** documenting the issue and steps taken.
 1. Inform the user a ticket is being created.
 2. Navigate to **Incidents** → Click **New** → Search for the caller.
 3. Add the necessary information:
