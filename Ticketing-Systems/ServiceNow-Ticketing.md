@@ -51,3 +51,29 @@ Example: *"Request access to SharePoint,"* or *"Software install."*
 Used to investigate the **underlying cause** of one or more incidents.  
 Example: *If 10 users report VPN dropping every morning, a problem ticket might be opened to identify the root cause.*
 
+# ServiceNow Ticketing - Additional Concepts
+
+- **System admins or specialists** usually handle **problems**.
+## Knowledge Base (KB)
+
+- A collection of **how-to articles**, **solutions**, and **troubleshooting guides**.
+- Created from resolved tickets or documented procedures.
+- Helps technicians solve **common issues faster**.
+- Users may also access this for **self-service**.
+
+---
+## ServiceNow Dashboard
+
+- On the **left side**, click on the list to see various sections like:
+  - **Incidents**
+  - **Requests**
+  - **Catalog tasks**
+  - **Problems**
+  - etc.
+
+---
+## User Creation in ServiceNow
+
+- **Creating and assigning a new user** (example: a helpdesk agent).
+- Assign them the **ServiceDesk** role to handle tickets.
+
