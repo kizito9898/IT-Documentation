@@ -48,8 +48,7 @@ For IT support, Zendesk functions as a ticketing system that allows IT teams to:
 
 - **Always communicate with the client after closing a ticket.**  
   Don’t just close the ticket because you feel like it.
-
-
+---
 ## Creating and Managing Tickets
 
 1. Navigate to **Zendesk Views** → Add a **ticket**.
