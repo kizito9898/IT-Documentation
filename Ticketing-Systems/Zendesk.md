@@ -4,7 +4,7 @@
 
 Zendesk is a cloud-based ticketing and customer support platform that enables IT teams to efficiently manage and resolve user issues. It centralizes all communication channels and provides tools to track, prioritize, and automate support workflows.
 
-
+---
 ## Zendesk as a Tool for IT Support
 
 For IT support, Zendesk functions as a ticketing system that allows IT teams to:
