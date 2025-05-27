@@ -13,7 +13,6 @@ For most helpdesk or IT support agents, **ServiceNow** is where:
 > For IT Support, if it’s not in the ticket, it didn’t happen.
 
 ---
-
 # How Different Roles Use ServiceNow
 
 ### Companies (as a whole):
