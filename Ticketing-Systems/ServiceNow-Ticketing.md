@@ -149,16 +149,15 @@ Example: *If 10 users report VPN dropping every morning, a problem ticket might 
 
 - **Issue**: Unable to connect to VPN due to **old password** crashing with new credentials.
 - **Action**: Resolved the issue.
----
 ## Follow-Up
 
 - Sent an additional comment to the user, instructing her with the **right steps to follow**.
 - **User confirmed** access to VPN was restored.
----
 ## Final Steps
 
 - Added a **Work Note** detailing my steps with accurate **time stamps**.
 - Added **Resolution Notes** and **Resolved the ticket**.
+---
 # Resolving a Ticket (ServiceNow)
 
 ## General Ticket Resolution Flow
