@@ -105,5 +105,43 @@ Example: *If 10 users report VPN dropping every morning, a problem ticket might 
 
 - A caller reached out about **Outlook crashing** whenever she tries to log in.
 - During the call, it's important to **create a ticket** documenting the issue and steps taken.
+# ServiceNow - Incident Creation & Troubleshooting Notes
+
+## Creating an Incident Ticket
+
+1. Inform the user a ticket is being created.
+2. Navigate to **Incidents** → Click **New** → Search for the caller.
+3. Add the necessary information:
+   - **Short Description**
+   - **Channel of Communication** (e.g., Phone)
+   - **Impact** and **Urgency**
+   - **Whether the user is calling** or needs urgent technical help.
+4. Set:
+   - **Assignment Group**: `Helpdesk`
+   - **Assigned To**: `Self`
+
+---
+
+## Example Scenario
+
+- A user called about being **unable to access email**; **Outlook keeps crashing**.
+- While still on the call:
+  - Quickly opened a ticket.
+  - After the call, sent an email requesting to **RDP** into her system.
+  - Meanwhile, she can use the **web version** of Outlook on her mobile device.
+---
+## Troubleshooting Steps
+
+- **RDP** into the system with the right approval.
+- Logged in using **Safe Mode**, and **Outlook opened in normal mode**.
+- **Issue resolved.**
+---
+## Follow-Up Actions
+
+- Sent an email to the user about the issue being resolved and advised her to **feel free to reach out** if anything happens again.
+- Updated my ticket notes on **every step taken** and used **PhraseExpress** to input time, making my ticket note stand out.
+- Updated the **Resolution Information**.
+- Clicked **Resolve Ticket**.
+
 
 
