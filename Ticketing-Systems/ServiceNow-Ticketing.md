@@ -142,16 +142,9 @@ Example: *If 10 users report VPN dropping every morning, a problem ticket might 
 
 - **New Incident** → Enter **Name (Caller)** → Fill out all necessary details.
 - Assigned to **Helpdesk** and also **Assigned to me**
-
 - **User unable to connect to VPN.**
-
----
-
-## Initial Actions
-
 - **Sent an email** (acknowledging receipt of the ticket and confirming I'm working on fixing the issue).
   - This also helps in meeting **SLA Compliance**.
----
 ## Troubleshooting
 
 - **Issue**: Unable to connect to VPN due to **old password** crashing with new credentials.
