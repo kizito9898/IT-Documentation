@@ -18,3 +18,37 @@ For IT support, Zendesk functions as a ticketing system that allows IT teams to:
 - Access a knowledge base to share articles and self-help guides with users.
 - Generate reports and analytics to track support performance (SLAs, response times, etc.).
 
+# Zendesk - Hands-On Practice Notes
+
+## Getting Started
+
+- **Sign up for Zendesk 14-Day Trial.**
+- **Create a new ticket** on Zendesk.
+
+## Creating and Managing Tickets
+
+1. Navigate to **Zendesk Views** → Add a **ticket**.
+2. Fill in the following details:
+   - **User**: (Name)
+   - **Assigned to**: Self
+   - **Tags**: Add tags for easier search
+   - **Type**: Incident
+   - **Priority**: (Urgent, High, Normal, Low)
+   - **Subject**
+
+### Example Scenario:
+
+- User sent an email about **account lockout** after multiple attempts.
+- Reached out to the user, confirmed receiving the ticket and **further steps**.
+- Took action immediately and **unlocked the account** using **Active Directory Users and Computers**.
+- Added my **ticket notes** and submitted the ticket as **Solved**.
+
+---
+
+## Customers
+
+- Add, search, and manage your **Customers (End Users)** all in one place.
+
+## Organizations
+
+- A feature used to **group users (End-users & Customers)** who belong to the same **company, department, or team**.
