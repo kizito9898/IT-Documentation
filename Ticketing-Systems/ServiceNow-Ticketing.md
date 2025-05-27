@@ -183,19 +183,14 @@ Example: *If 10 users report VPN dropping every morning, a problem ticket might 
 - Instructed the user on a quick resolution, but issue persisted.
 - Remotely connected to the user PC via **ConnectWise ScreenConnect**.
 - **Issue: IP Conflict**.
-# Network Troubleshooting (IP Conflict)
-
 ## Resolution Steps
-
 - Release & Renew IP Address → Flush DNS Cache → Restart Network Adapter → Verify IP Configuration.
 - Make sure the user has a valid IP (Not starting with `169.x.x.x`).
 - Reached out to the user, confirmed the user’s network speed has improved.
 - Updated my **Work Notes**.
 - Added **Resolution Notes**.
 - Resolved the ticket as **Closed**.
-
 ---
-
 # Knowledge in ServiceNow
 
 - In **ServiceNow**, Knowledge refers to the **Knowledge Management Module**, a centralized system for:
@@ -205,7 +200,6 @@ Example: *If 10 users report VPN dropping every morning, a problem ticket might 
   - Accessing knowledge articles
 
 This helps users and support teams resolve issues more efficiently.
-
 ---
 
 ## Knowledge Article
