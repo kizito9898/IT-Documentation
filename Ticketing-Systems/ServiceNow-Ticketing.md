@@ -200,13 +200,10 @@ Example: *If 10 users report VPN dropping every morning, a problem ticket might 
   - Accessing knowledge articles
 
 This helps users and support teams resolve issues more efficiently.
----
-
 ## Knowledge Article
 
 - A **documented solution**, how-to guide, FAQ, or troubleshooting step that provides useful information to users or support staff.
 - Similar to internal or external **Help Center** content.
-
 ### To Create a New Knowledge Article:
 - Navigate to **Knowledge** → **New**
 
