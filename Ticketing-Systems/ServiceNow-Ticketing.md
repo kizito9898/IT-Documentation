@@ -74,9 +74,7 @@ Example: *If 10 users report VPN dropping every morning, a problem ticket might 
 
 - **Creating and assigning a new user** (example: a helpdesk agent).
 - Assign them the **ServiceDesk** role to handle tickets.
-# ServiceNow - User & Incident Management
-
-## Creating a New User in ServiceNow
+#
 
 1. Navigate to your **Workspace** → Go to **All** → Filter by **Users** or **Search Users**.
 2. Click on **New** (to create a new record).
