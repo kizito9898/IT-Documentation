@@ -221,23 +221,7 @@ The Computer has been joined to the domain
 2. Select **Drive (Z:)**.
     
 3. In the **Folder** field, enter the path:
-    
-
-plaintext
-
-CopyEdit
 
 `\\Server2022\Nykason\Sales`
 
 4. Click **Finish**.
-    
-
-yaml
-
-CopyEdit
-
-`---  Let me know if you want me to help you link this with your earlier notes or organize it into an Obsidian vault structure.`
-
-4o
-
-##### You said:
