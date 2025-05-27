@@ -209,3 +209,34 @@ The Computer has been joined to the domain
 
 ```
 \\Server2022\Nykason
+
+> Try accessing other folders:
+
+- You will get an error saying "You don’t have access to this folder."
+    
+
+---
+
+## Mapping a Network Drive for Bob Smith
+
+1. Right-click on **This PC** → Select **Map Network Drive**.
+    
+2. Select **Drive (Z:)**.
+    
+3. In the **Folder** field, enter the path:
+    
+
+plaintext
+
+CopyEdit
+
+`\\Server2022\Nykason\Sales`
+
+4. Click **Finish**.
+    
+
+yaml
+
+CopyEdit
+
+`---  Let me know if you wa
