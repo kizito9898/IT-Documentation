@@ -22,3 +22,32 @@ For most helpdesk or IT support agents, **ServiceNow** is where:
 - **Create**, **update**, and **resolve** incident and service request tickets.
 - Use **Internal Work Notes** for internal documentation.
 - Use **Additional Comments** to communicate with users.
+# Key Concepts in ServiceNow Ticketing
+
+- **Keep track of SLA deadlines**
+- **System administrators** set up workflows, forms, and approval chains.
+- Manage **users, roles, and access**.
+
+---
+
+## Core Components of ServiceNow Ticketing
+
+### 1. Incidents
+Used when something is **broken** or **not working**.  
+Example: *"User can't access Outlook or laptop not working."*
+
+- **Goal**: Restore normal service as quickly as possible.
+- IT Support investigates, logs troubleshooting steps, and resolves or escalates.
+
+---
+### 2. Service Requests
+Used when users want something that isn’t broken.  
+Example: *"Request access to SharePoint,"* or *"Software install."*
+
+- Often follows a predefined workflow for **approval** or **fulfillment** (e.g., from a supervisor).
+
+---
+### 3. Problems
+Used to investigate the **underlying cause** of one or more incidents.  
+Example: *If 10 users report VPN dropping every morning, a problem ticket might be opened to identify the root cause.*
+
