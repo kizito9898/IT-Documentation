@@ -74,4 +74,40 @@ Example: *If 10 users report VPN dropping every morning, a problem ticket might 
 
 - **Creating and assigning a new user** (example: a helpdesk agent).
 - Assign them the **ServiceDesk** role to handle tickets.
+# ServiceNow - User & Incident Management
+
+## Creating a New User in ServiceNow
+
+1. Navigate to your **Workspace** → Go to **All** → Filter by **Users** or **Search Users**.
+2. Click on **New** (to create a new record).
+3. Fill in:
+   - **User ID**
+   - **First Name**
+   - **Last Name**
+   - **Department**
+4. To assign the user to a group:
+   - Scroll down to the **User Groups** section.
+   - Select the group → Click **Edit**.
+   - Select the group using the **arrow** → Click **Save**.
+---
+## Incidents on ServiceNow
+
+1. Navigate to **Workspace** → Click **All**.
+2. Search for **Incident** or **ServiceDesk** and click the **star** icon to favorite it (makes it show up in the Favorites section).
+3. Click on it to see incidents categorized by:
+   - **Assigned to me**
+   - **Open**
+   - **Unassigned**
+   - **Resolved**
+   - **All**
+4. Access related details:
+   - **Callers**
+   - **Knowledge Base**
+   - **Group Work**, etc.
+---
+## New Incident Example
+
+- A caller reached out about **Outlook crashing** whenever she tries to log in.
+- During the call, it's important to **create a ticket** documenting the issue and steps taken.
+
 
