@@ -74,8 +74,6 @@ Example: *If 10 users report VPN dropping every morning, a problem ticket might 
 
 - **Creating and assigning a new user** (example: a helpdesk agent).
 - Assign them the **ServiceDesk** role to handle tickets.
-#
-
 1. Navigate to your **Workspace** → Go to **All** → Filter by **Users** or **Search Users**.
 2. Click on **New** (to create a new record).
 3. Fill in:
