@@ -3,7 +3,6 @@
 When working in IT support, it’s not unusual to come across clients who are frustrated, stressed, or even aggressive. My personal approach is to stay calm, professional, and empathetic—no matter how the client is feeling. I don’t take it personally. I focus on helping, not reacting.
 
 ---
-
 ## 1. When a Client is Frustrated
 
 ### My Goal: Defuse the emotion first, then solve the problem.
@@ -80,13 +79,11 @@ When working in IT support, it’s not unusual to come across clients who are fr
 > *I’m here to help, but I’d appreciate if we keep this respectful so I can assist you properly.*
 
 ---
-
 ## 5. What I Never Do
 
 - I never raise my voice or respond in anger.
 - I never argue or blame the client.
 - I never ignore the emotion—because that’s part of what they want to be seen.
-
 ---
 
 support feel like real support—not just tech fixes.
