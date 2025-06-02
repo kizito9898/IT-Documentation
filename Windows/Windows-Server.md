@@ -162,6 +162,7 @@ The Computer has been joined to the domain
 ![Screenshot](images/screenshot187.jpg)
 3. Click **Next** → **Share Name**: `Nykason` → **Other Settings** → **Permissions** → **Next**.
 4. Confirm and **Create**.
+![Screenshot]
 
 > To confirm the share drive is created:
 
