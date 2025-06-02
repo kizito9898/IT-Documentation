@@ -51,12 +51,13 @@ For most helpdesk or IT support agents, **ServiceNow** is where:
 - Use **Additional Comments** to communicate with users.
 # Key Concepts in ServiceNow Ticketing
 
-- **Keep track of SLA deadlines**
-- **System administrators** set up workflows, forms, and approval chains.
-- Manage **users, roles, and access**.
+- It is used to **log & track incidents**.
+- Create **Service Requests** (e.g., password resets, software installs).
+- **Escalate tickets** to the right support teams.
+- Document **resolutions and work notes**.
+- Follow **internal SLA (Service Level Agreement)** guidelines.
 
 ---
-
 ## Core Components of ServiceNow Ticketing
 
 ### 1. Incidents
