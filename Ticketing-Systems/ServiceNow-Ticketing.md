@@ -38,6 +38,7 @@ For most helpdesk or IT support agents, **ServiceNow** is where:
    - Click on it.
    - Head over to `Workspaces` at the top.
    - Go to `Service Operations Workspace`.
+![Screenshot]
 ---
 # How Different Roles Use ServiceNow
 
