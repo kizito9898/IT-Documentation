@@ -210,6 +210,7 @@ Example: *If 10 users report VPN dropping every morning, a problem ticket might 
 ![Screenshot](images/screenshot218.jpg)
 - Contacted the user for further details (using **Additional Comment**).
 - Notified the user that the issue is getting resolved.
+![Screenshot](images/screenshot219.jpg)
 - Issue fixed → Reached out to the user to confirm access to the file share.
 - User confirmed and issue resolved.
 - Updated my **Work Notes**.
