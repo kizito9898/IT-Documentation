@@ -26,7 +26,7 @@ For most helpdesk or IT support agents, **ServiceNow** is where:
 1. Navigate to **Google** and search **ServiceNow Developer**.
 2. **Sign up / Start building**:
    - Verify account and get started with the set-up.
-
+   ![Screenshot](images)
    
    - *(Help us tune your experience)* → Select **YES** and **describe your job description** (e.g., IT Admin).
     **Agree & Finish Set-up**
