@@ -182,6 +182,8 @@ Example: *If 10 users report VPN dropping every morning, a problem ticket might 
 - **User unable to connect to VPN.**
 - **Sent an email** (acknowledging receipt of the ticket and confirming I'm working on fixing the issue).
   - This also helps in meeting **SLA Compliance**.
+![Screenshot](images/screenshot207.jpg)
+!
 ## Troubleshooting
 
 - **Issue**: Unable to connect to VPN due to **old password** crashing with new credentials.
