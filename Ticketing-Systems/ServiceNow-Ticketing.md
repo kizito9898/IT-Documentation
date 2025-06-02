@@ -30,7 +30,7 @@ For most helpdesk or IT support agents, **ServiceNow** is where:
    
    - *(Help us tune your experience)* → Select **YES** and **describe your job description** (e.g., IT Admin).
     **Agree & Finish Set-up**
-![Screenshot]
+![Screenshot](images/screenshot166.jpg)
 # ServiceNow Instance Setup
 
 1. **Click on** `Request Instance`.
