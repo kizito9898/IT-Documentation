@@ -167,12 +167,12 @@ The Computer has been joined to the domain
 > To confirm the share drive is created:
 
 - Navigate to **File Explorer** → **This PC** → **Local Disk (C:)** → **Shares** → `Nykason` folder.
-
+![Screenshot](images/screenshot190.jpg)
 - Create folders inside `Nykason` for:
   - HR  
   - Sales  
   - Finance  
-
+![Screenshot]
 ---
 ## Creating User Accounts in Active Directory Users and Computers
 
