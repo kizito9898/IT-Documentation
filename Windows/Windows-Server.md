@@ -183,6 +183,7 @@ The Computer has been joined to the domain
    - Bob Smith  
    - Billy Barnes  
    - Holly Cross
+![Screenshot](image)
 # Configuring Shared Folder Permissions & Network Drive Mapping
 
 ## Disable Inheritance for Each User
