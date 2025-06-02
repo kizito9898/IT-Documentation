@@ -183,7 +183,7 @@ Example: *If 10 users report VPN dropping every morning, a problem ticket might 
 - **Sent an email** (acknowledging receipt of the ticket and confirming I'm working on fixing the issue).
   - This also helps in meeting **SLA Compliance**.
 ![Screenshot](images/screenshot207.jpg)
-![Screenshot](images/screenshot208.jpg)
+![Screenshot](images/screenshot211.jpg)
 ## Troubleshooting
 
 - **Issue**: Unable to connect to VPN due to **old password** crashing with new credentials.
@@ -192,6 +192,7 @@ Example: *If 10 users report VPN dropping every morning, a problem ticket might 
 
 - Sent an additional comment to the user, instructing her with the **right steps to follow**.
 - **User confirmed** access to VPN was restored.
+![Screenshot]
 ## Final Steps
 
 - Added a **Work Note** detailing my steps with accurate **time stamps**.
