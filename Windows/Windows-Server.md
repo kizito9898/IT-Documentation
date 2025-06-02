@@ -198,7 +198,7 @@ The Computer has been joined to the domain
 - Remove all users, leaving only **Administrators** and **Bob Smith**.
 - Set **Bob Smith** as the owner.
 - Click **Apply** and **OK**.
-
+![Screenshot](images/screenshot194.jpg)
 > Apply the same format to **HR** and **Finance** folders:
 - Add only **Billy Barnes** for HR.
 - Add only **Holly Cross** for Finance.
