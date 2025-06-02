@@ -114,6 +114,7 @@ Example: *If 10 users report VPN dropping every morning, a problem ticket might 
    - Scroll down to the **User Groups** section.
    - Select the group → Click **Edit**.
    - Select the group using the **arrow** → Click **Save**.
+![Screenshot]
 ---
 ## Incidents on ServiceNow
 
