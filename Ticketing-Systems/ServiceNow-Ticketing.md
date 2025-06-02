@@ -171,6 +171,7 @@ Example: *If 10 users report VPN dropping every morning, a problem ticket might 
 - Updated my ticket notes on **every step taken** and used **PhraseExpress** to input time, making my ticket note stand out.
 - Updated the **Resolution Information**.
 - Clicked **Resolve Ticket**.
+![Screenshot](images/screenshot205.jpg)
 ---
 # ServiceNow - VPN Issue Ticket Handling
 
