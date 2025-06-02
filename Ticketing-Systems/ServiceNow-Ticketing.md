@@ -73,7 +73,7 @@ Used when users want something that isn’t broken.
 Example: *"Request access to SharePoint,"* or *"Software install."*
 
 - Often follows a predefined workflow for **approval** or **fulfillment** (e.g., from a supervisor).
-
+![S]
 ---
 ### 3. Problems
 Used to investigate the **underlying cause** of one or more incidents.  
