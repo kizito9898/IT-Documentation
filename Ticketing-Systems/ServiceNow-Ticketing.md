@@ -66,7 +66,7 @@ Example: *"User can't access Outlook or laptop not working."*
 
 - **Goal**: Restore normal service as quickly as possible.
 - IT Support investigates, logs troubleshooting steps, and resolves or escalates.
-
+![Screenshot](images/screenshot)
 ---
 ### 2. Service Requests
 Used when users want something that isn’t broken.  
