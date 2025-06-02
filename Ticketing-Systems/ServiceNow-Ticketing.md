@@ -152,6 +152,7 @@ Example: *If 10 users report VPN dropping every morning, a problem ticket might 
 ![Screenshot](images/screenshot184.jpg)
 ![Screenshot](images/screenshot186.jpg)
 
+
 ---
 ## Example Scenario
 
