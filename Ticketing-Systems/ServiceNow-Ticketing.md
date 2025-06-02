@@ -217,7 +217,7 @@ Example: *If 10 users report VPN dropping every morning, a problem ticket might 
 ![Screenshot](images/screenshot220.jpg)
   - For every step and interaction taken with the user, this should be documented.
   - Add a Resolve note to close the ticket as issue has been resolved
-![Screenshot]
+![Screenshot](images/screenshot221.jpg)
   - **Chat logs** can be used for internal purposes.
 ---
 ## Performance Problem with Wi-Fi
