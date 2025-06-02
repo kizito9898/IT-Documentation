@@ -208,6 +208,7 @@ The Computer has been joined to the domain
 ## Logging into Each User PC
 
 1. Log into **Bob Smith’s PC** using the assigned **username** and **password**.
+
 2. Navigate to **This PC** → In the **search bar**, type:
 
  \\\Server2022\Njikason
