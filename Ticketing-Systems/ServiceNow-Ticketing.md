@@ -192,7 +192,7 @@ Example: *If 10 users report VPN dropping every morning, a problem ticket might 
 
 - Sent an additional comment to the user, instructing her with the **right steps to follow**.
 - **User confirmed** access to VPN was restored.
-![Screenshot]
+![Screenshot](images/screenshot212.jpg)
 ## Final Steps
 
 - Added a **Work Note** detailing my steps with accurate **time stamps**.
