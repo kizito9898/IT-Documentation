@@ -229,3 +229,5 @@ The Computer has been joined to the domain
 `\\Server2022\Nykason\Sales`
 
 4. Click **Finish**.
+![Screenshot](images/screenshot196.jpg)
+![Screensh]
