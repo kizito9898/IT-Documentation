@@ -56,7 +56,7 @@ For most helpdesk or IT support agents, **ServiceNow** is where:
 - **Escalate tickets** to the right support teams.
 - Document **resolutions and work notes**.
 - Follow **internal SLA (Service Level Agreement)** guidelines.
-
+![Screenshot](images/screenshot168.jpg)
 ---
 ## Core Components of ServiceNow Ticketing
 
