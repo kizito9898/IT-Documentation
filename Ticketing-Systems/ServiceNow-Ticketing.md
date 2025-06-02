@@ -18,15 +18,7 @@ For most helpdesk or IT support agents, **ServiceNow** is where:
   - Automate workflows
   - Track service requests across departments
 
-- It is one of the most popular and powerful **ITSM tools** used by medium to large enterprises.
-
----
-## ServiceNow Ticketing System
-
-- It is used to **log & track incidents**.
-- **Escalate tickets** to the right support teams.
-- Document **resolutions and work notes**.
-- Follow **internal SLA (Service Level Agreement)** guidelines.
+- It is one of the most popular and powerful **ITSM tools** used by medium to large enterprise
 
 ---
 ## Creating a ServiceNow Developer Account
