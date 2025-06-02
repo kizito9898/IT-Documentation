@@ -191,7 +191,7 @@ The Computer has been joined to the domain
 1. Navigate to the folder for **HR**, **Sales**, or **Finance**.
 2. Right-click on **Sales** → **Properties** → **Security** → **Advanced Settings**.
 3. Click **Add** → **Select Principal** → Add **Bob Smith** → Click on **Modify** → Click **OK**.
-![Screenshot](images/)
+![Screenshot](images/screenshot193.jpg)
 ## Remove Default Users, Keep Only Required Users
 
 - Disable inheritance.
