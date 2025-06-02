@@ -258,7 +258,7 @@ This helps users and support teams resolve issues more efficiently.
 ### To Create a New Knowledge Article:
 - Navigate to **Knowledge** → **New**
 ![Screenshot](images/screenshot227.jpg)
-![Screenshot](imges/screenshot228.jpg)
+![Screenshot](images/screenshot228.jpg)
 
 
 
