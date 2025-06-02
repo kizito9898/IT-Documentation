@@ -172,7 +172,7 @@ The Computer has been joined to the domain
   - HR  
   - Sales  
   - Finance  
-![Screenshot]
+![Screenshot](images/screenshot191.jpg)
 ---
 ## Creating User Accounts in Active Directory Users and Computers
 
