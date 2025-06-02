@@ -9,7 +9,7 @@ For most helpdesk or IT support agents, **ServiceNow** is where:
 - **Log** what you're doing in *Internal Work Notes*.
 - **Escalate** issues to the right team.
 - **Close out** tickets with proper documentation.
-!
+![Screenshot](images/screenshot240.jpg)
 > For IT Support, if it’s not in the ticket, it didn’t happen.
 # ServiceNow Hands-on Practice (Developer Option)
 
