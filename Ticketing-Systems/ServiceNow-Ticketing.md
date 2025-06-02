@@ -40,7 +40,9 @@ For most helpdesk or IT support agents, **ServiceNow** is where:
 2. **Sign up / Start building**:
    - Verify account and get started with the set-up.
    - *(Help us tune your experience)* → Select **YES** and **describe your job description** (e.g., IT Admin).
-3. **Agree & Finish Set-up**.
+1. **Agree & Finish Set-up**.
+
+
 
 ---
 # How Different Roles Use ServiceNow
