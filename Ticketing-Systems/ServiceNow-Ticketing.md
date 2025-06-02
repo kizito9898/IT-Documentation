@@ -214,6 +214,7 @@ Example: *If 10 users report VPN dropping every morning, a problem ticket might 
 - Issue fixed → Reached out to the user to confirm access to the file share.
 - User confirmed and issue resolved.
 - Updated my **Work Notes**.
+![Screenshot](images/screenshot220.jpg)
   - For every step and interaction taken with the user, this should be documented.
   - **Chat logs** can be used for internal purposes.
 ---
