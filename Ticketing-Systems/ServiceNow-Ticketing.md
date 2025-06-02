@@ -40,7 +40,14 @@ For most helpdesk or IT support agents, **ServiceNow** is where:
 2. **Sign up / Start building**:
    - Verify account and get started with the set-up.
    - *(Help us tune your experience)* → Select **YES** and **describe your job description** (e.g., IT Admin).
-1. **Agree & Finish Set-up**.
+    **Agree & Finish Set-up**
+# ServiceNow Instance Setup
+
+1. **Click on** `Request Instance`.
+2. Once the instance is created:
+   - Click on it.
+   - Head over to `Workspaces` at the top.
+   - Go to `Service Operations Workspace`.
 
 
 
