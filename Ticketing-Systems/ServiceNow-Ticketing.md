@@ -21,11 +21,9 @@ For most helpdesk or IT support agents, **ServiceNow** is where:
 - It is one of the most popular and powerful **ITSM tools** used by medium to large enterprises.
 
 ---
-
 ## ServiceNow Ticketing System
 
 - It is used to **log & track incidents**.
-- Create **Service Requests** (e.g., password resets, software installs).
 - **Escalate tickets** to the right support teams.
 - Document **resolutions and work notes**.
 - Follow **internal SLA (Service Level Agreement)** guidelines.
@@ -36,6 +34,8 @@ For most helpdesk or IT support agents, **ServiceNow** is where:
 1. Navigate to **Google** and search **ServiceNow Developer**.
 2. **Sign up / Start building**:
    - Verify account and get started with the set-up.
+
+   
    - *(Help us tune your experience)* → Select **YES** and **describe your job description** (e.g., IT Admin).
     **Agree & Finish Set-up**
 # ServiceNow Instance Setup
