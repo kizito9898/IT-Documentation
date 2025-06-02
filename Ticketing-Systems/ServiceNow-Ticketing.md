@@ -257,7 +257,7 @@ This helps users and support teams resolve issues more efficiently.
 - Similar to internal or external **Help Center** content.
 ### To Create a New Knowledge Article:
 - Navigate to **Knowledge** → **New**
-
+![Screenshot](images/screenshot227.jpg)
 
 
 
