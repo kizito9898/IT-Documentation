@@ -151,8 +151,6 @@ Example: *If 10 users report VPN dropping every morning, a problem ticket might 
    - **Assigned To**: `Self`
 ![Screenshot](images/screenshot184.jpg)
 ![Screenshot](images/screenshot186.jpg)
-
-
 ---
 ## Example Scenario
 
@@ -161,6 +159,7 @@ Example: *If 10 users report VPN dropping every morning, a problem ticket might 
   - Quickly opened a ticket.
   - After the call, sent an email requesting to **RDP** into her system.
   - Meanwhile, she can use the **web version** of Outlook on her mobile device.
+
 ## Troubleshooting Steps
 
 - **RDP** into the system with the right approval.
