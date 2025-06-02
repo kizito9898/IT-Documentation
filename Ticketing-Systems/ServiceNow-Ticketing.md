@@ -78,7 +78,7 @@ Example: *"Request access to SharePoint,"* or *"Software install."*
 ### 3. Problems
 Used to investigate the **underlying cause** of one or more incidents.  
 Example: *If 10 users report VPN dropping every morning, a problem ticket might be opened to identify the root cause.*
-![Screenshot](imges/screenshot)
+![Screenshot](images/screenshot170.jpg)
 # Additional Concepts
 
 - **System admins or specialists** usually handle **problems**.
