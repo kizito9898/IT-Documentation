@@ -159,6 +159,7 @@ The Computer has been joined to the domain
 ### Steps to Create a Shared Folder:
 1. Navigate to **Server Manager** → **File and Storage Services** → **Shares**.
 2. Right-click on blank space → **New Share** → **SMB Share - Quick**.
+![S]
 3. Click **Next** → **Share Name**: `Nykason` → **Other Settings** → **Permissions** → **Next**.
 4. Confirm and **Create**.
 
