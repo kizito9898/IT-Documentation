@@ -230,4 +230,5 @@ The Computer has been joined to the domain
 
 4. Click **Finish**.
 ![Screenshot](images/screenshot196.jpg)
-![Screensh]
+![Screenshot](images/screenshot198.jpg)
+![Screenshot](ima)
