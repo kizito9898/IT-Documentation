@@ -248,7 +248,7 @@ Example: *If 10 users report VPN dropping every morning, a problem ticket might 
   - Organizing
   - Sharing
   - Accessing knowledge articles
-![Screenshot](images/screensh)
+![Screenshot](images/screenshot226.jpg)
 
 This helps users and support teams resolve issues more efficiently.
 ## Knowledge Article
