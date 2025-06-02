@@ -209,7 +209,7 @@ The Computer has been joined to the domain
 
 1. Log into **Bob Smith’s PC** using the assigned **username** and **password**.
 ![Screenshot](images/screenshot197.jpg)
-2. Navigate to filr **This PC** → In the **search bar**, type:
+2. Navigate to file explorer then **This PC** → In the **search bar**, type:
 
  \\\Server2022\Njikason
 
