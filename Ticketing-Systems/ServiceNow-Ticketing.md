@@ -219,6 +219,7 @@ Example: *If 10 users report VPN dropping every morning, a problem ticket might 
   - Add a Resolve note to close the ticket as issue has been resolved
 ![Screenshot](images/screenshot221.jpg)
 ![Screenshot](images/screenshot222.jpg)
+
 ---
 ## Performance Problem with Wi-Fi
 
