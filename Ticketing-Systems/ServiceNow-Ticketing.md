@@ -73,12 +73,12 @@ Used when users want something that isn’t broken.
 Example: *"Request access to SharePoint,"* or *"Software install."*
 
 - Often follows a predefined workflow for **approval** or **fulfillment** (e.g., from a supervisor).
-![S]
+![Screenshot](images/screenshot169.jpg)
 ---
 ### 3. Problems
 Used to investigate the **underlying cause** of one or more incidents.  
 Example: *If 10 users report VPN dropping every morning, a problem ticket might be opened to identify the root cause.*
-
+![Screenshot](imges/screenshot)
 # Additional Concepts
 
 - **System admins or specialists** usually handle **problems**.
