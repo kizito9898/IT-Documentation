@@ -207,7 +207,7 @@ Example: *If 10 users report VPN dropping every morning, a problem ticket might 
 - Navigated to **Incidents → Open** → Selected ticket based on **Priorities** → Assigned to Self → Open the ticket.
 - Inside the ticket: “Assigned to Self” means SLA won’t be breached.
 - Issue: **Unable to access team file share**.
-![Screensh]
+![Screenshot](images/screenshot218.jpg)
 - Contacted the user for further details (using **Additional Comment**).
 - Notified the user that the issue is getting resolved.
 - Issue fixed → Reached out to the user to confirm access to the file share.
