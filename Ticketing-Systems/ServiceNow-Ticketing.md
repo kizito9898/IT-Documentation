@@ -150,7 +150,7 @@ Example: *If 10 users report VPN dropping every morning, a problem ticket might 
    - **Assignment Group**: `Helpdesk`
    - **Assigned To**: `Self`
 ![Screenshot](images/screenshot184.jpg)
-
+![Screenshot](images/screenshot186.jpg)
 
 ---
 ## Example Scenario
