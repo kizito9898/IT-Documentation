@@ -13,8 +13,6 @@ For most helpdesk or IT support agents, **ServiceNow** is where:
 > For IT Support, if it’s not in the ticket, it didn’t happen.
 # ServiceNow Hands-on Practice (Developer Option)
 
-## Overview
-
 - **ServiceNow** is a **cloud-based IT Service Management (ITSM)** platform used by organizations to manage:
   - IT support tickets
   - Automate workflows
@@ -33,7 +31,6 @@ For most helpdesk or IT support agents, **ServiceNow** is where:
 - Follow **internal SLA (Service Level Agreement)** guidelines.
 
 ---
-
 ## Creating a ServiceNow Developer Account
 
 1. Navigate to **Google** and search **ServiceNow Developer**.
@@ -48,9 +45,6 @@ For most helpdesk or IT support agents, **ServiceNow** is where:
    - Click on it.
    - Head over to `Workspaces` at the top.
    - Go to `Service Operations Workspace`.
-
-
-
 ---
 # How Different Roles Use ServiceNow
 
