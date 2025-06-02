@@ -197,6 +197,7 @@ Example: *If 10 users report VPN dropping every morning, a problem ticket might 
 
 - Added a **Work Note** detailing my steps with accurate **time stamps**.
 - Added **Resolution Notes** and **Resolved the ticket**.
+![Screenshot](images/screenshot210.jpg)
 ---
 # Resolving a Ticket (ServiceNow)
 
