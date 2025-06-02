@@ -1,7 +1,7 @@
 # ServiceNow as a Ticketing System
 
 While ServiceNow can do a lot, its core use for **IT Support** is as a **ticketing system** – a place to manage and track problems users report, requests they make, and the steps Support teams take to resolve those issues.
-![Scree ]
+![Screenshot](images/screenshot241.jpg)
 For most helpdesk or IT support agents, **ServiceNow** is where:
 
 - You receive **tickets** (issues or requests from users).
