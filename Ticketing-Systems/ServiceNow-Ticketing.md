@@ -234,8 +234,9 @@ Example: *If 10 users report VPN dropping every morning, a problem ticket might 
 - Release & Renew IP Address → Flush DNS Cache → Restart Network Adapter → Verify IP Configuration.
 - Make sure the user has a valid IP (Not starting with `169.x.x.x`).
 - Reached out to the user, confirmed the user’s network speed has improved.
-
+![Screenshot](images/screenshot223.jpg)
 - Updated my **Work Notes**.
+![Screenshot](image)
 - Added **Resolution Notes**.
 - Resolved the ticket as **Closed**.
 ---
