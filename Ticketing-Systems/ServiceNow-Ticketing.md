@@ -122,7 +122,7 @@ Example: *If 10 users report VPN dropping every morning, a problem ticket might 
 
 1. Navigate to **Workspace** → Click **All**.
 2. Search for **Incident** or **ServiceDesk** and click the **star** icon to favorite it (makes it show up in the Favorites section).
-![Screenshot](images/screenshot)
+![Screenshot](images/screenshot203.jpg)
 3. Click on it to see incidents categorized by:
    - **Assigned to me**
    - **Open**
