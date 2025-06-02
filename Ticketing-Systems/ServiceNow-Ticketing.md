@@ -238,7 +238,7 @@ Example: *If 10 users report VPN dropping every morning, a problem ticket might 
 - Updated my **Work Notes**.
 ![Screenshot](images/screenshot224.jpg)
 - Added **Resolution Notes**.
-!
+![Screenshot](images/screenshot225.jpg)
 - Resolved the ticket as **Closed**.
 ---
 # Knowledge in ServiceNow
