@@ -236,8 +236,9 @@ Example: *If 10 users report VPN dropping every morning, a problem ticket might 
 - Reached out to the user, confirmed the user’s network speed has improved.
 ![Screenshot](images/screenshot223.jpg)
 - Updated my **Work Notes**.
-![Screenshot](image)
+![Screenshot](images/screenshot224.jpg)
 - Added **Resolution Notes**.
+!
 - Resolved the ticket as **Closed**.
 ---
 # Knowledge in ServiceNow
