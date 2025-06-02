@@ -215,7 +215,7 @@ The Computer has been joined to the domain
 > Try accessing other folders:
 
 - You will get an error saying "You don’t have access to this folder."
-    
+
 ---
 ## Mapping a Network Drive for Bob Smith
 
