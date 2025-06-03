@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/badge/Microsoft_365-Admin-orange?logo=microsoft&logoColor=white" />
   <img src="https://img.shields.io/badge/Ticketing-ServiceNow/Zendesk-success?logo=zendesk&logoColor=white" />
   <img src="https://img.shields.io/badge/PDQ_Deploy-Silent_Install-lightblue?logo=windows&logoColor=white" />
-</p>
+</p> 
 
 ---
 
