@@ -23,7 +23,7 @@ For IT support, Zendesk functions as a ticketing system that allows IT teams to:
 
 - **Sign up for Zendesk 14-Day Trial.**
 - **Create a new ticket** on Zendesk.
-![Screenshot]
+![Screenshot](images/screenshot269.jpg)
 ---
 # Ticketing System Tips
 
@@ -31,7 +31,7 @@ For IT support, Zendesk functions as a ticketing system that allows IT teams to:
   Example:  
   > I'm going to have that fixed. Let me help you.  
   > Definitely reach out to IT helpdesk or me if you have any other issues. I hope you have a great day.
-
+![Screenshot](images/screenshot)
 - **Make sure to look at old tickets** if you've never seen an issue before.
 - **Google is your best friend too.**  
   (Remember: no one knows everything.)
