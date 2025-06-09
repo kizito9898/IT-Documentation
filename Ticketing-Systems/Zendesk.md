@@ -115,18 +115,14 @@ My focus is solely on efficient handling of tickets, documenting well, and provi
 ✅ Thank the user, apologize where needed, and set expectations
 
 ---
-
 ## Escalation Process
 - Know how to assign or escalate tickets to the right group.
 - Add proper tags or internal notes before escalating.
-
 ---
-
 ## Creating New Ticket for End User
 - **User reports**: System has fallen off the domain while trying to log in.
 - Reached out to the user and assigned the ticket to myself.
 - Set **urgency high** and **type** as Task.
-
 ---
 
 ### Troubleshooting Steps
