@@ -134,4 +134,12 @@ My focus is solely on efficient handling of tickets, documenting well, and provi
 - Emailed the supervisor that account has been set up.
 ![Screenshot](images/screenshot263.jpg)
 - Closed the ticket as Resolved.
- ![Screenshot](images/screenshot259.j)
+ ![Screenshot](images/screenshot259.jpg)
+
+
+
+
+
+
+
+
