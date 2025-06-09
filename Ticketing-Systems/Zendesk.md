@@ -118,7 +118,8 @@ My focus is solely on efficient handling of tickets, documenting well, and provi
 -  **Resolved the issue** and instructed the user to try printing a document. 
 ![Screenshot](images/screenshot257.jpg)
 -  **User was able to print**; issue has been resolved.  
--  Updated my **work notes** on steps taken to achieve a resolution.  
+-  Updated my **work notes** on steps taken to achieve a resolution.
+![Screenshot](images/screenshot258.jpg)
 -  **Closed the ticket**.
 
 ---
