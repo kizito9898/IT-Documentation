@@ -92,6 +92,7 @@ My focus is solely on efficient handling of tickets, documenting well, and provi
 ![Screenshot](images/screenshot247.jpg)
 ---
 ## Creating New Ticket for End User
+
 - **User reports**: System has fallen off the domain while trying to log in.
 ![Screenshot](images/screenshot248.jpg)
 - Reached out to the user and assigned the ticket to myself.
