@@ -22,7 +22,7 @@ For IT support, Zendesk functions as a ticketing system that allows IT teams to:
 
 - **Sign up for Zendesk 14-Day Trial.**
 - **Create a new ticket** on Zendesk.
-![Scre
+![Screenshot](images/screenshot269.jpg)
 ---
 # Ticketing System Tips
 
@@ -124,9 +124,9 @@ My focus is solely on efficient handling of tickets, documenting well, and provi
 ---
 # Handling a Task Request from My Supervisor
 
-✅ **User requested** to onboard a new employee and set up the necessary account.  
-✅ **Supervisor created a ticket** to onboard and set up the account.  
-✅ Ticket like this **usually comes with low priority** since it's not affecting productivity.  
+-  **User requested** to onboard a new employee and set up the necessary account.  
+-  **Supervisor created a ticket** to onboard and set up the account.  
+-  Ticket like this **usually comes with low priority** since it's not affecting productivity.  
 ✅ Usually comes as a **task to complete with a deadline**.
 
 
