@@ -60,10 +60,10 @@ For IT support, Zendesk functions as a ticketing system that allows IT teams to:
    - **Type**: Incident
    - **Priority**: (Urgent, High, Normal, Low)
    - **Subject**
-
 ### Example Scenario:
 
 - User sent an email about **account lockout** after multiple attempts.
+![Screenshot](images)
 - Reached out to the user, confirmed receiving the ticket and **further steps**.
 - Took action immediately and **unlocked the account** using **Active Directory Users and Computers**.
 - Added my **ticket notes** and submitted the ticket as **Solved**.
