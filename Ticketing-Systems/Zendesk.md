@@ -73,3 +73,4 @@ For IT support, Zendesk functions as a ticketing system that allows IT teams to:
 ## Organizations
 
 - A feature used to **group users (End-users & Customers)** who belong to the same **company, department, or team**.
+ 
