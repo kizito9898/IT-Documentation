@@ -100,8 +100,8 @@ My focus is solely on efficient handling of tickets, documenting well, and provi
 - Set **urgency high** and **type** as Task.
 - Verified the issue by remoting into the user’s account.
 - Removed and re-added the PC to the company’s domain.
-
 - Reached out to the user to confirm the issue has been resolved.
+![Screenshot](images/screenshot252.jpg)
 - Updated the **work note** (internal notes).  
 - **Closed the ticket**.
 # Handling a Ticket Using Zendesk
