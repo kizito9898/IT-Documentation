@@ -118,6 +118,26 @@ My focus is solely on efficient handling of tickets, documenting well, and provi
 - Reached out to the user to confirm the issue has been resolved.
 - Updated the **work note** (internal notes).  
 - **Closed the ticket**.
+# Handling a Ticket Using Zendesk
+
+✅ **User reported** having issues with a printer.  
+✅ **Assigned to Support group** (re-assigned to self).  
+✅ **Reached out to the user**, acknowledging receipt of the ticket.  
+✅ **The user reported** it might be a general issue with the printer.  
+✅ Turns out it has to do with **Spooler error**.  
+✅ **Resolved the issue** and instructed the user to try printing a document.  
+✅ **User was able to print**; issue has been resolved.  
+✅ Updated my **work notes** on steps taken to achieve a resolution.  
+✅ **Closed the ticket**.
+
+---
+# Handling a Task Request from My Supervisor
+
+✅ **User requested** to onboard a new employee and set up the necessary account.  
+✅ **Supervisor created a ticket** to onboard and set up the account.  
+✅ Ticket like this **usually comes with low priority** since it's not affecting productivity.  
+✅ Usually comes as a **task to complete with a deadline**.
+
 
 
 
