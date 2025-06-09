@@ -109,9 +109,9 @@ My focus is solely on efficient handling of tickets, documenting well, and provi
 # Handling a Ticket Using Zendesk
 
 -  **User reported** having issues with a printer.
-![Screenshot](images/screenshot254.jpg)
 -  **Assigned to Support group** (re-assigned to self).  
 -  **Reached out to the user**, acknowledging receipt of the ticket.  
+![Screenshot](images/screenshot2)
 - **The user reported** it might be a general issue with the printer.  
 -  Turns out it has to do with **Spooler error**.  
 -  **Resolved the issue** and instructed the user to try printing a document.  
