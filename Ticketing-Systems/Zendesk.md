@@ -130,6 +130,8 @@ My focus is solely on efficient handling of tickets, documenting well, and provi
 -  Usually comes as a **task to complete with a deadline**.
 
 
+one of the 
+
 
 
 
