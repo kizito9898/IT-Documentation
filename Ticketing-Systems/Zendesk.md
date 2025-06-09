@@ -126,10 +126,11 @@ My focus is solely on efficient handling of tickets, documenting well, and provi
 
 -  **supervisor/manager requested** to onboard a new employee and set up the necessary account.  
 -  **Supervisor created a ticket** to onboard and set up a new account for an employee starting work soon.
-
+![Screenshot](images/screenshot260.jpg)
 -  Ticket like this **usually comes with low priority** since it's not affecting productivity. 
 -  Usually comes as a **task to complete with a deadline**.
 - Set up the user account, add to relevant group, set right permissions and outlook.
+
 - Emailed the supervisor that account has been set up.
 - Closed the ticket as Resolved.
  
