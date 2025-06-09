@@ -69,7 +69,7 @@ For IT support, Zendesk functions as a ticketing system that allows IT teams to:
 - Took action immediately and **unlocked the account** using **Active Directory Users and Computers**.
 ![Screenshot](images/screenshot235.jpg)
 - Added my **ticket notes** and submitted the ticket as **Solved**.
-![Scree]
+![Screenshot](images/screenshot236.jpg)
 ---
 # Ticket Management Tips
 
