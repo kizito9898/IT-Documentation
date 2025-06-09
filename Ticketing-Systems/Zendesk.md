@@ -113,7 +113,7 @@ My focus is solely on efficient handling of tickets, documenting well, and provi
 -  **Reached out to the user**, acknowledging receipt of the ticket.  
 ![Screenshot](images/screenshot254.jpg)
 - **The user reported** it might be a general issue with the printer.  
-![S]
+![Screenshot](images/screenshot256.jpg)
 -  Turns out it has to do with **Spooler error**.  
 -  **Resolved the issue** and instructed the user to try printing a document.  
 -  **User was able to print**; issue has been resolved.  
