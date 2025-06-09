@@ -89,7 +89,7 @@ My focus is solely on efficient handling of tickets, documenting well, and provi
 - Add timestamps if required by your team.  
 -  Stay professional, polite, and helpful.  
 - Thank the user, apologize where needed, and set expectations
-
+![Screenshot](images/screenshot247.jpg)
 ---
 ## Creating New Ticket for End User
 - **User reports**: System has fallen off the domain while trying to log in.
