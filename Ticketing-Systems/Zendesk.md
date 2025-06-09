@@ -96,6 +96,7 @@ My focus is solely on efficient handling of tickets, documenting well, and provi
 ![Screenshot](images/screenshot248.jpg)
 - Reached out to the user and assigned the ticket to myself.
 ![Screenshot](images/screenshot249.jpg)
+![Screenshot]
 - Set **urgency high** and **type** as Task.
 - Verified the issue by remoting into the user’s account.
 - Removed and re-added the PC to the company’s domain.
