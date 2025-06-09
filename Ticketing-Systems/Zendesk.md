@@ -43,7 +43,7 @@ For IT support, Zendesk functions as a ticketing system that allows IT teams to:
 - **Be sure to attach all any approved emails** on the ticket or notes inside the ticket.
 - **Use the ticket system to your advantage** by looking at old tickets.
 - **Follow your tickets that were assigned to you**, even if you gave it to someone else, like Level 2.
-![Screenshot](images/sc)
+![Screenshot](images/screenshot229.jpg)
 - **Always update your tickets every day.**  
   (Managers check this.)
 
