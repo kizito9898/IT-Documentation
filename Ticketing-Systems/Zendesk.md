@@ -115,7 +115,8 @@ My focus is solely on efficient handling of tickets, documenting well, and provi
 - **The user reported** it might be a general issue with the printer.  
 ![Screenshot](images/screenshot256.jpg)
 -  Turns out it has to do with **Spooler error**.  
--  **Resolved the issue** and instructed the user to try printing a document.  
+-  **Resolved the issue** and instructed the user to try printing a document. 
+![Screenshot](images/screenshot257.jpg)
 -  **User was able to print**; issue has been resolved.  
 -  Updated my **work notes** on steps taken to achieve a resolution.  
 -  **Closed the ticket**.
