@@ -76,14 +76,13 @@ For IT support, Zendesk functions as a ticketing system that allows IT teams to:
 This helps IT Support or Customer Service Teams manage tickets and provide better support based on group context.
 ## As a Help Desk Agent (non-admin) using Zendesk
 My focus is solely on efficient handling of tickets, documenting well, and providing excellent support.
-
 ### Internal Notes
 - Use internal notes for logging actions without the user seeing.
 - Internal notes are really important to reference back in case the same issue should arise.
 - It also helps you follow agents on steps taken to resolve an issue.
 - Managers use it to track performance.
 ### Ticket Fields
-- Learn what each ticket field means: Priority, Type, Tags, Group, Assignee.
+- Understanding ticketing system i: Priority, Type, Tags, Group, Assignee.
 # Additional Ticket Handling Best Practices
 
 ✅ I document steps taken, tools used, and resolution steps.  
