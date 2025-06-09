@@ -76,28 +76,7 @@ For IT support, Zendesk functions as a ticketing system that allows IT teams to:
 This helps IT Support or Customer Service Teams manage tickets and provide better support based on group context.
 ## As a Help Desk Agent (non-admin) using Zendesk
 My focus is solely on efficient handling of tickets, documenting well, and providing excellent support.
-### Ticket View
-- My tickets
-- Unassigned
-### Prioritize and Sort Tickets
-- By status
-- By priority
-- By group
-### Filters and Queues
-- Use filters and queues to see only what you need to work on.
-- Stay organized to respond quickly.
-### Ticket Handling
-- Create
-- Reply
-- Update
-- Close
-### Understanding Ticket Statuses
-- New
-- Open
-- Pending
-- On-hold
-- Solved
-- Closed
+
 ### Internal Notes
 - Use internal notes for logging actions without the user seeing.
 - Internal notes are really important to reference back in case the same issue should arise.
