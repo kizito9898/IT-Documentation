@@ -108,13 +108,13 @@ My focus is solely on efficient handling of tickets, documenting well, and provi
 - **Closed the ticket**.
 # Handling a Ticket Using Zendesk
 
-✅ **User reported** having issues with a printer.  
-✅ **Assigned to Support group** (re-assigned to self).  
-✅ **Reached out to the user**, acknowledging receipt of the ticket.  
-✅ **The user reported** it might be a general issue with the printer.  
-✅ Turns out it has to do with **Spooler error**.  
-✅ **Resolved the issue** and instructed the user to try printing a document.  
-✅ **User was able to print**; issue has been resolved.  
+-  **User reported** having issues with a printer.  
+-  **Assigned to Support group** (re-assigned to self).  
+-  **Reached out to the user**, acknowledging receipt of the ticket.  
+- **The user reported** it might be a general issue with the printer.  
+-  Turns out it has to do with **Spooler error**.  
+-  **Resolved the issue** and instructed the user to try printing a document.  
+- **User was able to print**; issue has been resolved.  
 ✅ Updated my **work notes** on steps taken to achieve a resolution.  
 ✅ **Closed the ticket**.
 
