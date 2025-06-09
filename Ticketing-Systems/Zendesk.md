@@ -132,6 +132,6 @@ My focus is solely on efficient handling of tickets, documenting well, and provi
 - Set up the user account, add to relevant group, set right permissions and outlook.
 ![Screenshot](images/screenshot262.jpg)
 - Emailed the supervisor that account has been set up.
-![Screenshot]
+![Screenshot](images/screenshot263.jpg)
 - Closed the ticket as Resolved.
  
