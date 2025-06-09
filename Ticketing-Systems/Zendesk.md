@@ -111,8 +111,9 @@ My focus is solely on efficient handling of tickets, documenting well, and provi
 -  **User reported** having issues with a printer.
 -  **Assigned to Support group** (re-assigned to self).  
 -  **Reached out to the user**, acknowledging receipt of the ticket.  
-![Screenshot](images/screenshot2)
+![Screenshot](images/screenshot254.jpg)
 - **The user reported** it might be a general issue with the printer.  
+![S]
 -  Turns out it has to do with **Spooler error**.  
 -  **Resolved the issue** and instructed the user to try printing a document.  
 -  **User was able to print**; issue has been resolved.  
