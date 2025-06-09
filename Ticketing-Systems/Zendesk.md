@@ -82,13 +82,13 @@ My focus is solely on efficient handling of tickets, documenting well, and provi
 - It also helps you follow agents on steps taken to resolve an issue.
 - Managers use it to track performance.
 ### Ticket Fields
-- Understanding ticketing system i: Priority, Type, Tags, Group, Assignee.
+- Understanding ticketing system in IT is very important from: Priority, Type, Tags, Group, Assignee.
 # Additional Ticket Handling Best Practices
 
-✅ I document steps taken, tools used, and resolution steps.  
-✅ Add timestamps if required by your team.  
-✅ Stay professional, polite, and helpful.  
-✅ Thank the user, apologize where needed, and set expectations
+-  I document steps taken, tools used, and resolution steps.  
+- Add timestamps if required by your team.  
+-  Stay professional, polite, and helpful.  
+Thank the user, apologize where needed, and set expectations
 
 ---
 ## Creating New Ticket for End User
