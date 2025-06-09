@@ -130,12 +130,6 @@ My focus is solely on efficient handling of tickets, documenting well, and provi
 -  Usually comes as a **task to complete with a deadline**.
 - Set up the user account, add to relevant group, set right permissions and outlook.
 - Emailed the supervisor that account has been set up.
-- Closed the ticket as 
-
-
-
-
-
-
+- Closed the ticket as Resolved.
 
  
