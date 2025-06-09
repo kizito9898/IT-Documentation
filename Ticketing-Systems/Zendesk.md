@@ -93,7 +93,7 @@ My focus is solely on efficient handling of tickets, documenting well, and provi
 ---
 ## Creating New Ticket for End User
 - **User reports**: System has fallen off the domain while trying to log in.
-![Screenshot]
+![Screenshot](images/screenshot248.jpg)
 - Reached out to the user and assigned the ticket to myself.
 - Set **urgency high** and **type** as Task.
 - Verified the issue by remoting into the user’s account.
