@@ -88,7 +88,7 @@ My focus is solely on efficient handling of tickets, documenting well, and provi
 -  I document steps taken, tools used, and resolution steps.  
 - Add timestamps if required by your team.  
 -  Stay professional, polite, and helpful.  
-Thank the user, apologize where needed, and set expectations
+- Thank the user, apologize where needed, and set expectations
 
 ---
 ## Creating New Ticket for End User
