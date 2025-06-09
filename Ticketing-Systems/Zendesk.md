@@ -67,12 +67,6 @@ For IT support, Zendesk functions as a ticketing system that allows IT teams to:
 - Took action immediately and **unlocked the account** using **Active Directory Users and Computers**.
 - Added my **ticket notes** and submitted the ticket as **Solved**.
 ---
-## Customers
-
-- Add, search, and manage your **Customers (End Users)** all in one place.
-## Organizations
-
-- A feature used to **group users (End-users & Customers)** who belong to the same **company, department, or team**.
 # Ticket Management Tips
 
 This helps IT Support or Customer Service Teams manage tickets and provide better support based on group context.
