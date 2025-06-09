@@ -128,7 +128,7 @@ My focus is solely on efficient handling of tickets, documenting well, and provi
 -  **Supervisor created a ticket** to onboard and set up the account.  
 -  Ticket like this **usually comes with low priority** since it's not affecting productivity.  
 -  Usually comes as a **task to complete with a deadline**.
-- 
+
 
 
 
