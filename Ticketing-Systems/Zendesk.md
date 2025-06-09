@@ -102,7 +102,8 @@ My focus is solely on efficient handling of tickets, documenting well, and provi
 - Removed and re-added the PC to the company’s domain.
 - Reached out to the user to confirm the issue has been resolved.
 ![Screenshot](images/screenshot252.jpg)
-- Updated the **work note** (internal notes).  
+- Updated the **work note** (internal notes). 
+![Screenshot](images/screenshot253.jpg)
 - **Closed the ticket**.
 # Handling a Ticket Using Zendesk
 
