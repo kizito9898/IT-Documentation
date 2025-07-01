@@ -27,7 +27,7 @@ This is not just a collection of notes—it's a **personal IT knowledge base** b
 ---
 ##  What’s Inside?  
 
-### 🔹 **Windows & Windows Server**  
+###  **Windows & Windows Server**  
 - [Windows Troubleshooting](Windows/Windows-Troubleshooting.md)
 - [PowerShell Commands](Windows/PowerShell-Commands.md) 
 - [Windows Server](Windows/Windows-Server.md)
@@ -35,7 +35,7 @@ This is not just a collection of notes—it's a **personal IT knowledge base** b
 - [Group Policy Management](Windows/Group-Policy-Management.md)  
 - [Map Drive](Windows/Mapping-Drive.md)
 
-### 🔹 **Networking & Security**  
+###  **Networking & Security**  
 - [Networking Troubleshooting](Network/Networking-Troubleshooting.md)  
 - [DNS](Network/DNS.md)
 - [MFA & Security Best Practices](Security/MFA-Security-Practices.md)
