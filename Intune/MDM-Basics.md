@@ -4,7 +4,6 @@
 This guide will help you set up a home lab to enroll an Android device in Microsoft Intune. You can use a **real Android phone** or a **virtual Android emulator** like BlueStacks or Android Studio.
 
 ---
-
 ## Prerequisites
 
 Before you start, make sure you have:
@@ -13,9 +12,7 @@ Before you start, make sure you have:
 - An **Intune license** assigned to your user
 - Access to **Microsoft Intune Admin Center**: [https://intune.microsoft.com](https://intune.microsoft.com)
 - An **Android device** (physical or virtual)
-
 ---
-
 ## Step 1: Enable Android Enrollment in Intune
 
 1. **Sign in** to [Intune Admin Center](https://intune.microsoft.com).
@@ -63,14 +60,12 @@ If you are using **Fully Managed** enrollment, you will also need to create an *
 4. Follow the on-screen instructions to enroll.
 
 ---
-
 ## Step 4: Verify Enrollment
 
 ### **On the Device**
 1. Open the **Company Portal app**.
 2. Go to **Devices**.
 3. Check if the device shows as **Managed & Compliant**.
-
 ### **In Intune Admin Center**
 1. Go to [https://intune.microsoft.com](https://intune.microsoft.com).
 2. Navigate to **Devices > All Devices**.
@@ -78,7 +73,6 @@ If you are using **Fully Managed** enrollment, you will also need to create an *
 4. Check the **Compliance Status**.
 
 ---
-
 ## Step 5: Set Up Compliance Policies
 
 1. **Go to** [Intune Admin Center](https://intune.microsoft.com).
@@ -95,7 +89,6 @@ If you are using **Fully Managed** enrollment, you will also need to create an *
 After applying, go to **Devices > Compliance Policies > Policy Status** to check if devices are compliant.
 
 ---
-
 ## Step 6: Configure Conditional Access
 
 1. Go to **Microsoft Entra Admin Center**: [https://entra.microsoft.com](https://entra.microsoft.com).
@@ -111,7 +104,6 @@ After applying, go to **Devices > Compliance Policies > Policy Status** to check
 Now, only compliant devices can access Microsoft 365 apps.
 
 ---
-
 ## Step 7: Explore App Protection Policies
 
 1. Go to **Intune Admin Center**.
@@ -123,12 +115,10 @@ Now, only compliant devices can access Microsoft 365 apps.
    - **Prevent copy/paste between work and personal apps**
    - **Require PIN for app access**
    - **Encrypt app data when the device is locked**
-7. Click **Create**.
-
+1. Click **Create**.
 To check if policies apply, open **Microsoft Outlook** or **Teams** on the enrolled Android device.
 
 ---
-
 ## Next Steps
 
 - Monitor device compliance in **Intune Admin Center**.
