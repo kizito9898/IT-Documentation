@@ -118,7 +118,7 @@ If you’re a **CTO, IT Manager, or hiring recruiter** looking for practical han
 
 - **LinkedIn:** [Chiagozie Njika](https://www.linkedin.com/in/chiagozie-njika-a24660284)  
 - **GitHub:** [kizito9898](https://github.com/kizito9898)  
-- **Email:** chiagozienjika078@gmail.com  or
+- **Email:** chiagozienjika078@gmail.com  
 
 ---
 
