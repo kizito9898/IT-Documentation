@@ -70,38 +70,38 @@ This is not just a collection of notes—it's a **personal IT knowledge base** b
 - [IT Glue Documentation Best Practices](ITGlue/Documentation-Best-Practices.md)  
 - [IT Glue Documentation Templates](ITGlue/IT-Documentation-Templates.md)  
 
-### 🔹 **Troubleshooting & Real-World IT Scenarios**  
+###  **Troubleshooting & Real-World IT Scenarios**  
 - [Printer Issues](Troubleshooting/Printer-Issues.md)  
 - [Outlook Issues](Troubleshooting/Outlook-Issues.md)  
 - [Wi-Fi Connection Issues](Troubleshooting/WiFi-Connection-Issues.md)   
 - [Domain Trust Relationship Failed](Troubleshooting/Domain-Trust-Relationship-Failed.md) 
 
-## 🔹 SCCM (System Center Configuration Manager)
+## SCCM (System Center Configuration Manager)
 - [Overview of SCCM](SCCM/SCCM-Overview.md)  
 - [Deploying Applications](SCCM/Deploying-Applications.md)  
 - [Windows Updates Management](SCCM/Windows-Updates-Management.md)
 - [Device Collection & Inventory](SCCM/Device-Collection-Inventory.md)  
 - [SCCM Logs & Troubleshooting](SCCM/Logs-Troubleshooting.md)
 
-### 🔹 **MDM (Mobile Device Management)**  
+### **MDM (Mobile Device Management)**  
 - [Duo MDM Configuration](MDM/Duo-MDM-Configuration.md)
 
-### 🔹 **PDQ Deploy & Inventory**  
+### **PDQ Deploy & Inventory**  
 - [PDQ Deploy Automation Guide](PDQ/PDQ-Deploy-Automation.md)
 - [PDQ Inventory](PDQ/PDQ-Inventory.md)
 
-### 🔹 **SCCM (System Center Configuration Manager)**  
+###  **SCCM (System Center Configuration Manager)**  
 - [SCCM Deployment Basics](SCCM/SCCM-Deployment.md)
 - [SCCM Inventory & Reporting](SCCM/SCCM-Inventory-Reporting.md)
 
-### 🔹 **Ticketing Systems: ServiceNow & Zendesk**  
+###  **Ticketing Systems: ServiceNow & Zendesk**  
 - [ServiceNow Ticketing Guide](Ticketing-Systems/ServiceNow-Ticketing.md)
 - [Zendesk Guide](Ticketing-Systems/Zendesk.md)
 
 
 ---
 
-## 💡 Why This Repository Matters  
+##  Why This Repository Matters  
 
 This documentation is a **reflection of my IT journey**—not just theoretical knowledge, but **hands-on experience troubleshooting real-world IT issues**.  
 
@@ -118,7 +118,7 @@ If you’re a **CTO, IT Manager, or hiring recruiter** looking for practical han
 
 - **LinkedIn:** [Chiagozie Njika](https://www.linkedin.com/in/chiagozie-njika-a24660284)  
 - **GitHub:** [kizito9898](https://github.com/kizito9898)  
-- **Email:** chiagozienjika078@gmail.com  
+- **Email:** chiagozienjika078@gmail.com  or
 
 ---
 
