@@ -84,7 +84,7 @@ This is not just a collection of notes—it's a **personal IT knowledge base** b
 - [SCCM Logs & Troubleshooting](SCCM/Logs-Troubleshooting.md)
 
 ### **MDM (Mobile Device Management)**  
-- [Duo MDM Configuration](MDM/Duo-MDM-Configuration.md)
+- [Duo MDM Configuration](MDM/Duo-MFA-Configuration.md)
 
 ### **PDQ Deploy & Inventory**  
 - [PDQ Deploy Automation Guide](PDQ/PDQ-Deploy-Automation.md)
