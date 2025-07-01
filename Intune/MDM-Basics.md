@@ -41,7 +41,6 @@ If you are using **Fully Managed** enrollment, you will also need to create an *
 3. Start the emulator and install **Microsoft Intune Company Portal**.
 
 ---
-
 ## Step 3: Enroll the Android Device in Intune
 
 ### **For BYOD (Work Profile)**
