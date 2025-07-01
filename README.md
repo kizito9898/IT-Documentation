@@ -41,30 +41,30 @@ This is not just a collection of notes—it's a **personal IT knowledge base** b
 - [MFA & Security Best Practices](Security/MFA-Security-Practices.md)
 - [DHCP](Network/DHCP)
 
-### 🔹 **Microsoft 365: Deployment, Administration & Management**  
+###  **Microsoft 365: Deployment, Administration & Management**  
 - [Microsoft 365 Administration](Microsoft365/Microsoft-365-Administration.md) 
 - [Exchange Administration](Microsoft365/Exchange-Administration.md)  
 - [SharePoint Administration](Microsoft365/SharePoint-Administration.md)  
 - [Teams Administration](Microsoft365/Teams-Administration.md)  
 - [Microsoft 365 Deployment](Microsoft365/Microsoft-365-Deployment.md) 
 
-### 🔹 **Microsoft Intune, Endpoint Management & MDM**  
+###  **Microsoft Intune, Endpoint Management & MDM**  
 - [Device Enrollment](Intune/Device-Enrollment.md)  
 - [Compliance Policies](Intune/Compliance-Policies.md)  
 - [App Deployment](Intune/App-Deployment.md)  
 - [MDM (Mobile Device Management)](Intune/MDM-Basics.md) 
 - [Intune Enrollment Troubleshooting](Intune/Enrollment-Troubleshooting.md) 
 
-### 🔹 **Azure & Cloud Administration**  
+###  **Azure & Cloud Administration**  
 - [Azure Virtual Machines Setup](Azure/Virtual-Machines-Setup.md)  
 - [Azure Entra ID](Azure/Entra-ID-Fundamentals.md)
 
-### 🔹 **IT Support & Customer Service Best Practices**  
+###  **IT Support & Customer Service Best Practices**  
 - [Communication Best Practices](CustomerService/Communication-Best-Practices.md)  
 - [Handling Difficult Customers](CustomerService/Handling-Difficult-Customers.md)  
 - [Ticketing Best Practices](CustomerService/Ticketing-Best-Practices.md)
 
-### 🔹 **MSP Tools & Ticketing Systems**  
+###  **MSP Tools & Ticketing Systems**  
 - [ConnectWise Ticketing Best Practices](ConnectWise/Ticketing-Best-Practices.md)  
 - [Common Issues & Fixes in ConnectWise](ConnectWise/Common-Issues-Fixes.md)  
 - [IT Glue Documentation Best Practices](ITGlue/Documentation-Best-Practices.md)  
