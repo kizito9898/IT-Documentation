@@ -1,6 +1,6 @@
 # Printer Setup on Server 2022
 
-Printers are often set up on servers in business environments for centralized management. It allows IT helpdesk or administrators to manage all network printers from a single location, monitor them, and troubleshoot issues.
+Printers are often set up on servers in business environments for centralized management. It allows IT helpdesk or administrators to manage all network printers from a single location, monitor them, and troubleshoot issues. setting up a from server 2022 
 
 ---
 ## Setting up a Print Server on Windows Server
