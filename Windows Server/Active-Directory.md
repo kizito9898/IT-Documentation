@@ -22,8 +22,8 @@ It helps organizations:
 7. Click **Next**, then **Install** (wait for it to succeed).
 8. Click **Promote this server to a domain controller**.
 9. Select **Add a new forest**.
-10. Enter the **Root domain name** (e.g., `mykasm.com`).
-11. Create a password (e.g., `Password@123`).
+10. Enter the **Root domain name** (e.g., `Njikason.com).
+11. Create a password (e.g., `Capital123).
 12. Click **Next**.
 13. Wait for **Prerequisites check**.
 14. Click **Install** — it will restart your computer.
