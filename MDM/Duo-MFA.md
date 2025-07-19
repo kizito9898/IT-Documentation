@@ -114,6 +114,7 @@ Adding an extra layer of defense for Windows Server is really important to avoid
 - Find application and search for **Microsoft RDP** on server
 - Join through the policies and click **Save**
 - Click on **RDP Documentation** to integrate Duo with your Microsoft RDP deployment
+![Screenshot](images/screenshot293.jpg)
 
 ---
 ## Final Configuration
