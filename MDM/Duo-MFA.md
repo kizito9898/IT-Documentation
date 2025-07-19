@@ -54,6 +54,32 @@ Setting up Duo Mobile is **simple and straightforward**:
 ## Send an Enrollment Email
 
 - The user receives an email for Duo Security enrollment.
-- The user enrolls with Duo Mobile app by adding their phone number and fingerprint to enroll successfully.
+- The user enrolls with Duo Mobile app by adding their phone number and fingerprint to enroll successfully.# Duo Mobile / MFA (Part 3)
+
+## Important Notes
+
+- **NB:** MFA should always be active.
+- Never use **Bypass** (which allows skipping two-factor authentication).
+- Always seek management approval before granting a bypass.
+---
+## Groups
+- Groups make it easy to manage users in a more simplified way.
+- Manage applications at scale and quickly enable or disable users in bulk.
+- Navigate to:
+  - `Users` → `Groups` → `Add Groups`
+  - Name the group and add a description, then click **Add Group**.
+  - Add users to the group:
+    - Select users to add
+    - Click **Add users to group**
+---
+## Adding Administrator
+- Assign an administrator with fewer powers to complete simple tasks.
+- Add the name and email address.
+- Since I’m aiming for Help Desk, I assign the **Help Desk** role.
+---
+## Applications
+- Applications: Integrate Duo into one or more of your services.
+- You can protect as many applications with Duo as you need.
+
 
 
