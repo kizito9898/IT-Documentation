@@ -47,7 +47,7 @@ In my project, I have Windows 11 added to the PDQ Inventory.
 ### File Sharing
 - You can go to `\\shared path` to place a file for the user.
 - On the Windows 11 PC, the file is already there if properly shared.
-
+![Screenshot](images/screenshot365.jpg)
 ### Remote Access
 
 - Remoting into the computer from PDQ Inventory:
