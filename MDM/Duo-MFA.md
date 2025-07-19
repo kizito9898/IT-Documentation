@@ -61,7 +61,8 @@ Setting up Duo Mobile is **simple and straightforward**:
 
 - The user receives an email for Duo Security enrollment.
 - The user enrolls with Duo Mobile app by adding their phone number and fingerprint to enroll successfully.
-![Screenshot](images/)
+![Screenshot](images/screenshot282.jpg)
+![Screenshot]
 
 ## Important Notes
 
