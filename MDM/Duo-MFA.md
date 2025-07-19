@@ -64,8 +64,7 @@ Setting up Duo Mobile is **simple and straightforward**:
 ![Screenshot](images/screenshot282.jpg)
 ![Screenshot](images/screenshot286.jpg)
 
-## Important Notes
-
+##  Notes
 - **NB:** MFA should always be active.
 - Never use **Bypass** (which allows skipping two-factor authentication).
 - Always seek management approval before granting a bypass.
