@@ -147,7 +147,12 @@ User gets a new phone. When trying to log in to their email or VPN, the Duo prom
 - Remove/delete old device → Add a new device.
 - Choose Mobile → Enter their number → They install the Duo app.
 - Scan the QR Code.
-![Screenshot](image)
+![Screenshot](images/screenshot298.jpg)
+![Screenshot](images/screenshot)
+
+
+
+
 ---
 
 **Note:** Guiding the user through the process is very vital for the role of an IT Helpdesk agent.
