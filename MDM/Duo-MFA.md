@@ -27,5 +27,43 @@ Setting up Duo Mobile is **simple and straightforward**:
    - Phone number  
    - Country  
 1. Click on **Sign Up** and **Verify your email address**
+2. 
+- You will be prompted to verify your phone number.
+- Install Duo Mobile on a smartphone and link it as your admin device.
 
+---
+
+## Duo Mobile Dashboard
+
+### Users
+- Add, manage, and remove user accounts.
+
+### Devices
+- Shows all registered phones, hardware tokens, etc.
+
+### Policies
+- Set up rules for MFA (such as require MFA, allowed devices, geolocation rules).
+
+### Applications
+- Where you integrate Duo with services like Microsoft 365, VPNs, RDP, etc.
+
+### Reports, Monitoring & Billings
+- These are essential parts of Duo for reports and monitoring.
+- Check billing and usage data.
+
+---
+
+## Creating a User Account on Duo
+
+1. Navigate to:
+   - Users → Add Users (also supports Bulk End Users or Import Users)
+2. Enter the username and email address of the user.
+3. Click **Add User**.
+
+---
+
+## Send an Enrollment Email
+
+- The user receives an email for Duo Security enrollment.
+- The user enrolls with Duo Mobile app by adding their phone number and fingerprint to enroll successfully.
 
