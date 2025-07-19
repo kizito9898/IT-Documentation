@@ -8,7 +8,6 @@ When logging into an account that has Duo enabled, the user will receive a **pus
 The user must approve the login attempt in the Duo app to gain access.
 
 ---
-
 ##  What is Multi-Factor Authentication?
 Multi-Factor Authentication (MFA) is a **security system** that requires more than one method of authentication to verify a client’s identity.
 
