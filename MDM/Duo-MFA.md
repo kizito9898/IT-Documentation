@@ -89,6 +89,7 @@ Setting up Duo Mobile is **simple and straightforward**:
 ## Applications
 - Applications: Integrate Duo into one or more of your services.
 - You can protect as many applications with Duo as you need.
+![Screenshot](images/screenshot290)
 # Enabling MFA for Windows Server (via Duo)
 
 ## Adding Duo to Applications
