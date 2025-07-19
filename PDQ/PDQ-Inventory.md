@@ -11,6 +11,7 @@ Think of it as a network map and smart database for everything running on Window
 ### Installing PDQ Inventory
 - Download PDQ Inventory and copy the license key.
 - Launch the application → Accept terms → Next → Install
+![Screenshot](imag)
 - Enter license key and email account → Select **Local**
 - Choose installation type → Enter credential password → Finish
 ### Launch PDQ Inventory
