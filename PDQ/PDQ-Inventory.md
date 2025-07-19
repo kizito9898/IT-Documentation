@@ -35,7 +35,6 @@ In my project, I have Windows 11 added to the PDQ Inventory.
   - Applications
   - Operating System
   - Shared Folders
-## PDQ Inventory (Continued)
 
 ### Shared Folders, Operating System, Applications
 
