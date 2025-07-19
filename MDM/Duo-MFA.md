@@ -82,4 +82,40 @@ Setting up Duo Mobile is **simple and straightforward**:
 - You can protect as many applications with Duo as you need.
 
 
+# Enabling MFA for Windows Server (via Duo)
+
+## Adding Duo to Applications
+
+Once you navigate to:
+- `Applications` → `Protect Applications`
+- Select the application and click on **Add**
+
+> So when a user tries to access Microsoft RDP, it must prompt for 2-factor authentication.
+
+---
+
+## Enabling MFA on Windows Server 2022
+
+Adding an extra layer of defence for Windows Server is really important to avoid cyber attacks and helps to harden security. Only approved individuals are allowed to access the Windows Server.
+
+### Steps:
+
+- Log into the **Duo Mobile App** (with credentials and push log-in with your mobile phone)
+- Navigate to `Dashboard` → `Select Applications`
+- Select application: **Microsoft RDP**
+- Find application and search for **Microsoft RDP** on server
+- Join through the policies and click **Save**
+- Click on **RDP Documentation** to integrate Duo with your Microsoft RDP deployment
+
+---
+
+## Final Configuration
+
+- Scroll down to:
+  - **Duo authentication for Windows Logon Installer Package (No 8)**
+
+### Integration:
+- Copy the **API hostname**
+- Navigate back to the details and paste the API hostname
+- Add the **Integration Key** and **Security Key** from the deployment log
 
