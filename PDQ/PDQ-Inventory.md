@@ -42,6 +42,7 @@ In my project, I have Windows 11 added to the PDQ Inventory.
 
 - Shared folders on the computer and installed applications can be viewed.
 - To do this: Right-click on the computer → **View Computer Info**
+![Screenshot]
 - This shows all the details of the computer for general info and Active Directory.
 ---
 ### File Sharing
