@@ -43,6 +43,7 @@ Setting up Duo Mobile is **simple and straightforward**:
 - Shows all registered phones, hardware tokens, etc.
 ### Policies
 - Set up rules for MFA (such as require MFA, allowed devices, geolocation rules).
+![Screenshot](images/screenshot280.jpg)
 ### Applications
 - Where you integrate Duo with services like Microsoft 365, VPNs, RDP, etc.
 ### Reports, Monitoring & Billings
