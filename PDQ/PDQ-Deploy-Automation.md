@@ -24,9 +24,8 @@ Instead of going from PC to PC, you send out one command and PDQ takes care of t
 2. Go to PDQ official website
 3.  Sign up for 14-day trial
 4. Fill in my details and verify my email account
-5- Download PDQ Deploy and input the license key
-- After installation → Add the license key → Local → Finish → Launch
-
+5. Download PDQ Deploy and input the license key
+6. Download PDQ Deploy and input the license key
 ## PDQ Dashboard Overview
 
 - The Dashboard shows:
