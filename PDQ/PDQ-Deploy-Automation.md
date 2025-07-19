@@ -19,6 +19,7 @@ Instead of going from PC to PC, you send out one command and PDQ takes care of t
 
 - My Windows Server 2022 has a static IP.  
   In order to download PDQ, I had to change it to a dynamic IP address.
+![Screenshot](images/screenshot413.jpg)
 ### Steps:
 1. Navigate to **Control Panel** → **Network** → **Change Adapter Settings**
 2. Go to PDQ official website
