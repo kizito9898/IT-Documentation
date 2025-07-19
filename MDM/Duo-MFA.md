@@ -122,23 +122,16 @@ Adding an extra layer of defence for Windows Server is really important to avoid
 ## Testing Duo After Final Install
 - Click on video and finish the installation.
 - Once it's done, test if it works.
-
----
-
-## Devices on Duo
-
 - Go to `Devices` → `Phones or Endpoint` → Devices enrolled to Duo.
 - You will see all the devices managed by your organization.
 - For my test, I only have one device here (sent from Luke for use).
 - You can send Duo push to verify the user’s identity.
 
 ---
-
 ## Troubleshooting Duo Help Desk Issues
 
 ### Scenario:
 User gets a new phone. When trying to log in to their email or VPN, the Duo prompt fails or doesn’t show.
-
 ### Steps:
 - Verify user's identity.
 - Check if they still have access to Duo on old phone or not.
