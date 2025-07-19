@@ -37,7 +37,7 @@ In my project, I have Windows 11 added to the PDQ Inventory.
   - Shared Folders
 ![Screenshot](images/screenshot362.jpg)
 ![Screenshot](images/screenshot363.jpg)
-![Screenshot](images/scr)
+![Screenshot](images/screenshot364.jpg)
 ### Shared Folders, Operating System, Applications
 
 - Shared folders on the computer and installed applications can be viewed.
