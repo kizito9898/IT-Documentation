@@ -7,31 +7,24 @@ It scans and gathers system information from all computers on the network (CPU, 
 Think of it as a network map and smart database for everything running on Windows endpoints.
 
 ---
-
 ### Installing PDQ Inventory
-
 - Download PDQ Inventory and copy the license key.
 - Launch the application → Accept terms → Next → Install
 - Enter license key and email account → Select **Local**
 - Choose installation type → Enter credential password → Finish
-
 ---
-
 ### Launch PDQ Inventory
 
 PDQ Inventory gives you a run-down of everything installed on a computer: apps, updates, etc.  
 In my project, I have Windows 11 added to the PDQ Inventory.
 
 ---
-
 ### Adding Computers
 
 - At the top → **Add Computer** → **Active Directory**
 - It shows you all the computers on your Active Directory
 - Add to the target → Click **OK**
-
 ---
-
 ### Running Reports
 
 - If you right-click on a computer → **Run Report**
