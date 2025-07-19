@@ -34,13 +34,10 @@ Instead of going from PC to PC, you send out one command and PDQ takes care of t
   - All schedules
   - Retry queue
   - Package Library
-
 ### Package Library
 
 - This is where all the apps are located
-
 ---
-
 ## Deploying Applications on Server 2022
 
 - Go to **Package Library**
