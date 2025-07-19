@@ -24,8 +24,9 @@ In my project, I have Windows 11 added to the PDQ Inventory.
 
 - At the top → **Add Computer** → **Active Directory**
 - It shows you all the computers on your Active Directory
-![Screenshot](images/screenshot)
+![Screenshot](images/screenshot361.jpg)
 - Add to the target → Click **OK**
+![Screenshot](images/screenshot360.jpg)
 ---
 ### Running Reports
 
