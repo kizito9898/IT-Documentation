@@ -16,8 +16,7 @@ MFA is a **key defense** against account breaches, phishing, and unauthorized ac
 > One of the roles of helpdesk is to help users sign in into Duo.
 
 ---
-
-## ✅ Setting up Duo Mobile
+##  Setting up Duo Mobile
 
 Setting up Duo Mobile is **simple and straightforward**:
 
@@ -27,5 +26,6 @@ Setting up Duo Mobile is **simple and straightforward**:
    - Work email  
    - Phone number  
    - Country  
-3. Click on **Sign Up** and **Verify your email address**
+1. Click on **Sign Up** and **Verify your email address**
+
 
