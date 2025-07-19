@@ -151,9 +151,6 @@ User gets a new phone. When trying to log in to their email or VPN, the Duo prom
 ![Screenshot](images/screenshot299.jpg)
 ![Screenshot](images/screenshot300.jpg)
 
-
-
-
 ---
 
 **Note:** Guiding the user through the process is very vital for the role of an IT Helpdesk agent.
