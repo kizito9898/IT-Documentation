@@ -61,7 +61,7 @@ Instead of going from PC to PC, you send out one command and PDQ takes care of t
 ![Screenshot](images/screenshot325.jpg)
   - Click on **OK**
   - Then **Deploy Now**
-![Screenshot]
+![Screenshot](images/screenshot326.jpg)
 
 > Now it's completed and fully deployed to my Server 2022.
 ## Deploying 7-Zip with PDQ Deploy on Windows Server 2022
