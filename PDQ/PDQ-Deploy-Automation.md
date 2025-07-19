@@ -74,8 +74,6 @@ Instead of going from PC to PC, you send out one command and PDQ takes care of t
 - Click **OK**
 - Click **Deploy Now**
 - Deployment finished
-
 ---
-
 > **Note:**  
 > This process allows IT administrators or helpdesk to deploy applications on the back-end without interrupting the users.
