@@ -108,9 +108,7 @@ Adding an extra layer of defence for Windows Server is really important to avoid
 - Click on **RDP Documentation** to integrate Duo with your Microsoft RDP deployment
 
 ---
-
 ## Final Configuration
-
 - Scroll down to:
   - **Duo authentication for Windows Logon Installer Package (No 8)**
 
@@ -119,3 +117,36 @@ Adding an extra layer of defence for Windows Server is really important to avoid
 - Navigate back to the details and paste the API hostname
 - Add the **Integration Key** and **Security Key** from the deployment log
 
+# Duo MFA: Final Steps & Troubleshooting
+
+## Testing Duo After Final Install
+- Click on video and finish the installation.
+- Once it's done, test if it works.
+
+---
+
+## Devices on Duo
+
+- Go to `Devices` → `Phones or Endpoint` → Devices enrolled to Duo.
+- You will see all the devices managed by your organization.
+- For my test, I only have one device here (sent from Luke for use).
+- You can send Duo push to verify the user’s identity.
+
+---
+
+## Troubleshooting Duo Help Desk Issues
+
+### Scenario:
+User gets a new phone. When trying to log in to their email or VPN, the Duo prompt fails or doesn’t show.
+
+### Steps:
+- Verify user's identity.
+- Check if they still have access to Duo on old phone or not.
+- Navigate to Duo Admin Panel → `Users` → Scroll down to the user.
+- Remove/delete old device → Add a new device.
+- Choose Mobile → Enter their number → They install the Duo app.
+- Scan the QR Code.
+
+---
+
+**Note:** Guiding the user through the process is very vital for the role of an IT Helpdesk agent.
