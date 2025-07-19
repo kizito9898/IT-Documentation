@@ -148,7 +148,8 @@ User gets a new phone. When trying to log in to their email or VPN, the Duo prom
 - Choose Mobile → Enter their number → They install the Duo app.
 - Scan the QR Code.
 ![Screenshot](images/screenshot298.jpg)
-![Screenshot](images/screenshot)
+![Screenshot](images/screenshot299.jpg)
+![Screenshot](images/screenshot300.jpg)
 
 
 
