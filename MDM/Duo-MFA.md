@@ -38,6 +38,7 @@ Setting up Duo Mobile is **simple and straightforward**:
 
 ### Users
 - Add, manage, and remove user accounts.
+![Screenshot](images/screenshot279.jpg)
 ### Devices
 - Shows all registered phones, hardware tokens, etc.
 ### Policies
