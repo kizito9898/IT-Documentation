@@ -16,7 +16,7 @@ Think of it as a network map and smart database for everything running on Window
 - Choose installation type → Enter credential password → Finish
 ![Screenshot](images/screenshot332.jpg)
 ### Launch PDQ Inventory
-
+![Screenshot](images/scree)
 PDQ Inventory gives you a run-down of everything installed on a computer: apps, updates, etc.  
 In my project, I have Windows 11 added to the PDQ Inventory.
 
