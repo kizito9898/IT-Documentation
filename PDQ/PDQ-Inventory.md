@@ -20,7 +20,6 @@ Think of it as a network map and smart database for everything running on Window
 PDQ Inventory gives you a run-down of everything installed on a computer: apps, updates, etc.  
 In my project, I have Windows 11 added to the PDQ Inventory.
 
----
 ### Adding Computers
 
 - At the top → **Add Computer** → **Active Directory**
