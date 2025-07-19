@@ -127,8 +127,6 @@ Adding an extra layer of defense for Windows Server is really important to avoid
 - Navigate back to the details and paste the API hostname
 - Add the **Integration Key** and **Security Key** from the deployment log
 ![Screenshot](images/screenshot296.jpg)
-# Duo MFA: Final Steps & Troubleshooting
-
 ## Testing Duo After Final Install
 - Click on video and finish the installation.
 - Once it's done, test if it works.
