@@ -3,9 +3,13 @@
 ##  What is Duo Mobile?
 Duo Mobile is a mobile application developed by Cisco that supports **multi-factor authentication (MFA)**.  
 It is used to verify a user’s identity by requiring a second step of verification in addition to a username and password.
-
 When logging into an account that has Duo enabled, the user will receive a **push notification** on their mobile device.  
 The user must approve the login attempt in the Duo app to gain access.
+
+**Note:** Guiding the user through the process is very vital for the role of an IT Helpdesk agent.
+
+
+
 
 ---
 ##  What is Multi-Factor Authentication?
