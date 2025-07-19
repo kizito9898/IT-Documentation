@@ -50,12 +50,9 @@ Instead of going from PC to PC, you send out one command and PDQ takes care of t
 1. Go to **Package**
 2. Select the app package
 3. Right-click → Select **Deploy Once**
-![Screenshot](images/scree)
+![Screenshot](images/screenshot323.jpg)
 4. On the top right, click on **Targets**
 5. Select **Active Directory** → **Computers**
----
-## Final Deployment
-
 - As you can see, I have two computers.
 - Since I'm deploying Zoom to Windows Server 2022:
   - Select it
