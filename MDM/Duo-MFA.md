@@ -84,13 +84,11 @@ Setting up Duo Mobile is **simple and straightforward**:
 - Assign an administrator with fewer powers to complete simple tasks.
 - Add the name and email address.
 - Since I’m aiming for Help Desk, I assign the **Help Desk** role.
-![Screenshot](images/screenshot)
+![Screenshot](images/screenshot289.jpg)
 ---
 ## Applications
 - Applications: Integrate Duo into one or more of your services.
 - You can protect as many applications with Duo as you need.
-
-
 # Enabling MFA for Windows Server (via Duo)
 
 ## Adding Duo to Applications
