@@ -47,8 +47,6 @@ Instead of going from PC to PC, you send out one command and PDQ takes care of t
 - Right-click the app → Select **Download Selected**
 - As app downloads, it gets added to local library
 
-### Deployment Process
-
 1. Go to **Package**
 2. Select the app package
 3. Right-click → Select **Deploy Once**
