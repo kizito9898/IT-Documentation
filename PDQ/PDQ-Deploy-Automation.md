@@ -56,6 +56,7 @@ Instead of going from PC to PC, you send out one command and PDQ takes care of t
 - As you can see, I have two computers.
 - Since I'm deploying Zoom to Windows Server 2022:
   - Select it
+![Screenshot](images/screenshot324.jpg)
   - Click on the single arrow →
   - Click on **OK**
   - Then **Deploy Now**
