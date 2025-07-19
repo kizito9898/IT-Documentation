@@ -134,7 +134,7 @@ Adding an extra layer of defense for Windows Server is really important to avoid
 - You will see all the devices managed by your organization.
 - For my test, I only have one device here (sent from Luke for use).
 - You can send Duo push to verify the user’s identity.
-![Screenshot](images)
+![Screenshot](images/screenshot297.jpg)
 ---
 ## Troubleshooting Duo Help Desk Issues
 
@@ -147,7 +147,7 @@ User gets a new phone. When trying to log in to their email or VPN, the Duo prom
 - Remove/delete old device → Add a new device.
 - Choose Mobile → Enter their number → They install the Duo app.
 - Scan the QR Code.
-
+![Screenshot](image)
 ---
 
 **Note:** Guiding the user through the process is very vital for the role of an IT Helpdesk agent.
