@@ -7,7 +7,7 @@ When logging into an account that has Duo enabled, the user will receive a **pus
 The user must approve the login attempt in the Duo app to gain access.
 
 **Note:** Guiding the user through the process is very vital for the role of an IT Helpdesk agent working in IT.
-![Screenshot](images/)
+![Screenshot](images/screenshot273.jpg)
 
 ---
 ##  What is Multi-Factor Authentication?
