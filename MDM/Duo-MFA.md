@@ -84,6 +84,7 @@ Setting up Duo Mobile is **simple and straightforward**:
 - Assign an administrator with fewer powers to complete simple tasks.
 - Add the name and email address.
 - Since I’m aiming for Help Desk, I assign the **Help Desk** role.
+![Screenshot](images/screenshot)
 ---
 ## Applications
 - Applications: Integrate Duo into one or more of your services.
