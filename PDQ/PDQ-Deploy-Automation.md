@@ -58,6 +58,7 @@ Instead of going from PC to PC, you send out one command and PDQ takes care of t
   - Select it
 ![Screenshot](images/screenshot324.jpg)
   - Click on the single arrow →
+![Screenshot](images/screenshot325)
   - Click on **OK**
   - Then **Deploy Now**
 
