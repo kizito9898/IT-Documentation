@@ -56,11 +56,11 @@ Setting up Duo Mobile is **simple and straightforward**:
    - Users → Add Users (also supports Bulk End Users or Import Users)
 2. Enter the username and email address of the user.
 3. Click **Add User**.
-![Scree]
+![Screenshot](images/screenshot281.jpg)
 ## Send an Enrollment Email
 
 - The user receives an email for Duo Security enrollment.
-- The user enrolls with Duo Mobile app by adding their phone number and fingerprint to enroll successfully.# Duo Mobile / MFA (Part 3)
+- The user enrolls with Duo Mobile app by adding their phone number and fingerprint to enroll successfully.
 
 ## Important Notes
 
