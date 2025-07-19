@@ -77,3 +77,14 @@ Instead of going from PC to PC, you send out one command and PDQ takes care of t
 ---
 > **Note:**  
 > This process allows IT administrators or helpdesk to deploy applications on the back-end without interrupting the users.
+### Deploying Software
+
+- From the Inventory, you can enter **PDQ Deploy** and deploy software:
+  - Tools → Deploy Package
+  - Example: Deploying packages like **7-Zip** and **Zoom**
+## Silent Application Deployment Notes
+
+- Check target → Select time to deploy (etc.) → Deploy Now
+- Package is then deployed successfully
+- On the lab/test machine, you can see the two apps installed silently on it
+- This is how applications are installed on a client machine silently without disturbing them
