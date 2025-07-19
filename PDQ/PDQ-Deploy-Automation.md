@@ -38,7 +38,6 @@ Instead of going from PC to PC, you send out one command and PDQ takes care of t
   - Package Library
 ![Screenshot](images/screenshot307.jpg)
 ### Package Library
-
 - This is where all the apps are located
 ---
 ## Deploying Applications on Server 2022
