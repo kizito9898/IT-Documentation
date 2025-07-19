@@ -121,7 +121,7 @@ Adding an extra layer of defense for Windows Server is really important to avoid
 ## Final Configuration
 - Scroll down to:
   - **Duo authentication for Windows Logon Installer Package (No 8)**
-
+![Screenshot](images/screenshot)
 ### Integration:
 - Copy the **API hostname**
 - Navigate back to the details and paste the API hostname
