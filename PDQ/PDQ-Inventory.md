@@ -41,14 +41,11 @@ In my project, I have Windows 11 added to the PDQ Inventory.
 - This shows all the details of the computer for general info and Active Directory.
 
 ---
-
 ### File Sharing
 
 - You can go to `\\shared path` to place a file for the user.
 - On the Windows 11 PC, the file is already there if properly shared.
-
 ---
-
 ### Remote Access
 
 - Remoting into the computer from PDQ Inventory:
@@ -57,23 +54,18 @@ In my project, I have Windows 11 added to the PDQ Inventory.
 - You can remote into Windows 11 from Windows Server without TeamViewer or AnyDesk.
 
 ---
-
 ### Reboot or Shutdown via PDQ
 
 - PDQ Inventory also allows for **Reboot** or **Shutdown** of the machine:
   - Go to: **Tools** → Reboot / Shutdown → OK
-
 ---
-
 ### Application Reports
 
 - To generate a report on applications:
   - Right-click on the PC → Scroll to **Run Report** → **Applications**
   - Print preview on the top
   - This reports on all the applications on the Windows 11 machine.
-
 ---
-
 ### Deploying Software
 
 - From the Inventory, you can enter **PDQ Deploy** and deploy software:
