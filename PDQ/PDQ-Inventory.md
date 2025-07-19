@@ -5,7 +5,7 @@
 PDQ Inventory is a real-time system scanner and asset management tool for Windows machines.  
 It scans and gathers system information from all computers on the network (CPU, RAM, installed apps, OS version, etc).  
 Think of it as a network map and smart database for everything running on Windows endpoints.
-![Scree]
+![Screenshot](images/screenshot414.jpg)
 
 ---
 ### Installing PDQ Inventory
