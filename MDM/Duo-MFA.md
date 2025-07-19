@@ -121,12 +121,12 @@ Adding an extra layer of defense for Windows Server is really important to avoid
 ## Final Configuration
 - Scroll down to:
   - **Duo authentication for Windows Logon Installer Package (No 8)**
-![Screenshot](images/screenshot)
+![Screenshot](images/screenshot295.jpg)
 ### Integration:
 - Copy the **API hostname**
 - Navigate back to the details and paste the API hostname
 - Add the **Integration Key** and **Security Key** from the deployment log
-
+![Screenshot](image)
 # Duo MFA: Final Steps & Troubleshooting
 
 ## Testing Duo After Final Install
