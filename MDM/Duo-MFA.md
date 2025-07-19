@@ -99,12 +99,12 @@ Once you navigate to:
 - Select the application and click on **Add**
 
 > So when a user tries to access Microsoft RDP, it must prompt for 2-factor authentication.
-!
+![Screenshot](images/screenshot291.jpg)
 ---
 
 ## Enabling MFA on Windows Server 2022
 
-Adding an extra layer of defence for Windows Server is really important to avoid cyber attacks and helps to harden security. Only approved individuals are allowed to access the Windows Server.
+Adding an extra layer of defense for Windows Server is really important to avoid cyber attacks and helps to harden security. Only approved individuals are allowed to access the Windows Server.
 
 ### Steps:
 
