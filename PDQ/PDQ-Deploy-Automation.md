@@ -27,7 +27,7 @@ Instead of going from PC to PC, you send out one command and PDQ takes care of t
 4. Fill in my details and verify my email account
 5. Download PDQ Deploy and input the license key
 ![Screenshot](images/screenshot303.jpg)
-![Screenshot]
+![Screenshot](images/screenshot306.jpg)
 ## PDQ Dashboard Overview
 
 - The Dashboard shows:
