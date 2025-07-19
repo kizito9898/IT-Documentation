@@ -13,7 +13,6 @@ Think of it as a network map and smart database for everything running on Window
 - Launch the application → Accept terms → Next → Install
 - Enter license key and email account → Select **Local**
 - Choose installation type → Enter credential password → Finish
----
 ### Launch PDQ Inventory
 
 PDQ Inventory gives you a run-down of everything installed on a computer: apps, updates, etc.  
