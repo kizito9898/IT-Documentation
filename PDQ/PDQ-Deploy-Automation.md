@@ -81,7 +81,7 @@ As a  Helpdesk I might approval from management to install software application 
 - Click **Deploy Now**
 ![Screenshot](images/screenshot329.jpg)
 - Deployment finished
-
+![Screenshot](images/screenshot330.jpg)
 ---
 > **Note:**  
 > This process allows IT administrators or helpdesk to deploy applications on the back-end without interrupting the users.
@@ -90,7 +90,7 @@ As a  Helpdesk I might approval from management to install software application 
 - From the Inventory, you can enter **PDQ Deploy** and deploy software:
   - Tools → Deploy Package
   - Example: Deploying packages like **7-Zip** and **Zoom**
-## Silent Application Deployment Notes
+
 
 - Check target → Select time to deploy (etc.) → Deploy Now
 - Package is then deployed successfully
