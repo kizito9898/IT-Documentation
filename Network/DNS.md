@@ -50,7 +50,6 @@ A DNS Server is a computer or network device that stores and manages domain name
 
 - A **DNS Zone** that translates a **domain name** (e.g., `nykarson.com`) into an **IP address** (e.g., `172.168.1.10`)  
 - It allows users to access websites and network resources using domain names instead of IP addresses
-
 ---
 ## Reverse Lookup Zones (RLZ)
 
@@ -66,7 +65,6 @@ A DNS Server is a computer or network device that stores and manages domain name
 2. **Zone Type** → Select **Primary Zone**, uncheck **Store the zone in Active Directory** → **Next**
 3. **Zone Name**: `nykarson.com` → **Zone File** (leave as default) → **Next**
 4. **Dynamic Update**: Select **Do not allow** → **Finish**
-
 ---
 ## Reverse Lookup Zone
 
@@ -78,13 +76,11 @@ A DNS Server is a computer or network device that stores and manages domain name
 6. Select **Do not allow dynamic updates** → **Next** → **Finish**
 ![Screenshot](images/screenshot109.jpg)
 ---
-
 # Creating a New Host (Forward Lookup Zone)
 
 1. Right-click on the zone (`SBT.com`) → **New Host (A or AAAA)**  
 2. Enter **Name**: `Test`  
 3. Enter **IP Address**: `10.1.10.20` (or any IP address for your organization)
-
 ---
 # Creating a PTR Record (Reverse Lookup Zone)
 
