@@ -10,7 +10,6 @@ DNS (Domain Name System) is a protocol that translates human-readable domain nam
 A DNS Server is a computer or network device that stores and manages domain name records and responds to DNS queries by resolving domain names into IP addresses.
 
 ---
-
 > **Tip:** Before installing DNS in the server, the server needs to have a static IP address.
 
 - Navigate to the Server Manager → Local Server → on the page that's up → go to `Ethernet0` → click on it → `Ethernet0 Properties`
