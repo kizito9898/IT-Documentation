@@ -62,7 +62,7 @@ Put in Days, Hours & Minutes you want IP address to last on a Computer → Next
 - No → Click on Properties  
 - Click on Internet Protocol Version 4 (TCP/IPv4)  
   → You can see it’s using a static IP address  
-  → Change it to *Obtain an IP address automatically*  
+  → Change it to *Obtain an IP address automatically*  then
   → OK  
 ![Screenshot](images/screenshot118.jpg)
 ![Screenshot](images/screenshot134.jpg)
