@@ -54,6 +54,8 @@
 ![Screenshot](images/screenshot340.jpg)
 - The user needs to type in the session code to connect remotely  
   or share their ID and password from TeamViewer to the support technician.
+![Screenshot](images/screenshot341.jpg)
+No
 
 ---
 ### File Transfer & Remote Control
