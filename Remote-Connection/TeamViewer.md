@@ -24,17 +24,13 @@
 2. Right-click → **Properties**
 3. Scroll down to **Remote Settings**
 4. Log in with admin rights
-5. Enable remote support
-
+5. Enable remote support and turn it on.
 ---
-
 ### Downloading TeamViewer
 
 - Go to the TeamViewer website → Download the free version
 - Install TeamViewer → Sign up using support email → Download & sign in with email
-
 ---
-
 ### Testing Remote Support with TeamViewer
 
 - Already downloaded TeamViewer on the host machine
@@ -48,7 +44,6 @@
 ### Assisting a User with TeamViewer
 
 - As an IT Support, it is essential to know how to guide a user to download and install TeamViewer or open it if it’s already installed.
-
 ---
 
 ### Creating a Session from the Host Machine
