@@ -48,7 +48,7 @@ It's the bridge between technical solutions and user satisfaction.
   > *Yeah, that error message is strange, let’s look into it together.*
 
 - **I keep my tone calm and supportive**  
-  No matter how the client is feeling, I stay positive and helpful.
+  No matter how the client is feeling, I stay positive and helpful. The user is not angry with me but with the
 
   > *No worries—we’ll sort this out together. I’m here to help.*
 
