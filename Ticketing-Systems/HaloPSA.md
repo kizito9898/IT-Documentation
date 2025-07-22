@@ -29,6 +29,7 @@ I’m documenting how a Level 1 IT Support uses HaloPSA because I would be using
 ![Screenshot](images/screenshot390.jpg)
 ### Tickets by Team
 - Opened the team assigned to me.
+![Screenshot](images/screenshot391.jpg)
 - User reports Outlook issue with Calendar (to make calendar that is shared).
 - Responded to the user, activated a remote session to walk through the client to fix steps.
 - Session closed, updated my internal notes, and closed the ticket.
