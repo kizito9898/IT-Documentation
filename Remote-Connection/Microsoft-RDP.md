@@ -29,6 +29,7 @@ All without needing physical access to the device.
 4. Then connect:
    - A prompt will appear
    - Click **Yes**
+![Screenshot](images/screenshot356.jpg)
    - Now you’re logged in to the remote machine
 ---
 ### Practical Example
