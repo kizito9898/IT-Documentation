@@ -1,6 +1,6 @@
 # Handling Difficult Clients (My Approach)
 
-When working in IT support, it’s not unusual to come across clients who are frustrated, stressed, or even aggressive. My personal approach is to stay calm, professional, and empathetic—no matter how the client is feeling. I don’t take it personally. I focus on helping, not reacting.
+When working in IT support, it’s not unusual to come across clients who are frustrated, stressed, or even aggressive. My personal approach is to stay calm, professional, and empathetic, no matter how the client is feeling. I don’t take it personally. I focus on helping, not reacting.
 
 ---
 ## 1. When a Client is Frustrated
