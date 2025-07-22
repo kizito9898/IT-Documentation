@@ -66,7 +66,8 @@ In my project, I have Windows 11 added to the PDQ Inventory.
 - PDQ Inventory also allows for **Reboot** or **Shutdown** of the machine:
   - Go to: **Tools** → Reboot / Shutdown → OK
 ![Screenshot](images/screenshot375.jpg)
-	iponfig on windows 11 from PDQ Invent
+	iponfig on windows 11 from PDQ Inventory.
+![Screenshot](images/screenshot)
 
 ---
 ### Application Reports
