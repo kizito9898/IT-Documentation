@@ -76,6 +76,7 @@ In my project, I have Windows 11 added to the PDQ Inventory.
   - Right-click on the PC → Scroll to **Run Report** → **Applications**
   - Print preview on the top
   - This reports on all the applications on the Windows 11 machine.
+![Screenshot](images/screenshot378.jpg)
 ---
 ### Deploying Software
 
