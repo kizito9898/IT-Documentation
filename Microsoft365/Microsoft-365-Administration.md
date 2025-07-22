@@ -114,9 +114,7 @@ The **Microsoft 365 Admin Center** is a web-based portal used by IT administrato
 4. Enter **Mailbox Name** and **Email Address**  
 5. Assign **Members** who can send/receive emails  
 6. Click **Save**  
-
 ---
-
 ### Microsoft Teams Setup and Troubleshooting  
 
 #### **Setting Up a Microsoft Teams Group**  
@@ -126,31 +124,21 @@ The **Microsoft 365 Admin Center** is a web-based portal used by IT administrato
 4. Choose **From scratch** or **From an existing group**  
 5. Select **Private** (for restricted access) or **Public** (anyone can join)  
 6. Name your team and add members  
-
-
 ---
-
 ## How to Give Full Rights to Someone’s Mailbox in Microsoft 365 (Delegated Access)
 
 1. Log into the **Microsoft 365 Admin Center**  
    - Go to [admin.microsoft.com](https://admin.microsoft.com) and sign in with an admin account.
-
-2. Navigate to **Users → Active Users**  
+1. Navigate to **Users → Active Users**  
    - Search for and select the mailbox user you want to delegate access to.
-
-3. Go to **Mail tab → Manage Mailbox Permissions**  
+1. Go to **Mail tab → Manage Mailbox Permissions**  
    - Under **Mailbox permissions**, click **Manage mailbox permission**.
-
-4. Grant **Full Access**  
+1. Grant **Full Access**  
    - Under the **Full Access** section, click **Add Permissions**.  
    - Search for the users who need full access and select them.
-
-5. Click **Save Changes**.
-
-6. Wait for permissions to apply.
-
+1. Click **Save Changes**.
+2. Wait for permissions to apply.
 ---
-
 ## How to Convert a User Mailbox to a Shared Mailbox
 
 1. Sign in to the **Microsoft 365 Admin Center**  
