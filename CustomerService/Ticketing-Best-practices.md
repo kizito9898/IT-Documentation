@@ -128,9 +128,12 @@ Summarize all actions taken, findings, and next steps. Attach logs or screenshot
 ## Sample Ticket Note
 
 ### Account Lockout
-[09:12 AM] User unable to log in. Error: "Account locked." Issue started around 08:50 AM after multiple password attempts.
+User unable to log in. Error: "Account locked." Issue started around 08:50 AM after multiple password attempts.
+
 [09:15 AM] Checked Active Directory – account locked due to 5 failed attempts. Verified no suspicious activity on logs.
-[09:18 AM] Unlocked account in AD. Instructed user to attempt login.
+
+[09:18 AM] Unlocked account in AD. Instructed user to attempt login
+
 [09:22 AM] User logged in successfully. Advised to wait 30 seconds after each failed attempt going forward.
 [09:25 AM] Confirmed user access to Outlook, Teams, and mapped drives. User confirmed everything working. Ticket close
 
