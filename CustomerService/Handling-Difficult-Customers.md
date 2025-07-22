@@ -83,7 +83,7 @@ These are the core beliefs I apply in every user interaction:
 
 - The customer may not always be technically right, but I make them feel respected.
 - I don’t hesitate to say **no** when necessary, but I always explain the reason calmly.
-- If a user asks to speak with a manager, I’m not defensive—I understand the value of transparency.
+- If a user asks to speak with a manager, I’m not defensive, I understand the value of transparency.
 - I respect the user’s time. Most people I support have meetings and tasks to complete, so I work efficiently.
 - I lead with empathy, not ego.
 - Technical knowledge matters, but **communication matters more**.
