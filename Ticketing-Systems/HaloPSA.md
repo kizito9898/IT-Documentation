@@ -47,8 +47,9 @@ I’m documenting how a Level 1 IT Support uses HaloPSA because I would be using
 - Assisted in resetting the user password.
 ![Screenshot](images/screenshot396.jpg)
 - Enabled the user to change her password. Confirmed the issue is resolved.
-![Screenshot](images/screenshot)
+![Screenshot](images/screenshot400.jpg)
 - Updated my ticket note, marked the ticket closed.
+![Screenshot]
 ## Creating a New Ticket on HaloPSA
 
 - User can’t get access to the shared folder on the H: drive.
