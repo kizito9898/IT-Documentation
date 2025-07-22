@@ -49,6 +49,7 @@ If the issue is ongoing, I provide updates at reasonable intervals (typically ev
 
 This not only helps with visibility, but it also provides coverage in case the ticket needs to be handed off or escalated.
 
+---
 ### 4. Ticket Closure
 
 Before closing a ticket, I confirm that the issue is fully resolved, services are restored, and the user is satisfied.
