@@ -26,7 +26,7 @@ I’m documenting how a Level 1 IT Support uses HaloPSA because I would be using
 ### Viewing Tickets
 - This is all the tickets in the ticketing system.
 - As a Level 1, I would select tickets by Teams to see tickets assigned to me.
-
+![Screenshot](images/screenshot390.jpg)
 ### Tickets by Team
 - Opened the team assigned to me.
 - User reports Outlook issue with Calendar (to make calendar that is shared).
