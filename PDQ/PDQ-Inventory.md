@@ -83,11 +83,12 @@ In my project, I have Windows 11 added to the PDQ Inventory.
 - From the Inventory, you can enter **PDQ Deploy** and deploy software:
 ![Screenshot](images/screenshot379.jpg)
   - Tools → Deploy Package
-![Screenshot](images/screens)
+![Screenshot](images/screenshot380.jpg)
   - Example: Deploying packages like **7-Zip** and **Zoom**
 ## Silent Application Deployment Notes
 
 - Check target → Select time to deploy (etc.) → Deploy Now
 - Package is then deployed successfully
+
 - On the lab/test machine, you can see the two apps installed silently on it
 - This is how applications are installed on a client machine silently without disturbing them
