@@ -97,4 +97,5 @@ As a  Helpdesk I might approval from management to install software application 
 - Package is then deployed successfully
 - On the lab/test machine, you can see the two apps installed silently on it
 - This is how applications are installed on a client machine silently without disturbing them
-![Screenshot]
+![Screenshot](images/screenshot382.jpg)
+![Screenshot](images/screenshot383.jpg)
