@@ -20,7 +20,7 @@
 
   - Host machine
   - Windows 11 (running in VMware Pro)
-![Screenshot]
+![Screenshot](images/screenshot339.jpg)
 ---
 ### Enabling Remote Desktop on Windows 11
 
