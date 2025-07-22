@@ -15,7 +15,8 @@
 ### Setting up TeamViewer
 
 - Installing TeamViewer (desktop client) on:
-![Screenshot](images/screenshot337.jpg)
+
+
   - Host machine
   - Windows 11 (running in VMware Pro)
 ---
