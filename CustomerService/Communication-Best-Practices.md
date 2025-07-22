@@ -161,7 +161,7 @@ My goal is to maintain clear and professional communication during real-time int
   *Everything looks good now. Is there anything else I can help with today?*
 
   *If anything else comes up, feel free to reach out.*
-
+---
 ## Why This Matters
 
 Clients want their issues resolved, but they also want to feel respected and confident in the support they receive. By communicating clearly, listening actively, and providing thoughtful responses, I help reduce stress and improve satisfaction, especially in fast-paced MSP environments where cultural fit and professionalism are critical.
