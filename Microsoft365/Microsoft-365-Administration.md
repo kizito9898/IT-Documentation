@@ -152,9 +152,7 @@ The **Microsoft 365 Admin Center** is a web-based portal used by IT administrato
 
 4. Click on **Mail Settings**  
    - Under **More Actions**, click **Convert to Shared Mailbox**.
-
 ---
-
 ## Assigning Permissions and Licenses
 
 - **Required Action:**  
@@ -162,7 +160,6 @@ The **Microsoft 365 Admin Center** is a web-based portal used by IT administrato
   - If users need access, go to **Mail → Manage Mailbox Permissions**, and add users to **Full Access** and/or **Send As**.
 
 ---
-
 ## How to Add a Contact in Microsoft 365
 
 - **For Organization-Wide Contacts**  

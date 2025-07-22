@@ -55,10 +55,8 @@ As an IT support person, you may need to create and manage SharePoint sites.
    - **Delete or restore** a site.  
 
 ---
-
 ## 2. Managing Permissions  
 Permissions control who can access SharePoint sites and what they can do.  
-
 ### Change Site Permissions  
 1. In the **SharePoint Admin Center**, go to **Sites > Active Sites**.  
 2. Select the site you want to modify.  
