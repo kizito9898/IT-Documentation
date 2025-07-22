@@ -94,3 +94,40 @@ It:
 The quality of my ticket notes reflects the quality of my work. They show how I think, how I solve problems, and how I communicate. Whether a ticket is simple or complex, I take pride in making sure my documentation is thorough, accurate, and easy for others to follow.
 
 That’s how I maintain trust with clients, teammates, and managers in a fast-paced MSP environment.
+# Ticketing Best Practices – Extended Guide (With Level 1 Examples)
+
+## Objective
+
+To create consistent, professional, and useful documentation that reflects the quality of my support, improves team collaboration, and builds trust with both clients and managers.
+
+## Core Principles
+
+- Document everything as a **timeline**
+- Use **clear, direct language** with technical accuracy
+- Assume **handover is always possible** – write so any colleague can continue the work
+- Keep the tone **professional and neutral**
+- Include the **client's confirmation** before closing
+- Log timestamps and actions every 10–15 minutes during active troubleshooting
+
+---
+## Standard Ticket Structure
+
+### 1. Initial Client Report
+Clearly summarize the issue based on the user's report. Include error messages, time of occurrence, and the method of contact.
+### 2. Technical Steps Taken
+Log each action taken in detail, along with any findings or results.
+### 3. Ongoing Updates
+Use timestamps and explain what you're investigating or testing.
+### 4. Resolution and Confirmation
+Clearly state what fixed the issue and confirm the user is satisfied.
+### 5. Escalation (if needed)
+Summarize all actions taken, findings, and next steps. Attach logs or screenshots if necessary.
+
+---
+
+## Sample Ticket Note
+
+### Account Lockout
+
+
+
