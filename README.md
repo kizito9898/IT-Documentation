@@ -99,7 +99,8 @@ This is not just a collection of notes—it's a **personal IT knowledge base** b
 - [Zendesk Guide](Ticketing-Systems/Zendesk.md)
 - [HaloPSA](Ticketing-Systems/HaloPSA)
 ### **Remote Desktop Connection**
-- [TeamViewer](Remote-Connection/Team)
+- [TeamViewer](Remote-Connection/TeamViewer)
+- 
 
 ---
 
