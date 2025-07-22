@@ -1,4 +1,4 @@
-## RDP (Remote Desktop Protocol) & TeamViewer
+ TeamViewer
 
 ### What is Remote IT Support?
 
