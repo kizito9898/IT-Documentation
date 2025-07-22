@@ -67,6 +67,8 @@ I’m documenting how a Level 1 IT Support uses HaloPSA because I would be using
 ![Screenshot](images/screenshot406.jpg)
 > **Note:** Before trying to solve a ticket, it's nice to check if the issue has been solved. Searching through is a good way to see how other tickets are solved.
 
+![Screenshot](images/screenshot407.jpg)
+
 ---
 ### Printer Issue Example
 - User reports printer issue, stopped printing out.
