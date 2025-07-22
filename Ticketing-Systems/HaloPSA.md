@@ -11,7 +11,7 @@ I’m documenting how a Level 1 IT Support uses HaloPSA because I would be using
 
 - I signed up for the free trial to practice the ticketing system.
 - Home Dashboard gives the overall overview of everything I need to know about HaloPSA: Service Desk, Assets, Knowledge Base, etc.
-
+![Screenshot](images/screenshot387.jpg)
 ---
 ### My Role as a Level 1 IT Support
 
