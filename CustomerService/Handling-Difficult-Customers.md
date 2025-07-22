@@ -21,7 +21,7 @@ My goal is to deliver support that de-escalates tension while moving the convers
 
 - **I focus on the next step, clearly and calmly**  
   *We’ll begin by restarting your VPN connection and checking the access settings. I’ll walk you through the process.*
-
+---
 ## 2. When a Client is Using Aggressive or Inappropriate Language
 
 **Goal:** Stay respectful and maintain healthy boundaries.
@@ -36,7 +36,7 @@ My goal is to deliver support that de-escalates tension while moving the convers
 
 - **If the language remains abusive, I follow proper steps**  
   I document the behavior, alert a supervisor if needed, and follow company policy on escalation. I do not continue if it compromises respectful communication.
-
+---
 ## 3. How I Stay Grounded Under Pressure
 
 Working in IT support means managing emotional moments with composure. Here are techniques I use to stay centered:
