@@ -1,4 +1,4 @@
-# My Customer Service Communication Style (IT Support)
+# My Customer Service Communication forIT Support)
 
 ---
 # Customer Service in IT Support
@@ -152,7 +152,7 @@ My goal is to maintain clear and professional communication during real-time int
   *Hi John, this is Kizito from IT Support. I’ve just picked up your ticket and I’ll assist you now.*
 
 - I provide brief updates if something takes time.  
-  *I’m checking your account now—one moment please.*
+  *I’m checking your account now, one moment please.*
 
 - I break instructions into smaller steps to improve clarity.
 
@@ -163,6 +163,6 @@ My goal is to maintain clear and professional communication during real-time int
 
 ## Why This Matters
 
-Clients want their issues resolved, but they also want to feel respected and confident in the support they receive. By communicating clearly, listening actively, and providing thoughtful responses, I help reduce stress and improve satisfaction—especially in fast-paced MSP environments where cultural fit and professionalism are critical.
+Clients want their issues resolved, but they also want to feel respected and confident in the support they receive. By communicating clearly, listening actively, and providing thoughtful responses, I help reduce stress and improve satisfaction, especially in fast-paced MSP environments where cultural fit and professionalism are critical.
 
 In every interaction, my aim is not just to fix the issue, but to make sure the user feels supported throughout the process.
