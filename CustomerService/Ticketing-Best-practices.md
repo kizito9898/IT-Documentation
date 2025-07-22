@@ -70,14 +70,14 @@ If a ticket needs to be escalated to Level 2 or another department, I provide a 
 - I avoid vague comments like “Still troubleshooting.” I always specify exactly what I'm doing.
 - I include timestamps when writing ongoing updates.
 - I write as if the next person to read the ticket has no prior context.
-- I explain every action taken,what was checked, what was changed, and what result it produced.
+- I explain every action taken, what was checked, what was changed, and what result it produced.
 - I stay neutral and professional in tone, while keeping notes easy to read.
 - I do not include unnecessary technical jargon if it doesn’t add value to the note.
 - I always include the client’s confirmation before closing, either via email, chat, or voice.
 
 ## Why This Matters
 
-In an MSP environment, technicians often work across multiple clients, systems, and time zones. A well-documented ticket is not just helpful—it’s essential.
+In an MSP environment, technicians often work across multiple clients, systems, and time zones. A well-documented ticket is not just helpful, it’s essential.
 
 It:
 
