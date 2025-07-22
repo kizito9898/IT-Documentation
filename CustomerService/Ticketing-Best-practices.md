@@ -197,6 +197,7 @@ Summarize all actions taken, findings, and next steps. Attach logs or screenshot
 [11:12 AM] Test call successful. Microphone and speaker both working.
 
 [11:15 AM] User confirmed issue resolved. Restarted Teams and tested again to ensure consistency.
+
 [11:18 AM] Advised to check audio defaults after reboot. Ticket closed.
 
 ---
