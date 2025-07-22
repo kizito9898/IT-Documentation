@@ -77,10 +77,5 @@
 
 - The user adds the given session code
 - Verify the user (on the user side)
-- Now I have control. Same thing applies after session closes.
-
----
-
-### File Transfer Logs
-
+- Now I have control. Same thing applies after session closes
 - On the client machine, you can see the files transferred over during the session.
