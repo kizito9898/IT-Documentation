@@ -128,6 +128,108 @@ Summarize all actions taken, findings, and next steps. Attach logs or screenshot
 ## Sample Ticket Note
 
 ### Account Lockout
+[09:12 AM] User unable to log in. Error: "Account locked." Issue started around 08:50 AM after multiple password attempts.
+
+[09:15 AM] Checked Active Directory – account locked due to 5 failed attempts. Verified no suspicious activity on logs.
+
+[09:18 AM] Unlocked account in AD. Instructed user to attempt login.
+
+[09:22 AM] User logged in successfully. Advised to wait 30 seconds after each failed attempt going forward.
+
+[09:25 AM] Confirmed user access to Outlook, Teams, and mapped drives. User confirmed everything working. Ticket close
+
+`---  ### Outlook Not Opening / Freezing`
+
+[10:06 AM] User reports Outlook not opening. No error message. Issue started this morning.
+
+[10:10 AM] Connected via remote session. Confirmed Outlook process stuck in Task Manager. Terminated task.
+
+[10:14 AM] Ran `outlook.exe /safe` – launched successfully. Issue likely due to faulty add-in.
+
+[10:18 AM] Disabled all non-Microsoft add-ins. Restarted Outlook in normal mode.
+
+[10:22 AM] Outlook launched successfully. Sent test email to confirm send/receive. All services working.
+
+[10:25 AM] Advised user to monitor. Provided steps in case issue reoccurs. User confirmed issue resolved. Ticket closed.
+
+yaml
+
+CopyEdit
+
+`---  ### VPN / Network Connection Issue`
+
+[08:30 AM] User unable to connect to VPN. Error: "Unable to establish connection." Occurring since today.
+
+[08:35 AM] Checked local network – user connected to Wi-Fi. Verified internet working.
+
+[08:38 AM] Attempted VPN reconnect. Failure persists. Reinstalled VPN client (Cisco AnyConnect).
+
+[08:47 AM] Restarted PC and re-tested VPN. Connection successful.
+
+[08:50 AM] Verified remote access to file shares and internal resources. User confirmed connection is stable.
+
+[08:53 AM] Logged VPN logs in case of recurrence. Ticket closed after confirmation.
+
+yaml
+
+CopyEdit
+
+`---  ### Printer Not Responding`
+
+[01:10 PM] User unable to print to default office printer (HP MFP 400 series). Print jobs stuck in queue.
+
+[01:14 PM] Remote session started. Cleared print queue and restarted print spooler service.
+
+[01:18 PM] Printed test page from Notepad – successful.
+
+[01:20 PM] Asked user to retry printing Excel document. Success confirmed.
+
+[01:23 PM] User confirmed printing now works. Ticket closed.
+
+yaml
+
+CopyEdit
+
+`---  ### Microsoft Teams – Audio/Video Not Working`
+
+[11:05 AM] User reports no audio in Teams meeting. Tested with another call – same issue.
+
+[11:08 AM] Remote session active. Confirmed output device set to HDMI (user has headphones plugged in).
+
+[11:10 AM] Changed default audio device to headphones in Windows and Teams settings.
+
+[11:12 AM] Test call successful. Microphone and speaker both working.
+
+[11:15 AM] User confirmed issue resolved. Restarted Teams and tested again to ensure consistency.
+
+[11:18 AM] Advised to check audio defaults after reboot. Ticket closed.
+
+yaml
+
+CopyEdit
+
+`---  ## Best Practices for Notes  - Use **bulletproof clarity** – no abbreviations unless widely known (e.g. AD, VPN) - Mention **tools used** (RDP, AnyDesk, ADUC, CMD) - Include **logs or command output summaries** when useful - If issue recurs, use tags or keywords so it’s searchable later - Keep your tone **calm, courteous, and composed** – especially if notes are visible to clients  ---  ## What I Avoid  - Writing vague notes like “Issue fixed” without stating what was done - Leaving notes with no time reference or status - Using emotional or sarcastic language - Copy-pasting logs without context - Closing a ticket without user confirmation or proper follow-up  ---  ## Follow-Up Example (Email or Internal Note)`
+
+[04:45 PM] Followed up via email:
+
+Subject: Follow-Up on Your Outlook Issue
+
+Hi Sarah,
+
+Just checking in to make sure everything is still working after the fix applied earlier today. If you're still experiencing any issues, let me know and I’ll be happy to assist further.
+
+Best regards,  
+[Your Name]
+
+yaml
+
+CopyEdit
+
+`---  ## Final Thought  Ticket notes aren’t just documentation—they’re your professional signature. The way you write reflects how seriously you treat each issue. I aim to ensure my notes tell the full story, support accountability, and help other technicians (or clients) understand exactly what was done.`
+
+---
+
+Let me know if you'd like a **template you can reuse for daily ticketing**, or if you'd like to convert this into an **Obsidian snippet** or **checklist format for personal SOPs**.
 
 
 
