@@ -74,10 +74,8 @@ Permissions control who can access SharePoint sites and what they can do.
 4. Click **Save**.  
 
 ---
-
 ## 3. Troubleshooting Issues  
 Common SharePoint issues and how to fix them:  
-
 ### Users Can’t Access a Site  
 1. Verify if the user has the correct **permissions** (see the “Managing Permissions” section).  
 2. Ask the user to clear their **browser cache** and try again.  
@@ -118,7 +116,6 @@ Users may report that their OneDrive is not syncing properly with SharePoint.
    - Ensure the user is not exceeding their **OneDrive or SharePoint storage limit**.  
 
 ---
-
 ## 4. Monitoring Usage & Storage  
 To ensure SharePoint doesn’t run out of space:  
 
@@ -128,22 +125,18 @@ To ensure SharePoint doesn’t run out of space:
 4. Click on a site to manage storage or increase limits.  
 
 ---
-
 ## 5. Setting Security Policies  
 To keep SharePoint secure, enforce company policies.  
-
 ### Prevent External Sharing of Sensitive Data  
 1. In the **SharePoint Admin Center**, go to **Policies > Sharing**.  
 2. Restrict **Anyone links** (public links).  
 3. Require authentication for external users.  
-
 ### Enable Multi-Factor Authentication (MFA)  
 1. Go to [Microsoft Entra ID (Azure AD)](https://entra.microsoft.com).  
 2. Click **Security > MFA**.  
 3. Require MFA for all SharePoint users.  
 
 ---
-
 ## Conclusion  
 As an IT support person, your main responsibilities in SharePoint Admin are:  
 - Creating and managing sites.  
