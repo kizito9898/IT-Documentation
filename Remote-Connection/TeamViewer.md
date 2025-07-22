@@ -63,8 +63,7 @@ Now both my windows 10 and 11 from my lab are connected, while windows 10 is the
 - I connected to the Windows 11 machine.
 - From the top menu → **File & Extras**, I can move files from my PC to the remote computer.
 ![Screenshot](images/screenshot342.jpg)
-
-
+![Screenshot](images/screenshot343.jpg)
 
 ---
 ### Basic Network Troubleshooting
@@ -72,6 +71,7 @@ Now both my windows 10 and 11 from my lab are connected, while windows 10 is the
 - Performed:
   - `ipconfig /all` on the remote computer
   - Ping test → `ping 8.8.8.8`
+
 ---
 ### Example IT Tasks
 
