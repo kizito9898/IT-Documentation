@@ -113,7 +113,7 @@ Many clients I support aren’t tech-savvy, and that’s okay. I take care to **
 
 **Why This Matters**
 
-People trust you more when they **understand what’s going on**—and they feel respected when you take the time to explain it in a way that makes sense to them. My goal isn’t just to fix issues; it’s to empower users and reduce stress through clarity and calmness.
+People trust you more when they **understand what’s going on**, and they feel respected when you take the time to explain it in a way that makes sense to them. My goal isn’t just to fix issues; it’s to empower users and reduce stress through clarity and calmness.
 
 ## 4. How I Practice Active Listening
 
@@ -125,11 +125,11 @@ People trust you more when they **understand what’s going on**—and they feel
   Even if I think I know the answer, I wait and let them finish.
 
 - **I listen for what’s behind the words**  
-  If they say *“my printer’s not working and I’ve got a deadline,”* I hear urgency—not just a broken printer.
+  If they say *“my printer’s not working and I’ve got a deadline,”* I hear urgency, not just a broken printer.
 
 - **I repeat back what I heard to confirm**
 
-  > *So just to confirm, you tried printing, but nothing happened—no error message or any sound from the printer, right?*
+  > *So just to confirm, you tried printing, but nothing happened, no error message or any sound from the printer, right?*
 
 ---
 
@@ -141,7 +141,7 @@ People trust you more when they **understand what’s going on**—and they feel
 
 - **I summarize the issue in my own words**
 
-  > *So, your email isn’t sending and it’s stuck in the Outbox—is that correct?*
+  > *So, your email isn’t sending and it’s stuck in the Outbox, is that correct?*
 
 - **I explain my next steps clearly**
 
