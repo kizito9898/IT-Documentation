@@ -137,7 +137,7 @@ Exchange permissions are managed via **Admin Roles**.
 4. Add users who need this role.  
 5. Click **Save**.  
 
-✅ **Ensures that Level 1 IT Support has limited access without full admin privileges.**  
+ **Ensures that Level 1 IT Support has limited access without full admin privileges.**  
 
 ---
 # Exchange Admin Center - Email Forwarding & Delegate Access
@@ -145,7 +145,7 @@ Exchange permissions are managed via **Admin Roles**.
 As an IT Support professional, you'll often need to configure **email forwarding** (to automatically send emails to another mailbox) or **delegate access** (allowing someone else to send or manage emails on behalf of a user). This guide walks you through both processes step by step.
 
 ---
-## 📤 Email Forwarding in Exchange Admin Center  
+##  Email Forwarding in Exchange Admin Center  
 
 ###  What is Email Forwarding?  
 Email forwarding allows you to automatically send incoming emails from one mailbox to another. This is useful when:  
@@ -167,7 +167,6 @@ Email forwarding allows you to automatically send incoming emails from one mailb
 3. Click **Save**.  
 
 ---
-
 ## 👥 Delegate Access (Send As, Send on Behalf, Full Access)  
 
 ###  What is Delegate Access?  
@@ -195,23 +194,20 @@ Delegate access lets a user **send, read, or fully manage another mailbox’s em
 ✅ Now, the selected users have the required access!  
 
 ![Screenshot](images/screenshot13.jpg)
-
 ###  How to Remove Delegate Access  
 1. Navigate to **Mailbox Permissions** > **Manage mailbox delegation**.  
 2. Remove the user from **Send As, Send on Behalf, or Full Access**.  
 3. Click **Save**.  
 
  **Pro Tip:** For shared mailboxes, permissions can also be managed via **Microsoft 365 Admin Center** under **Teams & Groups > Shared Mailboxes**.
-
 ---
-
 ## Troubleshooting  
-✅ **Email forwarding isn’t working?**  
+ **Email forwarding isn’t working?**  
 - Check if there’s a conflicting **mail flow rule** in **Exchange Admin Center > Mail Flow > Rules**.  
 - Ensure the forwarding user’s mailbox isn’t full.  
 - Verify the correct recipient email was added.  
 
-✅ **Delegate access isn’t working?**  
+ **Delegate access isn’t working?**  
 - If the user can't send emails as the owner, ensure **Send As** permission is set.  
 - If emails appear as "on behalf of" instead of directly from the sender, check **Send As vs. Send on Behalf** permissions.  
 - Allow time for changes to sync across Microsoft 365 (can take up to **1 hour** according to Microsoft).  
