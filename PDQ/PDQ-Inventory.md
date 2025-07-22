@@ -56,7 +56,7 @@ In my project, I have Windows 11 added to the PDQ Inventory.
 ![Screenshot](images/screenshot367.jpg)
   - Click **Connect** → Enter admin password → Now you have access.
 - You can remote into Windows 11 from Windows Server without TeamViewer or AnyDesk.
-![Sc]
+![Screenshot](images/screenshot369.jpg)
 
 ---
 ### Reboot or Shutdown via PDQ
