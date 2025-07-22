@@ -46,8 +46,6 @@
   - Opened **TeamViewer Receive Support**
 ## Providing Remote Support via TeamViewer
 
-### Assisting a User with TeamViewer
-
 - As an IT Support, it is essential to know how to guide a user to download and install TeamViewer or open it if it’s already installed.
 ---
 ### Creating a Session from the Host Machine
