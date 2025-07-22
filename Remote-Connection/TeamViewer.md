@@ -79,13 +79,14 @@ Now both my windows 10 and 11 from my lab are connected, while windows 10 is the
   - Printer issues (spooler queues, install software, etc.)
   - Network/device configuration
 ![Screenshot](images/screenshot345.jpg)
-!
+![Screenshot](images/screenshot346.jpg)
 
 ---
 ### Ending a Session
 
 - To close the session, click on **End Session**
 - You can also search devices, groups, and contacts to connect to.
+
 ---
 ### Joining with Session Code (From User Side)
 
