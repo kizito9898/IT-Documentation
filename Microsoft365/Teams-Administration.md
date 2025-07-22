@@ -82,13 +82,10 @@ External access allows communication with users outside the organization.
 3. Toggle **Allow external access** to **On**.
 4. Specify allowed or blocked domains.
 5. Click **Save**.
-
 ---
-
 ## 7. Managing Teams Policies
 
 Policies in Teams help enforce security and compliance.
-
 ### Configure Teams Policies
 1. Open **Teams Admin Center**.
 2. Navigate to **Teams policies**.
@@ -96,17 +93,13 @@ Policies in Teams help enforce security and compliance.
 4. Set restrictions on messaging, file sharing, or meeting capabilities.
 5. Assign the policy to users or groups.
 6. Click **Save**.
-
 ### Assign Policies to Users
 1. In **Teams Admin Center**, go to **Users**.
 2. Select a user.
 3. Under **Policies**, click **Edit**.
 4. Assign the required policies.
 5. Click **Save**.
-
-
 ---
-
 ## 9. Managing Channels in Teams
 
 ### Add a Channel
@@ -125,9 +118,7 @@ Policies in Teams help enforce security and compliance.
 2. Select the team.
 3. Under **Channels**, choose the channel to delete.
 4. Click **Delete** and confirm.
-
 ---
-
 ## 10. File Sharing and Collaboration
 
 ### Upload and Share Files
@@ -139,7 +130,6 @@ Policies in Teams help enforce security and compliance.
 *Note:* File Sharing is the cloud alternative to network file sharing on windows server (share file/mapping drive)
 
 ---
-
 ## 11. Managing Meetings & Calls
 
 ### Schedule a Meeting
@@ -147,7 +137,6 @@ Policies in Teams help enforce security and compliance.
 2. Click **+ New Meeting**.
 3. Add **Title, Date, Time, and Participants**.
 4. Click **Send**.
-
 ### Manage Call Settings
 1. Open **Teams Admin Center**.
 2. Navigate to **Voice**.
@@ -155,7 +144,6 @@ Policies in Teams help enforce security and compliance.
    - **Calling Policies**.
    - **Voicemail Settings**.
    - **Call Forwarding Rules**.
-
 ---
 
 ## 12. Managing Apps and Integrations
