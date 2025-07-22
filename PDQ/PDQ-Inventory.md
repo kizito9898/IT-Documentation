@@ -94,3 +94,5 @@ In my project, I have Windows 11 added to the PDQ Inventory.
 - This is how applications are installed on a client machine silently without disturbing them
 ![Screenshot](images/screenshot382.jpg)
 ![Screenshot](images/screenshot383.jpg)
+
+
