@@ -49,7 +49,7 @@ I’m documenting how a Level 1 IT Support uses HaloPSA because I would be using
 - Enabled the user to change her password. Confirmed the issue is resolved.
 ![Screenshot](images/screenshot400.jpg)
 - Updated my ticket note, marked the ticket closed.
-![Screenshot]
+![Screenshot](images/screenshot401.jpg)
 ## Creating a New Ticket on HaloPSA
 
 - User can’t get access to the shared folder on the H: drive.
