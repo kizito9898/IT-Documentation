@@ -55,13 +55,14 @@
 - The user needs to type in the session code to connect remotely  
   or share their ID and password from TeamViewer to the support technician.
 ![Screenshot](images/screenshot341.jpg)
-Now both my windows 10 and 11 from my lab are connected, while 
+Now both my windows 10 and 11 from my lab are connected, while windows 10 is the host and 11 the guest.
 
 ---
 ### File Transfer & Remote Control
 
 - I connected to the Windows 11 machine.
 - From the top menu → **File & Extras**, I can move files from my PC to the remote computer.
+
 ---
 ### Basic Network Troubleshooting
 
