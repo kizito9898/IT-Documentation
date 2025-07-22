@@ -79,5 +79,6 @@ I’m documenting how a Level 1 IT Support uses HaloPSA because I would be using
 - Emailed the user after session:
   - What caused the issue.
   - Thanked them for patience and understanding.
-
+![Screenshot](images/screenshot410.jpg)
 - Updated my ticket note with timestamp and clear documentation.
+!
