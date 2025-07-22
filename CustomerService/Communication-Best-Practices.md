@@ -64,7 +64,7 @@ My goal is to help clients feel informed, not overwhelmed.
   *There was a permissions issue, which means your account couldn’t access the folder. I've corrected that, and you should have access now.*
 
 - I spell out abbreviations when needed.  
-  *We’ll set up MFA—Multi-Factor Authentication. It adds a second layer of security when you log in.*
+  *We’ll set up MFA, Multi-Factor Authentication. It adds a second layer of security when you log in.*
 
 ### For executive-level clients
 
@@ -84,7 +84,7 @@ My goal is to fully understand both the technical problem and the client’s sit
   If someone says, *“My printer’s not working and I’ve got a deadline,”* I understand the pressure they’re under.
 
 - I confirm what I heard to avoid misunderstandings.  
-  *Just to confirm—you tried to print, but nothing happened, and there were no error messages, right?*
+  *Just to confirm, you tried to print, but nothing happened, and there were no error messages, right?*
 
 ## 5. How I Repeat and Confirm Understanding
 
