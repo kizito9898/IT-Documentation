@@ -138,16 +138,14 @@ To keep SharePoint secure, enforce company policies.
 
 ---
 ## Conclusion  
-As an IT support person, your main responsibilities in SharePoint Admin are:  
+As an IT support person, my main responsibilities in SharePoint Admin are:  
 - Creating and managing sites.  
 - Controlling permissions.  
 - Fixing common issues.  
 - Monitoring storage.  
 - Enforcing security policies.  
 
-By following this guide, you can efficiently manage SharePoint for your organization.  
-
-
+By following this guide, I can efficiently manage SharePoint for your organization.  
 
 
 
