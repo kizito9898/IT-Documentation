@@ -188,7 +188,7 @@ IT Support
 
 Hi Lisa,
 
-No problem—I’ve reset your password as requested.
+No problem, I’ve reset your password as requested.
 
 Your temporary password is: `Temp2024!`  
 Please log in and change it to something secure as soon as possible.
@@ -206,19 +206,17 @@ IT Support
 - I avoid blame or overly technical language.
 - I keep responses short, polite, and solution-focused.
 - I add next steps and let the user know I’m still available.
-- I always check tone—it should sound human, not robotic.
+- I always check tone, it should sound human, not robotic.
 
 ---
-
 ## 7. Chat Etiquette (Live Chat or Ticket Comments)
 
 **My Goal**: Keep things quick, friendly, and clear in real-time.
-
 ### What I focus on:
 
 - **I greet the client warmly**
 
-  > *Hi John! I’m Kizito from IT—just picked up your ticket. Let’s get this sorted out.*
+  > *Hi John! I’m Kizito from IT, just picked up your ticket. Let’s get this sorted out.*
 
 - **I give quick updates so they’re not left waiting**
 
