@@ -41,7 +41,7 @@ I’m documenting how a Level 1 IT Support uses HaloPSA because I would be using
 ### Ticket Example 2
 - Ticket was pre-assigned to me by another agent.
 - Issue with Outlook not opening, needed a password reset.
-!
+![Screenshot](images/screenshot395.jpg)
 - Emailed the user acknowledging the ticket received.
 - Assisted in resetting the user password.
 - Enabled the user to change her password. Confirmed the issue is resolved.
