@@ -59,6 +59,7 @@ Before closing a ticket, I confirm that the issue is fully resolved, services ar
 `[10:30 AM] User able to log in after correcting DNS settings and restarting workstation. Confirmed access to Outlook, mapped drives, and company apps. User confirmed everything is working.`  
 `Closing ticket.`
 
+---
 ### 5. Escalation Summary (When Applicable)
 
 If a ticket needs to be escalated to Level 2 or another department, I provide a clear and concise summary of what’s been done and where the issue currently stands. I include any logs, screenshots, or observations that may be useful for the next technician.
