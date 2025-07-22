@@ -45,7 +45,7 @@ Working in IT support means managing emotional moments with composure. Here are 
 - I read the message twice before replying to anything emotional.
 - I mentally separate the client’s emotion from the technical facts.
 - I stay focused on one thing: helping the user succeed.
-
+---
 ## 4. Example Scenarios and How I Respond
 
 ### Scenario 1: An Angry Client
@@ -68,11 +68,12 @@ Working in IT support means managing emotional moments with composure. Here are 
 
 *I’m here to assist, but I ask that we keep the communication respectful so I can focus on resolving the issue effectively.*
 
+---
 ## 5. What I Avoid at All Times
 
 - I never raise my voice or respond with sarcasm.
 - I never blame the user, even when they contributed to the issue.
-- I never ignore the emotional side of the situation—users want to feel heard just as much as they want a fix.
+- I never ignore the emotional side of the situation, users want to feel heard just as much as they want a fix.
 
 Support is not just about solving technical problems; it’s about building trust, especially under pressure.
 
