@@ -229,12 +229,12 @@ IT Support
 
   > *Looks like everything’s working now. Is there anything else I can help with today?*
 
-  > *If anything else pops up, just reach out—we’re here to help.*
+  > *If anything else pops up, just reach out, we’re here to help.*
 
 ---
 ## My Thoughts
 
-I always aim to be approachable, clear, and empathetic. I believe that good support is more than just fixing things—it’s about making the person feel supported and respected throughout the process.
+I always aim to be approachable, clear, and empathetic. I believe that good support is more than just fixing things, it’s about making the person feel supported and respected throughout the process.
 
 ---
 
