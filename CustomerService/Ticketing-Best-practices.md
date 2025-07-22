@@ -135,17 +135,18 @@ Summarize all actions taken, findings, and next steps. Attach logs or screenshot
 09:18 AM  Unlocked account in AD. Instructed user to attempt login
 
 09:20 AM User logged in successfully. Advised to wait 30 seconds after each failed attempt going forward.
-09: Confirmed user access to Outlook, Teams, and mapped drives. User confirmed everything working. Ticket close
+
+09:25 AM Confirmed user access to Outlook, Teams, and mapped drives. User confirmed everything working. Ticket close
 
 ---
 
   ### **Outlook Not Opening / Freezing**
 
-[10:06 AM] User reports Outlook not opening. No error message. Issue started this morning.
-[10:10 AM] Connected via remote session. Confirmed Outlook process stuck in Task Manager. Terminated task.
-[10:14 AM] Ran `outlook.exe /safe` – launched successfully. Issue likely due to faulty add-in.
-[10:18 AM] Disabled all non-Microsoft add-ins. Restarted Outlook in normal mode.
-[10:22 AM] Outlook launched successfully. Sent test email to confirm send/receive. All services working.
+10:06 AM User reports Outlook not opening. No error message. Issue started this morning.
+10:10 AM Connected via remote session. Confirmed Outlook process stuck in Task Manager. Terminated task.
+10:14 AM Ran `outlook.exe /safe` – launched successfully. Issue likely due to faulty add-in.
+10:18 AM Disabled all non-Microsoft add-ins. Restarted Outlook in normal mode.
+10:22 AM] Outlook launched successfully. Sent test email to confirm send/receive. All services working.
 [10:25 AM] Advised user to monitor. Provided steps in case issue reoccurs. User confirmed issue resolved. Ticket closed.
 
 ---
