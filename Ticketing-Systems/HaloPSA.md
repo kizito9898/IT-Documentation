@@ -1,7 +1,7 @@
 ## HaloPSA Ticketing System
 
 HaloPSA is a cloud-based Professional Services Automation (PSA) platform commonly used by Managed Service Providers (MSPs) to manage IT operations. It combines ticketing, asset management, time tracking, billing, and documentation in one system.
-
+![Screenshot](images/screenshot386.jpg)
 - It’s designed to help MSPs deliver efficient, trackable, and customer-focused IT support.
 
 ---
