@@ -138,6 +138,8 @@ Summarize all actions taken, findings, and next steps. Attach logs or screenshot
 
 [09:25 AM] Confirmed user access to Outlook, Teams, and mapped drives. User confirmed everything working. Ticket close
 
+---
+
   ### **Outlook Not Opening / Freezing**
 
 [10:06 AM] User reports Outlook not opening. No error message. Issue started this morning.
@@ -152,9 +154,7 @@ Summarize all actions taken, findings, and next steps. Attach logs or screenshot
 
 [10:25 AM] Advised user to monitor. Provided steps in case issue reoccurs. User confirmed issue resolved. Ticket closed.
 
-yaml
-
-CopyEdit
+---
 
 `---  ### VPN / Network Connection Issue`
 
