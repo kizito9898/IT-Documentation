@@ -54,6 +54,7 @@ I’m documenting how a Level 1 IT Support uses HaloPSA because I would be using
 
 - User can’t get access to the shared folder on the H: drive.
 - (User called support, so it’s important to create a ticket for it.)
+![Screenshot](images/screenshot402.jpg)
 - Created an agent account as a Level 1. This is my dashboard and tickets assigned to my team and me.
 
 ### Common Ticket Example
