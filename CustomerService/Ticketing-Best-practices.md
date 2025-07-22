@@ -149,7 +149,9 @@ Summarize all actions taken, findings, and next steps. Attach logs or screenshot
 10:14 AM Ran `outlook.exe /safe` – launched successfully. Issue likely due to faulty add-in.
 
 10:18 AM Disabled all non-Microsoft add-ins. Restarted Outlook in normal mode.
+
 10:22 AM Outlook launched successfully. Sent test email to confirm send/receive. All services working.
+
 10:25 AM Advised user to monitor. Provided steps in case issue reoccurs. User confirmed issue resolved. Ticket closed.
 
 ---
@@ -157,10 +159,15 @@ Summarize all actions taken, findings, and next steps. Attach logs or screenshot
   ### **VPN / Network Connection Issue**
 
 [08:30 AM] User unable to connect to VPN. Error: "Unable to establish connection." Occurring since today.
+
 [08:35 AM] Checked local network – user connected to Wi-Fi. Verified internet working.
+
 [08:38 AM] Attempted VPN reconnect. Failure persists. Reinstalled VPN client (Cisco AnyConnect).
+
 [08:47 AM] Restarted PC and re-tested VPN. Connection successful.
+
 [08:50 AM] Verified remote access to file shares and internal resources. User confirmed connection is stable.
+
 [08:53 AM] Logged VPN logs in case of recurrence. Ticket closed after confirmation.
 
 ---
@@ -168,9 +175,13 @@ Summarize all actions taken, findings, and next steps. Attach logs or screenshot
  ### **Printer Not Responding**
 
 [01:10 PM] User unable to print to default office printer (HP MFP 400 series). Print jobs stuck in queue.
+
 [01:14 PM] Remote session started. Cleared print queue and restarted print spooler service.
+
 [01:18 PM] Printed test page from Notepad – successful.
+
 [01:20 PM] Asked user to retry printing Excel document. Success confirmed.
+
 [01:23 PM] User confirmed printing now works. Ticket closed. No further action needed.
 
 ---
@@ -178,7 +189,9 @@ Summarize all actions taken, findings, and next steps. Attach logs or screenshot
  ### **Microsoft Teams – Audio/Video Not Working**
 
 [11:05 AM] User reports no audio in Teams meeting. Tested with another call – same issue.
+
 [11:08 AM] Remote session active. Confirmed output device set to HDMI (user has headphones plugged in).
+
 [11:10 AM] Changed default audio device to headphones in Windows and Teams settings.
 [11:12 AM] Test call successful. Microphone and speaker both working.
 [11:15 AM] User confirmed issue resolved. Restarted Teams and tested again to ensure consistency.
