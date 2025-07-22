@@ -28,6 +28,7 @@ I start every ticket with a clear description of the issue, including the user�
 
 `[9:42 AM] User reports being unable to log in since 8:45 AM. Error message displayed: "Account locked. Contact administrator." Issue reported via email.`
 
+---
 ### 2. Documentation of Actions
 
 For every step I take, I record what was done, why it was done, and what the result was.
@@ -36,6 +37,7 @@ For every step I take, I record what was done, why it was done, and what the res
 
 `[9:50 AM] Checked Active Directory – user account was locked after multiple failed attempts. Unlocked account and asked user to try logging in again.`
 
+---
 ### 3. In-Progress Updates
 
 If the issue is ongoing, I provide updates at reasonable intervals (typically every 10–15 minutes), detailing what I’m doing in that timeframe.
