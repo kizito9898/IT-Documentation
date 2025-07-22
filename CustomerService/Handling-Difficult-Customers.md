@@ -81,15 +81,15 @@ When working in IT support, it’s not unusual to come across clients who are fr
 
 - I never raise my voice or respond in anger.
 - I never argue or blame the client.
-- I never ignore the emotion—because that’s part of what they want to be seen.
-support feel like real support—not just tech fixes.
+- I never ignore the emotion, because that’s part of what they want to be seen.
+support feel like real support, not just tech fixes.
 
 # Customer Service
 
 - **Remember:** The customer isn't always right, but we make them *think* they are right.
 - Sometimes you have to say **NO**. If they say, “Let me talk to your manager,” that's okay.
 - **Build relationships and trust** with the client.
-- **Don't waste the client's time**. He or she has meetings to do. They have a schedule too — remember that.
+- **Don't waste the client's time**. He or she has meetings to do. They have a schedule too, remember that.
 - Be **courteous** and have **empathy** for the client.
 - You can have amazing tech skills, but the client needs to **understand** you.
 - Talk to someone like they're your **parents** or **grandparents**.
