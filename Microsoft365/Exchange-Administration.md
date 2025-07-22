@@ -2,7 +2,7 @@
 
 Microsoft Exchange Administration involves managing **email services, mail flow, recipients, security policies**, and troubleshooting email-related issues within an organization.  
 
-As a **IT Support** technician, you will handle tasks related to **user mailboxes, shared mailboxes, groups, email forwarding, message tracing, and mail flow rules** using the **Exchange Admin Center (EAC)** or **PowerShell**.
+As a **IT Support** technician, I will handle tasks related to **user mailboxes, shared mailboxes, groups, email forwarding, message tracing, and mail flow rules** using the **Exchange Admin Center (EAC)** or **PowerShell**.
 
 ---
 ## Key Responsibilities in Exchange Administration  
@@ -21,11 +21,9 @@ As a **IT Support** technician, you will handle tasks related to **user mailboxe
 - Monitor **alerts and audit logs** for compliance.  
 
 ---
-
 ### 1. How to Create a Shared Mailbox
 
 A **shared mailbox** allows multiple users to access and send emails from a single mailbox (e.g., `Support-Team@Njikason.onmicrosoft.com`).  
-
 #### **Steps:**  
 1. Go to **Exchange Admin Center**.  
 2. Navigate to **Recipients > Mailboxes**.  
