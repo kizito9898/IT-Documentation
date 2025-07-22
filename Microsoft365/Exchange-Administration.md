@@ -35,7 +35,7 @@ A **shared mailbox** allows multiple users to access and send emails from a sing
 6. Assign users who should have access by clicking **Add Members**.  
 7. Click **Save**.  
 
-✅ **Users can now access this shared mailbox in Outlook under "Shared Mailboxes."**  
+ **Users can now access this shared mailbox in Outlook under "Shared Mailboxes."**  
 
 ---
 ![Screenshot](images/Screenshot11.jpg)
@@ -59,7 +59,7 @@ Groups allow multiple users to receive emails sent to a single email address.
 5. Click **Create**. 
 6. You can also create **Microsoft 365 Group** in Exchange Admin portal as-well.
 
-✅ **Now, emails sent to the group email address will be received by all members.**  
+ **Now, emails sent to the group email address will be received by all members.**  
 
 ---
 ![Screenshot](images/screenshot12.jpg)
@@ -75,7 +75,7 @@ A **resource mailbox** is used to schedule **meeting rooms or equipment**.
 4. Configure **booking options** (auto-accept requests or manual approval).  
 5. Click **Save**.  
 
-✅ **Users can now book this resource when scheduling meetings in Outlook.**  
+ **Users can now book this resource when scheduling meetings in Outlook.**  
 
 ---
 
@@ -94,7 +94,7 @@ A **resource mailbox** is used to schedule **meeting rooms or equipment**.
    - **Pending** – The email is still processing.  
    - **Failed** – The email was not sent (check the error code for details).  
 
-✅ **This helps troubleshoot missing emails for users.**  
+ **This helps troubleshoot missing emails for users.**  
 
 ---
 
@@ -110,7 +110,7 @@ Mail Flow Rules control how emails are processed based on conditions (e.g., bloc
 5. Choose an **action** (e.g., "Reject the message with an explanation").  
 6. Click **Save**.  
 
-✅ **Useful for compliance and security policies.**  
+ **Useful for compliance and security policies.**  
 
 ---
 
