@@ -13,7 +13,7 @@ I’m documenting how a Level 1 IT Support uses HaloPSA because I would be using
 - Home Dashboard gives the overall overview of everything I need to know about HaloPSA: Service Desk, Assets, Knowledge Base, etc.
 
 ---
-### My Role as a Level 1
+### My Role as a Level 1 IT Support
 
 - Should look for tickets myself (view incoming tickets, create new tickets, update ticket status)
 - Communication (using internal notes to document technical steps and actions taken, email users professionally and clearly)
