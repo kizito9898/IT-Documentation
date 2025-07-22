@@ -25,9 +25,7 @@ All without needing physical access to the device.
    - A prompt will appear
    - Click **Yes**
    - Now you’re logged in to the remote machine
-
 ---
-
 ### Practical Example
 
 - Remoted into a Windows 11 Pro machine from Windows Server.
@@ -36,7 +34,5 @@ All without needing physical access to the device.
   - Troubleshoot issues
   - Download applications
   - Find root causes to technical problems
-
 ---
-
 **Note:** Always ensure both machines are on the same network before attempting RDP.
