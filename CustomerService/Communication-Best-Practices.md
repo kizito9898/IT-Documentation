@@ -101,7 +101,7 @@ My goal is to ensure clarity and avoid any miscommunication.
 
 - I always offer further help.  
   *Is there anything else I can assist you with before I close the ticket?*
-
+---
 ## 6. Professional Email Responses
 
 My goal is to respond in a professional, clear, and reassuring manner.
@@ -136,6 +136,7 @@ Best,
 Kizito  
 IT Support
 
+---
 ### Best Practices I Follow in Email
 
 - I use clear, polite, and respectful language.
@@ -143,7 +144,7 @@ IT Support
 - I keep messages concise and focused on solutions.
 - I always include the next steps and invite further questions.
 - I ensure my tone sounds human and professional.
-
+---
 ## 7. Chat Etiquette (Live Chat or Ticket Comments)
 
 My goal is to maintain clear and professional communication during real-time interactions or ticket updates.
