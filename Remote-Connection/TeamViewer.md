@@ -1,7 +1,8 @@
 
 ### What is Remote IT Support?
 
-- Remote IT support is the process where IT professionals connect to a user's computer or system over the internet or network to:
+- Remote IT support is the process where IT professionals connect to a user's computer or system over the internet or network to
+![Screenshot](images/sc)
   - Troubleshoot issues
   - Install software
   - Configure settings
