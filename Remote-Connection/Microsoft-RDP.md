@@ -16,6 +16,8 @@ All without needing physical access to the device.
 - Confirm they are both **on the same network**.
 - Server used: **Server 2022**
 - Client machine used: **Windows 11 Pro** (`OS 10.1 - WIn11`)
+![Screenshot](images/screenshot352.jpg)
+
 ---
 ### How to Launch RDP on Windows
 
