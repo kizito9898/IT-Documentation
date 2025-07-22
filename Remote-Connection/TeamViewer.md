@@ -7,15 +7,11 @@
   - Install software
   - Configure settings
   - Provide technical assistance without being physically present
-
 ---
-
 ### Remote Support Tools
 
 - **TeamViewer** and **AnyDesk** are tools used in IT to remote into and manage user computers.
-
 ---
-
 ### Setting up TeamViewer
 
 - Installing TeamViewer (desktop client) on:
