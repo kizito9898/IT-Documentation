@@ -19,7 +19,8 @@ I’m documenting how a Level 1 IT Support uses HaloPSA because I would be using
 - Communication (using internal notes to document technical steps and actions taken, email users professionally and clearly)
 - Follow escalation → if I can’t resolve it, I escalate to Tier 2
 - Knowledge Base → is very important to search for solutions and also contribute to the Knowledge Base
-![Screenshot](images/screenshot)
+
+![Screenshot](images/screenshot388.jpg)
 ## Resolving Tickets
 
 ### Viewing Tickets
