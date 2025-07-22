@@ -139,7 +139,7 @@ If errors appear, check **event logs** and restart **Active Directory Services**
 2. Set permissions using **NTFS & Share Permissions**.
 3. Map the drive via **Group Policy Preferences**.
 4. Test access from multiple user accounts.
-
+---
 ## Network Devices Documentation
 
 | Device Name | Type     | IP Address  | Location      | Notes                   |
@@ -150,7 +150,7 @@ If errors appear, check **event logs** and restart **Active Directory Services**
 
 ### Troubleshooting VPN Issues
 - If VPN is down, check **firewall logs** and ensure **IKE/IPSec services** are running.
-
+---
 ## Printer Troubleshooting Guide
 
 ### Common Printer Issues
