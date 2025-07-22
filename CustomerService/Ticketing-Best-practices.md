@@ -40,14 +40,13 @@ Why? Because:
    > *Issue unresolved, user’s GPO settings not applying. Tried local fixes, no success. Escalating to Level 2. Please see Event Viewer logs from 12:05 PM.*
 
 ---
-
 ### Tips I Follow in Ticket Notes
 
 - I **avoid vague notes** like “Still working.” I always say *what* I’m doing.
 - I use **timestamps** if needed, especially when updating over time.
 - I write as if someone else will pick up the ticket.
-- I never assume knowledge—**I explain every step** I take.
-- I keep notes **professional but human**—it reflects well on me.
+- I never assume knowledge, **I explain every step** I take.
+- I keep notes **professional but human**, it reflects well on me.
 
 ---
 
