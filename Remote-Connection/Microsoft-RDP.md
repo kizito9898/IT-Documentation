@@ -25,7 +25,7 @@ All without needing physical access to the device.
 2. Type `mstsc`
 3. Enter the **IP address** or **name** of the user’s computer (e.g., `10.1.10.4`)
 ![Screenshot](images/screenshot354.jpg)
-
+![Screenshot](images/screenshot)
 4. Then connect:
    - A prompt will appear
    - Click **Yes**
