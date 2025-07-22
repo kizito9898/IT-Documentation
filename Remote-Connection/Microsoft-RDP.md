@@ -31,8 +31,7 @@ All without needing physical access to the device.
    - Click **Yes**
 ![Screenshot](images/screenshot356.jpg)
    - Now you’re logged in to the remote machine
----
-### Practical Example
+
 
 - Remoted into a Windows 11 Pro machine from Windows Server.
 - Once connected, I can:
