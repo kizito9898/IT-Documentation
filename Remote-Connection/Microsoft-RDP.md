@@ -34,7 +34,7 @@ All without needing physical access to the device.
 ![Screenshot](images/screenshot357.jpg)
 
 - Remoted into a Windows 11 Pro machine from Windows Server.
-
+![Screenshot](images/screenshot358.jpg)
 - Once connected, I can:
   - Push documents into the machine from the server
   - Troubleshoot issues
