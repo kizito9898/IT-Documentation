@@ -145,7 +145,6 @@ Policies in Teams help enforce security and compliance.
    - **Voicemail Settings**.
    - **Call Forwarding Rules**.
 ---
-
 ## 12. Managing Apps and Integrations
 
 ### Add an App to Teams
@@ -153,14 +152,11 @@ Policies in Teams help enforce security and compliance.
 2. Go to **Teams apps** > **Manage apps**.
 3. Click **+ Add an App**.
 4. Search for the app and click **Add**.
-
 ### Remove an App
 1. Open **Teams Admin Center**.
 2. Navigate to **Teams apps** > **Manage apps**.
 3. Select the app and click **Remove**.
-
 ---
-
 ## 13. Troubleshooting Teams Issues
 
 ### Common Issues and Fixes
@@ -169,7 +165,6 @@ Policies in Teams help enforce security and compliance.
 - Verify the user account in **Microsoft 365 Admin Center**.
 - Reset the password if necessary.
 - Check **Multi-Factor Authentication (MFA)** settings.
-
 #### Teams Not Loading
 - Clear the cache (`%appdata%\Microsoft\Teams\cache`).
 - Restart **Teams** and **PC**.
@@ -179,9 +174,7 @@ Policies in Teams help enforce security and compliance.
 - Verify **Microphone and Camera settings** in Teams.
 - Run **Windows Troubleshooter** (`Settings > System > Sound`).
 - Ensure **Teams is up to date**.
-
 ---
-
 ## 14. Best Practices for Microsoft Teams Administration
 
 - **Enable Multi-Factor Authentication (MFA)** for security.
