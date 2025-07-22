@@ -71,7 +71,7 @@ Now both my windows 10 and 11 from my lab are connected, while windows 10 is the
 - Performed:
   - `ipconfig /all` on the remote computer
   - Ping test → `ping 8.8.8.8`
-
+![Screenshot](images/screenshot344.jpg)
 ---
 ### Example IT Tasks
 
