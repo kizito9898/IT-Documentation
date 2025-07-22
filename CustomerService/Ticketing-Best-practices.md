@@ -184,11 +184,9 @@ Summarize all actions taken, findings, and next steps. Attach logs or screenshot
 
 [01:23 PM] User confirmed printing now works. Ticket closed.
 
-yaml
+---
 
-CopyEdit
-
-`---  ### Microsoft Teams – Audio/Video Not Working`
+ ### **Microsoft Teams – Audio/Video Not Working**
 
 [11:05 AM] User reports no audio in Teams meeting. Tested with another call – same issue.
 
@@ -202,11 +200,9 @@ CopyEdit
 
 [11:18 AM] Advised to check audio defaults after reboot. Ticket closed.
 
-yaml
+---
 
-CopyEdit
-
-`---  ## Best Practices for Notes  - Use **bulletproof clarity** – no abbreviations unless widely known (e.g. AD, VPN) - Mention **tools used** (RDP, AnyDesk, ADUC, CMD) - Include **logs or command output summaries** when useful - If issue recurs, use tags or keywords so it’s searchable later - Keep your tone **calm, courteous, and composed** – especially if notes are visible to clients  ---  ## What I Avoid  - Writing vague notes like “Issue fixed” without stating what was done - Leaving notes with no time reference or status - Using emotional or sarcastic language - Copy-pasting logs without context - Closing a ticket without user confirmation or proper follow-up  ---  ## Follow-Up Example (Email or Internal Note)`
+  ## Best Practices for Notes  - Use **bulletproof clarity** – no abbreviations unless widely known (e.g. AD, VPN) - Mention **tools used** (RDP, AnyDesk, ADUC, CMD) - Include **logs or command output summaries** when useful - If issue recurs, use tags or keywords so it’s searchable later - Keep your tone **calm, courteous, and composed** – especially if notes are visible to clients  ---  ## What I Avoid  - Writing vague notes like “Issue fixed” without stating what was done - Leaving notes with no time reference or status - Using emotional or sarcastic language - Copy-pasting logs without context - Closing a ticket without user confirmation or proper follow-up  ---  ## Follow-Up Example (Email or Internal Note)`
 
 [04:45 PM] Followed up via email:
 
