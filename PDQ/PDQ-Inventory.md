@@ -81,6 +81,7 @@ In my project, I have Windows 11 added to the PDQ Inventory.
 ### Deploying Software
 
 - From the Inventory, you can enter **PDQ Deploy** and deploy software:
+![Screenshot](images/screenshot379.jpg)
   - Tools → Deploy Package
   - Example: Deploying packages like **7-Zip** and **Zoom**
 ## Silent Application Deployment Notes
