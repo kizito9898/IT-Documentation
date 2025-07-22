@@ -39,9 +39,7 @@ To access the Teams Admin Center, go to [Microsoft Teams Admin Center](https://a
 1. Go to **Teams Admin Center** > **Manage Teams**.
 2. Select the team to delete.
 3. Click **Delete** and confirm.
-
 ---
-
 ## 4. Managing Users in Teams
 
 ### Add a User to Teams
@@ -57,18 +55,15 @@ To access the Teams Admin Center, go to [Microsoft Teams Admin Center](https://a
 3. Edit policies, roles, or permissions as needed.
 
 ---
-
 ## 5. Guest Access in Teams
 
 Guest access allows external users to join a team with limited permissions.
-
 ### Enable Guest Access
 1. Open **Teams Admin Center**.
 2. Navigate to **Org-wide settings** > **Guest Access**.
 3. Toggle **Allow guest access in Teams** to **On**.
 4. Configure guest permissions (calls, meetings, and messaging).
 5. Click **Save**.
-
 ### Add a Guest to a Team
 1. Open **Microsoft Teams**.
 2. Go to the **Team** where you want to add a guest.
@@ -78,11 +73,9 @@ Guest access allows external users to join a team with limited permissions.
 6. Click **Add** and assign permissions.
 
 ---
-
 ## 6. External Access in Teams
 
 External access allows communication with users outside the organization.
-
 ### Enable External Access
 1. Open **Teams Admin Center**.
 2. Go to **Org-wide settings** > **External Access**.
