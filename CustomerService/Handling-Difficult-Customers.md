@@ -9,7 +9,7 @@ When working in IT support, it’s not unusual to come across clients who are fr
 
 ### What I do:
 
-- **I stay calm—even if they’re not**
+- **I stay calm, even if they’re not**
   
   > *I totally understand how frustrating this must be. Let’s take a look together and get it sorted.*
 
@@ -35,7 +35,7 @@ When working in IT support, it’s not unusual to come across clients who are fr
 
 - **I don’t take it personally**
   
-  I remind myself they’re frustrated with the situation—not with me.
+  I remind myself they’re frustrated with the situation,not with me.
 
 - **If it crosses a line, I stay polite but firm**
 
