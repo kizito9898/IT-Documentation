@@ -156,7 +156,7 @@ Summarize all actions taken, findings, and next steps. Attach logs or screenshot
 
 ---
 
-`---  ### VPN / Network Connection Issue`
+  ### **VPN / Network Connection Issue**
 
 [08:30 AM] User unable to connect to VPN. Error: "Unable to establish connection." Occurring since today.
 
@@ -170,11 +170,9 @@ Summarize all actions taken, findings, and next steps. Attach logs or screenshot
 
 [08:53 AM] Logged VPN logs in case of recurrence. Ticket closed after confirmation.
 
-yaml
+---
 
-CopyEdit
-
-`---  ### Printer Not Responding`
+ ### **Printer Not Responding**
 
 [01:10 PM] User unable to print to default office printer (HP MFP 400 series). Print jobs stuck in queue.
 
