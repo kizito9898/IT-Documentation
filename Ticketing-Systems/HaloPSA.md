@@ -35,12 +35,13 @@ I’m documenting how a Level 1 IT Support uses HaloPSA because I would be using
 - Responded to the user, activated a remote session to walk through the client to fix steps.
 ![Screenshot](images/screenshot393.jpg)
 - Session closed, updated my internal notes, and closed the ticket.
-![Screenshot](images/screenshot)
+![Screenshot](images/screenshot394.jpg)
 
 ---
 ### Ticket Example 2
 - Ticket was pre-assigned to me by another agent.
 - Issue with Outlook not opening, needed a password reset.
+!
 - Emailed the user acknowledging the ticket received.
 - Assisted in resetting the user password.
 - Enabled the user to change her password. Confirmed the issue is resolved.
