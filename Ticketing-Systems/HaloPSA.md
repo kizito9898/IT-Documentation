@@ -43,7 +43,7 @@ I’m documenting how a Level 1 IT Support uses HaloPSA because I would be using
 - Issue with Outlook not opening, needed a password reset.
 ![Screenshot](images/screenshot395.jpg)
 - Emailed the user acknowledging the ticket received
-!
+![Screenshot](images/screenshot398.jpg)
 - Assisted in resetting the user password.
 ![Screenshot](images/screenshot396.jpg)
 - Enabled the user to change her password. Confirmed the issue is resolved.
