@@ -88,6 +88,7 @@ As a  Helpdesk I might approval from management to install software application 
 ### Deploying Software
 
 - From the Inventory, you can enter **PDQ Deploy** and deploy software:
+![Screenshot](images/screenshot379.jpg)
   - Tools → Deploy Package
   - Example: Deploying packages like **7-Zip** and **Zoom**
 - Check target → Select time to deploy (etc.) → Deploy Now
