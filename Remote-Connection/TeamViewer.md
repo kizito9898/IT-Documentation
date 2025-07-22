@@ -55,7 +55,7 @@
 - The user needs to type in the session code to connect remotely  
   or share their ID and password from TeamViewer to the support technician.
 ![Screenshot](images/screenshot341.jpg)
-No
+Now both my windows 10 and 11 from my lab are connected, while 
 
 ---
 ### File Transfer & Remote Control
