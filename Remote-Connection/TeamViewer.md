@@ -78,6 +78,9 @@ Now both my windows 10 and 11 from my lab are connected, while windows 10 is the
 - I can troubleshoot:
   - Printer issues (spooler queues, install software, etc.)
   - Network/device configuration
+![Screenshot](images/screenshot345.jpg)
+!
+
 ---
 ### Ending a Session
 
