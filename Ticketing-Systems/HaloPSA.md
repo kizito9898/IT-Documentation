@@ -5,7 +5,6 @@ HaloPSA is a cloud-based Professional Services Automation (PSA) platform commonl
 - It’s designed to help MSPs deliver efficient, trackable, and customer-focused IT support.
 
 ---
-
 ### How Level 1 IT Support Uses HaloPSA
 
 I’m documenting how a Level 1 IT Support uses HaloPSA because I would be using the ticketing system daily to receive, investigate, and escalate when needed.
