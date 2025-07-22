@@ -5,7 +5,7 @@
   - Troubleshoot issues
   - Install software
   - Configure settings
-  - Provide technical assistance without being physically present
+  - Provide technical assistance without being physically present.
 ---
 ### Remote Support Tools
 
