@@ -67,7 +67,7 @@ In my project, I have Windows 11 added to the PDQ Inventory.
   - Go to: **Tools** → Reboot / Shutdown → OK
 ![Screenshot](images/screenshot375.jpg)
 	iponfig on windows 11 from PDQ Inventory.
-![Screenshot](images/screenshot)
+![Screenshot](images/screenshot374.jpg)
 
 ---
 ### Application Reports
