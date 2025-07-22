@@ -53,6 +53,7 @@ In my project, I have Windows 11 added to the PDQ Inventory.
 
 - Remoting into the computer from PDQ Inventory:
   - Click on the computer → On top (Tools) → **Remote Desktop**
+![Screensho]
   - Click **Connect** → Enter admin password → Now you have access.
 - You can remote into Windows 11 from Windows Server without TeamViewer or AnyDesk.
 
