@@ -111,7 +111,7 @@ My goal is to respond in a professional, clear, and reassuring manner.
 **Subject**: Re: Locked Out of My Account
 
 Hi James,  
-Thanks for contacting IT Support. I've unlocked your account—you should now be able to log in with your current password.
+Thanks for contacting IT Support. I've unlocked your account, you should now be able to log in with your current password.
 
 If you’d like, I can also help you set up a self-service password reset option for the future.
 
@@ -130,7 +130,8 @@ I’ve reset your password as requested.
 Your temporary password is: `Temp2024!`  
 Please log in and change it as soon as possible.
 
-Let me know if you need any help updating it.  
+Let me know if you need any help updating it.
+
 Best,  
 Kizito  
 IT Support
