@@ -57,7 +57,6 @@ It's the bridge between technical solutions and user satisfaction.
 ## 3. How I Communicate Clearly
 
 **My Goal**: Keep things easy to understand, especially for non-technical users.
-
 ### My approach:
 
 - **I avoid tech jargon unless they’re comfortable with it**
@@ -71,7 +70,7 @@ It's the bridge between technical solutions and user satisfaction.
 
 - **I pause often to make sure they’re following along**
 
-  > *Let me know when you’ve got the window open—it should say “Network Settings.”*
+  > *Let me know when you’ve got the window open, it should say “Network Settings.”*
 
 - **I try to stay direct and clear**  
   I keep it simple and don’t over-explain unless they ask.
@@ -82,7 +81,6 @@ It's the bridge between technical solutions and user satisfaction.
 **My Goal**: Help clients feel informed, not overwhelmed.
 
 Many clients I support aren’t tech-savvy, and that’s okay. I take care to **translate technical language into plain English**, especially when working with executives or users who may feel anxious about the problem.
-
 ### What I do:
 
 - **I use everyday comparisons**
@@ -95,11 +93,11 @@ Many clients I support aren’t tech-savvy, and that’s okay. I take care to **
 
 - **I focus on impact, not tech jargon**
 
-  > *The syncing issue was caused by a permissions error—basically, your account wasn’t allowed to access that folder, but I’ve updated it now so everything should work.*
+  > *The syncing issue was caused by a permissions error, basically, your account wasn’t allowed to access that folder, but I’ve updated it now so everything should work.*
 
 - **I avoid abbreviations unless I explain them**
 
-  > *We’ll use MFA—that’s multi-factor authentication, kind of like a second lock on the door when you sign in.*
+  > *We’ll use MFA, that’s multi-factor authentication, kind of like a second lock on the door when you sign in.*
 
 ### My approach with executives:
 
