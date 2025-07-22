@@ -1,4 +1,4 @@
-# My Customer Service Communication forIT Support)
+# My Customer Service Communication for IT Support
 
 ---
 # Customer Service in IT Support
@@ -20,7 +20,7 @@ My goal is to create a sense of trust and assurance from the first moment of con
 
 - I provide a brief overview of what I’ll do.  
   *I'll start by checking your account and running a few tests. It shouldn't take more than a few minutes.*
-
+---
 ## 2. How I Show Empathy
 
 My goal is to make the client feel heard and supported, regardless of the issue’s complexity.
@@ -33,7 +33,7 @@ My goal is to make the client feel heard and supported, regardless of the issue�
 
 - I stay calm, positive, and professional.  
   *You’re in good hands. I’ll take care of this for you.*
-
+---
 ## 3. How I Communicate Clearly
 
 My goal is to keep communication simple, especially for clients who may not have a technical background.
@@ -73,7 +73,7 @@ My goal is to help clients feel informed, not overwhelmed.
 
 - I provide assurance and clear ownership.  
   *The issue is resolved, and we’re monitoring things on our end to ensure continued stability.*
-
+---
 ## 4. How I Practice Active Listening
 
 My goal is to fully understand both the technical problem and the client’s situation.
@@ -85,7 +85,7 @@ My goal is to fully understand both the technical problem and the client’s sit
 
 - I confirm what I heard to avoid misunderstandings.  
   *Just to confirm, you tried to print, but nothing happened, and there were no error messages, right?*
-
+---
 ## 5. How I Repeat and Confirm Understanding
 
 My goal is to ensure clarity and avoid any miscommunication.
