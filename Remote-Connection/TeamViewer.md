@@ -17,9 +17,7 @@
 - Installing TeamViewer (desktop client) on:
   - Host machine
   - Windows 11 (running in VMware Pro)
-
 ---
-
 ### Enabling Remote Desktop on Windows 11
 
 1. Go to **This PC**
