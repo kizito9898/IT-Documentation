@@ -34,7 +34,6 @@ I’m documenting how a Level 1 IT Support uses HaloPSA because I would be using
 - Session closed, updated my internal notes, and closed the ticket.
 
 ---
-
 ### Ticket Example 2
 - Ticket was pre-assigned to me by another agent.
 - Issue with Outlook not opening, needed a password reset.
@@ -56,7 +55,6 @@ I’m documenting how a Level 1 IT Support uses HaloPSA because I would be using
 > **Note:** Before trying to solve a ticket, it's nice to check if the issue has been solved. Searching through is a good way to see how other tickets are solved.
 
 ---
-
 ### Printer Issue Example
 - User reports printer issue, stopped printing out.
 - Emailed the user, suggested to start a remote connection to narrow down the problem.
