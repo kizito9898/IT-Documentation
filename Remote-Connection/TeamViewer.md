@@ -49,3 +49,60 @@
   - Selected **Receive Support**
   - Downloaded **QuickSupport**
   - Opened **TeamViewer Receive Support**
+## Providing Remote Support via TeamViewer
+
+### Assisting a User with TeamViewer
+
+- As an IT Support, it is essential to know how to guide a user to download and install TeamViewer or open it if it’s already installed.
+
+---
+
+### Creating a Session from the Host Machine
+
+- On my host machine, I created a session → `134 938 340`
+- The user needs to type in the session code to connect remotely  
+  or share their ID and password from TeamViewer to the support technician.
+
+---
+
+### File Transfer & Remote Control
+
+- I connected to the Windows 11 machine.
+- From the top menu → **File & Extras**, I can move files from my PC to the remote computer.
+
+---
+
+### Basic Network Troubleshooting
+
+- Performed:
+  - `ipconfig /all` on the remote computer
+  - Ping test → `ping 8.8.8.8`
+
+---
+
+### Example IT Tasks
+
+- I can troubleshoot:
+  - Printer issues (spooler queues, install software, etc.)
+  - Network/device configuration
+
+---
+
+### Ending a Session
+
+- To close the session, click on **End Session**
+- You can also search devices, groups, and contacts to connect to.
+
+---
+
+### Joining with Session Code (From User Side)
+
+- The user adds the given session code
+- Verify the user (on the user side)
+- Now I have control. Same thing applies after session closes.
+
+---
+
+### File Transfer Logs
+
+- On the client machine, you can see the files transferred over during the session.
