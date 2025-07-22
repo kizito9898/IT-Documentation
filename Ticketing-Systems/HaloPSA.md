@@ -62,6 +62,7 @@ I’m documenting how a Level 1 IT Support uses HaloPSA because I would be using
 ![Screenshot](images/screenshot403.jpg)
 - Reached out to the user, advised on the next actions to take.
 ![Screenshot](images/screenshot404.jpg)
+![Screenshot](images/screenshot405.jpg)
 - Updated my ticket with clear English for easy reference.
 
 > **Note:** Before trying to solve a ticket, it's nice to check if the issue has been solved. Searching through is a good way to see how other tickets are solved.
