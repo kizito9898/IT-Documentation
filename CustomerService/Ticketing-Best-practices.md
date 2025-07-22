@@ -6,6 +6,7 @@ My goal is to ensure every support ticket is clear, accurate, and professionally
 
 Good ticketing builds trust, improves collaboration across teams, and supports accountability in managed environments.
 
+---
 ## My Core Principle
 
 I treat every ticket like a technical timeline. Whether the issue is ongoing or resolved, I update the ticket regularly, especially during active troubleshooting.
