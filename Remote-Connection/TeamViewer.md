@@ -51,6 +51,7 @@
 ### Creating a Session from the Host Machine
 
 - On my host machine, I created a session → `134 938 340`
+![Screenshot](image)
 - The user needs to type in the session code to connect remotely  
   or share their ID and password from TeamViewer to the support technician.
 ---
