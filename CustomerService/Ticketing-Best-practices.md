@@ -25,11 +25,11 @@ Why? Because:
 
 2. **Mid-Ticket – I document every key action I take**
 
-   > *Checked AD—user account was locked due to 5 failed logins. Unlocked the account and had user attempt login again.*
+   > *Checked AD, user account was locked due to 5 failed logins. Unlocked the account and had user attempt login again.*
 
 3. **Ongoing Updates – I log every 10–15 minutes if issue is not yet resolved**
 
-   > *Still working—checked user device remotely, noticed sync issues with domain. Rejoining to domain now.*
+   > *Still working, checked user device remotely, noticed sync issues with domain. Rejoining to domain now.*
 
 4. **Closing the Ticket – I confirm the fix and client satisfaction**
 
@@ -37,7 +37,7 @@ Why? Because:
 
 5. **Escalating? – I summarize clearly for the next tech**
 
-   > *Issue unresolved—user’s GPO settings not applying. Tried local fixes, no success. Escalating to Level 2. Please see Event Viewer logs from 12:05 PM.*
+   > *Issue unresolved, user’s GPO settings not applying. Tried local fixes, no success. Escalating to Level 2. Please see Event Viewer logs from 12:05 PM.*
 
 ---
 
