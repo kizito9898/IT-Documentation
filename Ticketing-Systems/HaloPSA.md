@@ -44,6 +44,7 @@ I’m documenting how a Level 1 IT Support uses HaloPSA because I would be using
 ![Screenshot](images/screenshot395.jpg)
 - Emailed the user acknowledging the ticket received.
 - Assisted in resetting the user password.
+![Screenshot](images/screenshot396.jpg)
 - Enabled the user to change her password. Confirmed the issue is resolved.
 - Updated my ticket note, marked the ticket closed.
 ## Creating a New Ticket on HaloPSA
