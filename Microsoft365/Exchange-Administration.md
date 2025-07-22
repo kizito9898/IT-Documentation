@@ -118,7 +118,6 @@ Mail Flow Rules control how emails are processed based on conditions (e.g., bloc
 
 - **Accepted Domains**: Defines which domains Exchange should handle mail for.  
 - **Remote Domains**: Configures how emails are sent to external recipients.  
-
 #### **Steps to Add an Accepted Domain:**  
 1. Go to **Mail Flow > Accepted Domains**.  
 2. Click **+ Add Domain**.  
@@ -126,14 +125,11 @@ Mail Flow Rules control how emails are processed based on conditions (e.g., bloc
 4. Select **Authoritative** (if this is your primary domain).  
 5. Click **Save**.  
 
-✅ **Ensures that Exchange recognizes the company’s email domain.**  
-
+ **Ensures that Exchange recognizes the company’s email domain.**  
 ---
-
 ### **7. How to Assign Exchange Admin Roles to Users**  
 
 Exchange permissions are managed via **Admin Roles**.  
-
 #### **Steps:**  
 1. Go to **Roles > Admin Roles**.  
 2. Click **+ Add Role Group**.  
@@ -144,13 +140,11 @@ Exchange permissions are managed via **Admin Roles**.
 ✅ **Ensures that Level 1 IT Support has limited access without full admin privileges.**  
 
 ---
-
 # Exchange Admin Center - Email Forwarding & Delegate Access
  
 As an IT Support professional, you'll often need to configure **email forwarding** (to automatically send emails to another mailbox) or **delegate access** (allowing someone else to send or manage emails on behalf of a user). This guide walks you through both processes step by step.
 
 ---
-
 ## 📤 Email Forwarding in Exchange Admin Center  
 
 ###  What is Email Forwarding?  
@@ -158,7 +152,6 @@ Email forwarding allows you to automatically send incoming emails from one mailb
 - A user is on vacation or leave.  
 - Someone is transitioning to a new role.  
 - An executive needs their emails forwarded to an assistant.  
-
 ###  How to Enable Email Forwarding   
 1. Go to **Recipients** > **Mailboxes**.  
 2. Click on the mailbox you want to configure.  
@@ -167,8 +160,7 @@ Email forwarding allows you to automatically send incoming emails from one mailb
 5. Enter the recipient’s email address.    
 6. Click **Save**.  
 
-✅ Now, all incoming emails will be forwarded to the chosen address!  
-
+ Now, all incoming emails will be forwarded to the chosen address!  
 ### How to Disable Email Forwarding  
 1. Navigate to **Mail Flow Settings** > **Email Forwarding**.  
 2. Toggle the forwarding option **OFF**.  
