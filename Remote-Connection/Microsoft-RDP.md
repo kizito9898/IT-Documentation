@@ -44,3 +44,4 @@ All without needing physical access to the device.
   - Find root causes to technical problems
 ---
 **Note:** Always ensure both machines are on the same network before attempting RDP and end session once you are done.
+![Screenshot](images/screenshot376.jpg)
