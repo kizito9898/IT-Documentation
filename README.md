@@ -28,7 +28,7 @@ This is not just a collection of notes—it's a **personal IT knowledge base** b
 ##  What’s Inside?  
 
 ###  **Windows & Windows Server**  
-- [Windows Troubleshooting](Windows/Windows-Troubleshooting.md)
+- [Windows Troubleshooting](Windows Server/Windows-Troubleshooting.md)
 - [PowerShell Commands](Windows/PowerShell-Commands.md) 
 - [Windows Server](Windows/Windows-Server.md)
 - [Active Directory](Windows/Active-Directory.md)
