@@ -78,7 +78,7 @@ If a ticket needs to be escalated to Level 2 or another department, I provide a 
 - I stay neutral and professional in tone, while keeping notes easy to read.
 - I do not include unnecessary technical jargon if it doesn’t add value to the note.
 - I always include the client’s confirmation before closing, either via email, chat, or voice.
-
+---
 ## Why This Matters
 
 In an MSP environment, technicians often work across multiple clients, systems, and time zones. A well-documented ticket is not just helpful, it’s essential.
