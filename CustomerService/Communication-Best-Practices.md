@@ -169,9 +169,9 @@ People trust you more when they **understand what’s going on**, and they feel 
 
 Hi James,
 
-Thanks for reaching out. I understand how frustrating it can be to get locked out, especially during work hours.
+Thanks for contacting Support. I understand how frustrating it can be to get locked out, especially during work hours.
 
-I’ve gone ahead and unlocked your account. You should be able to log in now with your current password. If you run into any further issues, let me know—I’m happy to help.
+I’ve gone ahead and unlocked your account. You should be able to log in now with your current password. If you run into any further issues, let me know, I’m happy to help.
 
 If you'd like, I can also help you reset your password or guide you through setting up self-service reset options for the future.
 
@@ -182,10 +182,7 @@ Kizito
 IT Support
 
 ---
-
 ### Real-World Example: Password Reset Request
-
----
 
 **Subject**: Re: Password Reset Needed
 
