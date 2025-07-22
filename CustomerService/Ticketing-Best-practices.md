@@ -94,12 +94,11 @@ It:
 The quality of my ticket notes reflects the quality of my work. They show how I think, how I solve problems, and how I communicate. Whether a ticket is simple or complex, I take pride in making sure my documentation is thorough, accurate, and easy for others to follow.
 
 That’s how I maintain trust with clients, teammates, and managers in a fast-paced MSP environment.
-# Ticketing Best Practices – Extended Guide (With Level 1 Examples)
+# Ticketing Best Practices – Extended Guide
 
 ## Objective
 
 To create consistent, professional, and useful documentation that reflects the quality of my support, improves team collaboration, and builds trust with both clients and managers.
-
 ## Core Principles
 
 - Document everything as a **timeline**
