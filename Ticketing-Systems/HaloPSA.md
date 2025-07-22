@@ -59,6 +59,7 @@ I’m documenting how a Level 1 IT Support uses HaloPSA because I would be using
 
 ### Common Ticket Example
 - Can’t log into Outlook Online – got “Something went wrong” once logged in.
+![Screenshot](images/screenshot403.jpg)
 - Reached out to the user, advised on the next actions to take.
 - Updated my ticket with clear English for easy reference.
 
