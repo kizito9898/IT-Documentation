@@ -90,8 +90,10 @@ As a  Helpdesk I might approval from management to install software application 
 - From the Inventory, you can enter **PDQ Deploy** and deploy software:
 ![Screenshot](images/screenshot379.jpg)
   - Tools → Deploy Package
+![Screenshot](images/screenshot380.jpg)
   - Example: Deploying packages like **7-Zip** and **Zoom**
 - Check target → Select time to deploy (etc.) → Deploy Now
+![Screen]
 - Package is then deployed successfully
 - On the lab/test machine, you can see the two apps installed silently on it
 - This is how applications are installed on a client machine silently without disturbing them
