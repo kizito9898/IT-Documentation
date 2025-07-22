@@ -80,13 +80,11 @@ If a ticket needs to be escalated to Level 2 or another department, I provide a 
 In an MSP environment, technicians often work across multiple clients, systems, and time zones. A well-documented ticket is not just helpful, it’s essential.
 
 It:
-
 - Shows consistent effort and professionalism
 - Reduces back-and-forth with clients
 - Allows seamless handover during shift transitions
 - Protects against miscommunication or disputes
 - Improves root cause analysis and long-term solutions
-
 ## Final Thought
 
 The quality of my ticket notes reflects the quality of my work. They show how I think, how I solve problems, and how I communicate. Whether a ticket is simple or complex, I take pride in making sure my documentation is thorough, accurate, and easy for others to follow.
