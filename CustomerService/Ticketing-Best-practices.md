@@ -193,7 +193,9 @@ Summarize all actions taken, findings, and next steps. Attach logs or screenshot
 [11:08 AM] Remote session active. Confirmed output device set to HDMI (user has headphones plugged in).
 
 [11:10 AM] Changed default audio device to headphones in Windows and Teams settings.
+
 [11:12 AM] Test call successful. Microphone and speaker both working.
+
 [11:15 AM] User confirmed issue resolved. Restarted Teams and tested again to ensure consistency.
 [11:18 AM] Advised to check audio defaults after reboot. Ticket closed.
 
