@@ -58,7 +58,7 @@ In my project, I have Windows 11 added to the PDQ Inventory.
 ![Screenshot](images/screenshot371.jpg)
 - You can remote into Windows 11 from Windows Server without TeamViewer or AnyDesk.
 ![Screenshot](images/screenshot369.jpg)
-!
+![Screenshot](images/screenshot372.jpg)
 
 ---
 ### Reboot or Shutdown via PDQ
