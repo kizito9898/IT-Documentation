@@ -45,15 +45,13 @@ When working in IT support, it’s not unusual to come across clients who are fr
   If abusive language continues, I document it and alert a supervisor or follow company policy.
 
 ---
-
 ## 3. Techniques I Use to Stay Grounded
 
 - **I take a deep breath before responding**
 - **I pause and reframe** before replying, especially to sharp messages.
-- **I mentally separate the emotion from the issue**—and stick to the facts.
+- **I mentally separate the emotion from the issue**, and stick to the facts.
 
 ---
-
 ## 4. Examples of Real Responses I’d Use
 
 ### Example 1: Angry Client
@@ -62,7 +60,7 @@ When working in IT support, it’s not unusual to come across clients who are fr
 
 **My response**:
 
-> *I’m really sorry you’ve had to wait—that’s understandably frustrating. I just picked up your ticket and I’m on it now. Let me take a quick look and I’ll keep you updated as I work on this.*
+> *I’m really sorry you’ve had to wait, that’s understandably frustrating. I just picked up your ticket and I’m on it now. Let me take a quick look and I’ll keep you updated as I work on this.*
 
 ---
 
