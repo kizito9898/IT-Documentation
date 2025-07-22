@@ -38,6 +38,7 @@ All without needing physical access to the device.
 - Once connected, I can:
   - Push documents into the machine from the server
 ![Screenshot](images/screenshot359.jpg)
+![Screenshot](images/screenshot)
   - Troubleshoot issues
   - Download applications
   - Find root causes to technical problems
