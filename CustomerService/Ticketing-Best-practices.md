@@ -129,9 +129,7 @@ Summarize all actions taken, findings, and next steps. Attach logs or screenshot
 
 ### Account Lockout
 [09:12 AM] User unable to log in. Error: "Account locked." Issue started around 08:50 AM after multiple password attempts.
-
 [09:15 AM] Checked Active Directory – account locked due to 5 failed attempts. Verified no suspicious activity on logs.
-
 [09:18 AM] Unlocked account in AD. Instructed user to attempt login.
 
 [09:22 AM] User logged in successfully. Advised to wait 30 seconds after each failed attempt going forward.
@@ -202,7 +200,9 @@ Summarize all actions taken, findings, and next steps. Attach logs or screenshot
 
 ---
 
-  ## Best Practices for Notes  - Use **bulletproof clarity** – no abbreviations unless widely known (e.g. AD, VPN) - Mention **tools used** (RDP, AnyDesk, ADUC, CMD) - Include **logs or command output summaries** when useful - If issue recurs, use tags or keywords so it’s searchable later - Keep your tone **calm, courteous, and composed** – especially if notes are visible to clients  ---  ## What I Avoid  - Writing vague notes like “Issue fixed” without stating what was done - Leaving notes with no time reference or status - Using emotional or sarcastic language - Copy-pasting logs without context - Closing a ticket without user confirmation or proper follow-up  ---  ## Follow-Up Example (Email or Internal Note)`
+  ## Best Practices for Notes  - Use **bulletproof clarity** – no abbreviations unless widely known (e.g. AD, VPN) - Mention **tools used** (RDP, AnyDesk, ADUC, CMD) - Include **logs or command output summaries** when useful - If issue recurs, use tags or keywords so it’s searchable later - Keep your tone **calm, courteous, and composed** – especially if notes are visible to clients  ---  ## What I Avoid  - Writing vague notes like “Issue fixed” without stating what was done - Leaving notes with no time reference or status - Using emotional or sarcastic language - Copy-pasting logs without context - Closing a ticket without user confirmation or proper follow-up 
+  
+## Follow-Up Example (Email or Internal Note)`
 
 [04:45 PM] Followed up via email:
 
