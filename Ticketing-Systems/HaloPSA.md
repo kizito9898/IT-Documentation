@@ -74,9 +74,10 @@ I’m documenting how a Level 1 IT Support uses HaloPSA because I would be using
 - User reports printer issue, stopped printing out.
 ![Screenshot](images/screenshot408.jpg)
 - Emailed the user, suggested to start a remote connection to narrow down the problem.
-![Screenshot](images/screensho)
+![Screenshot](images/screenshot409.jpg)
 - Cleared print queue, restarted the Print Spooler, set to use the main tray 1 for printing. Tested printing and it’s working.
 - Emailed the user after session:
   - What caused the issue.
   - Thanked them for patience and understanding.
+
 - Updated my ticket note with timestamp and clear documentation.
