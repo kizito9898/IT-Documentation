@@ -138,7 +138,7 @@ Summarize all actions taken, findings, and next steps. Attach logs or screenshot
 
 [09:25 AM] Confirmed user access to Outlook, Teams, and mapped drives. User confirmed everything working. Ticket close
 
-`---  ### Outlook Not Opening / Freezing`
+  ### **Outlook Not Opening / Freezing**
 
 [10:06 AM] User reports Outlook not opening. No error message. Issue started this morning.
 
