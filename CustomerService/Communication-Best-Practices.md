@@ -15,11 +15,11 @@ It's the bridge between technical solutions and user satisfaction.
 - **I start with a friendly, warm tone**  
   I greet them by name if I know it. I want them to feel like they're talking to someone who genuinely cares.
 
-  > *Hi Sarah, thanks for reaching out. I see you’re having trouble with the VPN,let’s take care of that together.*
+  > *Hi Sarah, thanks for reaching out. I see you’re having trouble with the VPN, let’s take care of that together.*
 
 - **I introduce myself and what I’ll be doing**
 
-  > *I’m Kizito for IT Support—I'll be assisting you today to get this sorted out.*
+  > *I’m Kizito for IT Support, I'll be assisting you today to get this sorted out.*
 
 - **I show that I understand it’s a real issue for them**
 
@@ -45,7 +45,7 @@ It's the bridge between technical solutions and user satisfaction.
 - **I don’t downplay issues**  
   Even small problems matter to the client, so I treat everything with attention.
 
-  > *Yeah, that error message is strange—let’s look into it together.*
+  > *Yeah, that error message is strange, let’s look into it together.*
 
 - **I keep my tone calm and supportive**  
   No matter how the client is feeling, I stay positive and helpful.
