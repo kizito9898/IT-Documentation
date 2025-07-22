@@ -1,6 +1,6 @@
 
 ---
-# Microsoft 365 Documentation
+# Microsoft 365 Admin Documentation
 
 ### What is Microsoft 365?  
 Microsoft 365 is a **cloud-based suite of productivity and security tools** offered by Microsoft. It includes **Office apps, cloud storage, email, collaboration tools, and security features** to help businesses manage their IT infrastructure.
@@ -19,9 +19,7 @@ The **Microsoft 365 Admin Center** is a web-based portal used by IT administrato
 - **Monitor service health and security**  
 - **Configure security and compliance settings**  
 - **Manage Microsoft 365 services like Exchange, SharePoint, and Teams**  
-
 ---
-
 ## 2. User Management  
 
 ### Creating, Deleting, and Restoring Users  
