@@ -3,7 +3,7 @@
 ### What is RDP?
 
 Remote Desktop Protocol (RDP) is a built-in Microsoft protocol that allows users to remotely connect to and control another Windows computer over a network.  
-![Screenshot](images/screenshot336.jpg)
+
 It’s commonly used by IT Support or System Administrators to:
 - Troubleshoot issues
 - Configure systems  
