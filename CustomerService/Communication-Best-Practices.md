@@ -3,7 +3,7 @@
 ---
 ### **What is Customer Service in IT Support?**
 
-**Customer Service** in IT support refers to the way you interact with end-users when resolving their technical issues. It’s not just about solving problems—it’s about doing so in a way that makes users feel **heard, respected, and supported**.
+**Customer Service** in IT support refers to the way you interact with end-users when resolving their technical issues. It’s not just about solving problems, it’s about doing so in a way that makes users feel **heard, respected, and supported**.
 
 It's the bridge between technical solutions and user satisfaction.
 ## 1. How I Approach a Client in Need
@@ -15,7 +15,7 @@ It's the bridge between technical solutions and user satisfaction.
 - **I start with a friendly, warm tone**  
   I greet them by name if I know it. I want them to feel like they're talking to someone who genuinely cares.
 
-  > *Hi Sarah, thanks for reaching out. I see you’re having trouble with the VPN—let’s take care of that together.*
+  > *Hi Sarah, thanks for reaching out. I see you’re having trouble with the VPN,let’s take care of that together.*
 
 - **I introduce myself and what I’ll be doing**
 
