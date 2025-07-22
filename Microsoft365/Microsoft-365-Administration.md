@@ -71,34 +71,25 @@ The **Microsoft 365 Admin Center** is a web-based portal used by IT administrato
 3. Click **Reset password**  
 4. Choose **Auto-generate** or enter a new password manually  
 5. Click **Reset** and notify the user  
-
 #### **Setting Up Multi-Factor Authentication (MFA)**  
 1. Go to **Users > Active users**  
 2. Click **Multi-factor authentication**  
 3. Select the user and enable MFA  
 4. The user will be required to set up MFA on their next login with their Device.
-
 ---
-
 ### Troubleshooting Login Issues  
 
 #### **1. User Can't Sign In (Incorrect Password / Forgot Password)**  
 - Reset the password via **Microsoft 365 Admin Center**  
-
 #### **2. Account Locked**  
 - Unlock via **Users > Active Users > Reset password**  
 - Check **Azure AD Sign-in logs** for failed attempts  
-
 #### **3. MFA Issues (User Lost Access to Authenticator App)**  
 - Disable and re-enable MFA for the user  
 - Provide a temporary password and instruct them to reconfigure MFA  
 
 ---
-
 ## 3. Microsoft 365 Groups & Teams  
-
-### Creating and Managing Microsoft 365 Groups  
-
 #### **Creating a Microsoft 365 Group**  
 1. Go to **Microsoft 365 Admin Center**/**Microsoft Exchange Admin**  
 2. Navigate to **Teams & Groups > Active teams & groups**  
