@@ -35,7 +35,7 @@ When working in IT support, it’s not unusual to come across clients who are fr
 
 - **I don’t take it personally**
   
-  I remind myself they’re frustrated with the situation,not with me.
+  I remind myself they’re frustrated with the situation, not with me.
 
 - **If it crosses a line, I stay polite but firm**
 
