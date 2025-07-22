@@ -10,16 +10,13 @@ It’s commonly used by IT Support or System Administrators to:
 All without needing physical access to the device.
 
 ---
-
 ### Pre-Connection Checklist
-
 - First, make sure both systems can **ping each other** (check network connectivity).
 - Confirm they are both **on the same network**.
 - Server used: **Server 2022**
 - Client machine used: **Windows 11 Pro** (`OS 10.1 - WIn11`)
 
 ---
-
 ### How to Launch RDP on Windows
 
 1. Press `Win + R`
