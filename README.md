@@ -28,35 +28,17 @@
 
 **By Chiagozie Njika – IT Support Specialist | Entry-Level | Home Lab & Self-Taught**
 
-  
-
 Welcome to my IT Documentation Portfolio. This repository is a result of months of practical learning, hands-on configuration, and deep study across various areas in IT — from system administration and cloud technologies to remote support and troubleshooting.  
 
-  
-
 ---
-
-  
-
 ## About Me
-
-  
-
 I’m an aspiring IT Support Specialist who has built a strong foundation through personal lab projects, real-world scenarios, and consistent documentation practice. I believe in learning by doing, and everything in this repository is a reflection of that mindset.
-
-  
-
 I currently hold certifications in:
-
-  
-
 - **CompTIA IT Fundamentals (ITF+)**
 
 - **Google IT Support Professional Certificate**
 
 - **LinkedIn and Microsoft Learn Paths on Windows Server, Intune, and Microsoft 365**
-
-  
 
 My goal is to work remotely in a dynamic MSP or IT environment where I can grow, contribute, and provide value.
 
