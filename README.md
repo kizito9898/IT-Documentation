@@ -1,5 +1,8 @@
-<
-- **Email<h1 align="center">IT Documentation Portfolio</h1>
+<h1 ali
+
+<p align="center">
+
+<h1 align="center">IT Documentation Portfolio</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Windows_Server-2019/2022-blue?logo=windows&logoColor=white" />
@@ -19,7 +22,6 @@
 Welcome to my IT Documentation Portfolio. This repository is a result of months of practical learning, hands-on configuration, and deep study across various areas in IT — from system administration and cloud technologies to remote support and troubleshooting.  
 
 ---
-
 ## About Me
 
 I’m an aspiring IT Support Specialist who has built a strong foundation through personal lab projects, real-world scenarios, and consistent documentation practice. I believe in learning by doing, and everything in this repository is a reflection of that mindset.
@@ -116,11 +118,5 @@ Please reach out. I’d love to contribute and grow within your team.
 - **LinkedIn**: [Chiagozie Njika](https://www.linkedin.com/in/chiagozie-njika-a24660284)  
 - **GitHub**: [kizito9898](https://github.com/kizito9898)  
 - **Email**: chiagozienjika078@gmail.com  
-
----
-
-
-
-  
 
 ---
