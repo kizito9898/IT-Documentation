@@ -71,6 +71,7 @@ Put in Days, Hours & Minutes you want IP address to last on a Computer → Next
   - Description: `Printer IP Address`
   - Click **Add**
 ![Screenshot](images/screenshot428.jpg)
+![Screenshot](images/screensh)
 - As soon as the printer connects to the internal network, it will get this IP address.
 
 **Configure DHCP options**  
