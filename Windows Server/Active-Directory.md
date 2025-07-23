@@ -221,13 +221,13 @@ Click **OK** to create the group.
 ![Screenshot](images/screenshot416.jpg)
 - Managing the computer from Active Directory:  
   Go to **Users** → Right-click → **Manage** → You can view the local users (Computer Management).
-![Screenshot](images/screenshot)
+![Screenshot](images/screenshot417.jpg)
 - **3389** port is used for Remote Desktop.
 
 - Add the computer to a group (e.g., HR):  
   This is a distribution of group policy.  
   Add the computer to HR group → The computer gets every policy from the HR group to the computer.
-
+![Screenshot]
 ---
 ## Creating a New User Account on Active Directory
 
