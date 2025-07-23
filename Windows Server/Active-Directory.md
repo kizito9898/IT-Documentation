@@ -26,7 +26,7 @@ It helps organizations:
 11. Create a password (e.g., `Capital123).
 12. Click **Next**.
 13. Wait for **Prerequisites check**.
-14. Click **Install** — it will restart your computer.
+14. Click **Install**  it will restart your computer.
 
 > **Note:** Active Directory Users & Computers are now installed in the server.
 
