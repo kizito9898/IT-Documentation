@@ -51,10 +51,10 @@ Put in Days, Hours & Minutes you want IP address to last on a Computer → Next
 ![Screenshot](images/screenshot424.jpg)
 - On the DHCP Server:  
   Right-click on **IPv4** to create a new scope of IP addresses → Welcome wizard → Next → Name the scope →  
-![Screenshot](images/screenshot)
+![Screenshot](images/screenshot425.jpg)
   Need to add the IP range (e.g., from `192.168.1.0` to `192.168.1.100`)  
   Subnet mask: `255.255.255.0`
-
+![Screenshot](images/screenshot426.jpg)
 - The address pool is the starting range of IPs defined on the DHCP Server, e.g., from `192.168.1.20` to `192.168.1.70`
 ---
 ## Address Lease
