@@ -243,3 +243,5 @@ Click **OK** to create the group.
 ## Moving the User to a Different OU
 
 - Right-click on the user → **Click on Move** → Select the container → Click OK.
+![Screenshot](images/screenshot422.jpg)
+
