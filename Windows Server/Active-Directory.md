@@ -229,7 +229,6 @@ Click **OK** to create the group.
   Add the computer to HR group → The computer gets every policy from the HR group to the computer.
 
 ---
-
 ## Creating a New User Account on Active Directory
 
 - Go to **Users → Right-click → New → User**
@@ -239,7 +238,6 @@ Click **OK** to create the group.
 - Finish
 
 ---
-
 ## Moving the User to a Different OU
 
 - Right-click on the user → **Click on Move** → Select the container → Click OK.
