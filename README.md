@@ -42,7 +42,6 @@ I currently hold certifications in:
 My goal is to work remotely in a dynamic MSP or IT environment where I can grow, contribute, and provide value.
 
 ---
-
 ## What’s Inside?
 
 ### Windows & Windows Server  
@@ -107,10 +106,9 @@ My goal is to work remotely in a dynamic MSP or IT environment where I can grow,
 - Structured troubleshooting and documentation workflow  
 - Personal growth log as I develop toward a full-time IT support role  
 
-This is more than just notes. It's a living portfolio created out of dedication to build practical, real-world knowledge and help others along the way.
+This is more than just notes. It's a living portfolio, created out of dedication to build practical, real-world knowledge and help others along the way.
 
 ---
-
 ## Let’s Connect
 
 If you're an **MSP, CTO, or remote team hiring manager** looking for someone with:
@@ -120,7 +118,6 @@ If you're an **MSP, CTO, or remote team hiring manager** looking for someone wit
 - Strong communication and documentation skills  
 
 Please reach out. I’d love to contribute and grow within your team.
-
 - **LinkedIn**: [Chiagozie Njika](https://www.linkedin.com/in/chiagozie-njika-a24660284)  
 - **GitHub**: [kizito9898](https://github.com/kizito9898)  
 - **Email**: chiagozienjika078@gmail.com  
