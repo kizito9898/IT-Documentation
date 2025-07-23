@@ -216,12 +216,12 @@ Click **OK** to create the group.
 
 - Computer added to the domain shows in Active Directory:  
   Go to **Active Directory → Computers** → You can see the desktops all added.
-![Screenshot]
+![Screenshot](images/screenshot415.jpg)
 - Right-click on the computer → **Properties → Attribute Editor** → This gives an overview of last logon & last logon timestamp.
 ![Screenshot](images/screenshot416.jpg)
 - Managing the computer from Active Directory:  
   Go to **Users** → Right-click → **Manage** → You can view the local users (Computer Management).
-
+![Screenshot](images/screenshot)
 - **3389** port is used for Remote Desktop.
 
 - Add the computer to a group (e.g., HR):  
