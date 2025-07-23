@@ -63,7 +63,7 @@ A DNS Server is a computer or network device that stores and manages domain name
 
 1. Right-click on **Forward Lookup Zones** → **New Zone** → **Next**
 2. **Zone Type** → Select **Primary Zone**, uncheck **Store the zone in Active Directory** → **Next**
-3. **Zone Name**: `nykarson.com` → **Zone File** (leave as default) → **Next**
+3. **Zone Name**: `njikason.com` → **Zone File** (leave as default) → **Next**
 4. **Dynamic Update**: Select **Do not allow** → **Finish**
 ---
 ## Reverse Lookup Zone
