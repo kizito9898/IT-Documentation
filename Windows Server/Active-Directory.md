@@ -245,3 +245,4 @@ Click **OK** to create the group.
 - Right-click on the user → **Click on Move** → Select the container → Click OK.
 ![Screenshot](images/screenshot422.jpg)
 
+![Screenshot](images/screenshot423.jpg)
