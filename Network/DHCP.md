@@ -70,7 +70,7 @@ Put in Days, Hours & Minutes you want IP address to last on a Computer → Next
   - MAC address of the printer: `2C:97:6C:17:D8:F4` (no spaces)
   - Description: `Printer IP Address`
   - Click **Add**
-
+![Screenshot](images/screenshot428.jpg)
 - As soon as the printer connects to the internal network, it will get this IP address.
 
 **Configure DHCP options**  
