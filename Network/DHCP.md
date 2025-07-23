@@ -47,9 +47,8 @@ Put in Days, Hours & Minutes you want IP address to last on a Computer → Next
 
 
 - **DHCP Server** → Under it is called **Scope**, where IPs are configured.
-
 - A **Scope** is the range of IP addresses you are going to use on the DHCP Server.
-
+![Screenshot](images/screenshot424.jpg)
 - On the DHCP Server:  
   Right-click on **IPv4** to create a new scope of IP addresses → Welcome wizard → Next → Name the scope →  
   Need to add the IP range (e.g., from `192.168.1.0` to `192.168.1.100`)  
