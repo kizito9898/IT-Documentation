@@ -8,7 +8,7 @@ DNS (Domain Name System) is a protocol that translates human-readable domain nam
 ## DNS Server
 
 A DNS Server is a computer or network device that stores and manages domain name records and responds to DNS queries by resolving domain names into IP addresses.
-![Screenshot](images/screenshot434.jpg)
+![Screenshot](images/screenshot430.jpg)
 
 ---
 > **Tip:** Before installing DNS in the server, the server needs to have a static IP address.
