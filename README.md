@@ -1,132 +1,235 @@
-h1 align="center">IT Documentation Portfolio</h1>
+<h1 align="center">IT Documentation Portfolio</h1>
+
+  
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Windows_Server-2019/2022-blue?logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/Active_Directory-User_Management-blueviolet?logo=microsoft&logoColor=white" />
-  <img src="https://img.shields.io/badge/Intune-MDM/MAM-lightgrey?logo=microsoft&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft_365-Admin-orange?logo=microsoft&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ticketing-ServiceNow/Zendesk-success?logo=zendesk&logoColor=white" />
-  <img src="https://img.shields.io/badge/PDQ_Deploy-Silent_Install-lightblue?logo=windows&logoColor=white" />
-</p> 
+
+  <img src="[https://img.shields.io/badge/Windows_Server-2019/2022-blue?logo=windows&logoColor=white](https://img.shields.io/badge/Windows_Server-2019/2022-blue?logo=windows&logoColor=white)" />
+
+  <img src="[https://img.shields.io/badge/Active_Directory-User_Management-blueviolet?logo=microsoft&logoColor=white](https://img.shields.io/badge/Active_Directory-User_Management-blueviolet?logo=microsoft&logoColor=white)" />
+
+  <img src="[https://img.shields.io/badge/Intune-MDM/MAM-lightgrey?logo=microsoft&logoColor=white](https://img.shields.io/badge/Intune-MDM/MAM-lightgrey?logo=microsoft&logoColor=white)" />
+
+  <img src="[https://img.shields.io/badge/Microsoft_365-Admin-orange?logo=microsoft&logoColor=white](https://img.shields.io/badge/Microsoft_365-Admin-orange?logo=microsoft&logoColor=white)" />
+
+  <img src="[https://img.shields.io/badge/Ticketing-ServiceNow/Zendesk-success?logo=zendesk&logoColor=white](https://img.shields.io/badge/Ticketing-ServiceNow/Zendesk-success?logo=zendesk&logoColor=white)" />
+
+  <img src="[https://img.shields.io/badge/PDQ_Deploy-Silent_Install-lightblue?logo=windows&logoColor=white](https://img.shields.io/badge/PDQ_Deploy-Silent_Install-lightblue?logo=windows&logoColor=white)" />
+
+</p>
+
+  
 
 ---
 
-#  IT Documentation Portfolio  
+  
 
-**By Chiagozie Njika – IT Support Specialist (Home Lab Projects & Hands-On Skills)**
+# IT Documentation Portfolio  
 
-Welcome to my IT Documentation portfolio! Here, I document real-world labs, simulated tickets, troubleshooting walkthroughs, and configurations, all based on my personal home lab built over several months.
+**By Chiagozie Njika – IT Support Specialist | Entry-Level | Home Lab & Self-Taught**
 
----
-##  Personal Documentation of Hands-On IT Learning  
+  
 
-The IT field is more than just solving technical issues, it's about **understanding systems, streamlining processes, delivering reliable solutions, and ensuring exceptional customer service**. I have been **deeply engaged in IT support, system administration, cloud technologies, and cybersecurity**, while also focusing on **providing excellent customer service and maintaining clear documentation through detailed ticket notes**.  
+Welcome to my IT Documentation Portfolio. This repository is a result of months of practical learning, hands-on configuration, and deep study across various areas in IT — from system administration and cloud technologies to remote support and troubleshooting.  
 
-This is not just a collection of notes, it's a **personal IT knowledge base** built from **hands-on troubleshooting, real-world challenges, and deep technical learning**.  
-
----
-##  What’s Inside?  
-
-###  **Windows & Windows Server**  
-- [Windows Troubleshooting](Windows-Server/Windows-Troubleshooting.md)
-- [PowerShell Commands](Windows-Server/PowerShell-Commands.md)
-- [Windows Server](Windows-Server/Windows-Server.md)
-- [Active Directory](Windows-Server/Active-Directory.md)
-- [Group Policy Management](Windows-Server/Group-Policy-Management.md)  
-- [Map Drive](Windows-Server/Mapping-Drive.md)
-
-###  **Networking & Security**  
-- [Networking Troubleshooting](Network/Networking-Troubleshooting.md)  
-- [DNS](Network/DNS.md)
-- [MFA & Security Best Practices](Security/MFA-Security-Practices.md)
-- [DHCP](Network/DHCP)
-
-###  **Microsoft 365: Deployment, Administration & Management**  
-- [Microsoft 365 Administration](Microsoft365/Microsoft-365-Administration.md) 
-- [Exchange Administration](Microsoft365/Exchange-Administration.md)  
-- [SharePoint Administration](Microsoft365/SharePoint-Administration.md)  
-- [Teams Administration](Microsoft365/Teams-Administration.md)  
-- [Microsoft 365 Deployment](Microsoft365/Microsoft-365-Deployment.md) 
-
-###  **Microsoft Intune, Endpoint Management & MDM**  
-- [Device Enrollment](Intune/Device-Enrollment.md)  
-- [Compliance Policies](Intune/Compliance-Policies.md)  
-- [App Deployment](Intune/App-Deployment.md)  
-- [MDM (Mobile Device Management)](Intune/MDM-Basics.md) 
-- [Intune Enrollment Troubleshooting](Intune/Enrollment-Troubleshooting.md) 
-
-###  **Azure & Cloud Administration**  
-- [Azure Virtual Machines Setup](Azure/Virtual-Machines-Setup.md)  
-- [Azure Entra ID](Azure/Entra-ID-Fundamentals.md)
-
-###  **IT Support & Customer Service Best Practices**  
-- [Communication Best Practices](CustomerService/Communication-Best-Practices.md)  
-- [Handling Difficult Customers](CustomerService/Handling-Difficult-Customers.md)  
-- [Ticketing Best Practices](CustomerService/Ticketing-Best-Practices.md)
-
-###  **MSP Tools & Ticketing Systems**  
-- [ConnectWise Ticketing Best Practices](ConnectWise/Ticketing-Best-Practices.md)  
-- [Common Issues & Fixes in ConnectWise](ConnectWise/Common-Issues-Fixes.md)  
-- [IT Glue Documentation Best Practices](ITGlue/Documentation-Best-Practices.md)  
-- [IT Glue Documentation Templates](ITGlue/IT-Documentation-Templates.md)  
-
-###  **Troubleshooting & Real-World IT Scenarios**  
-- [Printer Issues](Troubleshooting/Printer-Issues.md)  
-- [Outlook Issues](Troubleshooting/Outlook-Issues.md)  
-- [Wi-Fi Connection Issues](Troubleshooting/WiFi-Connection-Issues.md)   
-- [Domain Trust Relationship Failed](Troubleshooting/Domain-Trust-Relationship-Failed.md) 
-
-## SCCM (System Center Configuration Manager)
-- [Overview of SCCM](SCCM/SCCM-Overview.md)  
-- [Deploying Applications](SCCM/Deploying-Applications.md)  
-- [Windows Updates Management](SCCM/Windows-Updates-Management.md)
-- [Device Collection & Inventory](SCCM/Device-Collection-Inventory.md)  
-- [SCCM Logs & Troubleshooting](SCCM/Logs-Troubleshooting.md)
-
-### **MDM (Mobile Device Management)**  
-- [Duo MDM Configuration](MDM/Duo-MFA.md)
-
-### **PDQ Deploy & Inventory**  
-- [PDQ Deploy Automation Guide](PDQ/PDQ-Deploy-Automation.md)
-- [PDQ Inventory](PDQ/PDQ-Inventory.md)
-
-###  **SCCM (System Center Configuration Manager)**  
-- [SCCM Deployment Basics](SCCM/SCCM-Deployment.md)
-- [SCCM Inventory & Reporting](SCCM/SCCM-Inventory-Reporting.md)
-
-###  **Ticketing Systems: ServiceNow & Zendesk**  
-- [ServiceNow Ticketing Guide](Ticketing-Systems/ServiceNow-Ticketing.md)
-- [Zendesk Guide](Ticketing-Systems/Zendesk.md)
-- [HaloPSA](Ticketing-Systems/HaloPSA)
-### **Remote Desktop Connection**
-- [TeamViewer](Remote-Connection/TeamViewer)
-- [Microsoft-RDP](Remote-Connection/Microsoft-RDP)
+  
 
 ---
 
-##  Why This Repository Matters  
+  
 
-This documentation is a **reflection of my IT journey**—not just theoretical knowledge, but **hands-on experience troubleshooting real-world IT issues**.  
+## About Me
 
-- **Built from real challenges I’ve encountered** while mastering Windows, Microsoft 365, networking, and security.  
-- **A structured approach to IT learning**, making it easy to reference solutions and best practices.  
-- **A growing knowledge base** that will continue to evolve as I advance in my IT career.  
+  
 
- **This is my journey, my work, and my contribution to the IT community. For anyone looking to get into IT or struggling to start, I hope this documentation helps you venture into the world of IT.**
+I’m an aspiring IT Support Specialist who has built a strong foundation through personal lab projects, real-world scenarios, and consistent documentation practice. I believe in learning by doing, and everything in this repository is a reflection of that mindset.
+
+  
+
+I currently hold certifications in:
+
+  
+
+- **CompTIA IT Fundamentals (ITF+)**
+
+- **Google IT Support Professional Certificate**
+
+- **LinkedIn and Microsoft Learn Paths on Windows Server, Intune, and Microsoft 365**
+
+  
+
+My goal is to work remotely in a dynamic MSP or IT environment where I can grow, contribute, and provide value.
+
+  
 
 ---
-### **Let’s Connect**
 
-If you’re a **CTO, IT Manager, or hiring recruiter** looking for practical hands-on skills — I’d love to connect.
+  
 
-- **LinkedIn:** [Chiagozie Njika](https://www.linkedin.com/in/chiagozie-njika-a24660284)  
-- **GitHub:** [kizito9898](https://github.com/kizito9898)  
-- **Email:** chiagozienjika078@gmail.com  
+## What’s Inside?
+
+  
+
+### Windows & Windows Server  
+
+- [Windows Troubleshooting](Windows-Server/Windows-Troubleshooting.md)  
+
+- [PowerShell Commands](Windows-Server/PowerShell-Commands.md)  
+
+- [Windows Server](Windows-Server/Windows-Server.md)  
+
+- [Active Directory](Windows-Server/Active-Directory.md)  
+
+- [Group Policy Management](Windows-Server/Group-Policy-Management.md)  
+
+- [Map Drive](Windows-Server/Mapping-Drive.md)  
+
+  
+
+### Networking & Security  
+
+- [Networking Troubleshooting](Network/Networking-Troubleshooting.md)  
+
+- [DNS](Network/DNS.md)  
+
+- [DHCP](Network/DHCP)  
+
+- [MFA & Security Best Practices](Security/MFA-Security-Practices.md)  
+
+  
+
+### Microsoft 365  
+
+- [Microsoft 365 Administration](Microsoft365/Microsoft-365-Administration.md)  
+
+- [Exchange, SharePoint, Teams](Microsoft365/Exchange-Administration.md)  
+
+- [Microsoft 365 Deployment](Microsoft365/Microsoft-365-Deployment.md)  
+
+  
+
+### Intune & Endpoint Management  
+
+- [Device Enrollment](Intune/Device-Enrollment.md)  
+
+- [Compliance Policies](Intune/Compliance-Policies.md)  
+
+- [App Deployment](Intune/App-Deployment.md)  
+
+- [Intune Troubleshooting](Intune/Enrollment-Troubleshooting.md)  
+
+  
+
+### Azure & Cloud  
+
+- [Azure VM Setup](Azure/Virtual-Machines-Setup.md)  
+
+- [Azure Entra ID](Azure/Entra-ID-Fundamentals.md)  
+
+  
+
+### IT Support & Communication  
+
+- [Customer Communication](CustomerService/Communication-Best-Practices.md)  
+
+- [Difficult Users](CustomerService/Handling-Difficult-Customers.md)  
+
+- [Ticketing Best Practices](CustomerService/Ticketing-Best-Practices.md)  
+
+  
+
+### Ticketing & MSP Tools  
+
+- [ConnectWise](ConnectWise/Ticketing-Best-Practices.md)  
+
+- [ServiceNow, Zendesk](Ticketing-Systems/ServiceNow-Ticketing.md)  
+
+- [HaloPSA](Ticketing-Systems/HaloPSA)  
+
+- [IT Glue Templates](ITGlue/IT-Documentation-Templates.md)  
+
+  
+
+### Troubleshooting  
+
+- [Printer Issues](Troubleshooting/Printer-Issues.md)  
+
+- [Outlook Issues](Troubleshooting/Outlook-Issues.md)  
+
+- [WiFi Issues](Troubleshooting/WiFi-Connection-Issues.md)  
+
+- [Domain Trust Failure](Troubleshooting/Domain-Trust-Relationship-Failed.md)  
+
+  
+
+### SCCM & PDQ Deploy  
+
+- [SCCM Overview](SCCM/SCCM-Overview.md)  
+
+- [Application Deployment](SCCM/Deploying-Applications.md)  
+
+- [PDQ Deploy Guide](PDQ/PDQ-Deploy-Automation.md)  
+
+  
+
+### Remote Access  
+
+- [TeamViewer](Remote-Connection/TeamViewer)  
+
+- [Microsoft RDP](Remote-Connection/Microsoft-RDP)
+
+  
 
 ---
 
+  
 
+## Why This Documentation Matters  
 
+  
 
+- **Real experience from home lab environments** simulating MSP-like issues  
 
+- **Structured troubleshooting and documentation workflow**  
 
+- **Personal growth log** as I develop toward a full-time IT support role  
+
+  
+
+This is more than just notes. It's a **living portfolio** — created out of dedication to build practical, real-world knowledge and help others along the way.
+
+  
+
+---
+
+  
+
+## Let’s Connect
+
+  
+
+If you're an **MSP, CTO, or remote team hiring manager** looking for someone with:
+
+  
+
+- The ability to learn fast
+
+- Practical troubleshooting mindset
+
+- Strong communication and documentation skills  
+
+  
+
+Please reach out. I’d love to contribute and grow within your team.
+
+  
+
+- **LinkedIn**: [Chiagozie Njika]([https://www.linkedin.com/in/chiagozie-njika-a24660284](https://www.linkedin.com/in/chiagozie-njika-a24660284))  
+
+- **GitHub**: [kizito9898]([https://github.com/kizito9898](https://github.com/kizito9898))  
+
+- **Email**: [chiagozienjika078@gmail.com](mailto:chiagozienjika078@gmail.com)  
+
+  
+
+---
