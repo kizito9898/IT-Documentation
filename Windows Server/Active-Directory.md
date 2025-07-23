@@ -236,7 +236,9 @@ Click **OK** to create the group.
 - Add the username (Login name)
 - Add temporary password
 - Finish
-![Screenshot](images/screenshot420)
+![Screenshot](images/screenshot420.jpg)
+![Screenshot](images/screenshot421.jpg)
+
 ---
 ## Moving the User to a Different OU
 
