@@ -1,35 +1,10 @@
-<h1 align="center">IT Documentation Portfolio</h1>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Windows_Server-2019/2022-blue?logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/Active_Directory-User_Management-blueviolet?logo=microsoft&logoColor=white" />
-  <img src="https://img.shields.io/badge/Group_Policy-Configuration-lightblue?logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft_365-Admin-orange?logo=microsoft&logoColor=white" />
-  <img src="https://img.shields.io/badge/Intune-MDM/MAM-lightgrey?logo=microsoft&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure_Entra_ID-Identity_Management-blue?logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/PDQ_Deploy-Automation-lightblue?logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/PDQ_Inventory-Asset_Tracking-success?logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/DNS-Configuration-informational?logo=internetexplorer&logoColor=white" />
-  <img src="https://img.shields.io/badge/DHCP-Networking-yellow?logo=networkx&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ticketing-ServiceNow/Zendesk/HaloPSA-critical?logo=zendesk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Remote_Connection-RDP/TeamViewer-important?logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/MFA%20&%20MDM-Security_Best_Practices-blue?logo=microsoft&logoColor=white" />
-  <img src="https://img.shields.io/badge/Troubleshooting-PC/Network_Issues-lightgrey?logo=windows&logoColor=white" />
-</p>
 
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Windows_Server-2019/2022-blue?logo=windows&logoColor=white" />
+<p align="lds.io/badge/Windows_Server-2019/2022-blue?logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/Active_Directory-User_Management-blueviolet?logo=microsoft&logoColor=white" />
   <img src="https://img.shields.io/badge/Intune-MDM/MAM-lightgrey?logo=microsoft&logoColor=white" />
   <img src="https://img.shields.io/badge/Microsoft_365-Admin-orange?logo=microsoft&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure-Entra_ID-blue?logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Networking-DNS/DHCP-green?logo=cloudflare&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ticketing-ServiceNow/Zendesk-success?logo=zendesk&logoColor=white" />
-  <img src="https://img.shields.io/badge/PDQ_Deploy-Silent_Install-lightblue?logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/SCCM-Software_Deployment-blue?logo=microsoft&logoColor=white" />
-  <img src="https://img.shields.io/badge/IT_Support-Troubleshooting-blue?logo=helpdesk&logoColor=white" />
-</p>
+  <img src
 
 ---
 # IT Documentation Portfolio  
