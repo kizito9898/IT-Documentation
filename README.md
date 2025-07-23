@@ -1,4 +1,4 @@
-<h1 align="center">IT Documentation Portfolio</h1>
+h1 align="center">IT Documentation Portfolio</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Windows_Server-2019/2022-blue?logo=windows&logoColor=white" />
