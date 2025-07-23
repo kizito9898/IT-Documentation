@@ -216,7 +216,7 @@ Click **OK** to create the group.
 
 - Computer added to the domain shows in Active Directory:  
   Go to **Active Directory → Computers** → You can see the desktops all added.
-
+![Screenshot]
 - Right-click on the computer → **Properties → Attribute Editor** → This gives an overview of last logon & last logon timestamp.
 ![Screenshot](images/screenshot416.jpg)
 - Managing the computer from Active Directory:  
