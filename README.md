@@ -29,7 +29,7 @@ This is not just a collection of notes, it's a **personal IT knowledge base** bu
 
 ###  **Windows & Windows Server**  
 - [Windows Troubleshooting](Windows-Server/Windows-Troubleshooting.md)
-- [PowerShell Commands](Windows/PowerShell-Commands.md)
+- [PowerShell Commands](Windows-Server/PowerShell-Commands.md)
 - [Windows Server](Windows/Windows-Server.md)
 - [Active Directory](Windows/Active-Directory.md)
 - [Group Policy Management](Windows/Group-Policy-Management.md)  
