@@ -88,13 +88,11 @@ My goal is to work remotely in a dynamic MSP or IT environment where I can grow,
 - [SCCM Overview](SCCM/SCCM-Overview.md)  
 - [Application Deployment](SCCM/Deploying-Applications.md)  
 - [PDQ Deploy Guide](PDQ/PDQ-Deploy-Automation.md)  
-
 ### Remote Access  
 - [TeamViewer](Remote-Connection/TeamViewer)  
 - [Microsoft RDP](Remote-Connection/Microsoft-RDP)
 
 ---
-
 ## Why This Documentation Matters  
 
 - **Real experience from home lab environments** simulating MSP-like issues  
@@ -104,7 +102,6 @@ My goal is to work remotely in a dynamic MSP or IT environment where I can grow,
 This is more than just notes. It's a **living portfolio** — created out of dedication to build practical, real-world knowledge and help others along the way.
 
 ---
-
 ## Let’s Connect
 
 If you're an **MSP, CTO, or remote team hiring manager** looking for someone with:
