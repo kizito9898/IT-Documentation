@@ -60,6 +60,7 @@ Put in Days, Hours & Minutes you want IP address to last on a Computer → Next
 ## Address Lease
 
 - A lease is the range of IP addresses reserved for a specific thing, like a printer.
+![Screenshot](images/screenshot427.jpg)
 ---
 ## Reservation of IP Address
 
