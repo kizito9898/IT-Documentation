@@ -2,31 +2,13 @@
 
 <p align="center">
 
-<h1 align="center">IT Documentation Portfolio</h1>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Windows_Server-2019/2022-blue?logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/Active_Directory-User_Management-blueviolet?logo=microsoft&logoColor=white" />
-  <img src="https://img.shields.io/badge/Intune-MDM/MAM-lightgrey?logo=microsoft&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft_365-Admin-orange?logo=microsoft&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ticketing-ServiceNow/Zendesk-success?logo=zendesk&logoColor=white" />
-  <img src="https://img.shields.io/badge/PDQ_Deploy-Silent_Install-lightblue?logo=windows&logoColor=white" />
-</p>
+
+
 
 ---
 
-# IT Documentation Portfolio  
-
-**By Chiagozie Njika – IT Support Specialist | Entry-Level | Home Lab & Self-Taught**
-
-Welcome to my IT Documentation Portfolio. This repository is a result of months of practical learning, hands-on configuration, and deep study across various areas in IT — from system administration and cloud technologies to remote support and troubleshooting.  
-
----
-## About Me
-
-I’m an aspiring IT Support Specialist who has built a strong foundation through personal lab projects, real-world scenarios, and consistent documentation practice. I believe in learning by doing, and everything in this repository is a reflection of that mindset.
-
-I currently hold certifications in:
+# IT Documentation 
 
 - **CompTIA IT Fundamentals (ITF+)**
 - **Google IT Support Professional Certificate**
