@@ -227,7 +227,7 @@ Click **OK** to create the group.
 - Add the computer to a group (e.g., HR):  
   This is a distribution of group policy.  
   Add the computer to HR group → The computer gets every policy from the HR group to the computer.
-![Screenshot]
+![Screenshot](images/screenshot419.jpg)
 ---
 ## Creating a New User Account on Active Directory
 
@@ -236,7 +236,7 @@ Click **OK** to create the group.
 - Add the username (Login name)
 - Add temporary password
 - Finish
-
+![Screenshot](images/screenshot420)
 ---
 ## Moving the User to a Different OU
 
