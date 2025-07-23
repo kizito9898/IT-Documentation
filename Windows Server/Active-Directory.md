@@ -213,3 +213,33 @@ Click **OK** to create the group.
 ![Screenshot](images/screenshot77.jpg)
 > Now the user account will be functional again. it is bad practice to use never for account expires.
 
+
+- Computer added to the domain shows in Active Directory:  
+  Go to **Active Directory → Computers** → You can see the desktops all added.
+
+- Right-click on the computer → **Properties → Attribute Editor** → This gives an overview of last logon & last logon timestamp.
+
+- Managing the computer from Active Directory:  
+  Go to **Users** → Right-click → **Manage** → You can view the local users (Computer Management).
+
+- **3389** port is used for Remote Desktop.
+
+- Add the computer to a group (e.g., HR):  
+  This is a distribution of group policy.  
+  Add the computer to HR group → The computer gets every policy from the HR group to the computer.
+
+---
+
+## Creating a New User Account on Active Directory
+
+- Go to **Users → Right-click → New → User**
+- Scroll down to user
+- Add the username (Login name)
+- Add temporary password
+- Finish
+
+---
+
+## Moving the User to a Different OU
+
+- Right-click on the user → **Click on Move** → Select the container → Click OK.
