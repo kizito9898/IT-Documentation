@@ -45,6 +45,8 @@ Put in Days, Hours & Minutes you want IP address to last on a Computer → Next
 
 # DHCP Scope Activation and Client Configuration
 
+
+
 **Configure DHCP options**  
 → Yes and click Next  
 → Default gateway `(192.168.18.1)` → Next  
@@ -70,3 +72,35 @@ Put in Days, Hours & Minutes you want IP address to last on a Computer → Next
 ---
 
 > **Note:** Go to the DHCP Scope, right click and activate the scope.
+## DHCP
+
+- **DHCP Server** → Under it is called **Scope**, where IPs are configured.
+
+- A **Scope** is the range of IP addresses you are going to use on the DHCP Server.
+
+- On the DHCP Server:  
+  Right-click on **IPv4** to create a new scope of IP addresses → Welcome wizard → Next → Name the scope →  
+  Need to add the IP range (e.g., from `192.168.1.0` to `192.168.1.100`)  
+  Subnet mask: `255.255.255.0`
+
+- The address pool is the starting range of IPs defined on the DHCP Server, e.g., from `192.168.1.20` to `192.168.1.70`
+
+---
+
+## Address Lease
+
+- A lease is the range of IP addresses reserved for a specific thing, like a printer.
+
+---
+
+## Reservation
+
+- Reservation = Reservation of IP address
+
+- **New Reservation** → Add:
+  - Reservation name: `192.168.18.23`
+  - MAC address of the printer: `2C:97:6C:17:D8:F4` (no spaces)
+  - Description: `Printer IP Address`
+  - Click **Add**
+
+- As soon as the printer connects to the internal network, it will get this IP address.
