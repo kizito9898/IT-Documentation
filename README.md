@@ -30,9 +30,9 @@ This is not just a collection of notes, it's a **personal IT knowledge base** bu
 ###  **Windows & Windows Server**  
 - [Windows Troubleshooting](Windows-Server/Windows-Troubleshooting.md)
 - [PowerShell Commands](Windows-Server/PowerShell-Commands.md)
-- [Windows Server](Windows/Windows-Server.md)
-- [Active Directory](Windows/Active-Directory.md)
-- [Group Policy Management](Windows/Group-Policy-Management.md)  
+- [Windows Server](Windows-Server/Windows-Server.md)
+- [Active Directory](Windows-Server/Active-Directory.md)
+- [Group Policy Management](Windows-Server/Group-Policy-Management.md)  
 - [Map Drive](Windows/Mapping-Drive.md)
 
 ###  **Networking & Security**  
