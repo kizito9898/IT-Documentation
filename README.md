@@ -35,7 +35,6 @@ I currently hold certifications in:
 My goal is to work remotely in a dynamic MSP or IT environment where I can grow, contribute, and provide value.
 
 ---
-
 ## What’s Inside?
 
 ### Windows & Windows Server  
