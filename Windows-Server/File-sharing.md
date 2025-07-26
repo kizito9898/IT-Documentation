@@ -1,4 +1,4 @@
-# Map Drive
+# File-Sharing
 
 ## How to map a drive (Share Drive Permissions) - Home Lab
 
