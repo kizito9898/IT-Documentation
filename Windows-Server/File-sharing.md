@@ -187,6 +187,7 @@ Example:
 1. **Navigate to the Server**
    - Go to: `File & Storage Services`.
    - Right-click on `Shares` → `New Share`.
+![Screenshot](images/screenshot475.jpg)
    - Select `SMB Share - Quick`.
    - Share location: `C:\drive` → Click Next.
    - Share name: `FinanceNetworkDrive` → Click Next.
