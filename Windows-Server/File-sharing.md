@@ -183,6 +183,7 @@ Example:
    - Example: Financial Group in Active Directory.
    - Add users to the group (e.g., David Miller, Bony Allen).
 ![Screenshot](images/screenshot473.jpg)
+![Screenshot](images/screenshot47)
 1. **Navigate to the Server**
    - Go to: `File & Storage Services`.
    - Right-click on `Shares` → `New Share`.
