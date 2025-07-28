@@ -20,11 +20,9 @@ HR Manager submits a ticket asking IT to provision a new user who starts next Mo
 
 - Right-click on the user → Properties → Member Of  
   Search for the group and add the user → Apply
-
 ---
-
 ## Shared Drive Access
 
 - If access is needed to **Project Design**,  
   Add to the corresponding AD group that maps to the share  
-  Add to local PC, connect to the system, and map the drive
+  Add to local PC, connect to the system, and map the drive.
