@@ -29,6 +29,33 @@
   - Log out and sign in again.
 - Another fix:
   - Check the email and account to see if the account is configured properly.
+---
+## Shared Folder Access Issues
+
+### User Can't Access Team Folder on File Share
+- User raised a ticket: "I can access my personal folder but can't access my team's folder on our file share."
+- Reached out to get more information on the name and path of the team folder the user is trying to access.
+- Got a response: The user needs access to the **F: drive** (department folder).
+- Replied back: “I need approval and will request for one immediately.”
+- Confirm access approval via **finance department manager** (keep the approval document).
+
+---
+
+### Granting Access via File Server
+- Identify the security group via **File Server**:
+  - Right-click the shared folder → Properties → Security tab → Note the group name.
+- Open **Active Directory Users & Computers**, search the user (e.g., Rick Berkle):
+  - Right-click → Properties → Go to the *Member Of* tab → Add to the security group.
+- Reached out to the user to try logging off and back in.
+- Access confirmed by the user.
+
+---
+
+## Unable to Access the Shared Folder
+
+- User reported: "Unable to access the shared folder, please provide access."
+- Reached out to the user:
+  - Ask a couple of questions to know if they had access to the folder before, the folder name, and the full directory path if available.
 
 ## New Hire Set-up
 
