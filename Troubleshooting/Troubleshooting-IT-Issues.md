@@ -11,9 +11,7 @@
   - Find → Type in user log-in name → Account →  
   - Unlock account: check the box, then apply and OK.
 - Confirm: The account has been unlocked.
-
 ---
-
 ### Password Reset - User Forgot Password
 - User needs a password reset and can’t log in.
 - Reach out to the user → Verify identity → Ask for user log-in details.
@@ -23,9 +21,7 @@
   - Right-click → Reset password → Provide a temporary password
   - Check “User must change password at next logon” → OK.
 - User logs in with the new password after changing it.
-
 ---
-
 ### Outlook Crashing When Sending Email
 - Outlook keeps crashing when opened and trying to send an email.
 - Web version works fine.
