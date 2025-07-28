@@ -87,7 +87,7 @@ My goal is to work remotely in a dynamic MSP or IT environment where I can grow,
 - [Printer Issues](Troubleshooting/Printer-Issues.md)  
 - [Outlook Issues](Troubleshooting/Outlook-Issues.md)  
 - [Domain Trust Failure](Troubleshooting/Domain-Trust-Relationship-Failed.md)
-- 
+- [Troubleshooting]
 
 ### SCCM & PDQ Deploy  
 - [SCCM Overview](SCCM/SCCM-Overview.md)  
