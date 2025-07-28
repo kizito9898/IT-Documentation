@@ -191,8 +191,8 @@ Example:
    - Select `SMB Share - Quick`.
    - Share location: `C:\drive` → Click Next.
    - Share name: `FinanceNetworkDrive` → Click Next.
-
-3. **Permissions**
+![Screenshot](images/screenshot476.jpg)
+1. **Permissions**
    - Click on `Permissions` → `Customize permissions`.
    - Disable inheritance.
    - Convert inherited permissions into explicit permissions on this object.
