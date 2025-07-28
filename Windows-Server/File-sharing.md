@@ -202,7 +202,7 @@ Example:
 ![Screenshot](images/screenshot476.jpg)
    - Click `Apply` and `OK` → Click `Next`.
    - **Drive is Now Created**
-
+![Screenshot](images/screenshot478.jpg)
 
 ### Mapping Drive via Group Policy
 
