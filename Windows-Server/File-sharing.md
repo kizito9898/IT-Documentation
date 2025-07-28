@@ -197,8 +197,7 @@ Example:
    - Click on `Add` → `Select a Principal`.
    - Click `Advanced` → `Find Now` → Select and add `Financial Group`.
    - Click `Apply` and `OK` → Click `Next`.
-
-1. **Drive is Now Created**
+   - **Drive is Now Created**
 ### Mapping Drive via Group Policy
 
 1. Open `Server Manager` → Go to `Tools` → `Group Policy Management`.
