@@ -173,12 +173,10 @@ Example:
 
 - It is very important to guide the user and avoid any technical terms.
 - Make it simple and interactive with the user.
-
 ### Topics Covered
 - Shared drive
 - How to map network drive
 - Creating a network drive via group policy that allows automatic mapping for files for users on the same group permissions.
-
 ### Steps
 
 1. **Create a New Group**
@@ -200,13 +198,10 @@ Example:
    - Click `Advanced` → `Find Now` → Select and add `Financial Group`.
    - Click `Apply` and `OK` → Click `Next`.
 
-4. **Drive is Now Created**
-
+1. **Drive is Now Created**
 ### Mapping Drive via Group Policy
 
 1. Open `Server Manager` → Go to `Tools` → `Group Policy Management`.
-
 2. Navigate:
    - Forest → Domain → `nykason.com`.
-
-3. Right-click on `Finance` → Create a GPO linked to `Finance`.
+1. Right-click on `Finance` → Create a GPO linked to `Finance`.
