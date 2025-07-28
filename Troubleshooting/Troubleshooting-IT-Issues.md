@@ -73,6 +73,36 @@
 - Go to: Outlook → File → Options → Add-Ins → Click "Go" (at the bottom of the window).
 - Ask the user which add-ins are unnecessary → Remove them all.
 - User logged off and back in. Outlook seems to be working fine.
+## Outlook Issue - Additional Steps
+
+- Also tried to repair Office installation.
+- Closed the TeamViewer session → Session ended.
+- Sent an email to the user to confirm Outlook is working before closing the ticket.
+- Issue resolved.
+---
+## Internet Intermittency Issue
+### Reported By: Emma Baker
+- User reported having issues with the internet.
+- Connection drops or becomes unstable at random times.
+
+### Common Causes Considered
+- Weak Wi-Fi signal.
+- Faulty Ethernet cable.
+- ISP issues.
+- Network adapter.
+
+### Troubleshooting Steps
+
+- Reached out to user via HaloPSA, trying to get more information before troubleshooting.
+- User said it’s only affecting her, and she is the only one using the connection.
+- Instructed the user to reboot her system (and check any backup app). Sometimes a reboot solves the problem.
+- To isolate the problem, instructed her to try connecting with her phone. 
+  - If it works fine, then it's the computer.
+  - If not, then it's the internet service.
+
+- User reported still not working after reboot.
+
+- Since I couldn’t remote in, I had to guide the user through some simple network commands.
 
 ## New Hire Set-up
 
