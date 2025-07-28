@@ -193,6 +193,7 @@ Example:
    - Share name: `FinanceNetworkDrive` → Click Next.
 ![Screenshot](images/screenshot476.jpg)
 ![Screenshot](images/screenshot477.jpg)
+
 1. **Permissions**
    - Click on `Permissions` → `Customize permissions`.
    - Disable inheritance.
