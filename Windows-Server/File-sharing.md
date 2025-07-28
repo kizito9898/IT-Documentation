@@ -182,8 +182,8 @@ Example:
 1. **Create a New Group**
    - Example: Financial Group in Active Directory.
    - Add users to the group (e.g., David Miller, Bony Allen).
-
-2. **Navigate to the Server**
+![Screenshot](images/screee)
+1. **Navigate to the Server**
    - Go to: `File & Storage Services`.
    - Right-click on `Shares` → `New Share`.
    - Select `SMB Share - Quick`.
