@@ -132,7 +132,7 @@ This should correct and assign a new IP address.
 
 1. **Create a New Group**
    - Example: Financial Group in Active Directory.
-   - Add users to the group (e.g., David Miller, Bony Allen).
+   - Add users to the group (e.g., David Miller, BarryAllen).
 
 2. **Navigate to the Server**
    - Go to: `File & Storage Services`.
