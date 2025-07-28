@@ -84,13 +84,11 @@
 ### Reported By: Emma Baker
 - User reported having issues with the internet.
 - Connection drops or becomes unstable at random times.
-
 ### Common Causes Considered
 - Weak Wi-Fi signal.
 - Faulty Ethernet cable.
 - ISP issues.
 - Network adapter.
-
 ### Troubleshooting Steps
 
 - Reached out to user via HaloPSA, trying to get more information before troubleshooting.
