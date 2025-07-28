@@ -81,14 +81,13 @@ My goal is to work remotely in a dynamic MSP or IT environment where I can grow,
 ### Ticketing & MSP Tools  
 - [ConnectWise](ConnectWise/Ticketing-Best-Practices.md)  
 - [ServiceNow, Zendesk](Ticketing-Systems/ServiceNow-Ticketing.md)  
-- [HaloPSA](Ticketing-Systems/HaloPSA)  
-- [IT Glue Templates](ITGlue/IT-Documentation-Templates.md)  
+- [HaloPSA](Ticketing-Systems/HaloPSA) 
 
 ### Troubleshooting  
 - [Printer Issues](Troubleshooting/Printer-Issues.md)  
 - [Outlook Issues](Troubleshooting/Outlook-Issues.md)  
-- [WiFi Issues](Troubleshooting/WiFi-Connection-Issues.md)  
 - [Domain Trust Failure](Troubleshooting/Domain-Trust-Relationship-Failed.md)  
+- 
 
 ### SCCM & PDQ Deploy  
 - [SCCM Overview](SCCM/SCCM-Overview.md)  
