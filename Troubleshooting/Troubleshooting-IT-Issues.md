@@ -118,6 +118,47 @@ This should correct and assign a new IP address.
 6. Asked the user to reboot the computer and verify everything is working fine.
 7. Initiated a remote session and confirmed everything is working fine.
 8. Thanked the user for being patient throughout the process and documented everything.
+## Shared Drive - Mapping Network Drive via Group Policy
+
+- It is very important to guide the user and avoid any technical terms.
+- Make it simple and interactive with the user.
+
+### Topics Covered
+- Shared drive
+- How to map network drive
+- Creating a network drive via group policy that allows automatic mapping for files for users on the same group permissions.
+
+### Steps
+
+1. **Create a New Group**
+   - Example: Financial Group in Active Directory.
+   - Add users to the group (e.g., David Miller, Bony Allen).
+
+2. **Navigate to the Server**
+   - Go to: `File & Storage Services`.
+   - Right-click on `Shares` → `New Share`.
+   - Select `SMB Share - Quick`.
+   - Share location: `C:\drive` → Click Next.
+   - Share name: `FinanceNetworkDrive` → Click Next.
+
+3. **Permissions**
+   - Click on `Permissions` → `Customize permissions`.
+   - Disable inheritance.
+   - Convert inherited permissions into explicit permissions on this object.
+   - Click on `Add` → `Select a Principal`.
+   - Click `Advanced` → `Find Now` → Select and add `Financial Group`.
+   - Click `Apply` and `OK` → Click `Next`.
+
+4. **Drive is Now Created**
+
+### Mapping Drive via Group Policy
+
+1. Open `Server Manager` → Go to `Tools` → `Group Policy Management`.
+
+2. Navigate:
+   - Forest → Domain → `nykason.com`.
+
+3. Right-click on `Finance` → Create a GPO linked to `Finance`.
 
 ## New Hire Set-up
 
