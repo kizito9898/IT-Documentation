@@ -207,5 +207,5 @@ Example:
 
 1. Open `Server Manager` → Go to `Tools` → `Group Policy Management`.
 2. Navigate:
-   - Forest → Domain → `nykason.com`.
-3. Right-click on `Finance` → Create a GPO linked to `Finance`.
+   - Forest → Domain → `njikason.com`.
+1. Right-click on `Finance` → Create a GPO linked to `Finance`.
