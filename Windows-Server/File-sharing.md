@@ -199,9 +199,11 @@ Example:
    - Convert inherited permissions into explicit permissions on this object.
    - Click on `Add` → `Select a Principal`.
    - Click `Advanced` → `Find Now` → Select and add `Financial Group`.
+![Screenshot](images/screenshot476.jpg)
    - Click `Apply` and `OK` → Click `Next`.
    - **Drive is Now Created**
-![Screenshot](images/screenshot476.jpg)
+
+
 ### Mapping Drive via Group Policy
 
 1. Open `Server Manager` → Go to `Tools` → `Group Policy Management`.
