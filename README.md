@@ -57,7 +57,6 @@ My goal is to work remotely in a dynamic MSP or IT environment where I can grow,
 - [Networking Troubleshooting](Network/Networking-Troubleshooting.md)  
 - [DNS](Network/DNS.md)  
 - [DHCP](Network/DHCP)  
-- [MFA & Security Best Practices](Security/MFA-Security-Practices.md)  
 
 ### Microsoft 365  
 - [Microsoft 365 Administration](Microsoft365/Microsoft-365-Administration.md)  
