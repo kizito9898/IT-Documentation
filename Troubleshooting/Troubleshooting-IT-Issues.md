@@ -38,9 +38,6 @@
 - Got a response: The user needs access to the **F: drive** (department folder).
 - Replied back: “I need approval and will request for one immediately.”
 - Confirm access approval via **finance department manager** (keep the approval document).
-
----
-
 ### Granting Access via File Server
 - Identify the security group via **File Server**:
   - Right-click the shared folder → Properties → Security tab → Note the group name.
@@ -48,9 +45,7 @@
   - Right-click → Properties → Go to the *Member Of* tab → Add to the security group.
 - Reached out to the user to try logging off and back in.
 - Access confirmed by the user.
-
 ---
-
 ## Unable to Access the Shared Folder
 
 - User reported: "Unable to access the shared folder, please provide access."
