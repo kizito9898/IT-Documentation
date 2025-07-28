@@ -51,6 +51,29 @@
 - User reported: "Unable to access the shared folder, please provide access."
 - Reached out to the user:
   - Ask a couple of questions to know if they had access to the folder before, the folder name, and the full directory path if available.
+## HR Folder Access Issue
+
+### Access Denied Error
+- User reported: Access denied when trying to open the HR folder. The user needs access.
+- Replied back and reached out to the **HR department**, seeking approval to grant access to **David Miller** to access HR folders.
+- Sent an email: He has been added (**NTFS permissions**) to access the folder.
+- User confirms access and everything is fine.
+- Updated the ticket notes and closed the ticket.
+---
+## Outlook Crashes on Launch
+
+### Description
+- User reports: "Outlook crashes when I open it, but the web version works fine."
+- Reached out for support, asked the user to connect to their workstation to find the root cause.
+- Initiated a remote session with the user (email or TeamViewer), watched out for any prompt to connect to their session.
+---
+
+### Solution
+- Press `Windows + R` → Type `outlook.exe /safe` → Press Enter.
+- Outlook opens in **Safe Mode**, indicating the issue is likely due to an **add-in** or **profile**.
+- Go to: Outlook → File → Options → Add-Ins → Click "Go" (at the bottom of the window).
+- Ask the user which add-ins are unnecessary → Remove them all.
+- User logged off and back in. Outlook seems to be working fine.
 
 ## New Hire Set-up
 
