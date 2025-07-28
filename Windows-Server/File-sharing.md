@@ -191,7 +191,6 @@ Example:
    - Select `SMB Share - Quick`.
    - Share location: `C:\drive` → Click Next.
    - Share name: `FinanceNetworkDrive` → Click Next.
-![Screenshot](images/screenshot476.jpg)
 ![Screenshot](images/screenshot477.jpg)
 ![Screenshot](images/screenshot478.jpg)
 1. **Permissions**
@@ -202,6 +201,7 @@ Example:
    - Click `Advanced` → `Find Now` → Select and add `Financial Group`.
    - Click `Apply` and `OK` → Click `Next`.
    - **Drive is Now Created**
+![Screenshot](images/screenshot476.jpg)
 ### Mapping Drive via Group Policy
 
 1. Open `Server Manager` → Go to `Tools` → `Group Policy Management`.
