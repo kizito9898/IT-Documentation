@@ -203,10 +203,9 @@ Example:
    - Click `Apply` and `OK` → Click `Next`.
    - **Drive is Now Created**
 ![Screenshot](images/screenshot478.jpg)
-
 ### Mapping Drive via Group Policy
 
 1. Open `Server Manager` → Go to `Tools` → `Group Policy Management`.
 2. Navigate:
    - Forest → Domain → `nykason.com`.
-1. Right-click on `Finance` → Create a GPO linked to `Finance`.
+3. Right-click on `Finance` → Create a GPO linked to `Finance`.
