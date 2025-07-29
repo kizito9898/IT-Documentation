@@ -89,8 +89,8 @@ A **network** is a group of two or more devices (like computers, servers, printe
      - Default Gateway
      - DNS Servers
      - Is there an IP or "Media disconnected"?
-
-4. **Run `ping` tests**:
+![Screenshot](images/screenshot505.jpg)
+3. **Run `ping` tests**:
    - Loopback (tests local stack):
      ```
      ping 127.0.0.1
