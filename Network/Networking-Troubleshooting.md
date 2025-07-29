@@ -146,7 +146,7 @@ A **network** is a group of two or more devices (like computers, servers, printe
 ### `ipconfig /flushdns`
 - This clears the DNS cache.
 - Useful when websites are not loading, wrong sites are loading, or experiencing intermittent network issues.
-![Screenshot]
+![Screenshot](images/screenshot490.jpg)
 ---
 ### Wi-Fi vs Ethernet
 
