@@ -139,6 +139,49 @@ A **network** is a group of two or more devices (like computers, servers, printe
 10. **Restart Router/Modem**:
    - Power cycle router (off for 30 seconds, then on)
    - Wait for internet light to stabilize
+## Network Troubleshooting
+
+### `ipconfig /release`
+- This command releases the current IP address assigned to the computer by the DHCP server.
+- After running this, the network adapter won't have any IP address assigned.
+
+### `ipconfig /renew`
+- This command requests a new IP address from the DHCP server.
+- Often used after `/release` to refresh the network connection or to fix a bad IP (e.g., 169.xx.x.x).
+
+### `ipconfig /flushdns`
+- This clears the DNS cache.
+- Useful when websites are not loading, wrong sites are loading, or experiencing intermittent network issues.
+
+---
+
+### Wi-Fi vs Ethernet
+
+- **Wi-Fi**: Wireless, more convenient, but generally slower and less stable than Ethernet.
+- **Ethernet**: Wired connection, faster, more reliable, and better for large transfers or remote work.
+
+---
+
+### IP Addressing
+
+- **Static IP Address**: Manually assigned IP that does not change.  
+  - Useful for servers, printers, or devices that need consistent IP addresses.
+
+- **Dynamic IP Address**: Automatically assigned by the DHCP server (router).
+
+---
+
+### Email Protocols and Ports
+
+- **SMTP**: Simple Mail Transfer Protocol  
+  - Port 25/465 over SSL
+
+- **POP3**: Post Office Protocol Version 3  
+  - Port 110/995 over SSL
+
+- **IMAP**: Internet Message Access Protocol  
+  - Port 143/993 over SSL
+
 
 ---
 
