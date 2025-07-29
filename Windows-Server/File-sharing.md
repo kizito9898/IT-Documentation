@@ -223,7 +223,9 @@ Example:
 ### Item-Level Targeting
 - Go to **Common** tab at the top → Enable **Item-Level Targeting** → Targeting → **Security Groups** → **Advanced**.
 - Add the **Financial Group** → Apply & OK.
-![Screenshot]
+![Screenshot](images/screenshot484.jpg)
+
+
 ### Testing the GPO
 
 - Open Command Line and type:
