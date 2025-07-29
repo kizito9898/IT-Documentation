@@ -51,13 +51,11 @@ A **network** is a group of two or more devices (like computers, servers, printe
     - DNS suffix
 ![Screenshot](images/screenshot141.jpg)
 ---
-
 ## Troubleshooting APIPA (Automatic Private IP Address)
 
 - If your IP address falls within the range:
   - `169.254.1.0` to `169.254.254.255`  
   - This is called an **APIPA address**, which means **no internet access**.
-
 ### Solution
 1. Run command: `ipconfig /release`
 2. Then: `ipconfig /renew`  
