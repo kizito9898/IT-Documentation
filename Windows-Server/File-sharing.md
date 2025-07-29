@@ -214,6 +214,7 @@ Example:
 ### Domain GPO Configuration
 
 - Right-click on the created GPO → **User Configuration** → **Preferences** → **Windows Settings** → Right-click on **Drive Maps** → **New** → **Mapped Drive**
+![Screenshot](images/screenshot481.jpg)
 - Enter the path (directory of the folder) and paste it in the location field.
 - Check `Reconnect` box.
 - Use the first available letter (e.g., F: drive).
