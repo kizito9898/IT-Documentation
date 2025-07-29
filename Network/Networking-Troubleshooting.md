@@ -79,7 +79,7 @@ A **network** is a group of two or more devices (like computers, servers, printe
    - Is the network cable plugged in properly?
    - Is the switch/router powered and functioning?
 
-3. **Run `ipconfig`**:
+. **Run `ipconfig`**:
    - Open Command Prompt and type:
      ```
      ipconfig /all
@@ -90,7 +90,7 @@ A **network** is a group of two or more devices (like computers, servers, printe
      - DNS Servers
      - Is there an IP or "Media disconnected"?
 ![Screenshot](images/screenshot505.jpg)
-3. **Run `ping` tests**:
+**Run `ping` tests**:
 
      ```
    - Google DNS (tests internet connectivity):
@@ -98,7 +98,7 @@ A **network** is a group of two or more devices (like computers, servers, printe
      ping 8.8.8.8
      ```
 
-5. **Run `nslookup`**:
+. **Run `nslookup`**:
    - Test DNS resolution:
      ```
      nslookup google.com
