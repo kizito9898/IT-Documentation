@@ -8,7 +8,6 @@
 **Microsoft Intune Admin Center** is the web-based management interface for Intune, allowing IT administrators to manage devices, configure policies, deploy apps, and ensure compliance.
 
 ---
-
 ## Microsoft Intune Admin Center
 
 - **Devices (Overview)**: Shows everything from all devices, monitor, device onboarding, manage devices. It shows the **overview** of device info in Intune.
