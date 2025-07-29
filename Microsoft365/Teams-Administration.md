@@ -169,7 +169,6 @@ Policies in Teams help enforce security and compliance.
 - Clear the cache (`%appdata%\Microsoft\Teams\cache`).
 - Restart **Teams** and **PC**.
 - Check Microsoft 365 service status at [Service Health]
-
 #### Audio/Video Issues in Meetings
 - Verify **Microphone and Camera settings** in Teams.
 - Run **Windows Troubleshooter** (`Settings > System > Sound`).
