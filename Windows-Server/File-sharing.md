@@ -209,8 +209,7 @@ Example:
 2. Navigate:
    - Forest → Domain → `njikason.com`.
 1. Right-click on `Finance` → Create a GPO linked to `Finance`.
-## Mapping Drive via Group Policy (Continued)
-
+![Screenshot](ima)
 ### Domain GPO Configuration
 
 - Right-click on the created GPO → **User Configuration** → **Preferences** → **Windows Settings** → Right-click on **Drive Maps** → **New** → **Mapped Drive**.
