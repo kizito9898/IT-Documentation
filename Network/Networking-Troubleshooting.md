@@ -19,7 +19,6 @@ A **network** is a group of two or more devices (like computers, servers, printe
 ![Screenshot](images/screenshot138.jpg)
 
 ---
-
 ## Tracert (Trace Route)
 
 - `tracert` (short for **trace route**) shows the path that data takes from your computer to a destination, like reaching a particular website.
