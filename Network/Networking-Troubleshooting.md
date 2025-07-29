@@ -158,7 +158,7 @@ A **network** is a group of two or more devices (like computers, servers, printe
 
 - **Static IP Address**: Manually assigned IP that does not change.  
   - Useful for servers, printers, or devices that need consistent IP addresses.
-
+![Screenshot](images/screenshot5)
 - **Dynamic IP Address**: Automatically assigned by the DHCP server (router).
 
 ---
