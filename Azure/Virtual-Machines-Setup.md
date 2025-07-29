@@ -46,7 +46,6 @@
 *(Run PowerShell as an administrator)*
 
 ---
-
 ### Using PowerShell (Creating a new user in Active Directory)
 
 ```powershell
