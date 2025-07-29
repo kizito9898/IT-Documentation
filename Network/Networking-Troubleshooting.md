@@ -138,7 +138,7 @@ A **network** is a group of two or more devices (like computers, servers, printe
 ### `ipconfig /release`
 - This command releases the current IP address assigned to the computer by the DHCP server.
 - After running this, the network adapter won't have any IP address assigned.
-
+![Screensho]
 ### `ipconfig /renew`
 - This command requests a new IP address from the DHCP server.
 - Often used after `/release` to refresh the network connection or to fix a bad IP (e.g., 169.xx.x.x).
