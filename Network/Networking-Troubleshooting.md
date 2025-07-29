@@ -154,14 +154,12 @@ A **network** is a group of two or more devices (like computers, servers, printe
 - Useful when websites are not loading, wrong sites are loading, or experiencing intermittent network issues.
 
 ---
-
 ### Wi-Fi vs Ethernet
 
 - **Wi-Fi**: Wireless, more convenient, but generally slower and less stable than Ethernet.
 - **Ethernet**: Wired connection, faster, more reliable, and better for large transfers or remote work.
 
 ---
-
 ### IP Addressing
 
 - **Static IP Address**: Manually assigned IP that does not change.  
@@ -170,7 +168,6 @@ A **network** is a group of two or more devices (like computers, servers, printe
 - **Dynamic IP Address**: Automatically assigned by the DHCP server (router).
 
 ---
-
 ### Email Protocols and Ports
 
 - **SMTP**: Simple Mail Transfer Protocol  
