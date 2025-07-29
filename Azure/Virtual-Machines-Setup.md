@@ -42,11 +42,4 @@
 
 **Directory Services Restore Mode (DSRM) Password**:  
 - Capital123  
-
-*(Run PowerShell as an administrator)*
-
 ---
-
-```powershell
-PS C:\users\helpdesk> Import-Module activedirectory
-PS C:\users\helpdesk> get-command new-aduser
