@@ -232,9 +232,10 @@ Example:
 gpupdate /force
 - On my Windows 11 machine:
 - Logged in as **David Miller**.
-![Screenshot](image)
+![Screenshot](images/screenshot487.jpg)
 - Opened **File Explorer**.
 - The mapped drive already shows:
   ```
   FinanceNetworkDrive
   ```
+![Screenshot](ima)
