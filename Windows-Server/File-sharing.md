@@ -226,13 +226,13 @@ Example:
 - Add the **Financial Group** → Apply & OK.
 ![Screenshot](images/screenshot484.jpg)
 ![Screenshot](images/screenshot485.jpg)
-
+---
 ### Testing the GPO
-
 - Open Command Line and type:
 gpupdate /force
 - On my Windows 11 machine:
 - Logged in as **David Miller**.
+![Screenshot](image)
 - Opened **File Explorer**.
 - The mapped drive already shows:
   ```
