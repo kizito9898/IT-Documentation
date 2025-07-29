@@ -226,7 +226,7 @@ Example:
 ### Testing the GPO
 
 - Open Command Line and type:
-
+gpupdate /force
 - On my Windows 11 machine:
 - Logged in as **David Miller**.
 - Opened **File Explorer**.
