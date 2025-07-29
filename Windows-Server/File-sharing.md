@@ -221,7 +221,8 @@ Example:
 - Check `Reconnect` box.
 - Use the first available letter (e.g., F: drive).
 ### Item-Level Targeting
-- Go to **Common** tab at the top → Enable **Item-Level Targeting** → Targeting → **Security Groups** → **Advanced**.
+- Go to **Common** tab at the top → Enable **Item-Level Targeting** → Targeting → **Security Groups** → **Advanced**
+![Screenshot](images/screenshot483.jpg)
 - Add the **Financial Group** → Apply & OK.
 ![Screenshot](images/screenshot484.jpg)
 
