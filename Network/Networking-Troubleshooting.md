@@ -74,7 +74,7 @@ A **network** is a group of two or more devices (like computers, servers, printe
 6. **Ask the user**:
    - Is the issue only affecting them or multiple people?
 ![Screenshot](images/screenshot142.jpg)
-1. **Check physical connections**:
+ **Check physical connections**:
    - Is the device connected to Wi-Fi or Ethernet?
    - Is the network cable plugged in properly?
    - Is the switch/router powered and functioning?
@@ -199,7 +199,6 @@ A **network** is a group of two or more devices (like computers, servers, printe
 - Event Viewer
 - Device Manager
 - Network Adapter settings
-
 ---
 ## Notes
 
