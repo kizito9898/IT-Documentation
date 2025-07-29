@@ -197,7 +197,10 @@ Example:
    - Click on `Permissions` → `Customize permissions`.
    - Disable inheritance.
    - Convert inherited permissions into explicit permissions on this object.
-   - Click on `Add` → `Select a Principal`.
+   - Click on `Add` → `Select a Pr
+   - 
+   - 
+   - incipal`.
    - Click `Advanced` → `Find Now` → Select and add `Financial Group`.
 ![Screenshot](images/screenshot476.jpg)
    - Click `Apply` and `OK` → Click `Next`.
