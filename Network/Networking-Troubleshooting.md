@@ -145,7 +145,7 @@ A **network** is a group of two or more devices (like computers, servers, printe
 
 ---
 
-## If All Steps Fail — What’s Next?
+## If All Steps Fail What’s Next?
 
 11. **Check if it’s a system-wide issue**:
    - Are other users affected?
