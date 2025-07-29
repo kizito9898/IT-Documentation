@@ -9,7 +9,7 @@
 - Name the Resource group -> Homelab  
 - Instance details -> Virtual machine name -> Server 2019  
 - Image (Choose Server 2019 Data Center or Server 2022)
-
+![Screenshot](images/screenshot508.jpg)
 ### Administrator Account
 
 **Create Username**: helpdesk  
