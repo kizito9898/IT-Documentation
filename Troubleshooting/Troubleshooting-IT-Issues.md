@@ -119,6 +119,33 @@ This should correct and assign a new IP address.
 7. Initiated a remote session and confirmed everything is working fine.
 8. Thanked the user for being patient throughout the process and documented everything.
 
+### Issue: Help Connection Seems Slow
+
+- User reported help connection seems slow, webpages are taking a long time to load.
+- Reached out to the user to ask a few questions to understand more about the problem.
+- User reported they tried rebooting and still getting slow connection.
+- Replied to initiate a remote session and troubleshoot.
+- Troubleshot the issue, did the following:
+  - Recreated the problem
+  - `ipconfig /release` & `renew`
+  - Enabled and disabled network adapter
+  - Confirmed network signal
+  - The group user confirmed
+- Updated the ticket note.
+
+---
+### Issue: Slow Computer
+
+- User reached out to support about slow computer issue and marked it urgent.
+- Reached out to the user, empathized, and requested a remote session to take a closer look.
+- Initiated a remote session with the user (call), remoted into the computer.
+- Entered the Task Manager:
+  - Found background consuming high resource
+  - Disabled unnecessary startup apps
+  - Cleaned temporary files on the C: drive
+- Ran malware scan and ensured Windows is updated.
+- Emailed the user and updated my ticket note.
+
 ## New Hire Set-up
 
 ### Scenario:
