@@ -225,7 +225,7 @@ Example:
 ![Screenshot](images/screenshot483.jpg)
 - Add the **Financial Group** → Apply & OK.
 ![Screenshot](images/screenshot484.jpg)
-
+![Screenshot](images/screenshot485.jpg)
 
 ### Testing the GPO
 
