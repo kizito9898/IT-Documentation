@@ -238,4 +238,10 @@ gpupdate /force
   ```
   FinanceNetworkDrive
   ```
-![Screenshot](ima)
+![Screenshot](images/screenshot488.jpg)
+
+
+
+
+
+
