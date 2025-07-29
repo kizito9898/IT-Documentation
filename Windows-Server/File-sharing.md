@@ -220,12 +220,10 @@ Example:
 ![Screenshot](images/screenshot482.jpg)
 - Check `Reconnect` box.
 - Use the first available letter (e.g., F: drive).
-
 ### Item-Level Targeting
-
 - Go to **Common** tab at the top → Enable **Item-Level Targeting** → Targeting → **Security Groups** → **Advanced**.
 - Add the **Financial Group** → Apply & OK.
-
+![Screenshot]
 ### Testing the GPO
 
 - Open Command Line and type:
