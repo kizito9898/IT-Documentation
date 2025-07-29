@@ -36,9 +36,9 @@
 - Click on the downloaded RDP  
 - Click Connect  
 - Enter password and Connect  
-![Screenshot]
+![Screenshot](images/screenshot509.jpg)
 **Rename the PC**  
-**Domain Name**: Kestech.local  
+**Domain Name**: Njikason.com
 
 **Directory Services Restore Mode (DSRM) Password**:  
 - Capital123  
@@ -46,7 +46,6 @@
 *(Run PowerShell as an administrator)*
 
 ---
-### Using PowerShell (Creating a new user in Active Directory)
 
 ```powershell
 PS C:\users\helpdesk> Import-Module activedirectory
