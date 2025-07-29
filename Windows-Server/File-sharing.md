@@ -210,10 +210,10 @@ Example:
    - Forest → Domain → `njikason.com`.
 1. Right-click on `Finance` → Create a GPO linked to `Finance`.
 ![Screenshot](images/screenshot479.jpg)
-
+![Screenshot](images/screenshot480.jpg)
 ### Domain GPO Configuration
 
-- Right-click on the created GPO → **User Configuration** → **Preferences** → **Windows Settings** → Right-click on **Drive Maps** → **New** → **Mapped Drive**.
+- Right-click on the created GPO → **User Configuration** → **Preferences** → **Windows Settings** → Right-click on **Drive Maps** → **New** → **Mapped Drive**
 - Enter the path (directory of the folder) and paste it in the location field.
 - Check `Reconnect` box.
 - Use the first available letter (e.g., F: drive).
