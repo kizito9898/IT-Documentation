@@ -142,11 +142,11 @@ A **network** is a group of two or more devices (like computers, servers, printe
 ### `ipconfig /renew`
 - This command requests a new IP address from the DHCP server.
 - Often used after `/release` to refresh the network connection or to fix a bad IP (e.g., 169.xx.x.x).
-![Screenshot](image)
+![Screenshot](images/screenshot468.jpg)
 ### `ipconfig /flushdns`
 - This clears the DNS cache.
 - Useful when websites are not loading, wrong sites are loading, or experiencing intermittent network issues.
-
+![Screenshot]
 ---
 ### Wi-Fi vs Ethernet
 
