@@ -29,14 +29,14 @@
 ![Screenshot](images/screenshot136.jpg)
 ---
 
-### Log into the Windows 10 PC
+### Log into the Windows 11 PC
 
 - Connect  
 - Download RDP  
 - Click on the downloaded RDP  
 - Click Connect  
 - Enter password and Connect  
-
+![Screenshot]
 **Rename the PC**  
 **Domain Name**: Kestech.local  
 
