@@ -105,19 +105,19 @@ A **network** is a group of two or more devices (like computers, servers, printe
      ```
    - If this fails, DNS may be the issue.
 ![Screenshot](images/screenshot143.jpg)
-5. **Run `tracert`**:
+ **Run `tracert`**:
    - Trace where the connection fails:
      ```
      tracert google.com
      ```
    - Check which hop fails—could indicate a routing or ISP issue.
 
-7. **Reset Network Adapter**:
+ **Reset Network Adapter**:
    - Disable/Enable the adapter:
      - Control Panel > Network and Sharing Center > Change Adapter Settings
      - Right-click > Disable > wait > Enable
 
-8. **Swap DNS to Google**:
+ **Swap DNS to Google**:
    - Go to: Control Panel > Network Adapter > Properties > IPv4
    - Use custom DNS:
      ```
@@ -125,12 +125,12 @@ A **network** is a group of two or more devices (like computers, servers, printe
      Alternate DNS: 8.8.4.4
      ```
 
-9. **Update Network/Wi-Fi Drivers**:
+ **Update Network/Wi-Fi Drivers**:
    - Go to Device Manager > Network Adapters
    - Right-click the adapter > Update Driver
    - Or download latest from manufacturer’s website
 
-10. **Restart Router/Modem**:
+ **Restart Router/Modem**:
    - Power cycle router (off for 30 seconds, then on)
    - Wait for internet light to stabilize
 ## Network Troubleshooting
