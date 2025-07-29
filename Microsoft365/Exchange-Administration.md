@@ -95,7 +95,6 @@ A **resource mailbox** is used to schedule **meeting rooms or equipment**.
  **This helps troubleshoot missing emails for users.**  
 
 ---
-
 ### **5. How to Configure Mail Flow Rules (Transport Rules)**  
 
 Mail Flow Rules control how emails are processed based on conditions (e.g., block certain attachments or forward emails).  
@@ -165,7 +164,7 @@ Email forwarding allows you to automatically send incoming emails from one mailb
 3. Click **Save**.  
 
 ---
-## 👥 Delegate Access (Send As, Send on Behalf, Full Access)  
+##  Delegate Access (Send As, Send on Behalf, Full Access)  
 
 ###  What is Delegate Access?  
 Delegate access lets a user **send, read, or fully manage another mailbox’s emails**. This is helpful when:  
