@@ -47,27 +47,6 @@
   - Go to the search bar and type email & account, add a work or school account. This should fix the problem.
 ![Screenshot](images/screenshot446.jpg)
 ---
-## Shared Folder Access Issues
-
-### User Can't Access Team File on Share folder
-- User raised a ticket: "I can access my personal folder but can't access my team's folder on our file share."
-- Reached out to get more information on the name and path of the team folder the user is trying to access.
-
-- Got a response: The user needs access to the **F: drive** (department folder).
-- Replied back: “I need approval and will request for one immediately.”
-
-- Confirm access approval via **finance department manager** (keep the approval document).
-### Granting Access via File Server
-- Identify the security group via **File Server**:
-  - Right-click the shared folder → Properties → Security tab → Note the group name.
-
-- Open **Active Directory Users & Computers**, search the user (e.g., Rick Berkle):
-  - Right-click → Properties → Go to the *Member Of* tab → Add to the security group.
-
-- Reached out to the user to try logging off and back in.
-
-- Access confirmed by the user.
-
 
 
 ---
@@ -89,7 +68,30 @@
 ---
 ## Outlook Crashes on Launch
 
-### Description
+### Description ## Issue: User Unable to Access Shared Folder
+
+### User: David Miller
+
+- User reported: "Unable to access the shared folder, please provide access."
+- Reached out to the user to get a better understanding of the problem.
+- Asked a few questions such as:
+  - "Have you accessed the folder before?"
+  - "Which shared folder do you need access to?"
+- User replied that he had access before but can't find it now.
+- Identified the folder as the Finance network drive.
+
+### Resolution Steps
+
+- Reached out to the user to remote in and map the network drive to restore access.
+- Navigated to the file server:
+  - `This PC > Local Disk C: > FinanceNetworkDrive`
+  - Right-click on the folder → Properties → Sharing → Got the network path
+- Remoted into the user's computer:
+  - Opened File Explorer
+  - Right-clicked → Map Network Drive → Entered network path
+- Email sent to the user to confirm access was restored and the user was satisfied.
+- Updated my ticket note.
+
 - User reports: "Outlook crashes when I open it, but the web version works fine."
 - Reached out for support, asked the user to connect to their workstation to find the root cause.
 ![Screenshot](images/screenshot462.jpg)
