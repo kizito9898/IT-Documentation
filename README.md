@@ -88,7 +88,6 @@ My goal is to work remotely in a dynamic MSP or IT environment where I can grow,
 - [Troubleshooting-IT-Issues](Troubleshooting/Troubleshooting-IT-Issues.md)
 
 ###  PDQ Deploy & PDQ Inventory
-- [Application Deployment](SCCM/Deploying-Applications.md)  
 - [PDQ Deploy Guide](PDQ/PDQ-Deploy-Automation.md)  
 
 ### Remote Access  
