@@ -33,7 +33,7 @@
 ![Screenshot](images/screenshot443.jpg)
 
 - User logs in with the new password after changing it.
-![Screenshot](images/screenshot)
+![Screenshot](images/screenshot444.jpg)
 ---
 ### Outlook Crashing When Sending Email
 - Outlook keeps crashing when opened and trying to send an email.
