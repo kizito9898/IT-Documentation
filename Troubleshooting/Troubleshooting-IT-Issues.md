@@ -74,6 +74,7 @@
 
 - User reported: "Unable to access the shared folder, please provide access."
 - Reached out to the user to get a better understanding of the problem.
+![Screenshot](images/screenshot519.jpg)
 - Asked a few questions such as:
   - "Have you accessed the folder before?"
   - "Which shared folder do you need access to?"
