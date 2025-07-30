@@ -210,6 +210,7 @@ HR Manager submits a ticket asking IT to provision a new user who starts next Mo
 
 - Right-click on the user → Properties → Member Of  
   Search for the group and add the user → Apply
+![Screenshot](images/screenshot313.jpg)
 ---
 ## Shared Drive Access
 
