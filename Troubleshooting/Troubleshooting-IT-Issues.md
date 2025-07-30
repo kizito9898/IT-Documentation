@@ -147,7 +147,7 @@
   - The user confirmed network strength has improved
 ![Screenshot](images/screenshot493.jpg)
 - Updated the ticket note.
-
+![Screenshot](images/screenshot494.jpg)
 ---
 ### Issue: Slow Computer
 
