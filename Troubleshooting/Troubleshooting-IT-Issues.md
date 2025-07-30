@@ -101,7 +101,6 @@
 ![Screenshot](images/screenshot308.jpg)
 - User logged off and back in. Outlook seems to be working fine.
 ## Outlook Issue - Additional Steps
-
 - Also tried to repair Office installation.
 - Closed the TeamViewer session → Session ended.
 - Sent an email to the user to confirm Outlook is working before closing the ticket.
