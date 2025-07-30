@@ -65,7 +65,9 @@
 - Reached out to the user to try logging off and back in.
 ![Screenshot](images/screenshot488.jpg)
 - Access confirmed by the user.
-![Screenshot]
+![Screenshot](images/screenshot456.jpg)
+![Screenshot](images/screensho)
+
 ---
 ## Unable to Access the Shared Folder
 
