@@ -105,7 +105,7 @@
 - Closed the TeamViewer session → Session ended.
 - Sent an email to the user to confirm Outlook is working before closing the ticket.
 - Issue resolved.
-![Screenshot](images/screenshot464.j)
+![Screenshot](images/screenshot464.jpg)
 ---
 ## Internet Intermittency Issue
 ### Reported By: Emma Baker
@@ -115,9 +115,7 @@
 - Weak Wi-Fi signal.
 - Faulty Ethernet cable.
 - ISP issues.
-- Network adapter.
-### Troubleshooting Steps
-
+- Network adapter
 - Reached out to user via HaloPSA, trying to get more information before troubleshooting.
 - User said it’s only affecting her, and she is the only one using the connection.
 - Instructed the user to reboot her system (and check any backup app). Sometimes a reboot solves the problem.
