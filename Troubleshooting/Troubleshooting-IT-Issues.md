@@ -122,22 +122,9 @@
 - Instructed the user to reboot her system (and check any backup app). Sometimes a reboot solves the problem.
 ![Screenshot](images/screenshot470.jpg)
 
-
-- User reported still not working after reboot.
-
-- Since I couldn’t remote in, I had to guide the user through some simple network commands.
-
-### Steps Provided to User
-
-1. On your keyboard, press `Windows + R`.
-2. Then type `cmd` and press Enter.
-3. In the command prompt, type:
-   - `ipconfig /release`
-   - `ipconfig /renew`
-This should correct and assign a new I
 ### User Response
 
-- User confirmed: "Oh! It's working. Looks like it was not working before because the IP address was not valid."
+- User confirmed: "Oh! It's working. Looks like it was not working b
 6. Asked the user to reboot the computer and verify everything is working fine.
 7. Initiated a remote session and confirmed everything is working fine.
 8. Thanked the user for being patient throughout the process and documented everything.
