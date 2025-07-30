@@ -58,6 +58,7 @@
 ### Granting Access via File Server
 - Identify the security group via **File Server**:
   - Right-click the shared folder → Properties → Security tab → Note the group name.
+![Screenshot](images/screenshot482.jpg)
 - Open **Active Directory Users & Computers**, search the user (e.g., Rick Berkle):
   - Right-click → Properties → Go to the *Member Of* tab → Add to the security group.
 - Reached out to the user to try logging off and back in.
