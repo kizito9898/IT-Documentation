@@ -91,9 +91,28 @@
   - Right-clicked → Map Network Drive → Entered network path
 - Email sent to the user to confirm access was restored and the user was satisfied.
 - Updated my ticket note
+---
+## Issue: User Unable to Access Team File Share
 
+### User: Rick Benzle
 
+- User reported: "I can access my personal folder, but can't access my team's folder on the file share."
+- Reached out to the user to confirm access is denied when trying to open the folder.
+- User replied: "I do get access denied. I contacted admin and told my manager. I need access now."
+- Called the manager and got approval (confirmed by me).
 
+### Resolution Steps
+
+- Navigated to the target folder on the file server:
+  - `\\Server2022\HR Team Files`
+  - Right-clicked the folder → Selected Properties → Navigated to the Security tab
+  - Clicked Edit → Added the user's name and granted appropriate permissions
+  - Clicked Apply and saved changes
+- Reached out to the user and asked them to check again.
+- User confirmed access to the team folder.
+- Updated my ticket note and closed the ticket.
+
+---
 ## Outlook Crashes on Launch
 
 - User reports: "Outlook crashes when I open it, but the web version works fine."
