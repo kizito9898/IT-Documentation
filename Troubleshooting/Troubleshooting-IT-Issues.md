@@ -145,7 +145,7 @@
   - Enabled and disabled network adapter
   - Confirmed network signal
   - The user confirmed network strength has improved
-![Screenshot](images/screenshot49)
+![Screenshot](images/screenshot493.jpg)
 - Updated the ticket note.
 
 ---
