@@ -25,7 +25,8 @@
 - Reach out to the user → Verify identity → Ask for user log-in details.
 - Navigate to **Active Directory**:
   - Right-click on the domain → Click on *Find*
-  - Entire directory → Type the name →  
+  - Entire directory → Type the name →
+![Screenshot](images/screenshot441.jpg)
   - Right-click → Reset password → Provide a temporary password
   - Check “User must change password at next logon” → OK.
 - User logs in with the new password after changing it.
