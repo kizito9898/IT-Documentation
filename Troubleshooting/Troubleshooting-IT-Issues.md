@@ -163,7 +163,7 @@
 ![Screenshot](images/screenshot498.jpg)
   - Cleaned temporary files on the C: drive
 - Ran malware scan and ensured Windows is updated.
-
+![Screenshot](images/screenshot499.jpg)
 - Emailed the user and updated my ticket note.
 
 ## New Hire Set-up
