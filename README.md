@@ -89,7 +89,7 @@ My goal is to work remotely in a dynamic MSP or IT environment where I can grow,
 
 ###  PDQ Deploy & PDQ Inventory
 - [PDQ Deploy Guide](PDQ/PDQ-Deploy-Automation.md)
-- [PDQ-Inventory]
+- [PDQ-Inventory](PDQ/PDQ-Inventory.md)
 
 ### Remote Access  
 - [TeamViewer](Remote-Connection/TeamViewer)  
