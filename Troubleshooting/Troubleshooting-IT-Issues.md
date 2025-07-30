@@ -217,6 +217,7 @@ HR Manager submits a ticket asking IT to provision a new user who starts next Mo
 - If access is needed to **Project Design**,  
   Add to the corresponding AD group that maps to the share  
   Add to local PC, connect to the system, and map the drive.
+![Screenshot]
 ## Email Group / Teams
 
 - I will go in and add the user to the necessary groups and Microsoft Teams.  
