@@ -167,7 +167,7 @@
 ![Screenshot](images/screenshot499.jpg)
 - Emailed the user and updated my ticket note.
 ![Screenshot](images/screenshot502.jpg)
-
+![Screenshot](images/screenshot503)
 ## New Hire Set-up
 
 ### Scenario:
