@@ -13,8 +13,9 @@
   - Find → Type in user log-in name → Account →  
 ![Screenshot](images/screenshot437.jpg)
   - Unlock account: check the box, then apply and OK.
-![Screenshot]
+![Screenshot](images/screenshot438.jpg)
 - Confirm: The account has been unlocked.
+
 ---
 ### Password Reset - User Forgot Password
 - User needs a password reset and can’t log in.
