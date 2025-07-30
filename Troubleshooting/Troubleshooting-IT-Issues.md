@@ -63,8 +63,9 @@
   - Right-click → Properties → Go to the *Member Of* tab → Add to the security group.
 ![Screenshot](images/screenshot511.jpg)
 - Reached out to the user to try logging off and back in.
-![Screenshot](images/scree)
+![Screenshot](images/screenshot488.jpg)
 - Access confirmed by the user.
+![Screenshot]
 ---
 ## Unable to Access the Shared Folder
 
