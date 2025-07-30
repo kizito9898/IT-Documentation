@@ -79,6 +79,7 @@
 - Replied back and reached out to the **HR department**, seeking approval to grant access to **David Miller** to access HR folders.
 - Sent an email: He has been added (**NTFS permissions**) to access the folder.
 - User confirms access and everything is fine.
+![Screen]
 - Updated the ticket notes and closed the ticket.
 ---
 ## Outlook Crashes on Launch
