@@ -75,9 +75,10 @@
 ![Screenshot](images/screenshot516.jpg)
 - Email sent to the user to confirm access was restored and the user was satisfied.
 ![Screenshot](images/screenshot518.jpg)
-
+![Screenshot](images/screenshot515.jpg)
 
 - Updated my ticket note
+
 ---
 ## Issue: User Unable to Access Team File Share
 
