@@ -11,8 +11,9 @@
 ![Screenshot](images/screenshot436.jpg)
 - Receive the ticket, head over to **Active Directory Users & Computers**:
   - Find → Type in user log-in name → Account →  
-![Screenshot]
+![Screenshot](images/screenshot437.jpg)
   - Unlock account: check the box, then apply and OK.
+![Screenshot]
 - Confirm: The account has been unlocked.
 ---
 ### Password Reset - User Forgot Password
