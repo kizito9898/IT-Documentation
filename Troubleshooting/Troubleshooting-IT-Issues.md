@@ -99,6 +99,7 @@
   - `\\Server2022\HR \Team Files`
   - Right-clicked the folder → Selected Properties → Navigated to the Security tab
   - Clicked Edit → Added the user's name and granted appropriate permissions
+![Screenshot](images/screenshot524.jpg)
   - Clicked Apply and saved changes
 - Reached out to the user and asked them to check again.
 - User confirmed access to the team folder.
