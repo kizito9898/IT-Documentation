@@ -68,7 +68,7 @@
 ---
 ## Outlook Crashes on Launch
 
-### Description ## Issue: User Unable to Access Shared Folder
+### Description  Issue: User Unable to Access Shared Folder
 
 ### User: David Miller
 
