@@ -160,9 +160,10 @@
   - Found background consuming high resource
 ![Screenshot](images/screenshot496.jpg)
   - Disabled unnecessary startup apps
-
+![Screenshot](images/screenshot498.jpg)
   - Cleaned temporary files on the C: drive
 - Ran malware scan and ensured Windows is updated.
+
 - Emailed the user and updated my ticket note.
 
 ## New Hire Set-up
