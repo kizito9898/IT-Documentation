@@ -90,7 +90,11 @@
   - Opened File Explorer
   - Right-clicked → Map Network Drive → Entered network path
 - Email sent to the user to confirm access was restored and the user was satisfied.
-- Updated my ticket note.
+- Updated my ticket note
+
+
+
+## Outlook Crashes on Launch
 
 - User reports: "Outlook crashes when I open it, but the web version works fine."
 - Reached out for support, asked the user to connect to their workstation to find the root cause.
