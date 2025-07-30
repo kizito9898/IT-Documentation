@@ -105,6 +105,7 @@
 - Closed the TeamViewer session → Session ended.
 - Sent an email to the user to confirm Outlook is working before closing the ticket.
 - Issue resolved.
+![Screenshot](images/screenshot464.j)
 ---
 ## Internet Intermittency Issue
 ### Reported By: Emma Baker
