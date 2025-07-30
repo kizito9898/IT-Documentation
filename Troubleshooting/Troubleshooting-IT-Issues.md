@@ -31,7 +31,9 @@
   - Check “User must change password at next logon” → OK.
 ![Screenshot](images/screenshot442.jpg)
 ![Screenshot](images/screenshot443.jpg)
+
 - User logs in with the new password after changing it.
+![Screenshot](images/screenshot)
 ---
 ### Outlook Crashing When Sending Email
 - Outlook keeps crashing when opened and trying to send an email.
