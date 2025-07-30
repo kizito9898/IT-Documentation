@@ -81,7 +81,7 @@
 - User confirms access and everything is fine.
 ![Screenshot](images/screenshot512.jpg)
 - Updated the ticket notes and closed the ticket.
-![Screenshot](images/screenshot)
+![Screenshot](images/screenshot452.jpg)
 ---
 ## Outlook Crashes on Launch
 
