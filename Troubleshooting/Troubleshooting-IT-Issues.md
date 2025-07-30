@@ -121,9 +121,7 @@
 - User said it’s only affecting her, and she is the only one using the connection.
 - Instructed the user to reboot her system (and check any backup app). Sometimes a reboot solves the problem.
 ![Screenshot](images/screenshot470.jpg)
-- To isolate the problem, instructed her to try connecting with her phone. 
-  - If it works fine, then it's the computer.
-  - If not, then it's the internet service.
+
 
 - User reported still not working after reboot.
 
@@ -136,9 +134,7 @@
 3. In the command prompt, type:
    - `ipconfig /release`
    - `ipconfig /renew`
-This should correct and assign a new IP address.
-4. Close out of the Command Prompt.
-5. Please test in the web browser and see if you can access the internet.
+This should correct and assign a new I
 ### User Response
 
 - User confirmed: "Oh! It's working. Looks like it was not working before because the IP address was not valid."
