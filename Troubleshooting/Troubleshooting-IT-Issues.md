@@ -105,7 +105,9 @@
 - Reached out to the user and asked them to check again.
 ![Screenshot](images/screenshot531.jpg)
 - User confirmed access to the team folder.
-![Screenshot](images/screenshot52)
+![Screenshot](images/screenshot526.jpg)
+![Screenshot](images/screenshot528.jpg)
+
 - Updated my ticket note and closed the ticket.
 
 ---
