@@ -47,7 +47,7 @@
 ---
 ## Shared Folder Access Issues
 
-### User Can't Access Team Folder on File Share
+### User Can't Access Team File on Share folder
 - User raised a ticket: "I can access my personal folder but can't access my team's folder on our file share."
 - Reached out to get more information on the name and path of the team folder the user is trying to access.
 ![Screenshot](images/screenshot454.jpg)
