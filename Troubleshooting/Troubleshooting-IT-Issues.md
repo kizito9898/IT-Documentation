@@ -52,23 +52,23 @@
 ### User Can't Access Team File on Share folder
 - User raised a ticket: "I can access my personal folder but can't access my team's folder on our file share."
 - Reached out to get more information on the name and path of the team folder the user is trying to access.
-![Screenshot](images/screenshot454.jpg)
+
 - Got a response: The user needs access to the **F: drive** (department folder).
 - Replied back: “I need approval and will request for one immediately.”
-![Screenshot](images/screenshot455.jpg)
+
 - Confirm access approval via **finance department manager** (keep the approval document).
 ### Granting Access via File Server
 - Identify the security group via **File Server**:
   - Right-click the shared folder → Properties → Security tab → Note the group name.
-![Screenshot](images/screenshot482.jpg)
+
 - Open **Active Directory Users & Computers**, search the user (e.g., Rick Berkle):
   - Right-click → Properties → Go to the *Member Of* tab → Add to the security group.
-![Screenshot](images/screenshot511.jpg)
+
 - Reached out to the user to try logging off and back in.
-![Screenshot](images/screenshot488.jpg)
+
 - Access confirmed by the user.
-![Screenshot](images/screenshot456.jpg)
-![Screenshot](images/screenshot457.jpg)
+
+
 
 ---
 ## Unable to Access the Shared Folder
@@ -76,16 +76,16 @@
 - User reported: "Unable to access the shared folder, please provide access."
 - Reached out to the user:
   - Ask a couple of questions to know if they had access to the folder before, the folder name, and the full directory path if available
-![Screenshot](images/screenshot450.jpg)
+
 - User responded: Access denied trying open the HR Folder, please I need access to shared folder.
 - Replied back and reached out to the **HR department**, seeking approval to grant access to **David Miller** to access HR folders.
-![Screenshot](images/screenshot459.jpg)
+
 - Sent an email: He has been added (**NTFS permissions**) to access the folder.
-![Screenshot](images/screenshot460.jpg)
+
 - User confirms access and everything is fine.
-![Screenshot](images/screenshot512.jpg)
+
 - Updated the ticket notes and closed the ticket.
-![Screenshot](images/screenshot461.jpg)
+
 ---
 ## Outlook Crashes on Launch
 
