@@ -80,7 +80,7 @@ My goal is to work remotely in a dynamic MSP or IT environment where I can grow,
 ### Ticketing & MSP Tools  
 - [ServiceNow-Ticketing](Ticketing-Systems/ServiceNow-Ticketing.md)
 - [HaloPSA](Ticketing-Systems/HaloPSA)
-- [Zendesk](Ticketing-)
+- [Zendesk](Ticketing-System/Zendesk.md)
 
 ### Troubleshooting  
 - [Printer Issues](Troubleshooting/Printer-Issues.md)  
