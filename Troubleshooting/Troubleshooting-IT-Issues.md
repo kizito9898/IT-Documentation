@@ -74,6 +74,7 @@
 - User reported: "Unable to access the shared folder, please provide access."
 - Reached out to the user:
   - Ask a couple of questions to know if they had access to the folder before, the folder name, and the full directory path if available
+![Screenshot](images/screenshot450.jpg)
 - User reported: Access denied when trying to open the HR folder. The user needs access.
 - Replied back and reached out to the **HR department**, seeking approval to grant access to **David Miller** to access HR folders.
 - Sent an email: He has been added (**NTFS permissions**) to access the folder.
