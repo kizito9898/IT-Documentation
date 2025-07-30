@@ -92,7 +92,7 @@
 - Reached out for support, asked the user to connect to their workstation to find the root cause.
 ![Screenshot](images/screenshot462.jpg)
 - Initiated a remote session with the user (email or TeamViewer), watched out for any prompt to connect to their session.
-![Screenshot](images/screensho)
+![Screenshot](images/screenshot463.jpg)
 ### Solution
 - Press `Windows + R` → Type `outlook.exe /safe` → Press Enter.
 - Outlook opens in **Safe Mode**, indicating the issue is likely due to an **add-in** or **profile**.
