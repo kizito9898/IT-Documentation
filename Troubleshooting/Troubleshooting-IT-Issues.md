@@ -166,6 +166,7 @@
 - Ran malware scan and ensured Windows is updated.
 ![Screenshot](images/screenshot499.jpg)
 - Emailed the user and updated my ticket note.
+![Screenshot](images/screenshot502.jpg)
 
 ## New Hire Set-up
 
