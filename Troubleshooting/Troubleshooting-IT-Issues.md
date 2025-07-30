@@ -41,7 +41,7 @@
 - Outlook wasn’t properly set up on the user’s workstation:
   - Log out and sign in again.
 - Another fix:
-  - Check the email and account to see if the account is configured properly.
+  - Check the email and account to see if the account is con
 ---
 ## Shared Folder Access Issues
 
