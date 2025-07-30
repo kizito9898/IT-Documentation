@@ -133,6 +133,7 @@
 
 - User reported help connection seems slow, webpages are taking a long time to load.
 - Reached out to the user to ask a few questions to understand more about the problem.
+
 - User reported they tried rebooting and still getting slow connection.
 - Replied to initiate a remote session and troubleshoot.
 - Troubleshot the issue, did the following:
