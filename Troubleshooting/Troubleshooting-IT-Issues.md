@@ -90,6 +90,7 @@
 ### Description
 - User reports: "Outlook crashes when I open it, but the web version works fine."
 - Reached out for support, asked the user to connect to their workstation to find the root cause.
+![Screenshot](images/screenshot462.)
 - Initiated a remote session with the user (email or TeamViewer), watched out for any prompt to connect to their session.
 ### Solution
 - Press `Windows + R` → Type `outlook.exe /safe` → Press Enter.
