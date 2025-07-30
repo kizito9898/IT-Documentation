@@ -66,7 +66,7 @@
 ![Screenshot](images/screenshot488.jpg)
 - Access confirmed by the user.
 ![Screenshot](images/screenshot456.jpg)
-![Screenshot](images/screensho)
+![Screenshot](images/screenshot457.jpg)
 
 ---
 ## Unable to Access the Shared Folder
