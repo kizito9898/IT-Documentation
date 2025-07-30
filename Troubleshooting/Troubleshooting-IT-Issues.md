@@ -42,7 +42,8 @@
   - Log out and sign in again.
 - Another fix:
   - Check the email and account to see if an account created for emails
-  - Go to the search bar and type email & account, add a work or sch
+  - Go to the search bar and type email & account, add a work or school account. This should fix the problem.
+![Screenshot]
 ---
 ## Shared Folder Access Issues
 
