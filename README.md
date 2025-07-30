@@ -78,7 +78,6 @@ My goal is to work remotely in a dynamic MSP or IT environment where I can grow,
 - [Ticketing Best Practices](CustomerService/Ticketing-Best-Practices.md)  
 
 ### Ticketing & MSP Tools  
-- [ConnectWise](ConnectWise/Ticketing-Best-Practices.md)  
 - [ServiceNow, Zendesk](Ticketing-Systems/ServiceNow-Ticketing.md)  
 - [HaloPSA](Ticketing-Systems/HaloPSA) 
 
