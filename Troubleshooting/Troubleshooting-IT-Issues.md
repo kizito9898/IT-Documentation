@@ -7,6 +7,7 @@
 
 ### Locked Account - User Cannot Log In
 - User reached out support that account has been locked and can’t log in.
+![Screenshot](images/screenshot447.jpg)
 - Receive the ticket, head over to **Active Directory Users & Computers**:
   - Find → Type in user log-in name → Account →  
   - Unlock account: check the box, then apply and OK.
