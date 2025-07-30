@@ -156,6 +156,7 @@
 - Reached out to the user, empathized, and requested a remote session to take a closer look.
 ![Screenshot](images/screenshot500.jpg)
 - Initiated a remote session with the user (call), remoted into the computer.
+![Screenshot](images/screenshot501.jpg)
 - Entered the Task Manager:
   - Found background consuming high resource
 ![Screenshot](images/screenshot496.jpg)
