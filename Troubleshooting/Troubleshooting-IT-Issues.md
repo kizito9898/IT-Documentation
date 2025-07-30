@@ -77,6 +77,7 @@
 ![Screenshot](images/screenshot450.jpg)
 - User responded: Access denied trying open the HR Folder, please I need access to shared folder.
 - Replied back and reached out to the **HR department**, seeking approval to grant access to **David Miller** to access HR folders.
+
 - Sent an email: He has been added (**NTFS permissions**) to access the folder.
 - User confirms access and everything is fine.
 ![Screenshot](images/screenshot512.jpg)
