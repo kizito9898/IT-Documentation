@@ -29,6 +29,8 @@
 ![Screenshot](images/screenshot441.jpg)
   - Right-click → Reset password → Provide a temporary password
   - Check “User must change password at next logon” → OK.
+![Screenshot](images/screenshot442.jpg)
+
 - User logs in with the new password after changing it.
 ---
 ### Outlook Crashing When Sending Email
