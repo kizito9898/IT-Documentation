@@ -72,7 +72,9 @@
 - Remoted into the user's computer:
   - Opened File Explorer
   - Right-clicked → Map Network Drive → Entered network path
+![Screenshot](images/screenshot516.jpg)
 - Email sent to the user to confirm access was restored and the user was satisfied.
+
 - Updated my ticket note
 ---
 ## Issue: User Unable to Access Team File Share
