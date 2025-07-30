@@ -89,7 +89,7 @@
 - User reported: "I can access my personal folder, but can't access my team's folder on the file share."
 - Reached out to the user to confirm access is denied when trying to open the folder.
 ![Screenshot](images/screenshot529.jpg)
-- User replied: "I do get access denied. I contacted admin and told my manager. I need access now."
+- User replied: "I do get access denied. I contacted HR and told my manager. I need access now."
 - Called the manager and got approval (confirmed by me).
 
 ### Resolution Steps
