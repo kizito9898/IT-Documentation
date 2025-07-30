@@ -19,7 +19,6 @@
 ![Screenshot](images/screenshot448.jpg)
 ![Screenshot](images/screenshot449.jpg)
 
-
 ---
 ### Password Reset - User Forgot Password
 - User needs a password reset and can’t log in.
