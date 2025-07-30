@@ -144,7 +144,7 @@
 ![Screenshot](images/screenshot468.jpg)
   - Enabled and disabled network adapter
   - Confirmed network signal
-  - The  user confirmed
+  - The user confirmed network strength has improved
 - Updated the ticket note.
 
 ---
