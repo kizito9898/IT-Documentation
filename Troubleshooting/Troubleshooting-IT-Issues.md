@@ -91,7 +91,7 @@
 ![Screenshot](images/screenshot529.jpg)
 - User replied: "I do get access denied. I contacted HR and told my manager. I need access now."
 - Called the manager and got approval (confirmed by me).
-
+![Screenshot](images/screenshot530.jpg)
 ### Resolution Steps
 
 - Navigated to the target folder on the file server:
