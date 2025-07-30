@@ -97,7 +97,8 @@
 - Press `Windows + R` → Type `outlook.exe /safe` → Press Enter.
 - Outlook opens in **Safe Mode**, indicating the issue is likely due to an **add-in** or **profile**.
 - Go to: Outlook → File → Options → Add-Ins → Click "Go" (at the bottom of the window).
-- Ask the user which add-ins are unnecessary → Remove them all.
+- Ask the user which add-ins are unnecessary → Remove them all
+![Screenshot](images/screenshot308.jpg)
 - User logged off and back in. Outlook seems to be working fine.
 ## Outlook Issue - Additional Steps
 
