@@ -126,7 +126,6 @@
 
 - User confirmed: "Oh! It's working. Looks like it is working now , My system hasn't been rebooted for a while now.
 ![Screenshot](images/screenshot471.jpg)
-- Asked the user to reboot
 - Initiated a remote session and confirmed everything is working fine.
 - Thanked the user for being patient throughout the process and documented everything.
 
