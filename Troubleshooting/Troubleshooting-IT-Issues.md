@@ -231,7 +231,6 @@ User submits a ticket that Excel won’t open or crashes when opening a file.
   - Is it happening with a specific file or all files?
   - Try opening Excel in Safe Mode:  
     Press `Win + R` → Type `excel /safe` → Enter
----
 ### Disable Add-ins
 - File → Options → Add-ins  
 - At the bottom, manage → COM Add-ins → Go → Uncheck all  
