@@ -158,7 +158,9 @@
 - Initiated a remote session with the user (call), remoted into the computer.
 - Entered the Task Manager:
   - Found background consuming high resource
+![Screenshot](images/screenshot496.jpg)
   - Disabled unnecessary startup apps
+
   - Cleaned temporary files on the C: drive
 - Ran malware scan and ensured Windows is updated.
 - Emailed the user and updated my ticket note.
