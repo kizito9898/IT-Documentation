@@ -235,7 +235,6 @@ User submits a ticket that Excel won’t open or crashes when opening a file.
 - File → Options → Add-ins  
 - At the bottom, manage → COM Add-ins → Go → Uncheck all  
 - Restart and see if it solves the problem
----
 ## Repair Office
 - Go to Control Panel → Programs → Installed Apps  
 - Find Microsoft 365 or Office → Modify → Quick Repair  
