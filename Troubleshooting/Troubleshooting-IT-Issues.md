@@ -79,7 +79,7 @@
 
 - Updated my ticket note
 ![Screenshot](images/screenshot521.jpg)
-
+![Screenshot](images/screenshot522.jpg)
 
 ---
 ## Issue: User Unable to Access Team File Share
