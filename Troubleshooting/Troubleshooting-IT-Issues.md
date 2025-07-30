@@ -96,7 +96,7 @@
 ### Resolution Steps
 
 - Navigated to the target folder on the file server:
-  - `\\Server2022\HR Team Files`
+  - `\\Server2022\HR \Team Files`
   - Right-clicked the folder → Selected Properties → Navigated to the Security tab
   - Clicked Edit → Added the user's name and granted appropriate permissions
   - Clicked Apply and saved changes
