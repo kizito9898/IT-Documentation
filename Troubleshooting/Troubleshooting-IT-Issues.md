@@ -120,6 +120,7 @@
 ![Screenshot](images/screenshot465.jpg)
 - User said it’s only affecting her, and she is the only one using the connection.
 - Instructed the user to reboot her system (and check any backup app). Sometimes a reboot solves the problem.
+![Screenshot](images/screenshot470.jpg)
 - To isolate the problem, instructed her to try connecting with her phone. 
   - If it works fine, then it's the computer.
   - If not, then it's the internet service.
