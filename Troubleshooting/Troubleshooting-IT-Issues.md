@@ -140,7 +140,8 @@
 - Troubleshot the issue, did the following:
   - Recreated the problem
   - `ipconfig /release` & `renew`
-![Screenshot](images/screenshot4)
+![Screenshot](images/screenshot467.jpg)
+![Screenshot](images/screenshot468.jpg)
   - Enabled and disabled network adapter
   - Confirmed network signal
   - The group user confirmed
