@@ -16,6 +16,10 @@
 ![Screenshot](images/screenshot438.jpg)
 - Confirm: The account has been unlocked.
 ![Screenshot](images/screenshot440.jpg)
+![Screenshot](images/screenshot448.jpg)
+
+
+
 ---
 ### Password Reset - User Forgot Password
 - User needs a password reset and can’t log in.
