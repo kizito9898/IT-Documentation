@@ -200,7 +200,6 @@ HR Manager submits a ticket asking IT to provision a new user who starts next Mo
 ### Steps:
 - Open **Active Directory Users & Computers (ADUC)** →  
   Right-click the appropriate OU (New User)
-
 - Enter first name, last name  
   Username (First name with last name)  
   Set user must change password at next login  
