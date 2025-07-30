@@ -124,7 +124,7 @@
 
 ### User Response
 
-- User confirmed: "Oh! It's working. Looks like it was not working b
+- User confirmed: "Oh! It's working. Looks like it is working now , My system hasn't been reboote
 6. Asked the user to reboot the computer and verify everything is working fine.
 7. Initiated a remote session and confirmed everything is working fine.
 8. Thanked the user for being patient throughout the process and documented everything.
