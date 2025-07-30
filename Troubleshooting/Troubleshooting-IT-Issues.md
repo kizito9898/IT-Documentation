@@ -61,6 +61,7 @@
 ![Screenshot](images/screenshot482.jpg)
 - Open **Active Directory Users & Computers**, search the user (e.g., Rick Berkle):
   - Right-click → Properties → Go to the *Member Of* tab → Add to the security group.
+![Screenshot](images/screenshot511.jpg)
 - Reached out to the user to try logging off and back in.
 - Access confirmed by the user.
 ---
