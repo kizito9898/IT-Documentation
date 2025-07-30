@@ -42,7 +42,7 @@
   - Log out and sign in again.
 - Another fix:
   - Check the email and account to see if an account created for emails
-  - Go to
+  - Go to the search bar and type 
 ---
 ## Shared Folder Access Issues
 
