@@ -152,6 +152,7 @@
 ### Issue: Slow Computer
 
 - User reached out to support about slow computer issue and marked it urgent.
+![Screenh]
 - Reached out to the user, empathized, and requested a remote session to take a closer look.
 - Initiated a remote session with the user (call), remoted into the computer.
 - Entered the Task Manager:
