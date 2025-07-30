@@ -15,7 +15,7 @@
   - Unlock account: check the box, then apply and OK.
 ![Screenshot](images/screenshot438.jpg)
 - Confirm: The account has been unlocked.
-
+![Screenshot](images/screenshot440.jpg)
 ---
 ### Password Reset - User Forgot Password
 - User needs a password reset and can’t log in.
