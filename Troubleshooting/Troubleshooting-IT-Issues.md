@@ -117,6 +117,7 @@
 - ISP issues.
 - Network adapter
 - Reached out to user via HaloPSA, trying to get more information before troubleshooting.
+![Screenshot](images/screenshot465.jpg)
 - User said it’s only affecting her, and she is the only one using the connection.
 - Instructed the user to reboot her system (and check any backup app). Sometimes a reboot solves the problem.
 - To isolate the problem, instructed her to try connecting with her phone. 
