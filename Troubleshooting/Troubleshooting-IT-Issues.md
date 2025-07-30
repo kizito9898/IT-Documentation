@@ -136,10 +136,11 @@
 ![Screenshot](images/screenshot491.jpg)
 - User reported they tried rebooting and still getting slow connection.
 - Replied to initiate a remote session and troubleshoot.
-![Screenshot](images/screenshot492.jp)
+![Screenshot](images/screenshot492.jpg)
 - Troubleshot the issue, did the following:
   - Recreated the problem
   - `ipconfig /release` & `renew`
+![Screenshot](images/screenshot4)
   - Enabled and disabled network adapter
   - Confirmed network signal
   - The group user confirmed
