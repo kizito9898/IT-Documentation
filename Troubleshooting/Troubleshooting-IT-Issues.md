@@ -53,7 +53,7 @@
 ![Screenshot](images/screenshot454.jpg)
 - Got a response: The user needs access to the **F: drive** (department folder).
 - Replied back: “I need approval and will request for one immediately.”
-
+![Screenshot](images/screenshot455.jpg)
 - Confirm access approval via **finance department manager** (keep the approval document).
 ### Granting Access via File Server
 - Identify the security group via **File Server**:
