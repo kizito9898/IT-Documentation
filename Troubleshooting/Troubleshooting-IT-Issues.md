@@ -103,6 +103,7 @@
   - Clicked Apply and saved changes
 ![Screenshot](images/screenshot525.jpg)
 - Reached out to the user and asked them to check again.
+
 - User confirmed access to the team folder.
 - Updated my ticket note and closed the ticket.
 
