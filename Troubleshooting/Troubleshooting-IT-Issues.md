@@ -144,7 +144,7 @@
 ![Screenshot](images/screenshot468.jpg)
   - Enabled and disabled network adapter
   - Confirmed network signal
-  - The group user confirmed
+  - The  user confirmed
 - Updated the ticket note.
 
 ---
