@@ -79,7 +79,7 @@
 - Replied back and reached out to the **HR department**, seeking approval to grant access to **David Miller** to access HR folders.
 ![Screenshot](images/screenshot459.jpg)
 - Sent an email: He has been added (**NTFS permissions**) to access the folder.
-
+![Screenshot](images/screenshot460.jpg)
 - User confirms access and everything is fine.
 ![Screenshot](images/screenshot512.jpg)
 - Updated the ticket notes and closed the ticket.
