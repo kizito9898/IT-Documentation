@@ -109,7 +109,7 @@
 ![Screenshot](images/screenshot528.jpg)
 
 - Updated my ticket note and closed the ticket.
-
+![Screenshot](images/screenshot532.jpg)
 ---
 ## Outlook Crashes on Launch
 
