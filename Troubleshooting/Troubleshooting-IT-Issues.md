@@ -61,12 +61,7 @@
 
 - Sent an email: He has been added (**NTFS permissions**) to access the folder.
 
-- User confirms access and everything is fine.
-
-- Updated the ticket notes and closed the ticket.
-
----
-
+- User confirms access and everything is fin
 ### Description  Issue: User Unable to Access Shared Folder
 
 ### User: David Miller
