@@ -50,9 +50,10 @@
 ### User Can't Access Team Folder on File Share
 - User raised a ticket: "I can access my personal folder but can't access my team's folder on our file share."
 - Reached out to get more information on the name and path of the team folder the user is trying to access.
-![Screenshot]
+![Screenshot](images/screenshot454.jpg)
 - Got a response: The user needs access to the **F: drive** (department folder).
 - Replied back: “I need approval and will request for one immediately.”
+
 - Confirm access approval via **finance department manager** (keep the approval document).
 ### Granting Access via File Server
 - Identify the security group via **File Server**:
