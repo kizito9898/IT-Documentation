@@ -62,7 +62,7 @@
   - "Which shared folder do you need access to?"
 - User replied that he had access before but can't find it now.
 - Identified the folder as the Finance network drive.
-![Screenshot]
+![Screenshot](images/screenshot520.jpg)
 ### Resolution Steps
 
 - Reached out to the user to remote in and map the network drive to restore access.
