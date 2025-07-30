@@ -154,7 +154,7 @@
 - User reached out to support about slow computer issue and marked it urgent.
 ![Screenshot](images/screenshot495.jpg)
 - Reached out to the user, empathized, and requested a remote session to take a closer look.
-
+![Screenshot](images/screenshot500.jpg)
 - Initiated a remote session with the user (call), remoted into the computer.
 - Entered the Task Manager:
   - Found background consuming high resource
