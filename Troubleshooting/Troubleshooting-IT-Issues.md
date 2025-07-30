@@ -74,6 +74,8 @@
   - Right-clicked → Map Network Drive → Entered network path
 ![Screenshot](images/screenshot516.jpg)
 - Email sent to the user to confirm access was restored and the user was satisfied.
+![Screenshot](images/screenshot518.jpg)
+
 
 - Updated my ticket note
 ---
