@@ -204,6 +204,7 @@ HR Manager submits a ticket asking IT to provision a new user who starts next Mo
   Username (First name with last name)  
   Set user must change password at next login  
   Click Finish
+![Screenshot](images/screenshot312.jpg)
 ---
 ## Add to Group (Project Design)
 
