@@ -87,8 +87,7 @@ My goal is to work remotely in a dynamic MSP or IT environment where I can grow,
 - [Domain Trust Failure](Troubleshooting/Domain-Trust-Relationship-Failed.md)
 - [Troubleshooting-IT-Issues](Troubleshooting/Troubleshooting-IT-Issues.md)
 
-### SCCM & PDQ Deploy  
-- [SCCM Overview](SCCM/SCCM-Overview.md)  
+###  PDQ Deploy  7
 - [Application Deployment](SCCM/Deploying-Applications.md)  
 - [PDQ Deploy Guide](PDQ/PDQ-Deploy-Automation.md)  
 
