@@ -105,7 +105,8 @@ Virtual machines on one server
 ## whoami command
 
 - Displays the fully qualified Domain Name (Fqdn) of the currently logged- in user, includes domain hierarchy in the output.
-
+- whoami
+![Screenshot](images/screenshot536.jpg)
 
 ## VM Network Configuration
 
