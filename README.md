@@ -23,7 +23,7 @@
 ---
 # IT Documentation Portfolio  
 
-**By Chiagozie Njika – IT Support Specialist | Entry-Level | Home Lab & Self-Taught**
+**By Chiagozie Kizito Njika – IT Support Specialist | Entry-Level | Home Lab & Self-Taught**
 
 Welcome to my IT Documentation Portfolio. This repository is a result of months of practical learning, hands-on configuration, and deep study across various areas in IT ,from system administration and cloud technologies to remote support and troubleshooting.  
 
