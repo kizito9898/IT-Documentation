@@ -15,7 +15,6 @@ For IT support, Zendesk functions as a ticketing system that allows IT teams to:
 - Use macros (predefined responses) to resolve common issues faster.
 - Access a knowledge base to share articles and self-help guides with users.
 - Generate reports and analytics to track support performance (SLAs, response times, etc.).
-
 # Zendesk - Hands-On Practice Notes
 
 ## Getting Started
