@@ -106,7 +106,7 @@ Virtual machines on one server
 
 - Displays the fully qualified Domain Name (Fqdn) of the currently logged- in user, includes domain hierarchy in the output.
 - whoami /fqdn
-![Screenshot](images/screenshot536.jpg)
+![Screenshot](images/screenshot537.jpg)
 
 ## VM Network Configuration
 
@@ -139,7 +139,6 @@ Click on the File Explorer → Right click on This PC → Properties → Domain 
 administrator *username* (capitalp123) and password  
 The Computer has been joined to the domain
 ![Screenshot](images/screenshot64.jpg)
-
 
 ---
 
