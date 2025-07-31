@@ -8,7 +8,6 @@ Domain trust relationship failure usually means that the computer’s secure con
 - An IT person restored an old system image or cloned a machine without properly rejoining the domain.
 
 ---
-
 ## How to Fix It
 
 1. Log in with a **local admin account** (e.g., `ComputerName\localadmin` and password).
