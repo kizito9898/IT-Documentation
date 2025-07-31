@@ -75,12 +75,10 @@ If you want more features displayed (like showing more details about a user):
 > This allows you to retrieve accidentally deleted accounts or objects using the Recycle Bin.
 
 ---
-
 ## Using the Copy Method
 
 - **Copying a user account** gives you the ability to fast-track account creation—especially when the new user should have similar group memberships and permissions as an existing user.
 - This is useful when the user belongs to the same groups, OUs, etc.
-
 ### Steps:
 
 1. Right-click on the existing user.
@@ -126,7 +124,7 @@ Right click on it → New → Organizational Unit → Name it (HR) and OK.
 ---
 # How to Create a Group and Add Members in Active Directory
 
-## Step 1: Open Active Directory Users and Computers (ADUC)
+##  Open Active Directory Users and Computers (ADUC)
 - Press `Win + R`, type `dsa.msc`, and press `Enter`.
 - This opens the **Active Directory Users and Computers** console.
 
