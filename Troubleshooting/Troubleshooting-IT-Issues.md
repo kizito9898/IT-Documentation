@@ -223,6 +223,8 @@ HR Manager submits a ticket asking IT to provision a new user who starts next Mo
 - I will go in and add the user to the necessary groups and Microsoft Teams.  
   (To receive emails, onboarding process, and the rest)
 ---
+
+
 ## Microsoft Excel Issues
 ### Scenario:
 User submits a ticket that Excel won’t open or crashes when opening a file.
