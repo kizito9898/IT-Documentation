@@ -14,7 +14,7 @@ Printers are often set up on servers in business environments for centralized ma
 6. Add required features
 7. Under **Role Services**, select:
    - **Print Server**
-8. Confirm and Install
+1. Confirm and Install 
 ![Screenshot](images/screenshot121.jpg)
 ---
 ## On the Server Manager:
@@ -65,7 +65,6 @@ Navigate to:
 4. Click **Add** → **Select a principal**
 5. Add a group (e.g., **HR**, **IT**, or any organization-specific group)
 6. Click **Apply** and **OK**
-
 ---
 ## Active Directory Listing
 
