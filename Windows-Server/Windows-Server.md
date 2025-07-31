@@ -104,7 +104,7 @@ Virtual machines on one server
 ---
 ## whoami command
 
-- Displays the fully qualified Domain Name (Fq)
+- Displays the fully qualified Domain Name (Fqdn) of the currently logged- in user, in
 
 ## VM Network Configuration
 
