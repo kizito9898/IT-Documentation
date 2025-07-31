@@ -224,7 +224,7 @@ HR Manager submits a ticket asking IT to provision a new user who starts next Mo
   (To receive emails, onboarding process, and the rest)
 ---
 
-## NetDomain User
+## Net User  / Domain 
 
 `net user RickB /domain`
 
