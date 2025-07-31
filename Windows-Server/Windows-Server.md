@@ -13,7 +13,7 @@ Manage users & computers (Active Directory)
 Shares & Security across a folder  
 DNS & Other Services - Helps Computers find each other on a Network  
 Virtual machines on one server  
-![Screenshot](images/screenshot541.jp)
+![Screenshot](images/screenshot541.jpg)
 - **Network**  
 - Active Integration (Remote Desktop Services)  
 - Group Policy (GPO): Control Settings for multiple Computers  
