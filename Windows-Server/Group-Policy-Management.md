@@ -19,7 +19,6 @@
 ![Screenshot](images/screenshot006.jpg)
 
 ---
-
 ## Create a GPO (e.g., for Password Policy)
 
 - Setting a password policy to enforce strong passwords and enhance security.
