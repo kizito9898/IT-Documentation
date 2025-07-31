@@ -224,7 +224,21 @@ HR Manager submits a ticket asking IT to provision a new user who starts next Mo
   (To receive emails, onboarding process, and the rest)
 ---
 
+## View Specific Domain User
 
+cmd
+
+Cop
+
+`net user RickB /domain`
+
+- Shows **detailed information** about the domain user `RickB`:
+    
+    - Account status (active/locked)
+        
+    - Group memberships
+        
+    - Last password change and expiration
 ## Microsoft Excel Issues
 ### Scenario:
 User submits a ticket that Excel won’t open or crashes when opening a file.
