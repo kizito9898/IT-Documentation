@@ -43,6 +43,3 @@ Domain trust relationship failure usually means that the computer’s secure con
 ![Screenshot](images/screenshot88.jpg)
 ![Screenshot](images/screenshot89.jpg)
 ---
-
-### NOTE:
-- Check if the **computer name** is now showing in **Active Directory Users and Computers** under the **Computers** container.
