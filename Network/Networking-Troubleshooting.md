@@ -196,9 +196,7 @@ A **network** is a group of two or more devices (like computers, servers, printe
 - `ping`
 - `tracert`
 - `nslookup`
-- Event Viewer
-- Device Manager
-- Network Adapter settings
+- Ev
 ---
 ## Notes
 
