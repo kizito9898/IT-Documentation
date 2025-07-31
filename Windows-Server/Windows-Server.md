@@ -104,7 +104,7 @@ Virtual machines on one server
 ---
 ## whoami command
 
-TH
+- Displays the fully qualified Domain Name (Fq)
 
 ## VM Network Configuration
 
