@@ -1,6 +1,6 @@
 # Troubleshooting: Outlook Issues
 
- facing issues with Microsoft Outlook, steps to troubleshoot common problems:
+ facing issues with Microsoft Outlook, what I would do to troule
 
 ## 1. **Outlook Won’t Open**
    - **Check for Updates**: Go to **File** > **Office Account** > **Update Options** > **Update Now** to ensure Outlook is up to date.
