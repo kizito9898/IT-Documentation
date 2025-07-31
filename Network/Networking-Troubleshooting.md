@@ -190,14 +190,6 @@ A **network** is a group of two or more devices (like computers, servers, printe
      - Attach screenshots or logs if needed
 
 ---
-## Tools Used
-
-- `ipconfig`
-- `ping`
-- `tracert`
-- `nslookup`
-- Ev
----
 ## Notes
 
 - IPv4 is most commonly used; IPv6 is newer but not always supported on all systems.
