@@ -188,6 +188,7 @@
   - Disabled unnecessary startup apps
 ![Screenshot](images/screenshot498.jpg)
   - Cleaned temporary files on the C: drive
+  - Adjust for best performance on the ad
 - Ran malware scan and ensured Windows is updated.
 ![Screenshot](images/screenshot499.jpg)
 - Emailed the user and updated my ticket note.
