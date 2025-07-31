@@ -102,7 +102,9 @@ Virtual machines on one server
 ![Screenshot](images/screenshot59.jpg)
 > In a **corporate environment**, Windows Server usually has a **static IP address**.
 ---
-## whoami
+## whoami command
+
+TH
 
 ## VM Network Configuration
 
