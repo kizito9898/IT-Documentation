@@ -1,9 +1,9 @@
-# How to Get Started with Windows Server 2022 (Hands-on lab)
+# How to Get Started with Windows Server 2022 (Hands-on project)
 
 ## **What is Windows Server** ?
 
 Windows Server is a special version of Windows made for businesses to help manage computers, users and networks. Unlike Windows 10 or 11, which people use for personal tasks, Windows Server is designed for IT professionals to control and organize company systems.  
-Windows Servers (like file, backup, company systems) — IT system. Keeps everything running smoothly.
+Windows Servers (like file, backup, company systems)  IT system. Keeps everything running smoothly.
 
 - Various Versions of Windows Server  
 Windows Server 2003, 2008 & R2, 2012 & R2, 2016, 2019 and 2022.
@@ -19,7 +19,6 @@ Virtual machines on one server
 - Group Policy (GPO): Control Settings for multiple Computers  
 - WMI (Windows Management Instrumentation)  
 - Firewall Rules and Software Restrictions
-
 # Setting up Windows Server 2022 on a Virtual Machine
 
 1. **Download VirtualBox or VMware Workstation Pro**
@@ -91,7 +90,6 @@ Virtual machines on one server
 > **Note:** Active Directory Users & Computers are now installed in the server.
 
 ---
-
 ## Creating a Static IP for Server 2022
 
 1. In the search bar, type **Control Panel**.
@@ -105,14 +103,12 @@ Virtual machines on one server
 > In a **corporate environment**, Windows Server usually has a **static IP address**.
 
 ---
-
 ## VM Network Configuration
 
 - Change the **virtual machine network** from **NAT** to **Host-only** so that the **VM** can talk to each other on the same network.
 ![Screenshot](images/screenshot06.jpg)
 
 ---
-
 ## Adding a Computer to a Domain (Windows) rules
 
 * To enforce/practice with Windows Server (group policy, Active Directory users & Computers, Troubleshooting Skills )
