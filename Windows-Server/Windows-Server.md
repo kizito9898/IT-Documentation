@@ -101,8 +101,9 @@ Virtual machines on one server
 7. Select **Use the following IP address** and configure the static IP.
 ![Screenshot](images/screenshot59.jpg)
 > In a **corporate environment**, Windows Server usually has a **static IP address**.
-
 ---
+## whoami
+
 ## VM Network Configuration
 
 - Change the **virtual machine network** from **NAT** to **Host-only** so that the **VM** can talk to each other on the same network.
