@@ -1,4 +1,4 @@
-# How to Get Started with Windows Server 2022 (Hands-on)
+# How to Get Started with Windows Server 2022 (Hands-on lab)
 
 ## **What is Windows Server** ?
 
@@ -57,9 +57,7 @@ Virtual machines on one server
 - **Username**: administrator *(only default)*
 - **Password**:  
 - **Re-enter Password**
-
 ---
-
 ### 3. Renaming the Server to Something Simple
 
 - Navigate to **File Explorer** ➝  
@@ -69,7 +67,6 @@ Virtual machines on one server
   **Restart Now**
 ![Screenshot](images/screenshot04.jpg)
 ---
-
 ### 4. Create Active Directory Domain Services
 
 - Navigate to **Server Manager** from the **Start Menu** ➝  
