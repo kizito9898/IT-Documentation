@@ -224,11 +224,11 @@ HR Manager submits a ticket asking IT to provision a new user who starts next Mo
   (To receive emails, onboarding process, and the rest)
 ---
 
-## View Specific Domain User
+## NetDomain User
 
 `net user RickB /domain`
 
-- Shows **detailed information** about the domain user `RickB`:
+- Shows **detailed information** about the domain user 
     
     - Account status (active/locked)
         
