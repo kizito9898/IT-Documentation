@@ -226,10 +226,6 @@ HR Manager submits a ticket asking IT to provision a new user who starts next Mo
 
 ## View Specific Domain User
 
-cmd
-
-Cop
-
 `net user RickB /domain`
 
 - Shows **detailed information** about the domain user `RickB`:
@@ -239,6 +235,7 @@ Cop
     - Group memberships
         
     - Last password change and expiration
+
 ## Microsoft Excel Issues
 ### Scenario:
 User submits a ticket that Excel won’t open or crashes when opening a file.
