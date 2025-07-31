@@ -36,7 +36,7 @@ I currently hold certifications in:
 
 - **Google Cybersecurity Professional Certificate**
 - **ISC2 Certified in Cybersecurity (CC)**
-- **CompTIA IT Fundamentals (ITF+)**
+- **CompTIA A+ &  IT Fundamentals (ITF+)**
 - **Google IT Support Professional Certificate**
 - **LinkedIn and Microsoft Learn Paths on Windows Server, Intune, and Microsoft 365**
 
@@ -117,4 +117,4 @@ If you're an **MSP, CTO, or remote team hiring manager** looking for someone wit
 Please reach out. I’d love to contribute and grow within your team.
 - **LinkedIn**: [Chiagozie Njika](https://www.linkedin.com/in/chiagozie-njika-a24660284)  
 - **GitHub**: [kizito9898](https://github.com/kizito9898)  
-- **Email**: chiagozienjika078@gmail.com  
+- **Email**: chiagozienjika078@gmail.com  or
