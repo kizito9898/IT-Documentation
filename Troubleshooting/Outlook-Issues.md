@@ -10,7 +10,7 @@
    - **Repair Outlook**:
      1. Go to **Control Panel** > **Programs** > **Programs and Features**.
      2. Right-click on **Microsoft Office** > **Change** > **Repair**.
-
+![Screenshot]
 ## 2. **Outlook Crashes or Freezes**
    - **Disable Add-ins**:
      1. Open Outlook in Safe Mode (hold **Ctrl** while opening Outlook).
