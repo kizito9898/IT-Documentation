@@ -47,7 +47,7 @@ My goal is to work remotely in a dynamic MSP or IT environment where I can grow,
 
 ### Windows & Windows Server  
 - [Windows Troubleshooting](Windows-Server/Windows-Troubleshooting.md)  
-- [PowerShell Commands](Windows-Server/PowerShell-Commands.md)  
+- 
 - [Windows Server](Windows-Server/Windows-Server.md)  
 - [Active Directory](Windows-Server/Active-Directory.md)  
 - [Group Policy Management](Windows-Server/Group-Policy-Management.md)  
