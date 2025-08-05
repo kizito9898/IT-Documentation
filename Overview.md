@@ -47,7 +47,6 @@ My goal is to work remotely in a dynamic MSP or IT environment where I can grow,
 
 ### Windows & Windows Server  
 - [Windows Troubleshooting](Windows-Server/Windows-Troubleshooting.md)  
-- 
 - [Windows Server](Windows-Server/Windows-Server.md)  
 - [Active Directory](Windows-Server/Active-Directory.md)  
 - [Group Policy Management](Windows-Server/Group-Policy-Management.md)  
@@ -57,11 +56,10 @@ My goal is to work remotely in a dynamic MSP or IT environment where I can grow,
 - [Networking Troubleshooting](Network/Networking-Troubleshooting.md)  
 - [DNS](Network/DNS.md)  
 - [DHCP](Network/DHCP)  
-- [MFA & Security Best Practices](Security/MFA-Security-Practices.md)  
 
 ### Microsoft 365  
 - [Microsoft 365 Administration](Microsoft365/Microsoft-365-Administration.md)  
-- [Exchange, SharePoint, Teams](Microsoft365/Exchange-Administration.md)  
+- [Exchange, SharePoint, Teams](Microsoft365/Exchange-Administration.md)
 - [Microsoft 365 Deployment](Microsoft365/Microsoft-365-Deployment.md)  
 
 ### Intune & Endpoint Management  
@@ -83,7 +81,6 @@ My goal is to work remotely in a dynamic MSP or IT environment where I can grow,
 - [ConnectWise](ConnectWise/Ticketing-Best-Practices.md)  
 - [ServiceNow, Zendesk](Ticketing-Systems/ServiceNow-Ticketing.md)  
 - [HaloPSA](Ticketing-Systems/HaloPSA)  
-- [IT Glue Templates](ITGlue/IT-Documentation-Templates.md)  
 
 ### Troubleshooting  
 - [Printer Issues](Troubleshooting/Printer-Issues.md)  
