@@ -26,7 +26,7 @@
 **By Chiagozie Kizito Njika – IT Support Specialist | Tier 1 | Home Lab & Self-Taught**
 
 Welcome to my IT Documentation Portfolio. This repository is a result of months of practical learning, hands-on projects, and deep study across various areas in IT, from system administration and cloud technologies to remote support and troubleshooting.  
-My goal is to make this a living portfolio that showcases my technical growth, problem-solving mindset, and readiness to contribute effectively in a professional IT environment without relying on empty buzzwords. I'm ready and eager to put my absolute best 
+My goal is to make this a living portfolio that showcases my technical growth, problem-solving mindset, and readiness to contribute effectively in a professional IT environment without relying on empty buzzwords. I'm ready and eager to put my absolute best in a work environment and help people.
 
 ---
 ## About Me
