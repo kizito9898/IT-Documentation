@@ -30,13 +30,13 @@ Welcome to my IT Documentation Portfolio. This repository is a result of months 
 ---
 ## About Me
 
-I’m an aspiring IT Support Specialist who has built a strong foundation through personal lab projects, real-world scenarios, and consistent documentation practice. I believe in learning by doing, and everything in this repository is a reflection of that mindset and hard-work that I have put in to achieve my dream
+I’m an aspiring IT Support Specialist who has built a strong foundation through personal lab projects, real-world scenarios, and consistent documentation practice. I believe in learning by doing, and everything in this repository is a reflection of that mindset and hard-work that I have put in to achieve my dreams of growing in IT.
 
 I currently hold certifications in:
 
 - **Google Cybersecurity Professional Certificate**
 - **ISC2 Certified in Cybersecurity (CC)**
-- **CompTIA IT Fundamentals (ITF+)**
+- **CompTIA a IT Fundamentals (ITF+)**
 - **Google IT Support Professional Certificate**
 - **Microsoft Learn Paths on Windows Server, Intune, and Microsoft 365**
 
