@@ -30,7 +30,7 @@ Welcome to my IT Documentation Portfolio. This repository is a result of months 
 ---
 ## About Me
 
-I’m an aspiring IT Support Specialist who has built a strong foundation through personal lab projects, real-world scenarios, and consistent documentation practice. I believe in learning by doing, and everything in this repository is a reflection of that mindset.
+I’m an aspiring IT Support Specialist who has built a strong foundation through personal lab projects, real-world scenarios, and consistent documentation practice. I believe in learning by doing, and everything in this repository is a reflection of that mindset and hard-work that I have put in to achieve my dream
 
 I currently hold certifications in:
 
