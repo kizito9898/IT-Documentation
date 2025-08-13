@@ -38,7 +38,7 @@ I currently hold certifications in:
 - **ISC2 Certified in Cybersecurity (CC)**
 - **CompTIA IT Fundamentals (ITF+)**
 - **Google IT Support Professional Certificate**
-- **LinkedIn and Microsoft Learn Paths on Windows Server, Intune, and Microsoft 365**
+- **Microsoft Learn Paths on Windows Server, Intune, and Microsoft 365**
 
 My goal is to work remotely in a dynamic MSP or IT environment where I can grow, contribute, and provide value.
 
