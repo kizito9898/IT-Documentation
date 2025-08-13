@@ -36,7 +36,7 @@ I currently hold certifications in:
 
 - **Google Cybersecurity Professional Certificate**
 - **ISC2 Certified in Cybersecurity (CC)**
-- **CompTIA a IT Fundamentals (ITF+)**
+- **CompTIA A+ & IT Fundamentals (ITF+)**
 - **Google IT Support Professional Certificate**
 - **Microsoft Learn Paths on Windows Server, Intune, and Microsoft 365**
 
