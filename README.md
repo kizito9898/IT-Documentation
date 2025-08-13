@@ -30,7 +30,7 @@ Welcome to my IT Documentation Portfolio. This repository is a result of months 
 ---
 ## About Me
 
-I’m an aspiring IT Support Specialist with a solid foundation built through hands-on lab projects, real-world troubleshooting, and consistent documentation. I combine technical know-how with strong customer service skills, communicating clearly, staying calm under pressure, and making sure every user feels heard and supported. My goal is to deliver solutions that work and experiences that leave a positive impression.
+I’m an aspiring IT Support Specialist with a solid foundation built through certifications, hands-on lab projects, real-world troubleshooting, and consistent documentation. I combine technical know-how with strong customer service skills, communicating clearly, staying calm under pressure, and making sure every user feels heard and supported. My goal is to deliver solutions that work and experiences that leave a positive impression.
 
 I currently hold certifications in:
 
