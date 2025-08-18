@@ -125,7 +125,7 @@ Right click on it → New → Organizational Unit → Name it (HR) and OK.
 - This opens the **Active Directory Users and Computers** console.
 - Browse to the **Organizational Unit** where you want to create the group.
 - Right-click the OU → Select **New** → Click **Group**.
-![Screensho]
+![Screenshot](images/screenshot542.jpg)
 ##  Configure the Group
 - **Group Name**: Enter a name for the group (e.g., `Senior Engineers).
 - **Group Scope**: Choose one of the following:
@@ -140,7 +140,6 @@ Click **OK** to create the group.
 ![Screenshot](images/screenshot00.jpg)
 
 ---
-
 ## Step 4: Add Members to the Group
 - Right-click the group you just created → Click **Properties**.
 - Go to the **Members** tab → Click **Add**.
@@ -162,7 +161,6 @@ Click **OK** to create the group.
 > The user account password has been reset.
 
 ---
-
 # Unlocking a User in Active Directory
 
 ## How to Unlock a User from Active Directory:
