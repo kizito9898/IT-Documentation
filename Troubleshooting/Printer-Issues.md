@@ -130,7 +130,7 @@ To verify the printer is showing on a client machine:
     - Select `Add the Printer Manually`
     - Choose `Printer Driver`:
       - Use an existing printer driver or install a new one.
-    - Click `Next` → `Printer Installation Succeeded`
+    - Click `Next` → `Printer Installation Succeeded`.
     ![Screenshot](images/screenshot129.jpg)
   - ![Screenshot](images/screenshot130.jpg)
 
