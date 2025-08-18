@@ -155,5 +155,6 @@ To verify the printer is showing on a client machine:
 
 ![Screenshot](images/screenshot545.jpg)
 **print management
-![Screenshot](images/screenshot544.jpg)
+
+![Screenshot](images/screenshot545.jpg)
 
