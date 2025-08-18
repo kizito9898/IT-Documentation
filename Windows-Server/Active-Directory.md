@@ -73,7 +73,7 @@ If you want more features displayed (like showing more details about a user):
 ---
 ## Using the Copy Method
 
-- **Copying a user account** gives you the ability to fast-track account creation—especially when the new user should have similar group memberships and permissions as an existing user.
+- **Copying a user account** gives you the ability to fast-track account creation, especially when the new user should have similar group memberships and permissions as an existing user.
 - This is useful when the user belongs to the same groups, OUs, etc.
 ### Steps:
 
