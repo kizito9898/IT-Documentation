@@ -164,12 +164,11 @@ To verify the printer is showing on a client machine:
 2. Scroll down to **Printer Spooler**
 3. Right-click on it → Select **Stop**
 4. Then select **Start** again
-
+![Screenshot]
 ### Purpose
 - Clears stuck print jobs  
 - Resets the connection between Windows and the printer  
 - Enables printing again  
-
 ### Notes
 - If it is an **individual issue** → Restart the spooler on the user’s PC  
 - If it is a **widespread issue (many users)** → Restart the spooler on the print server  
