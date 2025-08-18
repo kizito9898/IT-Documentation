@@ -153,8 +153,8 @@ To verify the printer is showing on a client machine:
 - If a print job is being held up:
   - Right-click on the printer → Open `Printer Queue` → Delete anything being held up.
 
-![Screenshot](images/screenshot545.jpg)
+![Screenshot](images/screenshot545.)
 **print management
 
-![Screenshot](images/screenshot545.jpg)
+![Screenshot](images/screenshot544.jpg)
 
