@@ -112,7 +112,7 @@ Right click on it → New → Organizational Unit → Name it (HR) and OK.
 - **Universal**: Account from any domain in the same forest.
 - **Global**: Account from the same domain.
 - **Domain Local**: Account from any domains or any trusted domains.
-
+![Screenshot]
 ## Group Type
 
 - **Security**: Used to assign permissions to shared resources.
