@@ -125,7 +125,7 @@ Right click on it → New → Organizational Unit → Name it (HR) and OK.
 - This opens the **Active Directory Users and Computers** console.
 - Browse to the **Organizational Unit** where you want to create the group.
 - Right-click the OU → Select **New** → Click **Group**.
-
+![Screensho]
 ##  Configure the Group
 - **Group Name**: Enter a name for the group (e.g., `Senior Engineers).
 - **Group Scope**: Choose one of the following:
