@@ -232,3 +232,4 @@ Click **OK** to create the group.
 ![Screenshot](images/screenshot422.jpg)
 
 ![Screenshot](images/screenshot423.jpg)
+
