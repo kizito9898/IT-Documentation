@@ -164,7 +164,8 @@ To verify the printer is showing on a client machine:
 2. Scroll down to **Printer Spooler**
 3. Right-click on it → Select **Stop**
 4. Then select **Start** again
-![Screenshot]
+![Screenshot](images/screenshot546.jpg)
+
 ### Purpose
 - Clears stuck print jobs  
 - Resets the connection between Windows and the printer  
