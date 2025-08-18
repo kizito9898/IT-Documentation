@@ -165,6 +165,7 @@ To verify the printer is showing on a client machine:
 3. Right-click on it → Select **Stop**
 4. Then select **Start** again
 ![Screenshot](images/screenshot546.jpg)
+![Screenshot](images/screenshot547.jpg)
 
 ### Purpose
 - Clears stuck print jobs  
