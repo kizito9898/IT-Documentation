@@ -166,12 +166,12 @@ To verify the printer is showing on a client machine:
 4. Then select **Start** again
 ![Screenshot](images/screenshot546.jpg)
 ![Screenshot](images/screenshot547.jpg)
-
 ### Purpose
 - Clears stuck print jobs  
 - Resets the connection between Windows and the printer  
 - Enables printing again  
 ### Notes
 - If it is an **individual issue** → Restart the spooler on the user’s PC  
+
 - If it is a **widespread issue (many users)** → Restart the spooler on the print server  
 
