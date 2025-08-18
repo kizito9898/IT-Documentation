@@ -154,7 +154,6 @@ To verify the printer is showing on a client machine:
   - Right-click on the printer → Open `Printer Queue` → Delete anything being held up.
 
 ![Screenshot](images/screenshot545.jpg)
-**print management
 
 ![Screenshot](images/screenshot544.jpg)
 
