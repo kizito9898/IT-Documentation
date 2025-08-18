@@ -183,14 +183,10 @@ Click **OK** to create the group.
 - You can **disable an account** by right-clicking on the user profile in **Active Directory** and selecting **Disable**.
 -  To **enable** the account, perform the same steps and select **Enable**.
 ![Screenshot](images/screenshot005.jpg)
-
-
 ---
-
 ## Account Expires on Active Directory
 
 **Steps to fix an expired account:**
-
 1. Go to **Active Directory**.
 2. Click on the domain to find the user or go to the **OU** where the user is located.
 3. Click on the **User**.
