@@ -43,16 +43,13 @@ It helps organizations:
 6. Click **Finish**.
 ![Screenshot](images/screenshot55.jpg)
 ---
-
 ## Show More Details About a User
 
 If you want more features displayed (like showing more details about a user):
 
 - Right-click on **View** (in the top menu).
 - Scroll down to **Advanced Features** and check it.
-
 ---
-
 ## How to Find a User, Contact, and Groups in Active Directory
 
 - Open **Active Directory Users & Computers**.
@@ -64,7 +61,6 @@ If you want more features displayed (like showing more details about a user):
 - Click **Find Now**.
 ![Screenshot](images/screenshot56.jpg)
 ---
-
 ## Enable Recycle Bin in Active Directory
 
 1. On your **Start Menu**, click on **Active Directory Administrative Center**.
