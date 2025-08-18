@@ -123,4 +123,4 @@ Inside `C:\Chrome`
 ![Screenshot](images/screenshot52.jpg)
 
 ![Screenshot](images/screenshot159.jpg)
-![Screenshot](images/screenshot156.jpg)![Screenshot](images/screensh)
+![Screenshot](images/screenshot156.jpg)![Screenshot](images/screenshot157.jpg)
