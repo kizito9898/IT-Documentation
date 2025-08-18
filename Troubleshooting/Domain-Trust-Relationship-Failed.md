@@ -6,7 +6,6 @@ Domain trust relationship failure usually means that the computer’s secure con
 ### This often happens when:
 - The computer was disconnected from the network for too long.
 - An IT person restored an old system image or cloned a machine without properly rejoining the domain.
-
 ---
 ## How to Fix It
 
