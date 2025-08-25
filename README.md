@@ -73,7 +73,7 @@ My goal is to work remotely in a dynamic MSP or IT environment where I can grow,
 
 ### Azure & Cloud  
 - [Azure VM Setup](Azure/Virtual-Machines-Setup.md)  
-- [Azure Entra ID](Azure/Entra-ID-Fundamentals.md)  
+- [Azure Entra ID](Azure/Entra-ID-Fundamentals.md) 
 
 ### IT Support & Communication  
 - [Customer Communication](CustomerService/Communication-Best-Practices.md)  
