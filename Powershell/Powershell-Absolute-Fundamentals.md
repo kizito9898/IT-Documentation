@@ -151,29 +151,6 @@ Use `Try { } Catch { }` for handling errors gracefully.
 
 ---
 
-👉 This expanded documentation now covers:
-
-- Hashtables
-    
-- Functions
-    
-- Ping/Test-Connection
-    
-- Creating, saving, deleting files
-    
-- Best practices (aliases, naming, piping, error handling)
-    
-
----
-
-Perfect — here’s your entire note **fully in Markdown format** (no plaintext outside of markdown) so you can copy directly into Obsidian.
-
-`# PowerShell Notes (Part 2)  ## Hashtable Example ```powershell $fellowshipData = @{     Key1 = "Item1"     Key2 = "Item2" }`
-
-A **hashtable** in PowerShell stores data as **key-value pairs**. Keys must be unique, and you can retrieve values by referencing their keys.
-
----
-
 ## Functions in PowerShell
 
 A **function** in PowerShell is a reusable block of code that you define once and call multiple times.
