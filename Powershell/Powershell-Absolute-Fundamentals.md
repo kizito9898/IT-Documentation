@@ -150,7 +150,6 @@ Use `Try { } Catch { }` for handling errors gracefully.
 `Try {     Get-Item "C:\NonExistentFile.txt" } Catch {     Write-Output "File not found!" }`
 
 ---
-
 ## Functions in PowerShell
 
 A **function** in PowerShell is a reusable block of code that you define once and call multiple times.
