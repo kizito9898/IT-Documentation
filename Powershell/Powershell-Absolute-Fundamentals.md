@@ -11,13 +11,25 @@
   - Perform **Active Directory tasks** → Create, disable, or reset 50 user accounts at once.  
   - Handle **Microsoft 365 / Intune tasks** → Assign licenses, reset passwords, configure settings.  
   - Run **system checks** → Pull logs, check disk space, list installed software on 100 machines.  
-  - Enable **automation** → Instead of manually patching machines or running updates, script it once and run it everywhere.  
+  - Enable **automation** → Instead of manually patching machines or running updates, script it once and run it everywhere. # Downloading Powershell 7.4.5 
+
+* Go to Microsoft’s official GitHub release page:  
+  [https://github.com/powershell/powershell/releases](https://github.com/powershell/powershell/releases)  
+  → Under **Assets**, download the **.msi installer** for Windows (x64 bit)  
+  → Example: `powershell-7.4.5-win-x64.msi`  
+  → Run the installer. ✅  
+
+* PowerShell aims to be **cross-platform**, running on **Windows, macOS, and Linux**.  
+
+* Download **Visual Studio Code** to practice PowerShell fundamentals → linked with PowerShell Core.  
+
+
 
 ### Key Notes
 - An **alias** in PowerShell is a shortcut or alternate name for a cmdlet or command.  
 - You can always **download a higher version of PowerShell** if your current version is outdated. 
 
-# Downloading Powershell 7.4.5
+# Downloading Powershell 7.4.5 
 
 * Go to Microsoft’s official GitHub release page:  
   [https://github.com/powershell/powershell/releases](https://github.com/powershell/powershell/releases)  
