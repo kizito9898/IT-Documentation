@@ -179,75 +179,7 @@ This sends ICMP echo requests and returns the response time, similar to `ping`.
 
 Creates a blank text file in the specified path.
 
-- `-Path` specifies the location.
-    
-- `-ItemType File` ensures it's a file (not folder).
-    
-
----
-
-## Creating and Saving Command Output to a File
-
-### Example: Save Ping Results
-
-`Test-Connection google.com -Count 4 | Out-File "C:\Users\User\PingResults.txt"`
-
-- `Out-File` saves the output of a command into a text file.
-    
-- Useful for logging troubleshooting steps.
-    
-
----
-
-## Delete a File in PowerShell
-
-`Remove-Item -Path "C:\Users\User\example.txt"`
-
-- Deletes the specified file.
-    
-- Add `-Force` if the file is hidden or read-only.
-    
-- Add `-Recurse` if deleting a folder with contents.
-
-### Aliases vs Full Cmdlets
-
-- Always prefer **full cmdlets** in scripts (`Remove-Item` instead of `rm`) for readability.
-    
-- Aliases are good for typing faster interactively.
-    
-
-### Cmdlet Naming Convention
-
-PowerShell follows **Verb-Noun** convention:
-
-`Get-Process Start-Service Stop-Computer`
-
-Use `Get-Verb` to see approved verbs.
-
-### Help System
-
-You can always check help:
-
-`Get-Help New-Item -Examples`
-
-### Piping & Redirection
-
-- `|` sends the output of one command into another.
-    
-- Example:
-    
-
-`Get-Process | Sort-Object CPU -Descending | Select-Object -First 5`
-
-Shows top 5 processes by CPU usage.
-
-### Error Handling
-
-Use `Try { } Catch { }` for handling errors gracefully.
-
-`Try {     Get-Item "C:\NonExistentFile.txt" } Catch {     Write-Output "File not found!" }`
-
-`---  Do you also want me to **merge this with your first notebook page** (Part 1) so you’ll have a single big **PowerShell Fundamentals.md** file for Obsidian?`
+- `-Path` specifies the locat
 
 
 
