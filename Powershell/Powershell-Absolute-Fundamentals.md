@@ -294,15 +294,5 @@ Use `Try { } Catch { }` for handling errors gracefully.
 
 `---  Do you also want me to **merge this with your first notebook page** (Part 1) so you’ll have a single big **PowerShell Fundamentals.md** file for Obsidian?`
 
-##### You said:
 
-![Uploaded image](https://chatgpt.com/backend-api/estuary/content?id=file-C5d1m7kGoPjdn2bQbTvHfE&ts=487840&p=fs&cid=1&sig=5d6b89f0c400d055b62a501fc7f70b04f1c3558ac7303da31aa2e171efb1b8d6)
-
-Convert my plain text note to markdown format for obsidian please thank you no emojis
-
-###### ChatGPT said:
-
-Got it 👍 — I’ll convert everything from your handwritten notes into **clean Markdown for Obsidian**. Here’s the formatted version:
-
-`# Active Directory (PowerShell)  ## Overview PowerShell Active Directory refers to the use of
 
