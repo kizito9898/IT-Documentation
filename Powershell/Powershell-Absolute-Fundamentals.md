@@ -17,7 +17,7 @@
 - An **alias** in PowerShell is a shortcut or alternate name for a cmdlet or command.  
 - You can always **download a higher version of PowerShell** if your current version is outdated. 
 
-# PowerShell Notes (Part 2)
+# Po
 
 * Go to Microsoft’s official GitHub release page:  
   [https://github.com/powershell/powershell/releases](https://github.com/powershell/powershell/releases)  
