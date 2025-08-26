@@ -83,10 +83,8 @@ Creates a blank text file in the specified path.
 - `-Path` specifies the location.
     
 - `-ItemType File` ensures it's a file (not folder).
-    
 
 ---
-
 ## Creating and Saving Command Output to a File
 
 ### Example: Save Ping Results
@@ -97,7 +95,6 @@ Creates a blank text file in the specified path.
     
 - Useful for logging troubleshooting steps.
 ---
-
 ## Delete a File in PowerShell
 
 `Remove-Item -Path "C:\Users\User\example.txt"`
@@ -107,10 +104,7 @@ Creates a blank text file in the specified path.
 - Add `-Force` if the file is hidden or read-only.
     
 - Add `-Recurse` if deleting a folder with contents.
-    
-
 ---
-
 ## Additional Best Practices & Notes (Added)
 
 ### Aliases vs Full Cmdlets
@@ -119,7 +113,6 @@ Creates a blank text file in the specified path.
     
 - Aliases are good for typing faster interactively.
     
-
 ### Cmdlet Naming Convention
 
 PowerShell follows **Verb-Noun** convention:
