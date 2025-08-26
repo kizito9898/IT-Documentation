@@ -58,7 +58,7 @@ My goal is to work remotely in a dynamic MSP or IT environment where I can grow,
 ### Networking & Security  
 - [Networking Troubleshooting](Network/Networking-Troubleshooting.md)  
 - [DNS](Network/DNS.md)  
-- [DHCP](Network/DHCP)  
+- [DHCP](Network/DHCP)
 
 ### Microsoft 365  
 - [Microsoft 365 Administration](Microsoft365/Microsoft-365-Administration.md)  
@@ -72,7 +72,7 @@ My goal is to work remotely in a dynamic MSP or IT environment where I can grow,
 - [Intune Troubleshooting](Intune/Enrollment-Troubleshooting.md)  
 
 ### Powershell & Automation
-
+- 
 
 ### Azure & Cloud  
 - [Azure VM Setup](Azure/Virtual-Machines-Setup.md)  
