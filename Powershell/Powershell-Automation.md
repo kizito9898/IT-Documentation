@@ -90,8 +90,6 @@ The password has been changed.
 # Creating a Group (Security Group) Using PowerShell
 
 - In PowerShell type:
-    
-
 `Add-ADGroupMember -Identity "Quidditch Players" -Members "hgranger"`
 
 ---
