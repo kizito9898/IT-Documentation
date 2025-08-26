@@ -36,5 +36,6 @@ You can create a new OU in Active Directory using this cmdlet:
 * Using PowerShell, I created a New User account in Active Directory  
   Using the Cmdlet:
 
-`powershell
+```
+```powershell
 New-ADUser -Name "Harry Potter" -SamAccountName "hpotter" -UserPrincipalName "hpotter@Njikason.com" -Path "OU=Gryffindor, OU=Student, OU=CentralUnit, DC=Njikason, DC=com" -AccountPassword (ConvertTo-SecureString "Capitolp123" -AsPlainText -Force) -Enabled $true -ChangePasswordAtLogon $true
