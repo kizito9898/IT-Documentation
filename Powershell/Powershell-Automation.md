@@ -54,10 +54,9 @@ New-ADUser -Name "Harry Potter" -SamAccountName "hpotter" -UserPrincipalName "hp
 ---
 - ## Disable account with PowerShell:
     
-
 `Set-ADUser -Identity "hgranger" -Enabled $false`
 
-- To enable the account again:
+- ## To enable the account again:
     
 
 `Set-ADUser -Identity "hgranger" -Enabled $true`
