@@ -74,7 +74,6 @@ PowerShell allows you to test network connectivity using `Test-Connection` (inst
 This sends ICMP echo requests and returns the response time, similar to `ping`.
 
 ---
-
 ## Creating a New File in PowerShell
 
 `New-Item -Path "C:\Users\User\example.txt" -ItemType File`
@@ -97,8 +96,6 @@ Creates a blank text file in the specified path.
 - `Out-File` saves the output of a command into a text file.
     
 - Useful for logging troubleshooting steps.
-    
-
 ---
 
 ## Delete a File in PowerShell
