@@ -108,14 +108,14 @@ My goal is to work remotely in a dynamic MSP or IT environment where I can grow,
 
 - Real experience from home lab environments simulating MSP-like issues  
 - Structured troubleshooting and documentation workflow  
-- Personal growth log as I develop toward a full-time IT support role  
+- Personal growth log as I develop toward a full-time IT support role .
 
 This is more than just notes. It's a living portfolio, created out of dedication to build practical, real-world knowledge and help others along the way.
 
 ---
 ## Let’s Connect
 
-If you're an **MSP, CTO, or remote team hiring manager** looking for someone with:
+If you're an **MSP CEO, CTO, or hiring manager** looking for someone with:
 
 - The ability to learn fast  
 - Practical troubleshooting mindset  
