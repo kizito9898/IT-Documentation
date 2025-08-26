@@ -60,3 +60,13 @@ New-ADUser -Name "Harry Potter" -SamAccountName "hpotter" -UserPrincipalName "hp
     
 
 `Set-ADUser -Identity "hgranger" -Enabled $true`
+
+
+# Resetting Password with PowerShell on Active Directory
+
+* Navigate to PowerShell and type:
+
+```powershell
+Set-ADAccountPassword -Identity "hpotter" -Reset -NewPassword (ConvertTo-SecureString "Capitolp123" -AsPlainText -Force)
+
+#
