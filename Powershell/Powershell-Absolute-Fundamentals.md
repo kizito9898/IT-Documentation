@@ -146,40 +146,7 @@ Use `Try { } Catch { }` for handling errors gracefully.
 
 `Try {     Get-Item "C:\NonExistentFile.txt" } Catch {     Write-Output "File not found!" }`
 
----
-## Functions in PowerShell
-
-A **function** in PowerShell is a reusable block of code that you define once and call multiple times.
-
-### Syntax
-
-`function Get-Greeting {     param([string]$Name)     "Hello, $Name! Welcome to PowerShell." }`
-
-### Usage
-
-`Get-Greeting -Name "Kizito"`
-
-Functions help you **avoid repeating long scripts** and make your automation modular.
-
----
-
-## Using the Ping Command
-
-PowerShell allows you to test network connectivity using `Test-Connection` (instead of legacy `ping`).
-
-`Test-Connection google.com -Count 4`
-
-This sends ICMP echo requests and returns the response time, similar to `ping`.
-
----
-
-## Creating a New File in PowerShell
-
-`New-Item -Path "C:\Users\User\example.txt" -ItemType File`
-
-Creates a blank text file in the specified path.
-
-- `-Path` specifies the locat
+--
 
 
 
