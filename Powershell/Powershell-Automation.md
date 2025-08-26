@@ -72,3 +72,30 @@ Set-ADAccountPassword -Identity "hpotter" -Reset -NewPassword (ConvertTo-SecureS
 
 ```
 
+- Then prompt for the user to change their password at the next logon:
+    
+
+`Set-ADUser -Identity "hpotter" -ChangePasswordAtLogon $true`
+
+The password has been changed.
+
+---
+# Unlocking a User Account in Active Directory
+
+- Navigate to PowerShell → open as Administrator → type:
+    
+`Unlock-ADAccount -Identity "hpotter" Unlock-ADAccount -Identity "hgranger"`
+
+---
+# Creating a Group (Security Group) Using PowerShell
+
+- In PowerShell type:
+    
+
+`Add-ADGroupMember -Identity "Quidditch Players" -Members "hgranger"`
+
+---
+
+# Creating Another User with PowerShell
+
+- Created another user account **Ron Weasley** using PowerShell and added to Gryffindor group OU with created password.
