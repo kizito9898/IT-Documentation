@@ -27,47 +27,20 @@
 
 ### Key Notes
 - An **alias** in PowerShell is a shortcut or alternate name for a cmdlet or command.  
-- You can always **download a higher version of PowerShell** if your current version is outdated. 
-
-# Downloading Powershell 7.4.5 
-
-* Go to Microsoft’s official GitHub release page:  
-  [https://github.com/powershell/powershell/releases](https://github.com/powershell/powershell/releases)  
-  → Under **Assets**, download the **.msi installer** for Windows (x64 bit)  
-  → Example: `powershell-7.4.5-win-x64.msi`  
-  → Run the installer. ✅  
-
-* PowerShell aims to be **cross-platform**, running on **Windows, macOS, and Linux**.  
-
-* Download **Visual Studio Code** to practice PowerShell fundamentals → linked with PowerShell Core.  
-
----
-
+- You can always **download a higher version of PowerShell** if your current version is outdated.
 ## Variables
 * A variable is a **named storage location** for data (string, number, object, etc).  
 * Always starts with `$` in PowerShell.  
 * Think of it as a **container that stores data you can reuse**.  
-
----
-
 ## Alias
 * An alias is just a **shortcut (nickname)** for a longer cmdlet, command, or function.  
-* It makes typing faster, but the command still runs the **full version** in the background.  
-
----
-
+* It makes typing faster, but the command still runs the **full version** in the background.
 ## Comparison Operators
 * In PowerShell, comparison operators are used to **compare values** (numbers, strings, or objects).  
 * They return either **True or False**.  
-
----
-
 ## Arrays
 * An array is just a **list of items** stored in a single variable.  
 * Instead of having one value, an array can hold **multiple values at once** (numbers, strings, objects, etc).  
-
----
-
 ## Hashtable
 * A hashtable uses **specific keys**.  
 * It is a **data structure** that stores **key–value pairs**.  
