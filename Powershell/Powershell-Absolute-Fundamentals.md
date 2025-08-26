@@ -104,9 +104,6 @@ Creates a blank text file in the specified path.
 - Add `-Force` if the file is hidden or read-only.
     
 - Add `-Recurse` if deleting a folder with contents.
----
-## Additional Best Practices & Notes (Added)
-
 ### Aliases vs Full Cmdlets
 
 - Always prefer **full cmdlets** in scripts (`Remove-Item` instead of `rm`) for readability.
