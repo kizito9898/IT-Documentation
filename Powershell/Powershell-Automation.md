@@ -19,16 +19,12 @@ To work with PowerShell in Active Directory, you need to import the module to ge
 1. Navigate to the Start Menu → search for **PowerShell**  
 2. Right-click and **Run as Administrator**  
 3. In PowerShell, run:  
-   ```powershell
-   Import-Module ActiveDirectory
-### Checking Commands
+   Import-Module Active Directory
+4. ### Checking Commands
 
 To view available commands:
 
 `Get-Command`
-
----
-
 ## Creating a New Organizational Unit (OU) with PowerShell
 
 You can create a new OU in Active Directory using this cmdlet:
@@ -37,7 +33,4 @@ You can create a new OU in Active Directory using this cmdlet:
 
 - `-Name` specifies the OU name
     
-- `-Path` specifies the domain structure where it will be created
-    
-
-`---  Would you like me to also add **examples for creating users and groups** (since they’re often paired with OU creation in Tier 1/2 AD tasks)? That way your Obsidian note will be more complete.`
+- `-Path` specifies the domain structure where it will be create
