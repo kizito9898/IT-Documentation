@@ -39,3 +39,28 @@ You can create a new OU in Active Directory using this cmdlet:
 powershell
 New-ADUser -Name "Harry Potter" -SamAccountName "hpotter" -UserPrincipalName "hpotter@Njikason.com" -Path "OU=Gryffindor, OU=Student, OU=CentralUnit, DC=Njikason, DC=com" -AccountPassword (ConvertTo-SecureString "Capitolp123" -AsPlainText -Force) -Enabled $true -ChangePasswordAtLogon $true
 
+- Created another User account (Hermione Granger) using the same script.
+---
+# Get-ADUser
+
+- `Get-ADUser` is used to retrieve information about a User account in Active Directory (AD) and also properties like email, groups, account information.
+---
+# Adding Email Address to a User
+
+- Adding email address to the user Harry Potter on PowerShell:
+    
+`Set-ADUser -Identity "hpotter" -Email "harry.potter@njikason.com" -OfficePhone "800-555-7777"`
+
+---
+
+# Disabling Accounts with PowerShell
+
+- Disable account with PowerShell:
+    
+
+`Set-ADUser -Identity "hgranger" -Enabled $false`
+
+- To enable the account again:
+    
+
+`Set-ADUser -Identity "hgranger" -Enabled $true`
