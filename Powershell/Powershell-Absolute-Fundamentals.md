@@ -179,14 +179,6 @@ Use `Try { } Catch { }` for handling errors gracefully.
 
 ---
 
-Would
-
-##### You said:
-
-Put everything in a markdown..no plaintext please
-
-###### ChatGPT said:
-
 Perfect — here’s your entire note **fully in Markdown format** (no plaintext outside of markdown) so you can copy directly into Obsidian.
 
 `# PowerShell Notes (Part 2)  ## Hashtable Example ```powershell $fellowshipData = @{     Key1 = "Item1"     Key2 = "Item2" }`
