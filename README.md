@@ -73,7 +73,7 @@ My goal is to work remotely in a dynamic MSP or IT environment where I can grow,
 
 ### Powershell & Automation
 - [Powershell fundamentals](Powershell/Powershell-Absolute-Fundamentals.md)
-- [Powershell Automation](Powershell/)
+- [Powershell Automation](Powershell/Powershell-Automation.md)
 
 ### Azure & Cloud  
 - [Azure VM Setup](Azure/Virtual-Machines-Setup.md)  
