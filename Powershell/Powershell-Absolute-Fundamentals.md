@@ -129,7 +129,7 @@ A loop goes through each item in a list and does something with it.
 `foreach ($House in $Houses.Keys) {     foreach ($student in $Houses[$House]) {         ...     } }`
 
 - A **loop** repeats actions
-
+![Screenshot](images/screenshot616.jpg)
 ---
 ##  If Statements
 
