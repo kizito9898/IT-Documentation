@@ -98,6 +98,7 @@ The password has been changed.
 # Automation in powershell:
 
 ### Automation in powershell is the process of writing Scripts to perform repetitive IT tasks without manual efforts. Instead of clicking through GUI (Active Directory users & Computers) you use powershell Cmdlets to Script the process once and re-use it many times.
+
  As other Learning administration, makes it easy to get work done faster, avoid repetitive task which leads to burn-out.
  
 * powershell can interact with active Directory, Azure, Office 365 SQL, VMware, AWS etc.
@@ -109,4 +110,4 @@ The password has been changed.
 
 * What This Script Does
    - breaks up the OU Creation under
-   OU = Students, OU = CastelData, DC = Mydomain, DC = Com.
+   OU = Student, OU = centralUnit, DC = Njikason, DC = Com.
