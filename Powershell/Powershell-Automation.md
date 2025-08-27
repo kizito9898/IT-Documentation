@@ -230,12 +230,14 @@ Open Powershell as Administrator -> Run the Script
 ![Screenshot](images/screenshot611.jpg)
 
 # Disable All Users in `OU=Non-Staff`
+
+
 Import-Module ActiveDirectory
 
 Define the OU for Non-Staff
 $nonStaffOU = "OU=Non-Staff,OU=centralUnit,DC=Njikason,DC=com"
 
-# Get all users in the OU
+Get all users in the OU
 $users = Get-ADUser -Filter * -SearchBase $nonStaffOU
 
 foreach ($user in $users) {
