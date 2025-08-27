@@ -76,7 +76,7 @@ PowerShell allows you to test network connectivity using `Test-Connection` (inst
 
 `Test-Connection google.com -Count 4`
 
-
+![Screenshot](images)
 This sends ICMP echo requests and returns the response time, similar to `ping`.
 
 ---
