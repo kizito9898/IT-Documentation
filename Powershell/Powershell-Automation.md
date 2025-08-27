@@ -57,7 +57,9 @@ New-ADUser -Name "Harry Potter" -SamAccountName "hpotter" -UserPrincipalName "hp
 # Get-ADUser
 
 - `Get-ADUser` is used to retrieve information about a User account in Active Directory (AD) and also properties like email, groups, account information.
-![Screenshot]
+![Screenshot](images/screenshot578.jpg)
+
+
 ---
 # Adding Email Address to a User
 
