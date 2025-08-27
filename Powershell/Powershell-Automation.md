@@ -170,10 +170,11 @@ It's useful in real IT tasks, if you need to Onboard 50+ new employees doing it 
 
 * The Script is
 
+
 Import-Module Active Directory (loads the Active Directory module needed to use New-ADUser, Get-ADUser etc)
 
 $Staff = Import-CSV -path 'C:\HogwartsStaff.csv'
-
+![Screenshot](images/screenshot602.jpg)
 
 ---
 
