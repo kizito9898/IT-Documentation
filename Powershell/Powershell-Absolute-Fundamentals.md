@@ -101,6 +101,7 @@ Creates a blank text file in the specified path.
 - `Out-File` saves the output of a command into a text file.
     
 - Useful for logging troubleshooting steps.
+![Screenshot](images/screenshot614.jpg)
 ---
 ## Delete a File in PowerShell
 
