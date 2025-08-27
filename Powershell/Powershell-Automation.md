@@ -202,7 +202,7 @@ The Script was Created Using chatgpt
    Set-ExecutionPolicy RemoteSigned -Scope Process -Force
    (allows running you Script in this Session)
 
-   * Run the following Script: C:\Import-HogwartsStaff.ps1
+   * Run the following Script: C:\Import-HogwartsStaff.ps1 on Powershell
 
 6) * After Running, it Created all the Users in the OU = Staff.
 
