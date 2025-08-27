@@ -113,17 +113,15 @@ I Want to Run an Automation Script that Creates multiple Organizational Unit (OU
    - breaks up the OU Creation under
    OU = Student, OU = centralUnit, DC = Njikason, DC = Com.
 
-1. if not, it Creates it
+ if not, it Creates it
 
-2. Loops through each house (Gryffindor, Slytherin, Ravenclaw, Hupplepuff)
-
-3. Creates Students in each OU with:
+ Loops through each house (Gryffindor, Slytherin, Ravenclaw, Hupplepuff)
+ Creates Students in each OU with:
    - SamAccountName = first initial + last name (Eg: hpotter, dmalfoy)
    - UPN / Email = Same format + @Mydomain.com
    - Default Password: Welcome123! (forces password change at logon)
 
-* After running the Script, my Active-Directory looks like this. Newly Created accounts.
-* To Test it Even further, I logged in as Draco malfoy, changed the new password. Account is ready.
+* After running the Script, my Active-Directory looks like this. Newly Created accounts.To Test it Even further, I logged in as Draco malfoy, changed the new password. Account is ready.
 
  Creating new Users with CSV-driven automation in powershell
 * What is a CSV file for AD User Creation
