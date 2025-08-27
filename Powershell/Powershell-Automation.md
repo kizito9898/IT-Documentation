@@ -35,10 +35,11 @@ You can create a new OU in Active Directory using this cmdlet:
 
 * Creating Sub OUs inside Central Unit with PowerShell
 ![Screenshot](images/screenshot570.jpg)
-
+![]
 # Using PowerShell, I created a New User account in Active Directory
 
   Using the Cmdlet:
+  
 
 ```
 ```powershell
