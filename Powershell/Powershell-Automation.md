@@ -50,7 +50,9 @@ New-ADUser -Name "Harry Potter" -SamAccountName "hpotter" -UserPrincipalName "hp
 - Created User account (Harry Potter) using the above Script.
 ![Screenshot](images/screenshot574.jpg)
 - Created another User account (Hermione Granger) using the same script.
+![Screenshot](images/screenshot576.jpg)
 ![Screenshot](images)
+
 ---
 # Get-ADUser
 
