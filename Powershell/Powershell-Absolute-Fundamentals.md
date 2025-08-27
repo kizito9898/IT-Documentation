@@ -140,7 +140,7 @@ This module contains special cmdlets that let you manage Active Directory object
   - `New-ADOrganizationalUnit` → create a new OU  
   - `Get-ADComputer` → view computer objects  
 ---
-## Load the Active Directory module
+## Load the Active Directory module on Powershell
 
 Import-Module ActiveDirectory
 
