@@ -185,4 +185,5 @@ Create the Import Script (Used chat-gpt to Create an Import Script)
 Save this as C:\Import-Darkligion.ps1 This Creates & Structure User by Name, SamAccountName, UserprincipalName, Path, Account Password (ConvertTo-SecureString $ulogged.Password -AsPlainText -Force)
 
 Open Powershell as Administrator -> Run the Script
-  C:\Import-Darkligion.ps1 -> It Should Import Created New Users
+
+  C:\Import-DarkWizards.ps1 -> It Should Import Created New Users
