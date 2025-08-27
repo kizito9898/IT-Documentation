@@ -44,7 +44,9 @@
 ## Arrays
 * An array is just a **list of items** stored in a single variable.  
 * Instead of having one value, an array can hold **multiple values at once** (numbers, strings, objects, etc).  
+![Screenshot](images/screenshot561.jpg)
 ## Hashtable
+
 * A hashtable uses **specific keys**.  
 * It is a **data structure** that stores **key–value pairs**.  
 ## Hashtable Example
