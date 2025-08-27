@@ -87,7 +87,7 @@ New-ADUser -Name "Harry Potter" -SamAccountName "hpotter" -UserPrincipalName "hp
 Set-ADAccountPassword -Identity "hpotter" -Reset -NewPassword (ConvertTo-SecureString "Capitolp123" -AsPlainText -Force)
 
 ```
-
+![Scree]
 - Then prompt for the user to change their password at the next logon:
     
 `Set-ADUser -Identity "hpotter" -ChangePasswordAtLogon $true`
