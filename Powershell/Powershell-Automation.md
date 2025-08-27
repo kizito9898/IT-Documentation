@@ -161,7 +161,7 @@ This file is a blueprint for Powershell. Instead of Creating Users one by one, y
 
 It's useful in real IT tasks, if you need to Onboard 50+ new employees doing it manually would take hours.
 
- With CSV + powershell Scripts, you can Create all users in a few Seconds
+ With CSV + Powershell Scripts, you can Create all users in a few Seconds
 
 1) Press Windows + R, type notepad, Press Enter.
 
