@@ -126,6 +126,31 @@ Creates a blank text file in the specified path.
 Import-Module ActiveDirectory # Define base OU path $baseOU = "OU=Student,OU=centralUnit,DC=Njikason,DC=com" # Define houses and students $Houses = @{ "Gryffindor" = @("Harry Potter","Hermione Granger","Ron Weasley") "Slytherin" = @("Draco Malfoy","Pansy Parkinson","Blaise Zabini") "Ravenclaw" = @("Luna Lovegood","Cho Chang","Padma Patil") "Hufflepuff" = @("Cedric Diggory","Hannah Abbott","Ernie Macmillan") } # Loop through houses foreach ($House in $Houses.Keys) { $houseOU = "OU=$House,$baseOU" # Create the OU if it doesn't exist if (-not (Get-ADOrganizationalUnit -Filter "DistinguishedName -eq '$houseOU'" -ErrorAction SilentlyContinue)) { New-ADOrganizationalUnit -Name $House -Path $baseOU Write-Host "Created OU: $House" -ForegroundColor Cyan } # Loop through students in each house foreach ($student in $Houses[$House]) { # Split into first/last name $parts = $student.Split(" ") $givenName = $parts[0] $surname = $parts[1] # Define user parameters $userParams = [ordered]@{ Name = $student DisplayName = $student GivenName = $givenName Surname = $surname SamAccountName = ($givenName.Substring(0,1) + $surname).ToLower() UserPrincipalName = ($givenName.Substring(0,1) + $surname + "@Njikason.com").ToLower() Path = $houseOU EmailAddress = ($givenName.Substring(0,1) + $surname + "@Njikason.com").ToLower() Enabled = $true AccountPassword = (ConvertTo-SecureString "Welcome123!" -AsPlainText -Force) ChangePasswordAtLogon = $true } # Create user if not exists if (-not (Get-ADUser -Filter "SamAccountName -eq '$($userParams.SamAccountName)'" -ErrorAction SilentlyContinue)) { New-ADUser @userParams Write-Host "Created user: $student in $House" -ForegroundColor Green } } }
 
 ---
+# Import-Module ActiveDirectory
+
+## Definition
+`Import-Module ActiveDirectory` loads the **Active Directory module** into PowerShell.  
+This module contains special cmdlets that let you manage Active Directory objects such as **users, groups, OUs, and computers**.
+
+---
+
+## Why It’s Needed
+- PowerShell by default doesn’t know how to talk to Active Directory.  
+- Importing the module “unlocks” commands like:  
+  - `New-ADUser` → create a new user  
+  - `Get-ADUser` → find a user  
+  - `New-ADOrganizationalUnit` → create a new OU  
+  - `Get-ADComputer` → view computer objects  
+
+---
+
+## Example
+
+# Load the Active Directory module
+Import-Module ActiveDirectory
+
+# Create a new user in AD
+New-ADUser -Name "John Doe" -SamAccountName jdoe -AccountPassword (ConvertTo-SecureString "Welcome123!" -AsPlainText -Force) -Enabled $true
 
 
 ## Loops
