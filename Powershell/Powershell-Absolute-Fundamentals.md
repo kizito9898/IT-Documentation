@@ -89,7 +89,7 @@ Creates a blank text file in the specified path.
 - `-Path` specifies the location.
     
 - `-ItemType File` ensures it's a file (not folder).
-
+![Screenshot](images/screenshot564.jpg)
 
 ---
 ## Creating and Saving Command Output to a File
