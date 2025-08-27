@@ -128,11 +128,7 @@ A loop goes through each item in a list and does something with it.
 
 `foreach ($House in $Houses.Keys) {     foreach ($student in $Houses[$House]) {         ...     } }`
 
-- A **loop** repeats actions.
-    
-- Outer loop → Goes through each House.
-    
-- Inner loop → Goes through each student in that House.
+- A **loop** repeats actions
 ---
 ## 6. If Statements
 
