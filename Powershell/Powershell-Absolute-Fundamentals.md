@@ -172,7 +172,7 @@ Example in the script:
 - Creates a **secure password object** for new AD accounts.
     
 - Required by `New-ADUser`.
-!
+![Screenshot](images/screenshot620.jpg)
 ---
 ##  Splatting
 
@@ -181,6 +181,7 @@ Example in the script:
 - **Splatting** passes a hashtable (`@userParams`) as parameters.
     
 - Cleaner than writing all parameters in one long line.
+
 ---
 ##  Write-Host
 
