@@ -22,8 +22,7 @@
 * PowerShell aims to be **cross-platform**, running on **Windows, macOS, and Linux**.  
 
 * Download **Visual Studio Code** to practice PowerShell fundamentals → linked with PowerShell Core.  
-
-
+![Screenshot](images/screenshot556.jpg)
 
 ### Key Notes
 - An **alias** in PowerShell is a shortcut or alternate name for a cmdlet or command.  
