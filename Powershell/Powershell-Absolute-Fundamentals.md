@@ -5,7 +5,7 @@
 - PowerShell is a **command-line shell** and **scripting language** created by Microsoft.  
 - A **shell** means you can type commands (like `ping`, `ipconfig`) but with more advanced capabilities.  
 - A **scripting language** means you can write a list of commands in a file (a **script**) so they run automatically instead of typing them one by one.  
-![Screenshot](images/screenshot549)
+![Screenshot](images/screenshot549.jpg)
 ### Why Use PowerShell?
 - With PowerShell scripting, you can:
   - Perform **Active Directory tasks** → Create, disable, or reset 50 user accounts at once.  
@@ -18,7 +18,7 @@
   → Under **Assets**, download the **.msi installer** for Windows (x64 bit)  
   → Example: `powershell-7.4.5-win-x64.msi`  
   → Run the installer. ✅  
-
+![Screenshot](images/scree)
 * PowerShell aims to be **cross-platform**, running on **Windows, macOS, and Linux**.  
 
 * Download **Visual Studio Code** to practice PowerShell fundamentals → linked with PowerShell Core.  
