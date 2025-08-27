@@ -170,10 +170,7 @@ Creates a blank text file in the specified path.
 - **Splatting** passes a hashtable (`@userParams`) as parameters.
     
 - Cleaner than writing all parameters in one long line.
-    
-
 ---
-
 ## 11. Write-Host
 
 `Write-Host "Created user: $student in $House" -ForegroundColor Green`
