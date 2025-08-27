@@ -35,7 +35,7 @@
 ## Alias
 * An alias is just a **shortcut (nickname)** for a longer cmdlet, command, or function.  
 * It makes typing faster, but the command still runs the **full version** in the background.
-![Screenshot](images/screenshot6)
+![Screenshot](images/screenshot614.jpg)
 ## Comparison Operators
 * In PowerShell, comparison operators are used to **compare values** (numbers, strings, or objects).  
 * They return either **True or False**.  
