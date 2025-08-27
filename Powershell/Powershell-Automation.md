@@ -137,7 +137,7 @@ It's useful in real IT tasks, if you need to Onboard 50+ new employees doing it 
 
 1) Press Windows + R, type notepad, Press Enter.
 
-* Creating new Users for Staff, The Current Set-up is OU = CastelData, OU = Staff => Inside the Staff OU, I'm creating multiple Users at Once Using CSV method
+* Creating new Users for Staff, The Current Set-up is OU = centralUnit, OU = Staff => Inside the Staff OU, I'm creating multiple Users at Once Using CSV method
 
 * The Script is
 
