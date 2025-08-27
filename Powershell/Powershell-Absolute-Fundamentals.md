@@ -140,7 +140,7 @@ Example in the script:
     
 - If the user does not exist, create them.
 `if (-not (Get-ADOrganizationalUnit -Filter "DistinguishedName -eq '$houseOU'")) {     New-ADOrganizationalUnit -Name $House -Path $baseOU }`
-
+![Screenshot](images/screenshot617.jpg)
 - **If** checks conditions.
     
 - `-not` means "if this does not exist."
