@@ -3,7 +3,7 @@
 ## How to map a drive (Share Drive Permissions) - Home Lab
 
 A mapped drive or shared folder is a network location assigned a drive letter on a computer, allowing users to access files and folders on a remote server as if they were stored locally.
-![Screenshot](images/screenshot624)
+![Screenshot](images/screenshot624.jpg)
 
 ---
 ## Steps to Create a Shared Folder

@@ -223,3 +223,10 @@ Save this as C:\Import-Darkligion.ps1 This Creates & Structure User by Name, Sam
 Open Powershell as Administrator -> Run the Script
 
   C:\Import-DarkWizards.ps1 -> It Should Import Created New Users
+![Screenshot](images/screenshot608.jpg)
+
+
+
+
+
+
