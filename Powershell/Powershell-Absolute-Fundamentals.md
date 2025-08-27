@@ -70,12 +70,12 @@ A **function** in PowerShell is a reusable block of code that you define once an
 Functions help you **avoid repeating long scripts** and make your automation modular.
 
 ---
-
 ## Using the Ping Command
 
 PowerShell allows you to test network connectivity using `Test-Connection` (instead of legacy `ping`).
 
 `Test-Connection google.com -Count 4`
+
 
 This sends ICMP echo requests and returns the response time, similar to `ping`.
 
