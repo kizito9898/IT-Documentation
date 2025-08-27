@@ -209,7 +209,8 @@ The Script was Created Using chatgpt
 ![Screenshot](images/screenshot606.jpg)
 ![Screenshot](images/screenshot607.jpg)
  In Work Environment, The Script Should be Tested, Edit the CSV -> Add/Change User attribute (Naming, Convention, password policy).
- 
+![Screenshot](images/screenshot602.jpg)
+
 ---
 # Created Another CSV file for New Users In a different OU using Powershell 
 
