@@ -163,7 +163,7 @@ Example in the script:
 - Builds `hpotter` from `"Harry Potter"`.
     
 - `.ToLower()` converts it to lowercase.
-![]
+![Screenshot](images/screenshot619.jpg)
 ---
 ## Secure Strings
 
