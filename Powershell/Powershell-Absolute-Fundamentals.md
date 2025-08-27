@@ -118,18 +118,7 @@ Creates a blank text file in the specified path.
     
 - Aliases are good for typing faster interactively.
     
-### Cmdlet Naming Convention
 
-PowerShell follows **Verb-Noun** convention:
-
-- `Get-Process`
-    
-- `Start-Service`
-    
-- `Stop-Computer`
-    
-
-Use `Get-Verb` 
 
 
 
