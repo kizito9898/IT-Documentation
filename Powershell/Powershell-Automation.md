@@ -230,7 +230,7 @@ Open Powershell as Administrator -> Run the Script
 ![Screenshot](images/screenshot611.jpg)
 
 # Disable All Users in `OU=Non-Staff`
-This Script disables all users in Non-staff OU 
+This Script disables all users in Non-staff OU via Active Directory using Powershell Scripts
 
 Import-Module ActiveDirectory
 
