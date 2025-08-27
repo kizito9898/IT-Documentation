@@ -154,7 +154,7 @@ Example in the script:
 - Splits `"Harry Potter"` into `"Harry"` and `"Potter"`.
     
 - Useful for building usernames and emails
-
+![Screenshot](images/screensh)
 ---
 ## Calculated Properties
 
