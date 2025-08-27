@@ -18,7 +18,7 @@
   → Under **Assets**, download the **.msi installer** for Windows (x64 bit)  
   → Example: `powershell-7.4.5-win-x64.msi`  
   → Run the installer. ✅  
-![Screenshot](images/scree)
+![Screenshot](images/screenshot550.jpg)
 * PowerShell aims to be **cross-platform**, running on **Windows, macOS, and Linux**.  
 
 * Download **Visual Studio Code** to practice PowerShell fundamentals → linked with PowerShell Core.  
