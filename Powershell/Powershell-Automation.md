@@ -170,7 +170,7 @@ It's useful in real IT tasks, if you need to Onboard 50+ new employees doing it 
 
 * The Script is
 ![Screenshot](images/screenshot603.jpg)
-![Screenshot](images)
+![Screenshot](images/screenshot604.jpg)
 
 Import-Module Active Directory (loads the Active Directory module needed to use New-ADUser, Get-ADUser etc)
 
