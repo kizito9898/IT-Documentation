@@ -19,12 +19,12 @@ To work with PowerShell in Active Directory, you need to import the module to ge
    Import-Module Active Directory
 ![Screenshot](images/screenshot566.jpg)
 4. Get-Command  (shows Different command to use) to run scripts.
-
+![Screenshot](images/screenshot567.jpg)
 ## Creating a New Organizational Unit (OU) with PowerShell
 
 You can create a new OU in Active Directory using this cmdlet:
 
-`New-ADOrganizationalUnit -Name "CentralUnit" -Path "DC=Njikasm,DC=com"`
+`New-ADOrganizationalUnit -Name "CentralUnit" -Path "DC=Njikason,DC=com"`
 
 - `-Name` specifies the OU name
     
