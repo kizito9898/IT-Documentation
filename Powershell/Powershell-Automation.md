@@ -147,8 +147,7 @@ I Want to Run an Automation Script that Creates multiple Organizational Unit (OU
 * After running the Script, my Active-Directory looks like this. Newly Created accounts.To Test it Even further, I logged in as Draco malfoy, changed the new password. Account is ready.
 ![Screenshot](images/screenshot596.jpg)
 ![Screenshot](images/screenshot597.jpg)
-
-
+![Screenshot](images/screenshot598.jpg)
 
  ---
 ## Creating new Users with CSV-driven automation in Powershell
