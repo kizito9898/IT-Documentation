@@ -174,13 +174,16 @@ Import-Module Active Directory (loads the Active Directory module needed to use 
 
 $Staff = Import-CSV -path 'C:\HogwartsStaff.csv'
 
+---
+
 2) Copy the text below into the notepad (already had the Script)
 
 -> Click File -> Save as -> in File Name, type C:\HogwartsStaff.csv -> Now I have C:\HogwartsStaff.csv
 
 * Create the powershell Script
+---
 
-3) open a new Notepad Window -> Copy The Script looks ->
+3) Open a new Notepad Window -> Copy The Script looks ->
 (Create a Splitting hashtable that holds all the user properties)
 
 SamAccountName = User name for login
