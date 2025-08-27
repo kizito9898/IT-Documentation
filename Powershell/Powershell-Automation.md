@@ -58,7 +58,7 @@ New-ADUser -Name "Harry Potter" -SamAccountName "hpotter" -UserPrincipalName "hp
 
 - `Get-ADUser` is used to retrieve information about a User account in Active Directory (AD) and also properties like email, groups, account information.
 ![Screenshot](images/screenshot578.jpg)
-
+![Screenshot](images/screenshot579.jpg)
 
 ---
 # Adding Email Address to a User
@@ -66,6 +66,7 @@ New-ADUser -Name "Harry Potter" -SamAccountName "hpotter" -UserPrincipalName "hp
 - Adding email address to the user Harry Potter on PowerShell:
     
 `Set-ADUser -Identity "hpotter" -Email "harry.potter@njikason.com" -OfficePhone "800-555-7777"`
+
 
 ---
 - ## Disable account with PowerShell:
