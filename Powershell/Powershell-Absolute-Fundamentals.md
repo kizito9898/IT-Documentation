@@ -38,7 +38,8 @@
 * It makes typing faster, but the command still runs the **full version** in the background.
 ![Screenshot](images/screenshot614.jpg)
 ## Comparison Operators
-* In PowerShell, comparison operators are used to **compare values** (numbers, strings, or objects).  
+* In PowerShell, comparison operators are used to **compare values** (numbers, strings, or objects).
+![Screenshot](images)
 * They return either **True or False**.  
 ## Arrays
 * An array is just a **list of items** stored in a single variable.  
