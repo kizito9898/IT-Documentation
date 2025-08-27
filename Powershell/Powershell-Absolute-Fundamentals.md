@@ -145,6 +145,8 @@ This module contains special cmdlets that let you manage Active Directory object
 Import-Module ActiveDirectory
 
 ![Screenshot](images/screenshot566.jpg)
+
+---
 ## Loops
 
 A loop goes through each item in a list and does something with it.
