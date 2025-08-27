@@ -143,7 +143,7 @@ I Want to Run an Automation Script that Creates multiple Organizational Unit (OU
    - SamAccountName = first initial + last name (Eg: hpotter, dmalfoy)
    - UPN / Email = Same format + @Mydomain.com
    - Default Password: Welcome123! (forces password change at logon)
-
+![Screenshot](images/screenshot)
 * After running the Script, my Active-Directory looks like this. Newly Created accounts.To Test it Even further, I logged in as Draco malfoy, changed the new password. Account is ready.
  ---
 ## Creating new Users with CSV-driven automation in Powershell
