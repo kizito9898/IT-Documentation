@@ -78,7 +78,7 @@ New-ADUser -Name "Harry Potter" -SamAccountName "hpotter" -UserPrincipalName "hp
     
 `Set-ADUser -Identity "hgranger" -Enabled $true`
 ![Screenshot](images/screenshot582.jpg)
-
+![Screenshot](images/screenshot583.jpg)
 # Resetting Password with PowerShell on Active Directory
 
 * Navigate to PowerShell and type:
@@ -90,7 +90,6 @@ Set-ADAccountPassword -Identity "hpotter" -Reset -NewPassword (ConvertTo-SecureS
 
 - Then prompt for the user to change their password at the next logon:
     
-
 `Set-ADUser -Identity "hpotter" -ChangePasswordAtLogon $true`
 
 The password has been changed.
