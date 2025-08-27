@@ -180,7 +180,7 @@ The Script was Created Using chatgpt
 
 Created a Notepad note -> Copied the Script Inside -> Saved the as C:\Darkligion.csv
 
-Creat the Import Script (Used chatgpt to Create an Import Script) 
+Create the Import Script (Used chat-gpt to Create an Import Script) 
 
 Save this as C:\Import-Darkligion.ps1 This Creates & Structure User by Name, SamAccountName, UserprincipalName, Path, Account Password (ConvertTo-SecureString $ulogged.Password -AsPlainText -Force)
 
