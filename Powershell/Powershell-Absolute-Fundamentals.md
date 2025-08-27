@@ -121,7 +121,7 @@ Creates a blank text file in the specified path.
 
 # Breaking-Down a Powershell Script to aid my learning of Powershell automation.
 
-** This is a script used to creating new users on Active directory
+** This is a script used to creating new users on Active directory (Bulk user accounts) learning how everything comes toge
 
 
 ## Loops
