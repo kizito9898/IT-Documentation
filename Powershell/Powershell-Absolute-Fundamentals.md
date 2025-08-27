@@ -172,6 +172,7 @@ Example in the script:
 - Creates a **secure password object** for new AD accounts.
     
 - Required by `New-ADUser`.
+!
 ---
 ##  Splatting
 
