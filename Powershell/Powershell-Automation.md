@@ -148,7 +148,7 @@ I Want to Run an Automation Script that Creates multiple Organizational Unit (OU
 ![Screenshot](images/screenshot596.jpg)
 ![Screenshot](images/screenshot597.jpg)
 ![Screenshot](images/screenshot598.jpg)
-![]
+![Screenshot](images/screenshot612.jpg)
 
  ---
 ## Creating new Users with CSV-driven automation in Powershell
