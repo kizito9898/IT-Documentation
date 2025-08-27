@@ -245,8 +245,8 @@ foreach ($user in $users) {
     Write-Host "Locked user: $($user.Name)" -ForegroundColor Red
 }
 
-
-
+---
+## You could also make a **reverse script** to unlock them:
 
 Import-Module ActiveDirectory
 $nonStaffOU = "OU=Non-Staff,OU=centralUnit,DC=Njikason,DC=com"
