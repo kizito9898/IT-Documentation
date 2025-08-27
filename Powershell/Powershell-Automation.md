@@ -101,13 +101,15 @@ The password has been changed.
 - Navigate to PowerShell → open as Administrator → type:
     
 `Unlock-ADAccount -Identity "hpotter" Unlock-ADAccount -Identity "hgranger"`
-
+![Screenshot](images/screenshot587.jpg)
 
 ---
 # Creating a Group (Security Group) Using PowerShell
 
 - In PowerShell type:
 `Add-ADGroupMember -Identity "Quidditch Players" -Members "hgranger"`
+
+
 ---
 # Creating Another User with PowerShell
 
