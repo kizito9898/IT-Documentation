@@ -127,7 +127,6 @@ Creates a blank text file in the specified path.
 - Outer loop → Goes through each House.
     
 - Inner loop → Goes through each student in that House.
-    
 ---
 ## 6. If Statements
 
@@ -138,20 +137,16 @@ Creates a blank text file in the specified path.
 - `-not` means "if this does not exist."
     
 - Here: Create the OU only if it doesn’t exist.
-    
 ---
-
 ## 7. String Operations
 
 `$parts = $student.Split(" ") $givenName = $parts[0] $surname   = $parts[1]`
 
 - Splits `"Harry Potter"` into `"Harry"` and `"Potter"`.
     
-- Useful for building usernames and emails.
-    
+- Useful for building usernames and emails
 
 ---
-
 ## 8. Calculated Properties
 
 `SamAccountName = ($givenName.Substring(0,1) + $surname).ToLower()`
@@ -159,10 +154,7 @@ Creates a blank text file in the specified path.
 - Builds `hpotter` from `"Harry Potter"`.
     
 - `.ToLower()` converts it to lowercase.
-    
-
 ---
-
 ## 9. Secure Strings
 
 `AccountPassword = (ConvertTo-SecureString "Welcome123!" -AsPlainText -Force)`
@@ -170,10 +162,7 @@ Creates a blank text file in the specified path.
 - Creates a **secure password object** for new AD accounts.
     
 - Required by `New-ADUser`.
-    
-
 ---
-
 ## 10. Splatting
 
 `New-ADUser @userParams`
