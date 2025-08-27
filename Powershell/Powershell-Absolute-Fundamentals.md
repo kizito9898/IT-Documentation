@@ -190,4 +190,4 @@ Example in the script:
 - Displays progress messages in the console.
     
 - Helps track what the script is doing.
-
+![Screenshot](images/screenshot622.jpg)
