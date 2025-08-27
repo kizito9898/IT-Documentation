@@ -182,7 +182,7 @@ $Staff = Import-CSV -path 'C:\HogwartsStaff.csv'
 -> Click File -> Save as -> in File Name, type C:\HogwartsStaff.csv -> Now I have C:\HogwartsStaff.csv
 
 * Create the Powershell Script
-![Screenshot](images/screens)
+![Screenshot](images/screenshot603.jpg)
 ---
 
 3) Open a new Notepad Window -> Copy The Script looks ->
@@ -197,8 +197,8 @@ Accountpassword -> Check if and if the User exists (Get-ADUser)
 The Script was Created Using chatgpt
 4) * Save it as: C:\Import-HogwartsStaff.ps1
    * Now I have Created two CSV file to Create User
-
-5) * Navigate to powershell -> open as an admin -> Run the Command
+![Screenshot](images/scree)
+4) * Navigate to powershell -> open as an admin -> Run the Command
    Set-ExecutionPolicy RemoteSigned -Scope Process -Force
    (allows running you Script in this Session)
 
