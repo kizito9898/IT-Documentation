@@ -207,6 +207,7 @@ The Script was Created Using chatgpt
 6) * After Running, it Created all the Users in the OU = Staff.
 ![Screenshot](images/screenshot605.jpg)
 ![Screenshot](images/screenshot606.jpg)
+![Screenshot](images/screenshot607.jpg)
  In Work Environment, The Script Should be Tested, Edit the CSV -> Add/Change User attribute (Naming, Convention, password policy).
  
 ---
