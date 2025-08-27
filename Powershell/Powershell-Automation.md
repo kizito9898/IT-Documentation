@@ -91,8 +91,9 @@ Set-ADAccountPassword -Identity "hpotter" -Reset -NewPassword (ConvertTo-SecureS
 - Then prompt for the user to change their password at the next logon:
     
 `Set-ADUser -Identity "hpotter" -ChangePasswordAtLogon $true`
-
+![Screenshot](images/screenshot584.jpg)
 The password has been changed.
+![]
 
 ---
 # Unlocking a User Account in Active Directory
