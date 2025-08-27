@@ -93,7 +93,7 @@ Set-ADAccountPassword -Identity "hpotter" -Reset -NewPassword (ConvertTo-SecureS
 `Set-ADUser -Identity "hpotter" -ChangePasswordAtLogon $true`
 ![Screenshot](images/screenshot584.jpg)
 The password has been changed.
-![]
+![Screenshot](images/screenshot585.jpg)
 
 ---
 # Unlocking a User Account in Active Directory
@@ -101,6 +101,7 @@ The password has been changed.
 - Navigate to PowerShell → open as Administrator → type:
     
 `Unlock-ADAccount -Identity "hpotter" Unlock-ADAccount -Identity "hgranger"`
+
 
 ---
 # Creating a Group (Security Group) Using PowerShell
