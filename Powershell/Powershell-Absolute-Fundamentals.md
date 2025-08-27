@@ -76,7 +76,7 @@ PowerShell allows you to test network connectivity using `Test-Connection` (inst
 
 `Test-Connection google.com -Count 4`
 
-![Screenshot](images)
+![Screenshot](images/screenshot565.jpg)
 This sends ICMP echo requests and returns the response time, similar to `ping`.
 
 ---
@@ -89,6 +89,7 @@ Creates a blank text file in the specified path.
 - `-Path` specifies the location.
     
 - `-ItemType File` ensures it's a file (not folder).
+
 
 ---
 ## Creating and Saving Command Output to a File
