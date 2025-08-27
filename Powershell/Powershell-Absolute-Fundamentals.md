@@ -25,7 +25,6 @@
 ![Screenshot](images/screenshot556.jpg)
 
 ### Key Notes
-- An **alias** in PowerShell is a shortcut or alternate name for a cmdlet or command.  
 - You can always **download a higher version of PowerShell** if your current version is outdated.
 
 ## Variables
