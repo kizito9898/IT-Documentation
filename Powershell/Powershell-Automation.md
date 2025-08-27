@@ -176,11 +176,12 @@ The Script was Created Using chatgpt
  
 ---
 
-Created Another CSV file for New Users In a different OU using Powershell 
+# Created Another CSV file for New Users In a different OU using Powershell 
 
 Created a Notepad note -> Copied the Script Inside -> Saved the as C:\Darkligion.csv
 
 Creat the Import Script (Used chatgpt to Create an Import Script) 
+
 Save this as C:\Import-Darkligion.ps1 This Creates & Structure User by Name, SamAccountName, UserprincipalName, Path, Account Password (ConvertTo-SecureString $ulogged.Password -AsPlainText -Force)
 
 Open Powershell as Administrator -> Run the Script
