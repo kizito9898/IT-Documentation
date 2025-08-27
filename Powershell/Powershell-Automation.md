@@ -172,9 +172,10 @@ The Script was Created Using chatgpt
 
 5) * After Running, it Created all the Users in the OU = Staff.
 
-   * In Work Environment, The Script Should be Tested, Edit the CSV -> Add/Change User attribute (Naming, Convention, password policy).
+ In Work Environment, The Script Should be Tested, Edit the CSV -> Add/Change User attribute (Naming, Convention, password policy).
+---
 
-* Created Another CSV file for New Users In a different OU using Powershell
+ Created Another CSV file for New Users In a different OU using Powershell
 
 * Created a Notepad note -> Copied the Script Inside -> Saved the as C:\Darkligion.csv
 
