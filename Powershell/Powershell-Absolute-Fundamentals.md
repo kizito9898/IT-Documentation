@@ -130,8 +130,7 @@ A loop goes through each item in a list and does something with it.
 
 - A **loop** repeats actions
 ---
-## 6. If Statements
-### **f Statement (`if (-not ...)`)**
+##  If Statements
 
 Checks a condition and only runs the code if it’s true.  
 Example in the script:
@@ -147,7 +146,7 @@ Example in the script:
     
 - Here: Create the OU only if it doesn’t exist.
 ---
-## 7. String Operations
+##  String Operations
 
 `$parts = $student.Split(" ") $givenName = $parts[0] $surname   = $parts[1]`
 
@@ -164,7 +163,7 @@ Example in the script:
     
 - `.ToLower()` converts it to lowercase.
 ---
-## 9. Secure Strings
+## Secure Strings
 
 `AccountPassword = (ConvertTo-SecureString "Welcome123!" -AsPlainText -Force)`
 
@@ -172,7 +171,7 @@ Example in the script:
     
 - Required by `New-ADUser`.
 ---
-## 10. Splatting
+##  Splatting
 
 `New-ADUser @userParams`
 
@@ -180,7 +179,7 @@ Example in the script:
     
 - Cleaner than writing all parameters in one long line.
 ---
-## 11. Write-Host
+##  Write-Host
 
 `Write-Host "Created user: $student in $House" -ForegroundColor Green`
 
