@@ -173,13 +173,14 @@ The Script was Created Using chatgpt
 5) * After Running, it Created all the Users in the OU = Staff.
 
  In Work Environment, The Script Should be Tested, Edit the CSV -> Add/Change User attribute (Naming, Convention, password policy).
+ 
 ---
 
- Created Another CSV file for New Users In a different OU using Powershell
+  Created Another CSV file for New Users In a different OU using Powershell
 
-* Created a Notepad note -> Copied the Script Inside -> Saved the as C:\Darkligion.csv
+Created a Notepad note -> Copied the Script Inside -> Saved the as C:\Darkligion.csv
 
-* I'm Creating new Users account for OU = Non-Staffs, total of 6 New Users in Active Directory.
+ I'm Creating new Users account for OU = Non-Staffs, total of 6 New Users in Active Directory.
 
 * Creat the Import Script (Used chatgpt to Create an Import Script) 
   Save this as C:\Import-Darkligion.ps1 This Creates & Structure User by Name, SamAccountName, UserprincipalName, Path, Account Password (ConvertTo-SecureString $ulogged.Password -AsPlainText -Force)
