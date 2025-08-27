@@ -32,6 +32,7 @@
 * A variable is a **named storage location** for data (string, number, object, etc).  
 * Always starts with `$` in PowerShell.  
 * Think of it as a **container that stores data you can reuse**.  
+![Screenshot]
 ## Alias
 * An alias is just a **shortcut (nickname)** for a longer cmdlet, command, or function.  
 * It makes typing faster, but the command still runs the **full version** in the background.
