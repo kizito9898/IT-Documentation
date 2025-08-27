@@ -129,32 +129,7 @@ PowerShell follows **Verb-Noun** convention:
 - `Stop-Computer`
     
 
-Use `Get-Verb` to see approved verbs.
-
-### Help System
-
-You can always check help:
-
-`Get-Help New-Item -Examples`
-
-### Piping & Redirection
-
-- `|` sends the output of one command into another.
-    
-- Example:
-    
-
-`Get-Process | Sort-Object CPU -Descending | Select-Object -First 5`
-
-Shows top 5 processes by CPU usage.
-
-### Error Handling
-
-Use `Try { } Catch { }` for handling errors gracefully.
-
-`Try {     Get-Item "C:\NonExistentFile.txt" } Catch {     Write-Output "File not found!" }`
-
---
+Use `Get-Verb` 
 
 
 
