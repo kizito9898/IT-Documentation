@@ -29,6 +29,7 @@ You can create a new OU in Active Directory using this cmdlet:
 - `-Name` specifies the OU name
     
 - `-Path` specifies the domain structure where it will be create
+![Screenshot](images/screensh)
 # Creating More OUs with PowerShell
 
 * Creating Sub OUs inside Central Unit with PowerShell
