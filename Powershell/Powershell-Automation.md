@@ -89,9 +89,22 @@ The password has been changed.
 
 - In PowerShell type:
 `Add-ADGroupMember -Identity "Quidditch Players" -Members "hgranger"`
-
 ---
-
 # Creating Another User with PowerShell
 
-- Created another user account **Ron Weasley** using PowerShell and added to Gryffindor group OU with created password.
+- Created another user account **Ron Weasley** using PowerShell and added to Gryffindor group OU with created password
+
+
+* # Automation in powershell:
+* Automation in powershell is the process of writing Scripts to perform repetitive IT tasks without manual efforts. Instead of clicking through GUI (Active Directory users & Computers) you use powershell Cmdlets to Script the process once and re-use it many times.
+* As other Learning administration, makes it easy to get work done faster, avoid repetitive task which leads to burn-out.
+* powershell can interact with active Directory, Azure, Office 365 SQL, VMware, AWS etc.
+
+* Creating a new student account using Automation in powershell.
+* my Current setup: Directory Setup OU = CastelData, Under it
+    - One Student- OU = Gryffindor, with Harry potter, Hermione Granger & Ron Weasley as user
+* I Want to Run an Automation Script that Creates multiple Organizational Unit (OU) for Slytherin, Ravenclaw and Hupplepuff. -> Each OU will have its student as the Script will Create new Users as well.
+
+* What This Script Does
+   - breaks up the OU Creation under
+   OU = Students, OU = CastelData, DC = Mydomain, DC = Com.
