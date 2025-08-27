@@ -94,7 +94,7 @@ The password has been changed.
 
 - Created another user account **Ron Weasley** using PowerShell and added to Gryffindor group OU with created password
 
-
+---
 # Automation in powershell:
 
 ### Automation in powershell is the process of writing Scripts to perform repetitive IT tasks without manual efforts. Instead of clicking through GUI (Active Directory users & Computers) you use powershell Cmdlets to Script the process once and re-use it many times.
@@ -121,10 +121,10 @@ I Want to Run an Automation Script that Creates multiple Organizational Unit (OU
    - Default Password: Welcome123! (forces password change at logon)
 
 * After running the Script, my Active-Directory looks like this. Newly Created accounts.To Test it Even further, I logged in as Draco malfoy, changed the new password. Account is ready.
- 
+ ---
 ## Creating new Users with CSV-driven automation in Powershell
 
-##What is a CSV file for AD User Creation
+## What is a CSV file for AD User Creation
 
 CSV (Comma-Separated Values) is a simple text file where data is arranged in columns separated by commas.
 * Each row in the CSV = One User you want to Create. -> Each Column (header) = a property for the User account (Eg Name, Username, Password, OU)
