@@ -109,7 +109,7 @@ The password has been changed.
 - In PowerShell type:
 `Add-ADGroupMember -Identity "Quidditch Players" -Members "hgranger"`
 ![Screenshot](images/screenshot589.jpg)
-
+![Screenshot](images/screenshot590.jpg)
 
 ---
 # Creating Another User with PowerShell
