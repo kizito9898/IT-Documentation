@@ -205,6 +205,7 @@ The Script was Created Using chatgpt
    * Run the following Script: C:\Import-HogwartsStaff.ps1 on Powershell
 
 6) * After Running, it Created all the Users in the OU = Staff.
+![Screenshot](images/screenshot605.jpg)
 
  In Work Environment, The Script Should be Tested, Edit the CSV -> Add/Change User attribute (Naming, Convention, password policy).
  
