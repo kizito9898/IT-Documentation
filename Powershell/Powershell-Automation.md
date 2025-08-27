@@ -232,7 +232,7 @@ Open Powershell as Administrator -> Run the Script
 # Disable All Users in `OU=Non-Staff`
 Import-Module ActiveDirectory
 
-# Define the OU for Non-Staff
+Define the OU for Non-Staff
 $nonStaffOU = "OU=Non-Staff,OU=centralUnit,DC=Njikason,DC=com"
 
 # Get all users in the OU
@@ -242,6 +242,27 @@ foreach ($user in $users) {
     Disable-ADAccount -Identity $user.SamAccountName
     Write-Host "Locked user: $($user.Name)" -ForegroundColor Red
 }
+
+
+
+
+Import-Module ActiveDirectory
+$nonStaffOU = "OU=Non-Staff,OU=centralUnit,DC=Njikason,DC=com"
+Get-ADUser -Filter * -SearchBase $nonStaffOU | ForEach-Object {
+    Enable-ADAccount -Identity $_.SamAccountName
+    Write-Host "Unlocked user: $($_.Name)" -ForegroundColor Green
+}
+
+
+
+
+
+
+
+
+
+
+
 
 
 
