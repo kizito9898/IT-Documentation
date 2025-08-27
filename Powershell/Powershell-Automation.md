@@ -158,7 +158,7 @@ CSV (Comma-Separated Values) is a simple text file where data is arranged in col
 * Each row in the CSV = One User you want to Create. -> Each Column (header) = a property for the User account (Eg Name, Username, Password, OU)
 
 This file is a blueprint for Powershell. Instead of Creating Users one by one, you load the CSV, loop through each row and Powershell Creates the account Automatically.
-![Screenshot](images/screenshot600)
+![Screenshot](images/screenshot600.jpg)
 
 It's useful in real IT tasks, if you need to Onboard 50+ new employees doing it manually would take hours.
 
