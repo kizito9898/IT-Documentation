@@ -154,7 +154,7 @@ Example in the script:
 - Splits `"Harry Potter"` into `"Harry"` and `"Potter"`.
     
 - Useful for building usernames and emails
-![Screenshot](images/screensh)
+![Screenshot](images/screenshot618.jpg)
 ---
 ## Calculated Properties
 
@@ -163,6 +163,7 @@ Example in the script:
 - Builds `hpotter` from `"Harry Potter"`.
     
 - `.ToLower()` converts it to lowercase.
+
 ---
 ## Secure Strings
 
