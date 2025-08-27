@@ -108,6 +108,7 @@ The password has been changed.
 
 - In PowerShell type:
 `Add-ADGroupMember -Identity "Quidditch Players" -Members "hgranger"`
+![Screenshot](images/screenshot589.jpg)
 
 
 ---
