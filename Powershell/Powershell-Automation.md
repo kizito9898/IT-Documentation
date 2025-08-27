@@ -230,7 +230,7 @@ Open Powershell as Administrator -> Run the Script
 ![Screenshot](images/screenshot611.jpg)
 
 # Disable All Users in `OU=Non-Staff`
-
+This Script disables 
 
 Import-Module ActiveDirectory
 
