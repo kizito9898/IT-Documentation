@@ -76,9 +76,8 @@ New-ADUser -Name "Harry Potter" -SamAccountName "hpotter" -UserPrincipalName "hp
 
 - ## To enable the account again:
     
-
 `Set-ADUser -Identity "hgranger" -Enabled $true`
-
+![Screenshot](images/screenshot582.jpg)
 
 # Resetting Password with PowerShell on Active Directory
 
