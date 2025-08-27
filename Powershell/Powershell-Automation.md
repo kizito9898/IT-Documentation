@@ -176,7 +176,7 @@ The Script was Created Using chatgpt
  
 ---
 
-  Created Another CSV file for New Users In a different OU using Powershell
+Created Another CSV file for New Users In a different OU using Powershell
 
 Created a Notepad note -> Copied the Script Inside -> Saved the as C:\Darkligion.csv
 
