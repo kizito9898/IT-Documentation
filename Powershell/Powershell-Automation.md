@@ -131,7 +131,7 @@ The password has been changed.
  
  My Current setup: Directory Setup OU = centralUnit , Under it
  
-I Want to Run an Automation Script that Creates multiple Organizational Unit (OU) for Slytherin, Ravenclaw and Hupplepuff. -> Each OU will have its student as the Script will Create new Users as well.
+I Want to Run an Automation Script that Creates multiple Organizational Unit (OU) for **Slytherin, Ravenclaw and Hupplepuff. -> Each OU will have its student as the Script will Create new Users as well.
 
  What This Script Does
    - breaks up the OU Creation under
