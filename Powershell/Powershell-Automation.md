@@ -101,14 +101,16 @@ The password has been changed.
 
  As other Learning administration, makes it easy to get work done faster, avoid repetitive task which leads to burn-out.
  
- powershell can interact with active Directory, Azure, Office 365 SQL, VMware, AWS etc.
+ Powershell can interact with active Directory, Azure, Office 365 SQL, VMware, AWS etc.
 
- ###Creating a new student account using Automation in powershell.
+ ## Creating a new student account using Automation in powershell.
  
- my Current setup: Directory Setup OU = CastelData, Under it
-    - One Student- OU = Gryffindor, with Harry potter, Hermione Granger & Ron Weasley as user
+ My Current setup: Directory Setup OU = CastelData, Under it
+ 
 I Want to Run an Automation Script that Creates multiple Organizational Unit (OU) for Slytherin, Ravenclaw and Hupplepuff. -> Each OU will have its student as the Script will Create new Users as well.
 
  What This Script Does
    - breaks up the OU Creation under
    OU = Student, OU = centralUnit, DC = Njikason, DC = Com.
+
+
