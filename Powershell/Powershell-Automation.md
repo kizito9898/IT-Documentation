@@ -180,7 +180,7 @@ $Staff = Import-CSV -path 'C:\HogwartsStaff.csv'
 
 -> Click File -> Save as -> in File Name, type C:\HogwartsStaff.csv -> Now I have C:\HogwartsStaff.csv
 
-* Create the powershell Script
+* Create the Powershell Script
 ---
 
 3) Open a new Notepad Window -> Copy The Script looks ->
