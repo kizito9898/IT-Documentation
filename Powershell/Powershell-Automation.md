@@ -30,10 +30,11 @@ You can create a new OU in Active Directory using this cmdlet:
     
 - `-Path` specifies the domain structure where it will be create
 ![Screenshot](images/screenshot568.jpg)
-![Screenshot](images/screenshot)
+![Screenshot](images/screenshot569.jpg)
 # Creating More OUs with PowerShell
 
 * Creating Sub OUs inside Central Unit with PowerShell
+![Screenshot](images/screensh)
 
 * Using PowerShell, I created a New User account in Active Directory  
   Using the Cmdlet:
