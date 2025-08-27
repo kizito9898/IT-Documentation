@@ -17,7 +17,9 @@ To work with PowerShell in Active Directory, you need to import the module to ge
 2. Right-click and **Run as Administrator**  
 3. In PowerShell, run:  
    Import-Module Active Directory
+![Screenshot](images/screenshot566.jpg)
 4. Get-Command  (shows Different command to use) to run scripts.
+
 ## Creating a New Organizational Unit (OU) with PowerShell
 
 You can create a new OU in Active Directory using this cmdlet:
