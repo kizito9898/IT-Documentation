@@ -197,7 +197,7 @@ Accountpassword -> Check if and if the User exists (Get-ADUser)
 The Script was Created Using chatgpt
 4) * Save it as: C:\Import-HogwartsStaff.ps1
    * Now I have Created two CSV file to Create User
-![Screenshot](images/scree)
+![Screenshot](images/screenshot604.jpg)
 4) * Navigate to powershell -> open as an admin -> Run the Command
    Set-ExecutionPolicy RemoteSigned -Scope Process -Force
    (allows running you Script in this Session)
