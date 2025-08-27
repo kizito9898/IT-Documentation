@@ -131,7 +131,14 @@ A loop goes through each item in a list and does something with it.
 - A **loop** repeats actions
 ---
 ## 6. If Statements
+### **f Statement (`if (-not ...)`)**
 
+Checks a condition and only runs the code if it’s true.  
+Example in the script:
+
+- If the OU does not exist, create it.
+    
+- If the user does not exist, create them.
 `if (-not (Get-ADOrganizationalUnit -Filter "DistinguishedName -eq '$houseOU'")) {     New-ADOrganizationalUnit -Name $House -Path $baseOU }`
 
 - **If** checks conditions.
@@ -149,7 +156,7 @@ A loop goes through each item in a list and does something with it.
 - Useful for building usernames and emails
 
 ---
-## 8. Calculated Properties
+## Calculated Properties
 
 `SamAccountName = ($givenName.Substring(0,1) + $surname).ToLower()`
 
