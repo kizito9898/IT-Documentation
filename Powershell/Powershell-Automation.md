@@ -114,8 +114,8 @@ The password has been changed.
 ---
 # Creating Another User with PowerShell
 
-- Created another user account **Ron Weasley** using PowerShell and added to Gryffindor group OU with created password
-
+- Created another user account (**Ron Weasley**)using PowerShell and added to Gryffindor group OU with created password
+![Screenshot](images/screenshot591)
 ---
 # Automation in powershell:
 
