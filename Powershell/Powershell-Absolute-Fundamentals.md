@@ -54,7 +54,7 @@
 `$fellowshipData = @{     Key1 = "Item1"     Key2 = "Item2" }`
 
 A **hashtable** in PowerShell stores data as **key-value pairs**. Keys must be unique, and you can retrieve values by referencing their keys.
-
+![Screenshot](images/screenshot562.jpg)
 ## Functions in PowerShell
 
 A **function** in PowerShell is a reusable block of code that you define once and call multiple times.
