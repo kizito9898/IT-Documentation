@@ -174,6 +174,7 @@ Import-Module Active Directory (loads the Active Directory module needed to use 
 
 $Staff = Import-CSV -path 'C:\HogwartsStaff.csv'
 
+
 ---
 
 2) Copy the text below into the notepad (already had the Script)
