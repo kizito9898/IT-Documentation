@@ -164,13 +164,13 @@ The Script was Created Using chatgpt
 4) * Save it as: C:\Import-HogwartsStaff.ps1
    * Now I have Created two CSV file to Create User
 
-6) * Navigate to powershell -> open as an admin -> Run the Command
+5) * Navigate to powershell -> open as an admin -> Run the Command
    Set-ExecutionPolicy RemoteSigned -Scope Process -Force
    (allows running you Script in this Session)
 
    * Run the following Script: C:\Import-HogwartsStaff.ps1
 
-5) * After Running, it Created all the Users in the OU = Staff.
+) * After Running, it Created all the Users in the OU = Staff.
 
  In Work Environment, The Script Should be Tested, Edit the CSV -> Add/Change User attribute (Naming, Convention, password policy).
  
