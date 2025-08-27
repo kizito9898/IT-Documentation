@@ -131,3 +131,33 @@ CSV (Comma-Separated Values) is a simple text file where data is arranged in col
 
 This file is a blueprint for Powershell. Instead of Creating Users one by one, you load the CSV, loop through each row and Powershell Creates the account Automatically.
 
+It's useful in real IT tasks, if you need to Onboard 50+ new employees doing it manually would take hours.
+
+ With CSV + powershell Scripts, you can Create all users in a few Seconds
+
+1) Press Windows + R, type notepad, Press Enter.
+
+* Creating new Users for Staff, The Current Set-up is OU = CastelData, OU = Staff => Inside the Staff OU, I'm creating multiple Users at Once Using CSV method
+
+* The Script is
+
+Import-Module Active Directory (loads the Active Directory module needed to use New-ADUser, Get-ADUser etc)
+
+$Staff = Import-CSV -path 'C:\HogwartsStaff.csv'
+
+2) Copy the text below into the notepad (already had the Script)
+
+-> Click File -> Save as -> in File Name, type C:\HogwartsStaff.csv -> Now I have C:\HogwartsStaff.csv
+
+* Create the powershell Script
+
+3) open a new Notepad Window -> Copy The Script looks ->
+(Create a Splitting hashtable that holds all the user properties)
+
+SamAccountName = User name for login
+UserprincipalName
+Path
+Accountpassword -> Check if and if the User exists (Get-ADUser)
+-> If not found -> Create a New AD User
+
+The Script was Created Using chatgpt
