@@ -128,12 +128,10 @@ Import-Module ActiveDirectory # Define base OU path $baseOU = "OU=Student,OU=cen
 ---
 # Import-Module ActiveDirectory
 
-## Definition
 `Import-Module ActiveDirectory` loads the **Active Directory module** into PowerShell.  
 This module contains special cmdlets that let you manage Active Directory objects such as **users, groups, OUs, and computers**.
 
 ---
-
 ## Why It’s Needed
 - PowerShell by default doesn’t know how to talk to Active Directory.  
 - Importing the module “unlocks” commands like:  
@@ -141,16 +139,12 @@ This module contains special cmdlets that let you manage Active Directory object
   - `Get-ADUser` → find a user  
   - `New-ADOrganizationalUnit` → create a new OU  
   - `Get-ADComputer` → view computer objects  
-
 ---
 
 ## Example
 
 # Load the Active Directory module
 Import-Module ActiveDirectory
-
-# Create a new user in AD
-New-ADUser -Name "John Doe" -SamAccountName jdoe -AccountPassword (ConvertTo-SecureString "Welcome123!" -AsPlainText -Force) -Enabled $true
 
 
 ## Loops
