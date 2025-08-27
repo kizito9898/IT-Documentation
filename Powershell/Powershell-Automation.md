@@ -161,3 +161,27 @@ Accountpassword -> Check if and if the User exists (Get-ADUser)
 -> If not found -> Create a New AD User
 
 The Script was Created Using chatgpt
+4) * Save it as: C:\Import-HogwartsStaff.ps1
+   * Now I have Created two CSV file to Create User
+
+6) * Navigate to powershell -> open as an admin -> Run the Command
+   Set-ExecutionPolicy RemoteSigned -Scope Process -Force
+   (allows running you Script in this Session)
+
+   * Run the following Script: C:\Import-HogwartsStaff.ps1
+
+5) * After Running, it Created all the Users in the OU = Staff.
+
+   * In Work Environment, The Script Should be Tested, Edit the CSV -> Add/Change User attribute (Naming, Convention, password policy).
+
+* Created Another CSV file for New Users In a different OU using Powershell
+
+* Created a Notepad note -> Copied the Script Inside -> Saved the as C:\Darkligion.csv
+
+* I'm Creating new Users account for OU = Non-Staffs, total of 6 New Users in Active Directory.
+
+* Creat the Import Script (Used chatgpt to Create an Import Script) 
+  Save this as C:\Import-Darkligion.ps1 This Creates & Structure User by Name, SamAccountName, UserprincipalName, Path, Account Password (ConvertTo-SecureString $ulogged.Password -AsPlainText -Force)
+
+* Open Powershell as Administrator -> Run the Script
+  C:\Import-Darkligion.ps1 -> It Should Import Created New Users
