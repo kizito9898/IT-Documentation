@@ -169,7 +169,8 @@ It's useful in real IT tasks, if you need to Onboard 50+ new employees doing it 
 * Creating new Users for Staff, The Current Set-up is OU = centralUnit, OU = Staff => Inside the Staff OU, I'm creating multiple Users at Once Using CSV method
 
 * The Script is
-
+![Screenshot](images/screenshot603.jpg)
+![Screenshot](images)
 
 Import-Module Active Directory (loads the Active Directory module needed to use New-ADUser, Get-ADUser etc)
 
