@@ -152,7 +152,7 @@ I Want to Run an Automation Script that Creates multiple Organizational Unit (OU
  ---
 ## Creating new Users with CSV-driven automation in Powershell
 
-## What is a CSV file for AD User Creation
+## What is a CSV file for AD User Creation ?
 
 CSV (Comma-Separated Values) is a simple text file where data is arranged in columns separated by commas.
 * Each row in the CSV = One User you want to Create. -> Each Column (header) = a property for the User account (Eg Name, Username, Password, OU)
