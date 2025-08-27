@@ -118,6 +118,10 @@ Creates a blank text file in the specified path.
     
 - Aliases are good for typing faster interactively.
 ---
+
+#
+
+
 ## Loops
 
 A loop goes through each item in a list and does something with it.
