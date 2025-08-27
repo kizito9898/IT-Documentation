@@ -67,6 +67,7 @@ New-ADUser -Name "Harry Potter" -SamAccountName "hpotter" -UserPrincipalName "hp
     
 `Set-ADUser -Identity "hpotter" -Email "harry.potter@njikason.com" -OfficePhone "800-555-7777"`
 ![Screenshot](images/screenshot580.jpg)
+![Screenshot](images/screenshot581.jpg)
 
 ---
 - ## Disable account with PowerShell:
