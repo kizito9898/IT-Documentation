@@ -117,9 +117,7 @@ Creates a blank text file in the specified path.
 - Always prefer **full cmdlets** in scripts (`Remove-Item` instead of `rm`) for readability.
     
 - Aliases are good for typing faster interactively.
-    
-
-
+---
 ## Loops
 
 `foreach ($House in $Houses.Keys) {     foreach ($student in $Houses[$House]) {         ...     } }`
@@ -130,9 +128,7 @@ Creates a blank text file in the specified path.
     
 - Inner loop → Goes through each student in that House.
     
-
 ---
-
 ## 6. If Statements
 
 `if (-not (Get-ADOrganizationalUnit -Filter "DistinguishedName -eq '$houseOU'")) {     New-ADOrganizationalUnit -Name $House -Path $baseOU }`
@@ -143,7 +139,6 @@ Creates a blank text file in the specified path.
     
 - Here: Create the OU only if it doesn’t exist.
     
-
 ---
 
 ## 7. String Operations
