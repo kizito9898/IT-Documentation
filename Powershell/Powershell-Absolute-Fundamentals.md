@@ -32,7 +32,7 @@
 * Always starts with `$` in PowerShell.  
 * Think of it as a **container that stores data you can reuse**.  
 ![Screenshot](images/screenshot558.jpg)
-![Screenshot](images/screensh)
+![Screenshot](images/screenshot559.jpg)
 ## Alias
 * An alias is just a **shortcut (nickname)** for a longer cmdlet, command, or function.  
 * It makes typing faster, but the command still runs the **full version** in the background.
