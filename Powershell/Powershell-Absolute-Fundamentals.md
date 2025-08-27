@@ -39,7 +39,7 @@
 ![Screenshot](images/screenshot614.jpg)
 ## Comparison Operators
 * In PowerShell, comparison operators are used to **compare values** (numbers, strings, or objects).
-![Screenshot](images)
+![Screenshot](images/screenshot560.jpg)
 * They return either **True or False**.  
 ## Arrays
 * An array is just a **list of items** stored in a single variable.  
