@@ -140,13 +140,8 @@ This module contains special cmdlets that let you manage Active Directory object
   - `New-ADOrganizationalUnit` → create a new OU  
   - `Get-ADComputer` → view computer objects  
 ---
-
-## Example
-
-# Load the Active Directory module
+## Load the Active Directory module
 Import-Module ActiveDirectory
-
-
 ## Loops
 
 A loop goes through each item in a list and does something with it.
