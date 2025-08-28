@@ -253,10 +253,15 @@ foreach ($user in $users) {
 Import-Module ActiveDirectory
 $nonStaffOU = "OU=Non-Staff,OU=centralUnit,DC=Njikason,DC=com"
 Get-ADUser -Filter * -SearchBase $nonStaffOU | ForEach-Object {
-    Enable-ADAccount -Identity $_.SamccountName
+    Enable-ADAccount -Identity $_.SamAccountName
     Write-Host "Unlocked user: $($_.Name)" -ForegroundColor Green
 }
 ![Screenshot](images/screenshot627.jpg)
+
+
+
+
+
 
 
 
