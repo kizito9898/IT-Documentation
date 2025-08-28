@@ -244,7 +244,8 @@ foreach ($user in $users) {
     Disable-ADAccount -Identity $user.SamAccountName
     Write-Host "Locked user: $($user.Name)" -ForegroundColor Red
 }
-![Screenshot](images/screenshot625)
+![Screenshot](images/screenshot625.jpg)
+![Screenshot](images/screenshot626.jpg)
 
 ---
 ## You could also make a **reverse script** to unlock them:
