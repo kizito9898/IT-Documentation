@@ -127,5 +127,5 @@ System -> gives you everything or information about the operating system.
 **Reporting**  
 
   Gain returnable insights about my Endpoints.  
-
+![Screenshot](images/screenshot752.jpg)
 - Shows total devices flagged & maintenance endpoints, OS Distribution and Online devices.  
