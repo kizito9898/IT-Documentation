@@ -104,10 +104,10 @@ Automation using the prompt user to restart on a linux ubuntu device
 ![Screenshot](images/screenshot807.jpg)
 * Navigated to the Automation. Since I want to patch it now, I turned off the schedule (Weekly), turned off upgrade to 3rd party applications.  
   -> Clicked on Devices -> Selected the Server 2022 -> Click on Action -> Run automation -> Imported -> Windows patching & Run Automation.  
-![]
+![Screenshot](images/screenshot788.jpg)
 * Ran the Automation -> Started installing all patches and updates to my Server 2022.  
   -> After a while, the patching was completed.  
-
+![Screenshot](images/screenshot789.jpg)
 * It was a success and my Security Score on Server 2022 went from **60% to 95%**, meaning it's in good condition.  
 
 ---
