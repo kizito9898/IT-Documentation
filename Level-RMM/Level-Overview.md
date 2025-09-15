@@ -70,7 +70,7 @@ It keeps it simple and easy to use, saves thousands of hours, and allows managem
 
 # Remote Control using level.io
 
-* #### level provides remote Control & Support for any kind of devices from Windows, MacOS, Linux & RaspberryPi anytime & Anywhere.  
+* #### level provides remote Control & Support for any kind of devices from Windows, MacOS, Linux & Raspberry Pi anytime & Anywhere.  
 
 * Using Remote Control  
   -> Navigate to the machine you want to Remote Into  
