@@ -94,6 +94,7 @@ Automation using the prompt user to restart on a linux ubuntu device
 - Ran the automation on a linux and windows 10 device
 ![Screenshot](images/screenshot738.jpg)
 ![Screenshot](images/screenshot753.jpg)
+!
 
 ---
 # Automation on Windows Server 2022
