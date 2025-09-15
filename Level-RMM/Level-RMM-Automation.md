@@ -96,3 +96,30 @@ Automation has two main components:
 
 - Reached out to Level library & imported behavior.  
 - Installed updates on my **Server 2022** and checked logs.  
+# Automation on Windows Server 2022
+
+* **Running Windows patching on Server 2022**  
+  -> Imported the Automation Script from the Library.  
+
+* Navigated to the Automation. Since I want to patch, I turned off the schedule (Weekly), turned off upgrade to 3rd party applications.  
+  -> Clicked on Devices -> Selected the Server 2022 -> Click on Action -> Run automation -> Imported -> Windows patching & Run Automation.  
+
+* Ran the Automation -> Started installing all patches and updates to my Server 2022.  
+  -> After a while, the patching was completed.  
+
+* It was a success and my Security Score on Server 2022 went from **60% to 95%**, meaning it's in good condition.  
+
+
+# Run Linux Patching Automation
+
+* **Running Linux patching on Ubuntu**  
+  -> Imported the Automation Script from the Library.  
+
+* Navigated to the Automation, automatically turned off weak weekly updates and upgrade to 3rd party applications (turned off).  
+
+* Navigated to my Linux (Ubuntu machine).  
+  -> Click on Action -> Run automation -> Selected Imported group -> Linux patching & Run automation.  
+
+* Within minutes, the patching was completed successfully.  
+
+* **Linux patched & enabled firewall protection increased the Security Score from 65% to 95%.**
