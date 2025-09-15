@@ -4,7 +4,7 @@
 Automation is the process of using technology to perform tasks with minimal human interaction, making work faster, more consistent and less error-prone.  
 ![Screenshot](images/screenshot801.jpg)
 - Supercharge your workflow and handle repetitive tasks with automations.  
-![Screenshot](images/screenshot753.jpg)
+![Screenshot](images/screenshot7.jpg)
 ---
 ## Getting Started with Automations using Level platform  
 
@@ -126,6 +126,11 @@ Automation using the prompt user to restart on a linux ubuntu device
 * **Linux patched & enabled firewall protection increased the Security Score from 65% to 95%.**
 ![Screenshot](images/screenshot793.jpg)
 ![Screenshot](images/screenshot797.jpg)
+
+
+
+
+
 
 
 
