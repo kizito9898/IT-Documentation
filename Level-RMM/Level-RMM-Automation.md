@@ -38,7 +38,8 @@ Automation has two main components:
 ![Screenshot](images/screenshot762.jpg)
 - Tested the same automation on a Windows 11 machine → It worked successfully  
 - Installed Winget 7zip  
-![Screensho]
+![Screenshot](images/screenshot805.jpg)
+![Screenshot](images/screensh)
 
 ---
 # Automation with Library (Using Level)
