@@ -88,7 +88,7 @@ Automation using the prompt user to restart on a linux ubuntu device
 - Ran the test → It worked → System rebooted (**Success**).  
 ![Screenshot](images/screenshot783.jpg)
 ---
-# Windows Endpoint Intelligence Gathering
+# O
 
 - Reached out to Level library & imported behavior.  
 - Installed updates on my **Server 2022** and checked logs.  
