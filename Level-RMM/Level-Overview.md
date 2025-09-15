@@ -63,8 +63,8 @@ Adding a **Linux operating System to my level RMM platform to manage.
  ![Screenshot](images/screenshot724.jpg)
  ![Screenshot](images/screenshot725.jpg)
 
-* I’m controlling 4 devices from one platform.  
-
+ I’m controlling 4 devices from one platform.  
+!
 # Grouping
 
 * Grouping is very important to keep the devices you manage structured and easy to run automation on them.  
