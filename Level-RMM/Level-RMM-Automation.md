@@ -57,19 +57,18 @@ Automation has two main components:
 ---
 
 # Prompt User to Restart on Ubuntu Linux (Automation)
-Automation using the prompt user to restart on a linux ubuntu de
+Automation using the prompt user to restart on a linux ubuntu device
 - Trigger & tag is **Restart** → Condition set for platform equal to **Linux** → Saved.  
 - Notification → User approval → Asking the user to restart.  
 - Prompt: 180 mins, 3 attempts, and if failed → force the restart.  
 - Down the pipeline → Restart endpoint → Linux (Ubuntu) → Remove tag once restart applied.  
 - Ran the test → It worked → System rebooted (**Success**).  
-
 ---
-
 # Windows Endpoint Intelligence Gathering
 
 - Reached out to Level library & imported behavior.  
 - Installed updates on my **Server 2022** and checked logs.  
+---
 # Automation on Windows Server 2022
 
 * **Running Windows patching on Server 2022**  
@@ -83,7 +82,7 @@ Automation using the prompt user to restart on a linux ubuntu de
 
 * It was a success and my Security Score on Server 2022 went from **60% to 95%**, meaning it's in good condition.  
 
-
+---
 # Run Linux Patching Automation
 
 * **Running Linux patching on Ubuntu**  
