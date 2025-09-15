@@ -18,7 +18,7 @@ It keeps it simple and easy to use, saves thousands of hours, and allows managem
 - **Security Features**: Mandatory 2FA, IP restrictions, role-based access control.  
 # Getting Started with level
 
-* level gives you 14 days free trial to learn everything about it or book a demo. Already signup & getting started.
+* ### level gives you 14 days free trial to learn everything about it or book a demo. Already signup & getting started.
 
 * ### Overview of level dashboard.
   - Devices : This is for all the devices created when you install new agent (Favorites, New devices, Ungrouped & grouped devices)
