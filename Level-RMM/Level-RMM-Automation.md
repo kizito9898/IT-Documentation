@@ -115,7 +115,7 @@ Automation using the prompt user to restart on a linux ubuntu device
 
 * **Running Linux patching on Ubuntu**  
   -> Imported the Automation Script from the Library.  
-![Scree]
+![Screenshot](images/screenshot808.jpg)
 * Navigated to the Automation, automatically turned off weak weekly updates and upgrade to 3rd party applications (turned off).  
 ![Screenshot](images/screenshot792.jpg)
 * Navigated to my Linux (Ubuntu machine).  
