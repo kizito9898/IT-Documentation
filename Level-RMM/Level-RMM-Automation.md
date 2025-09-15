@@ -4,7 +4,7 @@
 Automation is the process of using technology to perform tasks with minimal human interaction, making work faster, more consistent and less error-prone.  
 ![Screenshot](images/screenshot801.jpg)
 - Supercharge your workflow and handle repetitive tasks with automations.  
-![Screenshot]
+![Screenshot](images/screenshot753.jpg)
 ---
 ## Getting Started with Automations using Level platform  
 
@@ -15,8 +15,6 @@ Automation has two main components:
 ## Steps  
 - Navigate to **Automations**  
 - Click on **Create** → Create new automation → Name (Install application) → Create  
----
-## Example: My Automation is Manual  
 
 - Click on **Manual** → Perform these actions → Tag : added office tag which, when applied to a device, the action takes place.  
 
