@@ -56,6 +56,7 @@ Add another agent using the Same process on a Windows 11 Device.
 ![Screenshot](images/screenshot716.jpg)
 ![Screenshot](images/screenshot718.jpg)
 ![Screenshot](images/screenshot719.jpg)
+![Screenshot](images/screenshot720.jpg)
 
 ---
 Adding a **Linux operating System to my level RMM platform to manage.  
