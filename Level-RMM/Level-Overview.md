@@ -34,8 +34,8 @@ It keeps it simple and easy to use, saves thousands of hours, and allows managem
   Run Powershell as an administrator and Run the following Command.
 ![Screenshot](images/screenshot708.jpg)
 ![Screenshot](images/screenshot706.jpg)
-- Added a new machine to level platform its a
-
+- Added a new machine to level platform its a new installed Agent.
+![Screenshot](images/screenshot705.jpg)
 
 * Installing new agent server for my Windows Server 2022.  
   Checked on the Install new agent -> One-Line Command -> Opened the powershell Command.  
