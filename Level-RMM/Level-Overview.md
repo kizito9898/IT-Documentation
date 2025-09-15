@@ -80,9 +80,7 @@ It keeps it simple and easy to use, saves thousands of hours, and allows managem
 # Notes
 
 - It’s a P2P Connection meaning all data stays private, and never touch Level Internal Server.  
-
-- By the side, I can easily see the System Information, Run Command, See the C: drive and others.  
-
+- By the side, I can easily see the System Information, Run Command, See the C: drive and others. 
 - I can Run a short Shut down & Restart.  
 
 - You can easily tap on the on the Devices → All devices → click on the devices → Remote Connection gets initiated.  
