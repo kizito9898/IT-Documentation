@@ -76,7 +76,7 @@ Adding a **Linux operating System to my level RMM platform to manage.
 * On the left Side click on ➕ Create a group -> Enter the group name -> Confirm.  
 ![Screenshot](images/screenshot729.jpg)
 * Create a Sub group to Add devices or Categorize the Windows, macOS and Linux.  
-
+![Screenshot](images/screenshot730.jpg)
 * Adding Devices to groups -> click on the device -> Navigate to Actions -> Assign to group -> Choose a group -> Then Assign to group.  
 
 # Managing Devices on Level (Devices)
