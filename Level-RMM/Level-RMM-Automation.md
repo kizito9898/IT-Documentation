@@ -68,6 +68,7 @@ Automation has two main components:
 - Selected the two devices → **Run automation** → Selected the right automation → **Common Windows applications**.  
 ![Screenshot](images/screenshot774.jpg)
 - It started running on the two devices.  
+![Screenshot](images/screenshot776.jpg)
 - Success on the Windows 10 device (skipped apps already installed).  
 
 ---
