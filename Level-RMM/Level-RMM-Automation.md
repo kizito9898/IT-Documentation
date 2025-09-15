@@ -117,7 +117,7 @@ Automation using the prompt user to restart on a linux ubuntu device
   -> Imported the Automation Script from the Library.  
 
 * Navigated to the Automation, automatically turned off weak weekly updates and upgrade to 3rd party applications (turned off).  
-![Screenshot](images/screenshot)
+![Screenshot](images/screenshot792.jpg)
 * Navigated to my Linux (Ubuntu machine).  
   -> Click on Action -> Run automation -> Selected Imported group -> Linux patching & Run automation.  
 
