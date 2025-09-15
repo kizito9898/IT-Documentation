@@ -55,8 +55,9 @@ Automation has two main components:
 - The automation installs Edge, Chrome, Firefox, 1Password, Zoom, Notion, etc.  
 ## Import into Level  
 - Just click on **Import into Level** → Now the automation is ready  
-![Screenshot]
+![Screenshot](images/screenshot771.jpg)
 - Looking at the trigger: it has the setup tag  
+![Screenshot]
 - Then get the condition as **Platform equal to Windows** (meaning only Windows will get the install)  
 ## Automation Testing and Conditions
 
