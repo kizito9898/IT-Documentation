@@ -33,9 +33,6 @@ It keeps it simple and easy to use, saves thousands of hours, and allows managem
 
 * **One-Line Command using PowerShell**  
   Run PowerShell as an administrator and run the following command:
-
-# Example PowerShell one-line command for agent install
-# (Replace with actual provided command)
 # Getting Started with level
 
 * level gives you 14 days free trial to learn everything about it or book a demo. Already signup & getting started.
