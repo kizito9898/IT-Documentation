@@ -88,7 +88,7 @@ System -> gives you everything or information about the operating system.
 ![Screenshot](images/screenshot735.jpg)
 
 * Manage -> Run command like ipconfig /all -> get IP address -> Private IP -> File Explorer (See what’s inside of the device) -> Process, what’s Running in the devices, memory, CPU etc. -> and Sensors.  
-
+![Screenshot](images/screenshot736.jpg)
 * Applications -> displays every application Running on the device.  
 
 * Get updates -> Download & Install Updates from the device & prompts to Reboot device.  
