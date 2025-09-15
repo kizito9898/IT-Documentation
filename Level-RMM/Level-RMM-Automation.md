@@ -4,6 +4,7 @@
 Automation is the process of using technology to perform tasks with minimal human interaction, making work faster, more consistent and less error-prone.  
 ![Screenshot](images/screenshot801.jpg)
 - Supercharge your workflow and handle repetitive tasks with automations.  
+![Screenshot]
 ---
 ## Getting Started with Automations using Level platform  
 
