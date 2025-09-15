@@ -24,14 +24,14 @@ Automation has two main components:
 ![Screenshot](images/screenshot803.jpg)
 - Scroll down to **App management** → Select **Install Winget package**  
 - Step Configuration → Added the package ID (7zip.7zip)  
-
+![Scree]
 ### Next Add Conditions  
 - Condition 1: Select **OS (Operating System)**  
 - Equal to → Select a value to compare → **Windows 10**  
 - Save  
 ## Testing Automation  
 - Added a device to test → It was a success  
-- Added 7zip application to my Windows 10 device  
+- Added 7zip application to my Window 10  
 - Tested the same automation on a Windows 11 machine → It worked successfully  
 - Installed Winget 7zip  
 ---
