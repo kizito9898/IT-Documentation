@@ -9,6 +9,7 @@ It keeps it simple and easy to use, saves thousands of hours, and allows managem
 
 ## Key Features
 - **Automation**: Level uses automations to handle repetitive tasks quickly and improve operational efficiency.  
+![Screenshot](images/screenshot704.jpg)
 - **Remote Control**: Gain complete, seamless control over any operating system, all from the convenience of your web browser.  
 - **Inventory**: Effortlessly track and monitor every device in your network from anywhere at any time.  
 - **Background Management**: Diagnose and troubleshoot problems without disrupting the end-user.  
