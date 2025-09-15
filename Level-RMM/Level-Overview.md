@@ -33,6 +33,7 @@ It keeps it simple and easy to use, saves thousands of hours, and allows managem
 * Install new monitoring agent (Select the operating system from the list. Site for Windows macOS, Linux) -> Download Installer or One line Command Using Powershell Command.  
   Run Powershell as an administrator and Run the following Command.
 ![Screenshot](images/screenshot708.jpg)
+![Screenshot]
 * Installing new agent server for my Windows Server 2022.  
   Checked on the Install new agent -> One-Line Command -> Opened the powershell Command.  
 
