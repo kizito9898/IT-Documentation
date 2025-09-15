@@ -5,6 +5,7 @@ Level is a modern RMM platform that helps IT professionals, MSPs, healthcare and
 ![Screenshot](images/screenshot702.jpg)
 It is designed with a focus on Automations, Remote Control, patch management, Monitoring & Alerting, Scripting, and Security — all in one platform.  
 It keeps it simple and easy to use, saves thousands of hours, and allows management from anywhere in the world.
+![Screenshot](images/screenshot703.jpg)
 
 ## Key Features
 - **Automation**: Level uses automations to handle repetitive tasks quickly and improve operational efficiency.  
