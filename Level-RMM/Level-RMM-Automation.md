@@ -56,9 +56,9 @@ Automation has two main components:
 
 ---
 
-# Prompt User to Restart on Ubuntu Linux
-
-- Trigger & tag was **Restart** → Condition set for platform equal to **Linux** → Saved.  
+# Prompt User to Restart on Ubuntu Linux (Automation)
+Auto
+- Trigger & tag is **Restart** → Condition set for platform equal to **Linux** → Saved.  
 - Notification → User approval → Asking the user to restart.  
 - Prompt: 180 mins, 3 attempts, and if failed → force the restart.  
 - Down the pipeline → Restart endpoint → Linux (Ubuntu) → Remove tag once restart applied.  
