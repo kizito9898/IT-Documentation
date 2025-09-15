@@ -63,7 +63,8 @@ Automation has two main components:
 ## Automation Testing and Conditions
 
 - Added some conditions to the app because one device already had the download.  
-- To test the automation → Checked on the two devices and applied the **Setup tag**.  
+- To test the automation → Checked on the two devices and applied the **Setup tag**. 
+![Screenshot]
 - Selected the two devices → **Run automation** → Selected the right automation → **Common Windows applications**.  
 - It started running on the two devices.  
 - Success on the Windows 10 device (skipped apps already installed).  
