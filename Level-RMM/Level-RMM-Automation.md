@@ -42,9 +42,6 @@ Automation has two main components:
 - Go to the website → Top corner → **Resources → Library**  
 - Click on **Library** → I’m automating common Windows applications    
 - The automation installs Edge, Chrome, Firefox, 1Password, Zoom, Notion, etc.  
-
----
-
 ## Import into Level  
 - Just click on **Import into Level** → Now the automation is ready  
 - Looking at the trigger: it has the setup tag  
