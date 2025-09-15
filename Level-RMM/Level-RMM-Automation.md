@@ -39,7 +39,8 @@ Automation has two main components:
 - Tested the same automation on a Windows 11 machine → It worked successfully  
 - Installed Winget 7zip  
 ![Screenshot](images/screenshot805.jpg)
-![Screenshot](images/screensh)
+![Screenshot](images/screenshot766.jpg)
+![Screenshot](images/screenshot)
 
 ---
 # Automation with Library (Using Level)
