@@ -54,7 +54,7 @@ Add another agent using the Same process on a Windows 11 Device.
 * Once it’s done it immediately appears on the dashboard to manage.  
 ![Screenshot](images/screenshot716.jpg)
 ![Screenshot](images/screenshot718.jpg)
-
+![Screenshot](images/screenshot)
 
 
 Added a Linux operating System to my level RMM platform to manage.  
