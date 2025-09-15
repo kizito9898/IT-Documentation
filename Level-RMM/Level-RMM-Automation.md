@@ -27,9 +27,9 @@ Automation has two main components:
 ![Screenshot](images/screenshot804.jpg)
 ### Next Add Conditions  
 - Condition 1: Select **OS (Operating System)**  
-- Equal to → Select a value to compare → **Windows 10**  & 11
+- Equal to → Select a value to compare → **Windows 10**
 - Save  
-![Screenshot](images/screenshot805.jpg)
+![Screenshot](images/screenshot765.jpg)
 ## Testing Automation  
 - Added a device to test → It was a success  
 - Added 7zip application to my Window 10  
@@ -38,7 +38,7 @@ Automation has two main components:
 ![Screenshot](images/screenshot762.jpg)
 - Tested the same automation on a Windows 11 machine → It worked successfully  
 - Installed Winget 7zip  
-
+!
 
 ---
 # Automation with Library (Using Level)
