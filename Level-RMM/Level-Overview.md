@@ -48,10 +48,11 @@ It keeps it simple and easy to use, saves thousands of hours, and allows managem
 * Now I can manage Server 2022 from my level account
 ---
 
-Add another agent using the Same process on a
+Add another agent using the Same process on a Windows 11 Device.
+
 * Run powershell as admin -> Run the Script.  
 * Once it’s done it immediately appears on the dashboard to manage.  
-* Added a Linux operating System to my level RMM platform to manage.  
+Added a Linux operating System to my level RMM platform to manage.  
 
  I used Install new agent, Yes Selecting Linux and Copied the One-line Command to linux (Ubuntu terminal) using Sudo to update and then paste the Command. Easy & Fast.  
 
