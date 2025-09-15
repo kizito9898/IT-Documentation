@@ -116,7 +116,7 @@ System -> gives you everything or information about the operating system.
 ![Screenshot](images/screenshot741.jpg)
 - You can easily tap on the on the Devices → All devices → click on the devices → Remote Connection gets initiated.  
 
-- I Remoted into every device.  
+- I Remoted into every device. (Windows 10, Windows 11, Server 2022, Ubuntu)
 
 - Ubuntu → Remote Control Support is in the works but the terminal works really fine.  
 ![Screenshot](images/screenshot747.jpg)
