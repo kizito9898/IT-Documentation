@@ -97,7 +97,7 @@ Automation using the prompt user to restart on a linux ubuntu device
 !
 
 ---
-# Automation on Windows Server 2022
+# Automation on Windows Server 2022 (Windows 10 Patching)
 
 * **Running Windows patching on Server 2022**  
   -> Imported the Automation Script from the Library.  
