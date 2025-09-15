@@ -2,6 +2,7 @@
 
 ## What is Level RMM?
 Level is a modern RMM platform that helps IT professionals, MSPs, healthcare and education institutions manage devices remotely.  
+![Screenshot]
 It is designed with a focus on Automations, Remote Control, patch management, Monitoring & Alerting, Scripting, and Security — all in one platform.  
 It keeps it simple and easy to use, saves thousands of hours, and allows management from anywhere in the world.
 
