@@ -34,6 +34,7 @@ Automation has two main components:
 - Added a device to test → It was a success  
 - Added 7zip application to my Window 10  
 ![Screenshot](images/screenshot760.jpg)
+![Screenshot](images/screenshot761.jpg)
 - Tested the same automation on a Windows 11 machine → It worked successfully  
 - Installed Winget 7zip  
 ---
