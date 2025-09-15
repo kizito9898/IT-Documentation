@@ -123,6 +123,7 @@ System -> gives you everything or information about the operating system.
 
 - Windows Server 2022 → Remote Control Support on Server 2022, System Information and also ran terminal Command too.  
 ![Screenshot](images/screenshot751.jpg)
+![Screenshot](images/screenshot750.jpg)
 
 **Reporting**  
 
