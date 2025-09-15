@@ -65,7 +65,7 @@ Adding a **Linux operating System to my level RMM platform to manage.
  ![Screenshot](images/screenshot724.jpg)
  ![Screenshot](images/screenshot725.jpg)
 
- **I’m controlling 4 devices from one platform. (Level.io) is an amazing tool, robust cutting 
+ **I’m controlling 4 devices from one platform. (Level.io) is an amazing tool, robust cutting edge technology.
  
 ![Screenshot](images/screenshot728.jpg)
 
