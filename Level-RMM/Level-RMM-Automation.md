@@ -27,9 +27,9 @@ Automation has two main components:
 ![Screenshot](images/screenshot804.jpg)
 ### Next Add Conditions  
 - Condition 1: Select **OS (Operating System)**  
-- Equal to → Select a value to compare → **Windows 10**  
+- Equal to → Select a value to compare → **Windows 10**  & 11
 - Save  
-
+![Screenshot](images/screenshot805.jpg)
 ## Testing Automation  
 - Added a device to test → It was a success  
 - Added 7zip application to my Window 10  
