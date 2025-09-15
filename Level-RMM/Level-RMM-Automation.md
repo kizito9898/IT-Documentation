@@ -124,6 +124,9 @@ Automation using the prompt user to restart on a linux ubuntu device
 * Within minutes, the patching was completed successfully.  
 ![Screenshot](images/screenshot795.jpg)
 * **Linux patched & enabled firewall protection increased the Security Score from 65% to 95%.**
+![Screenshot](images/screenshot793.jpg)
+
+
 
 
 
