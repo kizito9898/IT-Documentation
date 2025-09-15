@@ -104,7 +104,7 @@ System -> gives you everything or information about the operating system.
 * Using Remote Control  
   -> Navigate to the machine you want to Remote Into  
   -> Click on the device -> on top Right -> click on the Remote logo -> for remote Control -> Connecting  
-
+!
 * Now in remote Control I’m remoting into the System already.
 # Notes
 
