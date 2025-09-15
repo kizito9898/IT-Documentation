@@ -13,20 +13,12 @@ It keeps it simple and easy to use, saves thousands of hours, and allows managem
 - **Monitoring & Alerting**: Proactive real-time monitoring with alerting and automatic remediation for increased stability.  
 - **Patch Management**: Keep your endpoints up-to-date and protected with streamlined patch management.  
 - **Security Features**: Mandatory 2FA, IP restrictions, role-based access control.  
-# Getting Started with Level
-
-* Level gives you **14 days free trial** to learn everything about it or book a demo.  
-  Already signed up and getting started!
----
-# Overview of Level Dashboard
-
-- **Devices** → This is for all the devices created when you install new agent (Favorites, New Devices, Ungrouped &
 # Getting Started with level
 
 * level gives you 14 days free trial to learn everything about it or book a demo. Already signup & getting started.
 
 * ### Overview of level dashboard.
-  - Devices : This is for all the devices created when you install new agent (Favourites, New devices, Ungrouped & grouped devices)
+  - Devices : This is for all the devices created when you install new agent (Favourit, New devices, Ungrouped & grouped devices)
   - Automations : Supercharge Workflow and handle repetitive tasks.
   - Policies -> Reporting -> Updates -> Alerts.
 
