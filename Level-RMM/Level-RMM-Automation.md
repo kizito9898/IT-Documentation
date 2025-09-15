@@ -71,6 +71,8 @@ Automation has two main components:
 ![Screenshot](images/screenshot776.jpg)
 - Success on the Windows 10 device (skipped apps already installed).  
 ![Screenshot](images/screenshot778.jpg)
+- it was a success on Windows 11 device almost installed the whole appl
+
 ---
 
 # Prompt User to Restart on Ubuntu Linux (Automation)
