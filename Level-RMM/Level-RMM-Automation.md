@@ -40,7 +40,7 @@ Automation has two main components:
 - Installed Winget 7zip  
 ![Screenshot](images/screenshot805.jpg)
 ![Screenshot](images/screenshot766.jpg)
-![Screenshot](images/screenshot)
+![Screenshot](images/screenshot767.jpg)
 
 ---
 # Automation with Library (Using Level)
