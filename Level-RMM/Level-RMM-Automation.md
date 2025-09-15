@@ -72,3 +72,27 @@ Automation has two main components:
 - Just click on **Import into Level** → Now the automation is ready  
 - Looking at the trigger: it has the setup tag  
 - Then get the condition as **Platform equal to Windows** (meaning only Windows will get the install)  
+# Automation Testing and Conditions
+
+- Added some conditions to the app because one device already had the download.  
+- To test the automation → Checked on the two devices and applied the **Setup tag**.  
+- Selected the two devices → **Run automation** → Selected the right automation → **Common Windows applications**.  
+- It started running on the two devices.  
+- Success on the Windows 10 device (skipped apps already installed).  
+
+---
+
+# Prompt User to Restart on Ubuntu Linux
+
+- Trigger & tag was **Restart** → Condition set for platform equal to **Linux** → Saved.  
+- Notification → User approval → Asking the user to restart.  
+- Prompt: 180 mins, 3 attempts, and if failed → force the restart.  
+- Down the pipeline → Restart endpoint → Linux (Ubuntu) → Remove tag once restart applied.  
+- Ran the test → It worked → System rebooted (**Success**).  
+
+---
+
+# Windows Endpoint Intelligence Gathering
+
+- Reached out to Level library & imported behavior.  
+- Installed updates on my **Server 2022** and checked logs.  
