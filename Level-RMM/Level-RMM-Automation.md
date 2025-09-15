@@ -24,7 +24,7 @@ Automation has two main components:
 ![Screenshot](images/screenshot803.jpg)
 - Scroll down to **App management** → Select **Install Winget package**  
 - Step Configuration → Added the package ID (7zip.7zip)  
-![Scree]
+![Screenshot](images/screenshot804.jpg)
 ### Next Add Conditions  
 - Condition 1: Select **OS (Operating System)**  
 - Equal to → Select a value to compare → **Windows 10**  
