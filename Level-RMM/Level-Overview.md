@@ -54,9 +54,9 @@ Add another agent using the Same process on a Windows 11 Device.
 * Once it’s done it immediately appears on the dashboard to manage.  
 ![Screenshot](images/screenshot716.jpg)
 ![Screenshot](images/screenshot718.jpg)
-![Screenshot](images/screenshot)
+![Screenshot](images/screenshot719.jpg)
 
-
+---
 Added a Linux operating System to my level RMM platform to manage.  
 
  I used Install new agent, Yes Selecting Linux and Copied the One-line Command to linux (Ubuntu terminal) using Sudo to update and then paste the Command. Easy & Fast.  
