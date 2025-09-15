@@ -34,7 +34,7 @@ It keeps it simple and easy to use, saves thousands of hours, and allows managem
   Run Powershell as an administrator and Run the following Command.
 ![Screenshot](images/screenshot708.jpg)
 ![Screenshot](images/screenshot706.jpg)
-__
+- Added a new machine to level platform its a
 
 
 * Installing new agent server for my Windows Server 2022.  
