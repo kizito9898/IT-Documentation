@@ -101,8 +101,8 @@ Automation using the prompt user to restart on a linux ubuntu device
 
 * **Running Windows patching on Server 2022**  
   -> Imported the Automation Script from the Library.  
-
-* Navigated to the Automation. Since I want to patch, I turned off the schedule (Weekly), turned off upgrade to 3rd party applications.  
+![Screenshot](images/screenshot807.jpg)
+* Navigated to the Automation. Since I want to patch it now, I turned off the schedule (Weekly), turned off upgrade to 3rd party applications.  
   -> Clicked on Devices -> Selected the Server 2022 -> Click on Action -> Run automation -> Imported -> Windows patching & Run Automation.  
 
 * Ran the Automation -> Started installing all patches and updates to my Server 2022.  
