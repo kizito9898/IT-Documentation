@@ -24,7 +24,8 @@ It keeps it simple and easy to use, saves thousands of hours, and allows managem
   - Devices : This is for all the devices created when you install new agent (Favorites, New devices, Ungrouped & grouped devices)
   - Automations : Supercharge Workflow and handle repetitive tasks.
   - Policies -> Reporting -> Updates -> Alerts.
-
+![Screenshot](images/screenshot799.jpg)
+---
 
 **Install new agents.
 * click on the Install new agent 
