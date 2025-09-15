@@ -107,7 +107,7 @@ System -> gives you everything or information about the operating system.
 ![Screenshot](images/screenshot742.jpg)
 * Now in remote Control I’m remoting into the System already.
 ![Screenshot](images/screenshot744.jpg)
-
+![Screenshot](images/screenshot740.jpg)
 # Notes
 
 - It’s a P2P Connection meaning all data stays private, and never touch Level Internal Server.  
