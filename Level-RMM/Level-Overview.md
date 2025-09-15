@@ -123,7 +123,9 @@ System -> gives you everything or information about the operating system.
 
 - Windows Server 2022 → Remote Control Support on Server 2022, System Information and also ran terminal Command too.  
 ![Screenshot](images/screenshot751.jpg)
-- **Reporting**  
+
+**Reporting**  
+
   Gain returnable insights about my Endpoints.  
 
 - Shows total devices flagged & maintenance endpoints, OS Distribution and Online devices.  
