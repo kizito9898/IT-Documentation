@@ -15,7 +15,6 @@ Automation has two main components:
 - Navigate to **Automations**  
 - Click on **Create** → Create new automation → Name (Install application) → Create  
 ---
-
 ## Example: My Automation is Manual  
 
 - Click on **Manual** → Perform these actions → Tag : added office tag which, when applied to a device, the action takes place.  
@@ -26,9 +25,7 @@ Automation has two main components:
 
 - Scroll down to **App management** → Select **Install Winget package**  
 - Step Configuration → Added the package ID (7zip.7zip)  
-
 ---
-
 ## Next Add Conditions  
 - Condition 1: Select **OS (Operating System)**  
 - Equal to → Select a value to compare → **Windows 10**  
