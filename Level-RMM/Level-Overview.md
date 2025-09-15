@@ -33,4 +33,26 @@ It keeps it simple and easy to use, saves thousands of hours, and allows managem
 
 * Now I can manage Server 2022 from my level account ->  
 
-* Add another agent using the Same process -> Copy the
+* Add another agent using the Same process -> Copy the PowerShell Scripts
+* Run powershell as admin -> Run the Script.  
+* Once it’s done it immediately appears on the dashboard to manage.  
+* Added a Linux operating System to my level RMM platform to manage.  
+
+* I used used Install new agent, Yes Selecting Linux and Copied the One-line Command to linux (Ubuntu terminal) using Sudo to update and then paste the Command. Easy & Fast.  
+
+* I’m controlling 4 devices from one platform.  
+
+# Grouping
+
+* Grouping is very important to keep the devices you manage structured and easy to run automation on them.  
+* Tools to group devices.  
+* On the left Side click on ➕ Create a group -> Enter the group name -> Confirm.  
+
+* Create a Sub group to Add devices or Categorize the Windows, macOS and Linux.  
+
+* Adding Devices to groups -> click on the device -> Navigate to Actions -> Assign to group -> Choose a group -> Then Assign to group.  
+
+# Managing Devices on Level (Devices)
+
+* One of the Key features of level is managing devices, having all the details of a System, from getting the Security Score -> CPU, memory Disk -> Uptime -> IP address.
+
