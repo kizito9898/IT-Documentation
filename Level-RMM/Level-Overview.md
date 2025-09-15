@@ -94,7 +94,7 @@ System -> gives you everything or information about the operating system.
 * Get updates -> Download & Install Updates from the device & prompts to Reboot device.  
 
 * Monitor -> Monitor the performance of a device (BSOD, CPU monitor, Windows uptime Exceeds 30days) -> check out for warning and patches on the device.  
-
+![Screenshot](images/screenshot737.jpg)
 * Manage -> Select many devices you can Run a shutdown, Restart, Install Updates or Run Scripts.  
 
 # Remote Control using level.io
