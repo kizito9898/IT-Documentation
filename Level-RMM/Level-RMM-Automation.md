@@ -46,7 +46,7 @@ Automation has two main components:
 - Just click on **Import into Level** → Now the automation is ready  
 - Looking at the trigger: it has the setup tag  
 - Then get the condition as **Platform equal to Windows** (meaning only Windows will get the install)  
-# Automation Testing and Conditions
+## Automation Testing and Conditions
 
 - Added some conditions to the app because one device already had the download.  
 - To test the automation → Checked on the two devices and applied the **Setup tag**.  
