@@ -53,7 +53,7 @@ Add another agent using the Same process on a Windows 11 Device.
 * Run powershell as admin -> Run the Script.  
 * Once it’s done it immediately appears on the dashboard to manage.  
 ![Screenshot](images/screenshot716.jpg)
-![Screenshot]
+![Screenshot](images/screenshot718.jpg)
 
 
 
