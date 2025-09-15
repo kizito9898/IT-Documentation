@@ -38,16 +38,9 @@ Automation has two main components:
 
 - Level already has a curated library of ready-to-go deploy automations  
 - The Level has automation scripts for many combinations you need  
-
----
-
 ## Getting Started  
 - Go to the website → Top corner → **Resources → Library**  
-- Click on **Library** → I’m automating common Windows applications  
-
----
-
-## Example Automation  
+- Click on **Library** → I’m automating common Windows applications    
 - The automation installs Edge, Chrome, Firefox, 1Password, Zoom, Notion, etc.  
 
 ---
