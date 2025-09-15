@@ -18,7 +18,7 @@ It keeps it simple and easy to use, saves thousands of hours, and allows managem
 * level gives you 14 days free trial to learn everything about it or book a demo. Already signup & getting started.
 
 * ### Overview of level dashboard.
-  - Devices : This is for all the devices created when you install new agent (Favourit, New devices, Ungrouped & grouped devices)
+  - Devices : This is for all the devices created when you install new agent (Favorites, New devices, Ungrouped & grouped devices)
   - Automations : Supercharge Workflow and handle repetitive tasks.
   - Policies -> Reporting -> Updates -> Alerts.
 
@@ -29,8 +29,8 @@ It keeps it simple and easy to use, saves thousands of hours, and allows managem
 * Installing new agent server for my Windows Server 2022.  
   Checked on the Install new agent -> One-Line Command -> Opened the powershell Command.  
 
-* Run powershell as an admin -> Paste the Command line -> Easy Install with my API already there -> click on Install (within Sec) i’m done.  
+* Run powershell as an admin -> Paste the Command line -> Easy Install with my API already there -> click on Install (within Sec) I'm done.  
 
-* Now i can manage Server 2022 from my level account ->  
+* Now I can manage Server 2022 from my level account ->  
 
 * Add another agent using the Same process -> Copy the
