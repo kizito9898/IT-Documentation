@@ -70,10 +70,30 @@ It keeps it simple and easy to use, saves thousands of hours, and allows managem
 
 # Remote Control using level.io
 
-* level provides remote Control & Support for any kind of devices from Windows, MacOS, Linux & RaspberryPi anytime & Anywhere.  
+* #### level provides remote Control & Support for any kind of devices from Windows, MacOS, Linux & RaspberryPi anytime & Anywhere.  
 
 * Using Remote Control  
   -> Navigate to the machine you want to Remote Into  
   -> Click on the device -> on top Right -> click on the Remote logo -> for remote Control -> Connecting  
 
 * Now in remote Control I’m remoting into the System already.
+# Notes
+
+- It’s a P2P Connection meaning all data stays private, and never touch Level Internal Server.  
+
+- By the side, I can easily see the System Information, Run Command, See the C: drive and others.  
+
+- I can Run a short Shut down & Restart.  
+
+- You can easily tap on the on the Devices → All devices → click on the devices → Remote Connection gets initiated.  
+
+- I Remoted into every device.  
+
+- Ubuntu → Remote Control Support is in the works but the terminal works really fine.  
+
+- Windows Server 2022 → Remote Control Support on Server 2022, System Information and also ran terminal Command too.  
+
+- **Reporting**  
+  Gain returnable insights about my Endpoints.  
+
+- Shows total devices flagged & maintenance endpoints, OS Distribution and Online devices.  
