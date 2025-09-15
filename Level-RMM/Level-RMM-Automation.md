@@ -109,7 +109,7 @@ Automation using the prompt user to restart on a linux ubuntu device
   -> After a while, the patching was completed.  
 ![Screenshot](images/screenshot789.jpg)
 * It was a success and my Security Score on Server 2022 went from **60% to 95%**, meaning it's in good condition.  
-
+![Screenshot](images/screenshot800.jpg)
 ---
 # Run Linux Patching Automation
 
