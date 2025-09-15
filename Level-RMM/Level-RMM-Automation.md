@@ -18,7 +18,7 @@ Automation has two main components:
 ![Screenshot](images/screenshot754.jpg)
 ![Screenshot](images/screenshot802.jpg)
 - Click on **Manual** → Perform these actions → Tag : added office tag which, when applied to a device, the action takes place.  
-![Screenshot]
+![Screenshot](images/screenshot759.jpg)
 - Clicked on the **+ Icon** → Scroll down to App management → Install winget → and Save.  
 - Clicked on the **+ Icon** to install winget packages.  
 
