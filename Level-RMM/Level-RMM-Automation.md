@@ -4,22 +4,16 @@
 Automation is the process of using technology to perform tasks with minimal human interaction, making work faster, more consistent and less error-prone.  
 
 - Supercharge your workflow and handle repetitive tasks with automations.  
-
 ---
-
 ## Getting Started with Automations using Level platform  
 
 Automation has two main components:  
 1. **Triggers** – Criteria that Level watches to determine if and when automation should target a device.  
 2. **Actions** – A set of commands that will be on devices when they match a trigger.  
-
 ---
-
 ## Steps  
-
 - Navigate to **Automations**  
 - Click on **Create** → Create new automation → Name (Install application) → Create  
-
 ---
 
 ## Example: My Automation is Manual  
