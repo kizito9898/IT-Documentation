@@ -72,8 +72,8 @@ Automation has two main components:
 - Success on the Windows 10 device (skipped apps already installed).  
 ![Screenshot](images/screenshot778.jpg)
 - it was a success on Windows 11 device almost installed the whole application but one didn't install 
-![Screenshot](images/screenshot780)
-- 
+![Screenshot](images/screenshot780.jpg)
+![Screenshot](images/screenshot781.jpg)
 
 ---
 
