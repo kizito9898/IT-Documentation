@@ -66,6 +66,7 @@ Automation has two main components:
 - To test the automation → Checked on the two devices and applied the **Setup tag**. 
 ![Screenshot](images/screenshot806.jpg)
 - Selected the two devices → **Run automation** → Selected the right automation → **Common Windows applications**.  
+![Screenshot](images/screenshot774.jpg)
 - It started running on the two devices.  
 - Success on the Windows 10 device (skipped apps already installed).  
 
