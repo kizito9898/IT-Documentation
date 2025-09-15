@@ -15,7 +15,8 @@ Automation has two main components:
 ## Steps  
 - Navigate to **Automations**  
 - Click on **Create** → Create new automation → Name (Install application) → Create  
-![Screenshot](images/screenshot802.jpg)
+![Screenshot](images/screenshot754.jpg)
+![S]
 - Click on **Manual** → Perform these actions → Tag : added office tag which, when applied to a device, the action takes place.  
 
 - Clicked on the **+ Icon** → Scroll down to App management → Install winget → and Save.  
