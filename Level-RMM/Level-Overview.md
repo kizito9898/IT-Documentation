@@ -56,3 +56,24 @@ It keeps it simple and easy to use, saves thousands of hours, and allows managem
 
 * One of the Key features of level is managing devices, having all the details of a System, from getting the Security Score -> CPU, memory Disk -> Uptime -> IP address.
 
+* System -> gives you everything or information about the operating system.  
+
+* Manage -> Run command like ipconfig /all -> get IP address -> Private IP -> File Explorer (See what’s inside of the device) -> Process, what’s Running in the devices, memory, CPU etc. -> and Sensors.  
+
+* Applications -> displays every application Running on the device.  
+
+* Get updates -> Download & Install Updates from the device & prompts to Reboot device.  
+
+* Monitor -> Monitor the performance of a device (BSOD, CPU monitor, Windows uptime Exceeds 30days) -> check out for warning and patches on the device.  
+
+* Manage -> Select many devices you can Run a shutdown, Restart, Install Updates or Run Scripts.  
+
+# Remote Control using level.io
+
+* level provides remote Control & Support for any kind of devices from Windows, MacOS, Linux & RaspberryPi anytime & Anywhere.  
+
+* Using Remote Control  
+  -> Navigate to the machine you want to Remote Into  
+  -> Click on the device -> on top Right -> click on the Remote logo -> for remote Control -> Connecting  
+
+* Now in remote Control I’m remoting into the System already.
