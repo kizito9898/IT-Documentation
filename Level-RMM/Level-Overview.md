@@ -113,7 +113,7 @@ System -> gives you everything or information about the operating system.
 - It’s a P2P Connection meaning all data stays private, and never touch Level Internal Server.  
 - By the side, I can easily see the System Information, Run Command, See the C: drive and others. 
 - I can Run a short Shut down & Restart.  
-
+![Screenshot](images/screenshot741.jpg)
 - You can easily tap on the on the Devices → All devices → click on the devices → Remote Connection gets initiated.  
 
 - I Remoted into every device.  
