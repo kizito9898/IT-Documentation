@@ -57,7 +57,7 @@ Automation has two main components:
 - Just click on **Import into Level** → Now the automation is ready  
 ![Screenshot](images/screenshot771.jpg)
 - Looking at the trigger: it has the setup tag  
-![Screenshot]
+![Screenshot](images/screenshot772.jpg)
 - Then get the condition as **Platform equal to Windows** (meaning only Windows will get the install)  
 ## Automation Testing and Conditions
 
