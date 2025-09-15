@@ -85,7 +85,7 @@ Adding a **Linux operating System to my level RMM platform to manage.
 * One of the Key features of level is managing devices, having all the details of a System, from getting the Security Score -> CPU, memory Disk -> Uptime -> IP address.
 ![Screenshot](images/screenshot734.jpg)
 System -> gives you everything or information about the operating system.  
-
+![Screenshot](images/screenshot735.jpg)
 
 * Manage -> Run command like ipconfig /all -> get IP address -> Private IP -> File Explorer (See what’s inside of the device) -> Process, what’s Running in the devices, memory, CPU etc. -> and Sensors.  
 
