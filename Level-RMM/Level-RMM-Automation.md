@@ -29,6 +29,7 @@ Automation has two main components:
 - Condition 1: Select **OS (Operating System)**  
 - Equal to → Select a value to compare → **Windows 10**  
 - Save  
+
 ## Testing Automation  
 - Added a device to test → It was a success  
 - Added 7zip application to my Window 10  
