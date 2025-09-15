@@ -91,8 +91,8 @@ Automation using the prompt user to restart on a linux ubuntu device
 # OsQuery Monitor- Uptime
 
 - Reached out to Level library & imported the automation script
-- Ran the automation on a linux and windows qo
-- Installed updates on my **Server 2022** and checked logs.  
+- Ran the automation on a linux and windows 10 device
+![Screenshot](images/screenshot7)
 ---
 # Automation on Windows Server 2022
 
