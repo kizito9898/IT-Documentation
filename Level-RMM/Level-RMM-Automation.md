@@ -50,7 +50,8 @@ Automation has two main components:
 ![Screenshot](images/screenshot769.jpg)
 ## Getting Started  
 - Go to the website → Top corner → **Resources → Library**  
-- Click on **Library** → I’m automating common Windows applications    
+- Click on **Library** → I’m automating common Windows applications  
+![Screenshot](images/screenshot770.jpg)
 - The automation installs Edge, Chrome, Firefox, 1Password, Zoom, Notion, etc.  
 ## Import into Level  
 - Just click on **Import into Level** → Now the automation is ready  
