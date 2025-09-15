@@ -59,7 +59,7 @@ Automation has two main components:
 - Looking at the trigger: it has the setup tag  
 ![Screenshot](images/screenshot772.jpg)
 - Then get the condition as **Platform equal to Windows** (meaning only Windows will get the install)  and its now running
-
+![Screenshot](images/screenshot773.jpg)
 ## Automation Testing and Conditions
 
 - Added some conditions to the app because one device already had the download.  
