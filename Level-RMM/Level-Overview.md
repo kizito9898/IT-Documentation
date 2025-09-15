@@ -25,6 +25,7 @@ It keeps it simple and easy to use, saves thousands of hours, and allows managem
   - Automations : Supercharge Workflow and handle repetitive tasks.
   - Policies -> Reporting -> Updates -> Alerts.
 
+
 **Install new agents.
 * click on the Install new agent 
 ![Screenshot](images/screenshot707.jpg)
