@@ -119,7 +119,7 @@ System -> gives you everything or information about the operating system.
 - I Remoted into every device.  
 
 - Ubuntu → Remote Control Support is in the works but the terminal works really fine.  
-![Screenshot](images/screenshot747.)
+![Screenshot](images/screenshot747.jpg)
 
 - Windows Server 2022 → Remote Control Support on Server 2022, System Information and also ran terminal Command too.  
 ![Screenshot](images/screenshot751.jpg)
