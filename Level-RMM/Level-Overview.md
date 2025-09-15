@@ -41,7 +41,7 @@ It keeps it simple and easy to use, saves thousands of hours, and allows managem
 
   Checked on the Install new agent -> One-Line Command -> Opened the powershell Command.  
 * Run powershell as an admin 
-![]
+![Screenshot](images/screenshot711.jpg)
 * Paste the Command line -> Easy Install with my API already there -> click on Install (within Sec) I'm done.  
 
 * Now I can manage Server 2022 from my level account ->  
