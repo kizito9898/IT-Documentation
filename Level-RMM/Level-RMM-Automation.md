@@ -120,7 +120,12 @@ Automation using the prompt user to restart on a linux ubuntu device
 ![Screenshot](images/screenshot792.jpg)
 * Navigated to my Linux (Ubuntu machine).  
   -> Click on Action -> Run automation -> Selected Imported group -> Linux patching & Run automation.  
-
+![Screenshot](images/screenshot794.jpg)
 * Within minutes, the patching was completed successfully.  
 
 * **Linux patched & enabled firewall protection increased the Security Score from 65% to 95%.**
+
+
+
+
+
