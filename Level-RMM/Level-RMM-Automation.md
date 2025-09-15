@@ -88,9 +88,9 @@ Automation using the prompt user to restart on a linux ubuntu device
 - Ran the test → It worked → System rebooted (**Success**).  
 ![Screenshot](images/screenshot783.jpg)
 ---
-# O
+# OsQuery Monitor- Uptime
 
-- Reached out to Level library & imported behavior.  
+- Reached out to Level library & imported the 
 - Installed updates on my **Server 2022** and checked logs.  
 ---
 # Automation on Windows Server 2022
