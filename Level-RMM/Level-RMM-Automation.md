@@ -74,6 +74,7 @@ Automation has two main components:
 - it was a success on Windows 11 device almost installed the whole application but one didn't install 
 ![Screenshot](images/screenshot780.jpg)
 ![Screenshot](images/screenshot781.jpg)
+![Screenshot](images/screenshot779.jpg)
 
 ---
 
