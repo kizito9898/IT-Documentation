@@ -95,8 +95,7 @@ As an IT Helpdesk or 365 Administrator you can create a user account in Microsof
    - **Conditions** – Set login rules (e.g., IP address, device compliance).
 5. Under **Access controls**, choose:
    - **Grant access with MFA** or **Block access**.
-6. Click **Create** to activate the policy.
-
+1. Click **Create** to activate the policy.
 ---
 
 ## 6. How to Enable Self-Service Password Reset (SSPR)
@@ -110,11 +109,8 @@ As an IT Helpdesk or 365 Administrator you can create a user account in Microsof
    - Email
    - Phone number
    - Security questions
-4. Click **Save**.
-
-
+. Click **Save**.
 ---
-
 ## Devices in Entra ID  
 
 Microsoft Entra ID (formerly Azure AD) provides centralized device management, allowing organizations to enforce security policies, monitor compliance, and manage device lifecycles.  
@@ -132,8 +128,6 @@ Microsoft Entra ID (formerly Azure AD) provides centralized device management, a
 - Implement **Conditional Access** to restrict access from noncompliant or unmanaged devices.  
 - Use **device cleanup policies** to remove stale or inactive devices.  
 - Integrate with **Microsoft Intune** for advanced device management and endpoint security. 
-
-
 ---
 
 ### **1.1 Common Entra ID Issues and Fixes**
