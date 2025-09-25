@@ -150,7 +150,6 @@ Microsoft Entra ID (formerly Azure AD) provides centralized device management, a
    - **Wrong password** (User error)
    - **Blocked sign-in** (Policy or admin action)
    - **MFA required but failed** (Reconfigure MFA)
-
 ---
 
 ## 2. Authentication Methods – MFA
