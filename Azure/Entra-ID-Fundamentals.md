@@ -106,7 +106,7 @@ As an IT Helpdesk or 365 Administrator you can create a user account in Microsof
    - Email
    - Phone number
    - Security questions
-. Click **Save**.
+ Click **Save**.
 ---
 ## Devices in Entra ID  
 
