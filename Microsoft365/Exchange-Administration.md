@@ -97,7 +97,6 @@ A **resource mailbox** is used to schedule **meeting rooms or equipment**.
 ### **5. How to Configure Mail Flow Rules (Transport Rules)**  
 
 Mail Flow Rules control how emails are processed based on conditions (e.g., block certain attachments or forward emails).  
-
 #### **Steps:**  
 1. Go to **Mail Flow > Rules**.  
 2. Click **+ Add Rule**.  
