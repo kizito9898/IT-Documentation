@@ -95,7 +95,6 @@ As an IT Helpdesk or 365 Administrator you can create a user account in Microsof
    - **Grant access with MFA** or **Block access**.
 1. Click **Create** to activate the policy.
 ---
-
 ## 6. How to Enable Self-Service Password Reset (SSPR)
 
 1. Go to **Microsoft Entra admin center** > **Protection** >**Password Reset** .
