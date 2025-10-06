@@ -121,6 +121,7 @@ Mail Flow Rules control how emails are processed based on conditions (e.g., bloc
 5. Click **Save**.  
 
  **Ensures that Exchange recognizes the company’s email domain.**  
+ 
 ---
 ### **7. How to Assign Exchange Admin Roles to Users**  
 
