@@ -80,9 +80,7 @@ As an IT Helpdesk or 365 Administrator you can create a user account in Microsof
 2. Click **Manage security defaults**.
 3. Toggle **Enable security defaults** to **Yes**.
 4. Click **Save**.
-
 ---
-
 ## 5. Setting Up Conditional Access Policies
 
 ### **5.1 Creating a Conditional Access Policy**
