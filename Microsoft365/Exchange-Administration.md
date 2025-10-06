@@ -196,6 +196,7 @@ Delegate access lets a user **send, read, or fully manage another mailbox’s em
 3. Click **Save**.  
 
  **Pro Tip:** For shared mailboxes, permissions can also be managed via **Microsoft 365 Admin Center** under **Teams & Groups > Shared Mailboxes**.
+ 
 ---
 ## Troubleshooting  
  **Email forwarding isn’t working?**  
