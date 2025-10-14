@@ -37,7 +37,7 @@ As Windows operating system is popular in a business environment, knowing how to
 ![Screenshot](images/screenshot160.jpg)
 # Printer Troubleshooting - Print Queue Stuck
 
-When a printer is not responding and the print queue is stuck:
+When a printer is not responding and the print queue maybe stuck:
 
 ---
 ## Steps to Clear Print Queue
