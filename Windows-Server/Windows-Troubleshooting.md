@@ -117,7 +117,6 @@ ipconfig /renew
 ```
 ![Screenshot](images/screenshot142.jpg)
 
-
 ---
 ## Manage Power Options
 
@@ -173,7 +172,6 @@ wmic computersystem where name="%computername%" call rename name="NewPCName"
 netdom join %computername% /domain:yourdomain.com /userd:AdminUser /passwordd:*
 ```
 ![Screenshot](images/screenshot86.jpg)
-
 
 ---
 ##  Check Windows Activation
