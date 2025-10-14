@@ -76,7 +76,7 @@ Added members to the group
 
 - Log in to the user account and map the drive using the correct path.
 Example:
-\\server2022\hr
+\\\server2022\HR
 
 ## Mapping Network Drives on a User Computer
 
