@@ -38,7 +38,6 @@
 ### Under Configuration:
 - **Policies** – Can't be changed by users (e.g., password policies, account lockout policies).
 - **Preferences** – Can be changed by users (e.g., mapped network drives, printers, desktop shortcuts).
-
 ---
 ## Configuring Password Policies
 
