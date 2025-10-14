@@ -157,7 +157,7 @@ The Computer has been joined to the domain
 1. Navigate to **Server Manager** → **File and Storage Services** → **Shares**.
 2. Right-click on blank space → **New Share** → **SMB Share - Quick**.
 ![Screenshot](images/screenshot187.jpg)
-3. Click **Next** → **Share Name**: `Nykason` → **Other Settings** → **Permissions** → **Next**.
+3. Click **Next** → **Share Name**: `Njikason` → **Other Settings** → **Permissions** → **Next**.
 4. Confirm and **Create**.
 ![Screenshot](images/screenshot189.jpg)
 
