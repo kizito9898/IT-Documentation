@@ -175,7 +175,7 @@ The Computer has been joined to the domain
 
 ### Steps to Create User Accounts:
 1. Navigate to **Active Directory** → **Users** → **New**.
-2. Scroll down to **Users** → Create a **Username** and **Password**.
+2. Scroll down to **Users** → Create a **Username** and **Password** to change at their next logon.
 3. Created user accounts for:
    - Bob Smith  
    - Billy Barnes  
