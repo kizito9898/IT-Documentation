@@ -105,7 +105,7 @@ Example:
 ---
 ![Screenshot](images/screenshot98.jpg)
 > You can also sign in how to save with that script:  
-`\\Server2022\` → Map the drive
+`\\Server2022\HR` → Map the drive
 
 # Effective Permissions and Inheritance
 
