@@ -223,7 +223,7 @@ The Computer has been joined to the domain
     
 3. In the **Folder** field, enter the path:
 
-`\\Server2022\Nykason\Sales`
+`\\Server2022\Njikason\Sales`
 
 4. Click **Finish**.
 ![Screenshot](images/screenshot196.jpg)
