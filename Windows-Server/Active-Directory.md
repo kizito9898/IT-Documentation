@@ -158,7 +158,7 @@ Click **OK** to create the group.
 5. Right-click on the user > **Reset Password**.
 6. Enter new password and confirm it (Reset & OK).
 ![Screenshot](images/screenshot002.jpg)
-> The user account password has been reset.
+> The user account password has been reset to be
 
 ---
 # Unlocking a User in Active Directory
