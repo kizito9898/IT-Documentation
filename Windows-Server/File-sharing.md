@@ -182,7 +182,7 @@ Example:
 
 1. **Create a New Group**
    - Example: Financial Group in Active Directory.
-   - Add users to the group (e.g., David Miller, Bony Allen).
+   - Add users to the group (e.g., David Miller, Barry Allen).
 ![Screenshot](images/screenshot473.jpg)
 ![Screenshot](images/screenshot474.jpg)
 1. **Navigate to the Server**
