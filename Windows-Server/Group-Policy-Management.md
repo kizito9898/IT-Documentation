@@ -9,7 +9,6 @@
 - **Group Policy Objects (GPOs)** contain the rules and settings.
 - GPOs are linked to **Active Directory (AD)** and applied to users or computers.
 - When a user logs in or a computer starts, it checks for policies and applies them.
-
 ---
 ## How to Locate Group Policy Management
 
