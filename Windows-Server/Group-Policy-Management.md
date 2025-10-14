@@ -1,6 +1,6 @@
 # Group Policy
 
-**Group Policy (GPO)** is a tool in Windows that helps IT administrators control and configure multiple computers in a network. It allows them to set rules and settings for users and computers without having to configure each one manually.
+**Group Policy (GPO)** is a tool in Windows Servers that helps IT administrators control and configure multiple computers in a network. It allows them to set rules and settings for users and computers without having to configure each one manually.
 ![Screenshot](images/screenshot66.jpg)
 
 ---
