@@ -76,7 +76,7 @@ Click **Apply** and **OK**.
    - Right-click and choose **New** → **Mapped Drive**
 
 4. Set the following:
-   - **Location**: (e.g., \\Server2021\ShareFolder)
+   - **Location**: (e.g., \\\Server2022\ShareFolder)
    - **Use**: Set to available (e.g., E: drive) or set as available to anyone.
 ![Screenshot](images/screenshot69.jpg)
 5. Click **Apply** and **OK**
