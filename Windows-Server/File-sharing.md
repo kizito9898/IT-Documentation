@@ -52,8 +52,8 @@ Added members to the group
    - Tap **Advanced**
    - Click **Disable Inheritance**
    - Choose **Convert inherited permissions into explicit permissions on this object**
-   - Remove existing users
-2. Add permissions:
+   - Remove existing users and add groups.
+1. Add permissions:
    - Click **Add** → **Select Principal**
    - Enter the username → Click **Check Name** → Click **OK**
    - Set **Basic permissions** (e.g., Modify) and click **OK**
