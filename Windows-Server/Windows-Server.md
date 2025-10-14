@@ -151,7 +151,7 @@ The Computer has been joined to the domain
 ## Shared Drive Permissions
 
 - **Creating a shared folder** for Sales, HR & Finance.  
-  - Disable inheritance for each group (so each group has custom permissions and can't access the other groups' folders).
+  - Disable inheritance for each group (so each group has custom permissions and can't access the other groups folders).
 
 ### Steps to Create a Shared Folder:
 1. Navigate to **Server Manager** → **File and Storage Services** → **Shares**.
