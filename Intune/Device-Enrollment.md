@@ -113,3 +113,4 @@ All the apps are automatically getting installed and the user can access the app
 ![Screenshot](images/screenshot157.jpg)
 ![Screenshot](images/screenshot158.jpg)
 ![Screenshot](images/screenshot507.jpg)
+learning continues, updating soon 
