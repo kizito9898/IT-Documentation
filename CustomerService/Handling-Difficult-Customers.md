@@ -111,4 +111,4 @@ These are the core beliefs I apply in every user interaction:
 
 Managing difficult users is a normal part of IT support, especially in MSP environments where multiple client personalities and expectations come into play. I focus on being the calmest person in the room. When users feel heard, respected, and supported, even the most stressful situations can be turned into a positive experience.
 
-My ability to de-escalate, listen actively, and keep the conversation solution-focused reflects not only strong communication skills, but strong character. That’s what I bring to every client interaction and provi
+My ability to de-escalate, listen actively, and keep the conversation solution-focused reflects not only strong communication skills, but strong character. That’s what I bring to every client interaction and providing excellent customer support.
