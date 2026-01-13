@@ -210,3 +210,4 @@ Delegate access lets a user **send, read, or fully manage another mailbox’s em
 - Allow time for changes to sync across Microsoft 365 (can take up to **1 hour** according to Microsoft).  
 
 ---  
+updating soon, have been learning alot since.
