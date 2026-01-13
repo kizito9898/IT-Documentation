@@ -125,4 +125,4 @@ Inside `C:\Chrome`
 ![Screenshot](images/screenshot159.jpg)
 ![Screenshot](images/screenshot156.jpg)![Screenshot](images/screenshot157.jpg)
 
-
+learning continues...updating more.

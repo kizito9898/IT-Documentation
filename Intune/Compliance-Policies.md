@@ -13,3 +13,5 @@ Compliance policies can be used with Entra ID Conditional Access to block or res
 
 ### Monitoring & Reporting:
 Intune provides reports on device compliance status, helping IT admins take action on non-compliant devices.
+
+updating my learning soon on compliance o
