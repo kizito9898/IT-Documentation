@@ -195,4 +195,4 @@ If errors appear, check **event logs** and restart **Active Directory Services**
 
 ### Step 4: Apply Fix and Update IT Glue
 - If the issue is resolved, document the fix in IT Glue.
-  *Example: "Resolved VPN login issue for UserX by resetting VPN profile."*
+  *Example: "Resolved VPN login issue for User by resetting VPN profile."*
