@@ -127,7 +127,7 @@ Automation using the prompt user to restart on a linux ubuntu device
 ![Screenshot](images/screenshot793.jpg)
 ![Screenshot](images/screenshot797.jpg)
 
-
+ubuntu device.
 
 
 

@@ -153,4 +153,4 @@ User gets a new phone. When trying to log in to their email or VPN, the Duo prom
 
 ---
 
-**Note:** Guiding the user through the process is very vital for the role of an IT Helpdesk agent.
+**Note:** Guiding the user through the process is very vital for the role of an IT Helpdesk agent and enhances security.
