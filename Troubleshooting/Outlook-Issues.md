@@ -1,6 +1,6 @@
 # Troubleshooting: Outlook Issues
 
- facing issues with Microsoft Outlook, what I would do to troubleshoot Outlook issues effectively :
+ Facing issues with Microsoft Outlook, what I would do to troubleshoot Outlook issues effectively :
 
 ## 1. **Outlook Won’t Open**
    - **Check for Updates**: Go to **File** > **Office Account** > **Update Options** > **Update Now** to ensure Outlook is up to date.
@@ -50,12 +50,12 @@
 
 ## 7. **Outlook Profile Issues**
    - **Create a New Profile**:
-     1. Go to **Control Panel** > **Mail** > **Show Profiles** > **Add**.
+     1. Go to **Control Panel** > **Mail** > **Show Profiles** > **Add**
      2. Set up your account again with a new profile and check if it resolves the issue.
    - **Delete Corrupted Profile**: If the profile is corrupted, deleting it and creating a new one often resolves persistent issues.
 
 ## 8. **Outlook Not Responding**
-   - **Check for Background Processes**: Use **Task Manager** (Ctrl + Shift + Esc) to check for any stuck processes related to Outlook and end them.
+   - **Check for Background Processes**: Use **Task Manager** (Ctrl + Shift + Esc) to check for any stuck processes related to Outlook and end them
    - **Disable Hardware Graphics Acceleration**:
      1. Go to **File** > **Options** > **Advanced** > **Display**.
      2. Check **Disable hardware graphics acceleration**.
