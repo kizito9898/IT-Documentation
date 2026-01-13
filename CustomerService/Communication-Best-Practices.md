@@ -166,4 +166,4 @@ My goal is to maintain clear and professional communication during real-time int
 
 Clients want their issues resolved, but they also want to feel respected and confident in the support they receive. By communicating clearly, listening actively, and providing thoughtful responses, I help reduce stress and improve satisfaction, especially in fast-paced MSP environments where cultural fit and professionalism are critical.
 
-In every interaction, my aim is not just to fix the issue, but to make sure the user feels supported throughout the process.
+In every interaction, my aim is not just to fix the issue, but to make sure the user feels supported throughout the process, that good customer support.
