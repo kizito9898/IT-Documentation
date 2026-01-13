@@ -213,3 +213,4 @@ chkdsk C: /f /r
 2. Click **Performance Settings > Advanced > Virtual Memory**.
 3. Increase the **Page File size**.
 ---
+more troubleshooting soon.
