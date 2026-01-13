@@ -147,7 +147,7 @@ As an IT support person, my main responsibilities in SharePoint Admin are:
 
 By following this guide, I can efficiently manage SharePoint for your organization.  
 
-
+updating my portfolio soon.
 
 
 
