@@ -176,3 +176,4 @@ To verify the printer is showing on a client machine:
 - If it is a **widespread issue (many users)** → Restart the spooler on the print server  
 ![Screenshot](images/screenshot543.jpg)
 
+updating print
