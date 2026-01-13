@@ -78,7 +78,7 @@ As a  Helpdesk I might approval from management to install software application 
 - Select the computer
 - Use the single arrow → **Server2022**
 - Click **OK**
-- Click **Deploy Now**
+- Click **Deploy Now**.
 ![Screenshot](images/screenshot329.jpg)
 - Deployment finished
 ![Screenshot](images/screenshot330.jpg)
