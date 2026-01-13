@@ -259,7 +259,7 @@ This helps users and support teams resolve issues more efficiently.
 - Navigate to **Knowledge** → **New**
 ![Screenshot](images/screenshot227.jpg)
 ![Screenshot](images/screenshot228.jpg)
-
+updating soon.
 
 
 
