@@ -258,8 +258,7 @@ Get-ADUser -Filter * -SearchBase $nonStaffOU | ForEach-Object {
 }
 ![Screenshot](images/screenshot627.jpg)
 
-
-
+updating soon, wrote an amazing script for RMM.
 
 
 
