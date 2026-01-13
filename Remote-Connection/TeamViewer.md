@@ -98,3 +98,4 @@ Now both my windows 10 and 11 from my lab are connected, while windows 10 is the
 ![Screenshot](images/screenshot348.jpg)
 ![Screenshot](images/screenshot349.jpg)
 ![Screenshot](images/screenshot350.jpg)
+NEXT : Anydesk
