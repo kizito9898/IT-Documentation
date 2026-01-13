@@ -131,5 +131,5 @@ User reports they are unable to connect to the company VPN.
 ## **Why Screenshots Are Not Included**
 
 # Why I Can't Include IT Glue Screenshots
-I currently do not have access to an IT Glue free trial, which limits my ability to provide screenshots or firsthand experience. However, I have compiled this documentation template based on research, including YouTube videos and technical guides. This structure follows IT Glue’s best practices for maintaining accurate and accessible IT documentation.
+I currently do not have access to an IT Glue free trial, which limits my ability to provide screenshots or firsthand experience. However, I have compiled this documentation template based on research, including YouTube videos and technical guides. This structure follows IT Glue’s best practices for maintaining accurate and accessible IT documentation. thank you
 ``
