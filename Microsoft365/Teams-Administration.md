@@ -182,4 +182,4 @@ Policies in Teams help enforce security and compliance.
 - **Regularly Audit Teams** to remove inactive users.
 
 ---
-updating soon
+updating.

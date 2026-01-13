@@ -98,5 +98,5 @@ Put in Days, Hours & Minutes you want IP address to last on a Computer → Next
 
 ---
 
-> **Note:** Go to the DHCP Scope, right click and activate the scope.
+> **Note:** Go to the DHCP Scope, right click and activate the scope that's all.
 
