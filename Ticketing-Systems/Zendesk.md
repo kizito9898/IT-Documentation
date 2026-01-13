@@ -135,7 +135,7 @@ My focus is solely on efficient handling of tickets, documenting well, and provi
 - Closed the ticket as Resolved.
  ![Screenshot](images/screenshot259.jpg)
 
-
+ticket notes with time stamps.
 
 
 
