@@ -256,4 +256,4 @@ User submits a ticket that Excel won’t open or crashes when opening a file.
 - Find Microsoft 365 or Office → Modify → Quick Repair  
   - If it didn’t solve the issue, do Online Repair
 - Install **SARA** Repairs from Microsoft and run a quick repair.
-updating mo
+updating more IT issues.
