@@ -167,3 +167,4 @@ You can configure any type of Group Policy depending on the company's need and a
 This force group policies to apply on a device or set computers on the same network
 ![Screenshot](images/screenshot535.jpg)
 
+more group policy labs soon. updating now.
