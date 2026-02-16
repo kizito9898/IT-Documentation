@@ -167,9 +167,7 @@ Navigation:
 - Authentication Methods  
 - Partner Relationships  
 - GDAP Management  
-
 ---
-
 ## Intune
 
 Navigation:
@@ -181,9 +179,7 @@ Navigation:
 - Protection Policies  
 - Policy Templates  
 - Scripts  
-
 ---
-
 # CIPP – Identity Management
 
 Navigation:
