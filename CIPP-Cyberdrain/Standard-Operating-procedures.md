@@ -88,16 +88,7 @@ You can view more on a user profile, including:
 - Applied Conditional Access policies  
 - Compromise remediation information  
 ---
-## User Actions
-
-Available actions include:
-
-- Edit user  
-- Edit mailbox permissions  
-- Send MFA push  
-- Reset password  
-- Convert to shared mailbox  
-- Generate temporary password  
+## U
 
 Click on the three dots (**...**) for more actions:
 
@@ -114,10 +105,6 @@ Click on the three dots (**...**) for more actions:
 - Create an account that is usable for a specific period of time.  
 - Schedule start date and end date.  
 # CIPP – Dashboard, Navigation, and Identity Management
-
-
-
----
 
 ## User Overview (When Clicking a User)
 
