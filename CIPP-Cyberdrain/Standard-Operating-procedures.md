@@ -161,7 +161,7 @@ Features include:
 ---
 # Devices
 
-* Manage Intune devices across your Microsoft 365 tenants. and the following features applies to
+  Manage Intune devices across your Microsoft 365 tenants. and the following features applies to
 
 * Available device actions:
   - View in Intune  
