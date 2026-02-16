@@ -67,19 +67,15 @@ Before GDAP, MSPs used DAP (Delegated Admin Privileges), which gave too much acc
 - Choose the tenant to offboard.  
 - Open **Tenant Offboarding Settings**.  
 - Review and confirm.  
-
 --- 
-# CIPP – User Management and Device Management Notes
-
-## User Profile View
+# CIPP – Dashboard, Navigation, and Identity Management
 
 ## Onboarding Users
 
 - Go to **Add Users**.  
 - You can copy properties of another user.  
 - More options are available when setting up a user account.  
-- Copy group membership from an existing user.  
-# CIPP – Dashboard, Navigation, and Identity Management
+- Copy group membership from an existing user. 
 
 ## User Overview (When Clicking a User)
 
