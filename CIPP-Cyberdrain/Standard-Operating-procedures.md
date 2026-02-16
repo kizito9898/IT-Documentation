@@ -115,16 +115,7 @@ Click on the three dots (**...**) for more actions:
 - Schedule start date and end date.  
 # CIPP – Dashboard, Navigation, and Identity Management
 
-## Dashboard Navigation
 
-Main navigation areas include:
-
-- Identity Management  
-- Tenant Administration  
-- Security & Compliance  
-- Intune  
-- Teams & SharePoint  
-- Email & Exchange  
 
 ---
 
@@ -135,51 +126,7 @@ When you click on a user (e.g., Alex Allen), the following options are available
 - View User  
 - Edit User  
 - Exchange Settings  
-- Compromise Remediation  
-- Conditional Access  
-
----
-
-## Tools (CIPP)
-
-Navigation:
-
-- Tools  
-  - Tenant Tools  
-  - Email Tools  
-  - Dark Web Tools  
-  - Template Library  
-  - Community Repositories  
-  - Scheduler  
-
----
-
-## Tenant Administration
-
-Navigation:
-
-- Administration → Tenants  
-- Alert Configuration  
-- Audit Logs  
-- Enterprise Applications  
-- Secure Score  
-- App Consent Requests  
-- Authentication Methods  
-- Partner Relationships  
-- GDAP Management  
----
-## Intune
-
-Navigation:
-
-- Applications → Autopilot → Device Management  
-- Devices  
-- Configuration Policies  
-- Compliance Policies  
-- Protection Policies  
-- Policy Templates  
-- Scripts  
----
+- Compromise Remedia
 # CIPP – Identity Management
 
 Navigation:
