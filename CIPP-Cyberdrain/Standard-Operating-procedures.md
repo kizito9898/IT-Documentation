@@ -18,7 +18,7 @@ You can switch between tenants or manage all tenants at once from the top bar.
 
 ### Conditional Access
 - Conditional Access policies that can be applied across multiple tenants at once 
----
+
 # GDAP (Granular Delegated Admin Privileges)
 
 GDAP allows an MSP (like a company using CIPP) to get permission to manage a customer’s Microsoft 365 tenants without being Global Admins inside their environment.
@@ -159,10 +159,20 @@ Features include:
 * Add Profiles  
   - Manage Autopilot profiles across your Microsoft 365 tenants.
 ---
-# Device
+# Devices
+
+* Manage Intune devices across your Microsoft 365 tenants.
+
+* Available device actions:
+  - View in Intune  
+  - Rename Device  
+  - Sync Device  
   - Locate Device  
   - Wipe Device  
-  - Keep Enrollm
+  - Keep Enrollment State  
+  - Fresh Start  
+  - Retire Device  
+
 ---
 # Configuration Policies
 
