@@ -266,3 +266,222 @@ Steps:
   - PSA  
   - Webhook  
   - Email  
+## 1. Introduction
+
+**CIPP (Cyberdrain Improved Partner Portal)** is an open-source, multi-tenant management platform designed for Managed Service Providers (MSPs). It serves as a centralized "single pane of glass" for administering Microsoft 365 environments.
+
+Instead of logging into each client's tenant individually, CIPP allows administrators to:
+
+- Switch between tenants instantly via a unified top bar.
+    
+- Apply configurations to all tenants simultaneously.
+    
+- Automate routine tasks like onboarding and offboarding.
+    
+
+---
+
+## 2. Security & Permissions (GDAP)
+
+CIPP relies on **GDAP (Granular Delegated Admin Privileges)** to function securely.
+
+### What is GDAP?
+
+GDAP is a Microsoft security feature that allows MSPs to manage customer tenants with "least privilege" access. Unlike the older DAP (Delegated Admin Privileges), which granted broad Global Admin rights, GDAP allows you to request specific roles for specific durations.
+
+### GDAP Roles & The Role Wizard
+
+To manage clients effectively, you must map roles in CIPP to groups in your partner tenant.
+
+- **Role Mapping:** You select roles (e.g., _Application Administrator_, _Intune Administrator_, _Exchange Administrator_).
+    
+- **Group Creation:** CIPP creates a corresponding group for each role in your partner tenant (e.g., `M365 GDAP Exchange Admin`).
+    
+- **Assignment:** You add your technicians to these groups to grant them permissions across client tenants.
+    
+
+---
+
+## 3. Setup & Onboarding
+
+This section covers how to set up the CIPP instance and bring client tenants into the ecosystem.
+
+### CIPP Instance Setup
+
+- **Setup Wizard:** Automates the creation of App Registrations required for CIPP to read/write data.
+    
+    - Step 1: Select **"I would like CIPP to create an application for me."**
+        
+    - Step 2: Click **Start Setup Wizard**.
+        
+
+### Tenant Onboarding
+
+Once CIPP is running, you must onboard client tenants.
+
+1. Navigate to **Administration** → **Tenant Onboarding**.
+    
+2. **GDAP Validation:** Run the "GDAP Check" to ensure a valid relationship exists between the partner tenant and the client.
+    
+3. **Permissions Check:** Verifies that CIPP has the necessary API permissions to manage the tenant.
+    
+
+### Tenant Offboarding
+
+When a client leaves the MSP, offboarding ensures clean removal of access.
+
+- Navigate to **Tenant Settings** → **Tenant Offboarding Settings**.
+    
+- Select the tenant and confirm removal. This removes CIPP’s access to that specific environment.
+    
+
+---
+
+## 4. Identity & User Management
+
+This module consolidates all user-related actions, replacing the standard Microsoft 365 Admin Center for day-to-day tasks.
+
+### User Overview
+
+Navigate to **Identity Management** → **Administration** → **Users**. Clicking on a user (e.g., _Alex Allen_) opens a detailed profile containing:
+
+- **M365 & OneDrive Details:** Storage usage, licensing, and last login time.
+    
+- **Security Posture:** Applied Conditional Access policies and compromise remediation history.
+    
+
+### User Actions (Day-to-Day)
+
+- **Quick Actions:** Reset passwords, send MFA push notifications, and unlock accounts.
+    
+- **Edit User:** Modify properties, contact info, and licenses.
+    
+- **JIT (Just-In-Time) Admin:** Create a temporary admin account for a technician that automatically expires after a scheduled start and end date.
+    
+
+### Lifecycle Automation
+
+- **Bulk Add Wizard:** Create multiple users across tenants simultaneously using templates.
+    
+- **Offboarding Wizard:** A critical tool for employee departures. It automates:
+    
+    - Disabling sign-in.
+        
+    - Converting the user mailbox to a Shared Mailbox.
+        
+    - Removing licenses.
+        
+    - Canceling future calendar events.
+        
+
+---
+
+## 5. Device Management (Intune)
+
+Manage endpoints (laptops, mobiles) across all tenants from one view.
+
+### Devices
+
+Navigate to **Intune** → **Devices**.
+
+- **Device Actions:** Perform remote actions such as _Wipe_, _Retire_, _Fresh Start_, _Sync_, or _Rename_.
+    
+- **Autopilot:** Manage Autopilot device hashes and profiles for zero-touch deployment.
+    
+
+### Applications
+
+Navigate to **Intune** → **Applications**.
+
+- **Add Applications:** Deploy apps (e.g., Microsoft Store apps) to specific tenants or groups.
+    
+- **Application Queue:** Monitor the status of app deployments.
+    
+
+### Configuration Policies
+
+- **Compliance Policies:** Create and assign templates that dictate device security requirements (e.g., BitLocker enabled, minimum OS version).
+    
+- **Apply Policy Wizard:** Deploys MDM policies to multiple tenants in three steps:
+    
+    1. Select Tenants.
+        
+    2. Configure Policy.
+        
+    3. Confirm Deployment.
+        
+
+---
+
+## 6. Collaboration & Content
+
+Manage the structure and security of Teams, SharePoint, and OneDrive.
+
+### Teams
+
+- **List Teams:** View all Teams, their privacy status (Public/Private), and member counts.
+    
+- **Management:** Create new Teams or modify existing ones.
+    
+
+### SharePoint
+
+- **Site Management:** View storage usage, add new sites, or bulk edit site settings.
+    
+- **Permissions:** Add or remove user access to specific SharePoint libraries.
+    
+
+### OneDrive
+
+- **Inspector:** View OneDrive status for specific users and modify permissions (e.g., granting a manager access to a terminated employee's files).
+    
+
+---
+
+## 7. Email & Exchange Administration
+
+Comprehensive tools for managing mail flow and mailboxes.
+
+### Mailbox Management
+
+- **General Actions:** Convert to Shared Mailbox, configure delegation rights, and edit mailbox permissions.
+    
+- **Tools:**
+    
+    - **Message Trace:** instantly trace emails across the last 10 days to troubleshoot delivery issues.
+        
+    - **Quarantine:** Release or block quarantined emails.
+        
+
+### Resources & Contacts
+
+- **Resource Management:** Manage room and equipment mailboxes.
+    
+- **Contacts:** Create and edit global contacts or deploy contact templates to standardize address books.
+    
+
+---
+
+## 8. Advanced Tools & Automation
+
+### Conditional Access (CA)
+
+- **Multi-Tenant Deployment:** Apply a standard baseline CA policy to multiple tenants at once.
+    
+- **Report-Only Mode:** Deploys policies in a "log-only" state to test their impact without locking users out.
+    
+
+### Scheduler
+
+Automates CIPP maintenance tasks. You can schedule scripts or compliance checks to run at specific times and push the results to:
+
+- A PSA (Professional Services Automation) tool.
+    
+- A Webhook (for custom integrations).
+    
+- Email reports.
+    
+
+### Template Library
+
+A repository that allows you to "snapshot" a tenant's configuration (e.g., Intune policies or Transport rules) and save it as a template to deploy to other clients.
