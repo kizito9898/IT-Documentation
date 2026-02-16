@@ -105,9 +105,7 @@ Click on the three dots (**...**) for more actions:
 
 - Require MFA registration  
 - Add to groups  
-
 ---
-
 ## Onboarding Users
 
 - Go to **Add Users**.  
@@ -117,3 +115,97 @@ Click on the three dots (**...**) for more actions:
 ### JIT Admin
 - Create an account that is usable for a specific period of time.  
 - Schedule start date and end date.  
+# CIPP – Dashboard, Navigation, and Identity Management
+
+## Dashboard Navigation
+
+Main navigation areas include:
+
+- Identity Management  
+- Tenant Administration  
+- Security & Compliance  
+- Intune  
+- Teams & SharePoint  
+- Email & Exchange  
+
+---
+
+## User Overview (When Clicking a User)
+
+When you click on a user (e.g., Alex Allen), the following options are available:
+
+- View User  
+- Edit User  
+- Exchange Settings  
+- Compromise Remediation  
+- Conditional Access  
+
+---
+
+## Tools (CIPP)
+
+Navigation:
+
+- Tools  
+  - Tenant Tools  
+  - Email Tools  
+  - Dark Web Tools  
+  - Template Library  
+  - Community Repositories  
+  - Scheduler  
+
+---
+
+## Tenant Administration
+
+Navigation:
+
+- Administration → Tenants  
+- Alert Configuration  
+- Audit Logs  
+- Enterprise Applications  
+- Secure Score  
+- App Consent Requests  
+- Authentication Methods  
+- Partner Relationships  
+- GDAP Management  
+
+---
+
+## Intune
+
+Navigation:
+
+- Applications → Autopilot → Device Management  
+- Devices  
+- Configuration Policies  
+- Compliance Policies  
+- Protection Policies  
+- Policy Templates  
+- Scripts  
+
+---
+
+# CIPP – Identity Management
+
+Navigation:
+
+- Administration → Users (User Management)
+
+Features include:
+
+- Equivalent to and extends Microsoft 365 Admin  
+- Bulk Add (Wizard allows bulk creation of users)  
+- Invite Guest  
+- Add User  
+  - Add User Wizard provides an interface for creating new user accounts in a partner tenant.  
+
+---
+
+## View Individual User
+
+- Provides a comprehensive overview of user details and settings.  
+- Serves as the main landing page when viewing a user.  
+- Additional tabs are available for more specific operations such as:
+  - Edit User  
+  - Compromise Remediation  
