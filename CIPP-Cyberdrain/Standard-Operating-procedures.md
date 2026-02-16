@@ -5,7 +5,6 @@ CIPP (Cyberdrain Improved Partner Portal) is a multi-tenant management tool for 
 It centralizes administration across tenants so MSPs do not have to log into each environment separately.
 
 You can switch between tenants or manage all tenants at once from the top bar.
-
 ## Features
 
 ### User Management
@@ -78,21 +77,6 @@ Before GDAP, MSPs used DAP (Delegated Admin Privileges), which gave too much acc
 
 ## User Profile View
 
-You can view more on a user profile, including:
- Go to **Administration** → **Users**.  
-- You can switch between tenants or manage all tenants.  
-- User details  
-- Microsoft 365 management details  
-- OneDrive details  
-- Last login details  
-- Applied Conditional Access policies  
-- Compromise remediation information  
-
-Click on the three dots (**...**) for more actions:
-
-- Require MFA registration  
-- Add to groups  
----
 ## Onboarding Users
 
 - Go to **Add Users**.  
