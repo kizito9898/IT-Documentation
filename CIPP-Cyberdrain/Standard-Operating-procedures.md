@@ -87,8 +87,6 @@ You can view more on a user profile, including:
 - Last login details  
 - Applied Conditional Access policies  
 - Compromise remediation information  
----
-## U
 
 Click on the three dots (**...**) for more actions:
 
@@ -101,9 +99,6 @@ Click on the three dots (**...**) for more actions:
 - You can copy properties of another user.  
 - More options are available when setting up a user account.  
 - Copy group membership from an existing user.  
-### JIT Admin
-- Create an account that is usable for a specific period of time.  
-- Schedule start date and end date.  
 # CIPP – Dashboard, Navigation, and Identity Management
 
 ## User Overview (When Clicking a User)
@@ -154,7 +149,9 @@ Features include:
 * Navigate to:  
   **Identity Management → Administration → Users → Select a User → Click Edit User**  
   You will be redirected to the **Edit User** page.
----
+### JIT Admin
+- Create an account that is usable for a specific period of time.  
+- Schedule start date and end date. 
 # Exchange Settings
 
 * This page displays information about the user’s Exchange configuration.
