@@ -18,14 +18,12 @@ You can switch between tenants or manage all tenants at once from the top bar.
 
 ### Conditional Access
 - Conditional Access policies that can be applied across multiple tenants at once 
-
 ---
 # GDAP (Granular Delegated Admin Privileges)
 
 GDAP allows an MSP (like a company using CIPP) to get permission to manage a customer’s Microsoft 365 tenants without being Global Admins inside their environment.
 
 Before GDAP, MSPs used DAP (Delegated Admin Privileges), which gave too much access
-
 ## Onboarding
 
 - Onboarding is the most difficult part of the tool.  
@@ -46,14 +44,12 @@ Before GDAP, MSPs used DAP (Delegated Admin Privileges), which gave too much acc
 - Scroll down to **Tenant Onboarding**.  
 - Onboard various tenants into CIPP.  
 ---
-
 ## GDAP Roles
 
 - GDAP consists of roles such as:
   - Application Administrator  
   - Application Developer  
-  - Azure DevOps Administrator  
-
+  - Azure DevOps Administrator  etc
 ### Role Wizard
 
 - Select which roles you want to map to groups in your partner tenant.  
