@@ -203,3 +203,175 @@ Features include:
 - Additional tabs are available for more specific operations such as:
   - Edit User  
   - Compromise Remediation  
+# Edit User – Identity Management
+
+* Navigate to:  
+  **Identity Management → Administration → Users → Select a User → Click Edit User**  
+  You will be redirected to the **Edit User** page.
+
+---
+
+# Exchange Settings
+
+* This page displays information about the user’s Exchange configuration.
+
+* Available Exchange Settings options:
+  - Send MFA Push  
+  - Convert Mailbox  
+  - Delete Mailbox  
+
+---
+
+# Conditional Access
+
+* Allows you to test your Conditional Access policies before deploying them to production.
+
+* Ensure you deploy your test policy in **Report-Only Mode** to verify it works correctly without breaking access.
+
+---
+
+# Intune – Applications
+
+* Navigate to:  
+  **Intune → Applications → Add Applications**
+
+* Add Microsoft Store App (choose app)
+
+* Application Queue  
+  - Shows applications queued for deployment to your tenant.
+
+* Autopilot Devices  
+  - This page lists all devices registered for Autopilot.
+
+* Add Profiles  
+  - Manage Autopilot profiles across your Microsoft 365 tenants.
+
+---
+
+# Devices
+
+* Manage Intune devices across your Microsoft 365 tenants.
+
+* Available device actions:
+  - View in Intune  
+  - Rename Device  
+  - Sync Device  
+  - Locate Device  
+  - Wipe Device  
+  - Keep Enrollment State  
+  - Fresh Start  
+  - Retire Device  
+
+---
+
+# Configuration Policies
+
+* Compliance Policies  
+  - Create templates based on policy  
+  - Assign to all users  
+  - Delete policy  
+
+* Protection Policies  
+  - Apply Policy  
+    - The Apply Policy Wizard provides the ability to select one or more tenants and add MDM policy to their MDM portal.
+
+Steps:
+1. Tenant Selection  
+2. Policy Configuration  
+3. Confirmation  
+
+* Audit & Device Score
+
+---
+
+# Teams & SharePoint
+
+* OneDrive  
+  - View OneDrive information for users in your Microsoft 365 tenants.  
+  - Add & Remove Permissions  
+# SharePoint
+
+* Navigate to:  
+  **SharePoint → Review SharePoint Sites & Usage**
+
+* Available options:
+  - Add Site  
+  - Bulk Edit Sites  
+
+* Teams  
+  - The List Teams page displays all teams along with:
+    - Name  
+    - Description  
+    - Overview (Public or Private team)  
+
+  - Add Team  
+    - Allows you to create a new team  
+
+  - Team Activity  
+
+  - Business Voice  
+
+---
+
+# Email & Exchange
+
+* View information on all mailboxes in your Microsoft 365 tenants.
+
+* Provides the ability to:
+  - View Exchange mailboxes  
+  - Edit mailbox  
+  - View connected mobile devices  
+  - Add shared mailbox  
+  - Add M365 user  
+  - View deleted mailboxes  
+  - Configure mailbox rules  
+
+* Contacts  
+  - View & Edit Contacts in your M365 tenants  
+  - All Contacts  
+  - Edit Contact  
+  - Contact Templates (Deploy, Add & Edit Contact)
+
+* Quarantine  
+
+* Retention Policies & Tags  
+
+* Transport Rules  
+
+* Connectors  
+
+* Resource Management  
+
+* Reports  
+
+---
+
+# Tools
+
+* Tenant Tools  
+  - Graph Explorer  
+  - Application Approval  
+  - Tenant Lookup  
+  - IP Database  
+
+---
+
+# Email Tools
+
+* Message Trace  
+  - Allows you to trace an email instantly from any recipient or sender within the last 10 days.
+
+---
+
+# Template Library
+
+* Retrieve the latest version of a specific tenant’s policies.
+
+---
+
+# Scheduler
+
+* Allows you to schedule CPP functionality to be executed at a later date and send results to your:
+  - PSA  
+  - Webhook  
+  - Email  
