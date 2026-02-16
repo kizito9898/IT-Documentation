@@ -123,6 +123,23 @@ Click on the three dots (**...**) for more actions:
 
 When you click on a user (e.g., Alex Allen), the following options are available:
 
+you can view more on a user profile, including:
+ Go to **Administration** → **Users**.    
+- User details  
+- Microsoft 365 management details  
+- OneDrive details  
+- Last login details  
+- Applied Conditional Access policies  
+- Compromise remediation information  
+---
+## User Actions
+Available actions include:
+- Edit user  
+- Edit mailbox permissions  
+- Send MFA push  
+- Reset password  
+- Convert to shared mailbox  
+- Generate temporary password  
 
 # CIPP – Identity Management
 
