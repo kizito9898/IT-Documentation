@@ -227,7 +227,6 @@ Features include:
 * Allows you to test your Conditional Access policies before deploying them to production.
 
 * Ensure you deploy your test policy in **Report-Only Mode** to verify it works correctly without breaking access.
-
 ---
 
 # Intune – Applications
@@ -245,12 +244,10 @@ Features include:
 
 * Add Profiles  
   - Manage Autopilot profiles across your Microsoft 365 tenants.
-
 ---
-
 # Devices
 
-* Manage Intune devices across your Microsoft 365 tenants.
+* Manage Intune devices across your Microsoft 365 tenants. and the following features applies to
 
 * Available device actions:
   - View in Intune  
@@ -261,9 +258,7 @@ Features include:
   - Keep Enrollment State  
   - Fresh Start  
   - Retire Device  
-
 ---
-
 # Configuration Policies
 
 * Compliance Policies  
