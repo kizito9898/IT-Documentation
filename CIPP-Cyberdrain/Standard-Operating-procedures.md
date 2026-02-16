@@ -193,9 +193,7 @@ Features include:
 - Invite Guest  
 - Add User  
   - Add User Wizard provides an interface for creating new user accounts in a partner tenant.  
-
 ---
-
 ## View Individual User
 
 - Provides a comprehensive overview of user details and settings.  
@@ -208,9 +206,7 @@ Features include:
 * Navigate to:  
   **Identity Management → Administration → Users → Select a User → Click Edit User**  
   You will be redirected to the **Edit User** page.
-
 ---
-
 # Exchange Settings
 
 * This page displays information about the user’s Exchange configuration.
@@ -219,16 +215,13 @@ Features include:
   - Send MFA Push  
   - Convert Mailbox  
   - Delete Mailbox  
-
 ---
-
 # Conditional Access
 
 * Allows you to test your Conditional Access policies before deploying them to production.
 
 * Ensure you deploy your test policy in **Report-Only Mode** to verify it works correctly without breaking access.
 ---
-
 # Intune – Applications
 
 * Navigate to:  
