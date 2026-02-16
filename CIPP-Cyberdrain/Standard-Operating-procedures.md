@@ -278,7 +278,6 @@ Instead of logging into each client's tenant individually, CIPP allows administr
     
 - Automate routine tasks like onboarding and offboarding.
     
-
 ---
 
 ## 2. Security & Permissions (GDAP)
