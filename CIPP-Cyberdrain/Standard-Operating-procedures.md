@@ -65,9 +65,7 @@ Before GDAP, MSPs used DAP (Delegated Admin Privileges), which gave too much acc
   `M365 GDAP <RoleName>`  
 
 - Add users to these new groups to assign their GDAP permissions.  
-
 ---
-
 ## Offboarding Tenant
 
 - Go to **Tenant Settings**.  
