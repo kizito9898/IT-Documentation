@@ -279,11 +279,8 @@ Steps:
 1. Tenant Selection  
 2. Policy Configuration  
 3. Confirmation  
-
 * Audit & Device Score
-
 ---
-
 # Teams & SharePoint
 
 * OneDrive  
