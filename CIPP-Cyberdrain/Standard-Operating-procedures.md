@@ -123,10 +123,7 @@ Click on the three dots (**...**) for more actions:
 
 When you click on a user (e.g., Alex Allen), the following options are available:
 
-- View User  
-- Edit User  
-- Exchange Settings  
-- Compromise Remedia
+
 # CIPP – Identity Management
 
 Navigation:
