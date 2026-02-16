@@ -25,32 +25,27 @@ You can switch between tenants or manage all tenants at once from the top bar.
 
 GDAP allows an MSP (like a company using CIPP) to get permission to manage a customer’s Microsoft 365 tenants without being Global Admins inside their environment.
 
-Before GDAP, MSPs used DAP (Delegated Admin Privileges), which gave too much access.
-# CIPP (Cyberdrain Improved Partner Portal)
+Before GDAP, MSPs used DAP (Delegated Admin Privileges), which gave too much access
 
 ## Onboarding
 
 - Onboarding is the most difficult part of the tool.  
 - It involves onboarding steps with GitHub repositories.  
-
 ### CIPP Setup Wizard
 
 - Used for creating app registrations for read and write permissions within CIPP.  
 - Step 1: Select **"I would like CIPP to create an application for me."**  
 - Step 2: Click **Start Setup Wizard**.  
-
 ### GDAP Validation
 
 - Validate that you have a proper GDAP relationship (GDAP check).  
 - Run GDAP check.  
 - Run permissions check.  
-
 ### Tenant Onboarding
 
 - Go to **Administration**.  
 - Scroll down to **Tenant Onboarding**.  
 - Onboard various tenants into CIPP.  
-
 ---
 
 ## GDAP Roles
