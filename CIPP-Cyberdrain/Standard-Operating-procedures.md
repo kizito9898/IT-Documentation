@@ -310,9 +310,7 @@ Steps:
   - Team Activity  
 
   - Business Voice  
-
 ---
-
 # Email & Exchange
 
 * View information on all mailboxes in your Microsoft 365 tenants.
@@ -331,21 +329,13 @@ Steps:
   - All Contacts  
   - Edit Contact  
   - Contact Templates (Deploy, Add & Edit Contact)
-
 * Quarantine  
-
 * Retention Policies & Tags  
-
 * Transport Rules  
-
 * Connectors  
-
 * Resource Management  
-
 * Reports  
-
 ---
-
 # Tools
 
 * Tenant Tools  
@@ -353,7 +343,6 @@ Steps:
   - Application Approval  
   - Tenant Lookup  
   - IP Database  
-
 ---
 
 # Email Tools
