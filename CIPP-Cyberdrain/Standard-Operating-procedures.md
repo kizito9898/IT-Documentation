@@ -159,19 +159,10 @@ Features include:
 * Add Profiles  
   - Manage Autopilot profiles across your Microsoft 365 tenants.
 ---
-# Devices
-
-  Manage Intune devices across your Microsoft 365 tenants. and the following features applies to
-
-* Available device actions:
-  - View in Intune  
-  - Rename Device  
-  - Sync Device  
+# Device
   - Locate Device  
   - Wipe Device  
-  - Keep Enrollment State  
-  - Fresh Start  
-  - Retire Device  
+  - Keep Enrollm
 ---
 # Configuration Policies
 
