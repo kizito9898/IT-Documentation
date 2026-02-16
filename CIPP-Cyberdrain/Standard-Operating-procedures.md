@@ -85,27 +85,21 @@ Before GDAP, MSPs used DAP (Delegated Admin Privileges), which gave too much acc
 - Open **Tenant Offboarding Settings**.  
 - Review and confirm.  
 
----
-
-## Identity Management
-
-- Go to **Administration** → **Users**.  
-- You can switch between tenants or manage all tenants.  
+--- 
 # CIPP – User Management and Device Management Notes
 
 ## User Profile View
 
 You can view more on a user profile, including:
-
+ Go to **Administration** → **Users**.  
+- You can switch between tenants or manage all tenants.  
 - User details  
 - Microsoft 365 management details  
 - OneDrive details  
 - Last login details  
 - Applied Conditional Access policies  
 - Compromise remediation information  
-
 ---
-
 ## User Actions
 
 Available actions include:
