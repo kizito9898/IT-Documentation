@@ -202,7 +202,6 @@ Navigation:
   - HaloPSA  
 
 ---
-
 ## Teams & SharePoint
 
 ### OneDrive
@@ -266,7 +265,7 @@ View details such as:
 
 ## Conditional Access
 
-Navigation: from the dashboard scroll d
+Navigation: from the dashboard scroll down to
 
 - **Conditional Access** → **CA Policies**
 
@@ -291,3 +290,82 @@ You can deploy Conditional Access policies such as:
 ### CA Policy Tester
 
 - Test Conditional Access policies before putting them into production.  
+# CIPP – Conditional Access, Standards, Backup, and Exchange
+
+## CA Vacation Mode
+
+- Add a scheduled task to add or remove a user from Conditional Access exclusions.
+- Applies for a specific period of time.
+
+---
+
+## Standards (Security Baselines)
+
+Standards can be applied across your tenants, including:
+
+- General standard settings  
+- Global standards  
+- Enabled alerts  
+- Remediation settings  
+
+---
+
+## Backup Wizards
+
+- Backups are stored in CIPP storage.
+- They can be restored using the CIPP restore backup feature.
+- You can back up:
+  - Identity  
+  - Conditional Access  
+  - Intune compliance policies  
+
+### Restore Backup
+
+- Use the restore backup option to recover previously saved configurations.
+
+---
+
+# Email & Exchange
+
+Navigation:
+
+- **Administration** → **Mailboxes**
+- **Deleted Mailboxes**
+- **Mailbox Rules**
+- **Contacts**
+- **Quarantine**
+- **Tenant Allow/Block Lists**
+
+---
+
+## Mailboxes
+
+In the mailbox view, you can see:
+
+- User Principal Name (UPN)  
+- Display name  
+- Primary email address  
+- Recipient type  
+- Available actions  
+
+### Mailbox Actions
+
+- Edit calendar permissions  
+- Research compromised account  
+- Convert to shared mailbox  
+- Hide from Global Address List  
+- Other administrative actions  
+
+---
+
+## Shared Mailboxes
+
+- Add a new shared mailbox.
+- View additional mailbox details.
+
+---
+
+## Restore Mailboxes
+
+- Restore deleted mailboxes.
+- View mailboxes applied to a tenant.
