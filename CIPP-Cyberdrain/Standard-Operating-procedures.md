@@ -179,3 +179,115 @@ Examples:
 
 - Adobe  
 - Google Chrome  
+# CIPP – Security, Applications, Teams, and SharePoint
+
+## Defender AV Status
+
+- View Defender Antivirus status.
+
+---
+
+## Tenant Administration
+
+Navigation:
+
+- **Tenant Administration** → **Enterprise Applications**
+
+### Intune Applications
+
+- Push applications from Chocolatey.
+- Enable and deploy applications to tenants.
+- Deploy MSP applications such as:
+  - Huntress  
+  - HaloPSA  
+
+---
+
+## Teams & SharePoint
+
+### OneDrive
+
+Navigation:
+
+- **Teams & SharePoint** → **OneDrive**
+
+You can:
+
+- See all OneDrive allocations in the OneDrive list  
+- View last active date  
+- View file count  
+- View allocated storage (GB)  
+- Perform actions such as:
+  - Add permissions  
+  - Remove permissions  
+
+---
+
+### SharePoint Sites
+
+- View SharePoint site list.  
+- Perform bulk add sites.  
+- View:
+  - URL  
+  - Owners  
+  - Last active date  
+  - Data mapping URL  
+
+Actions available:
+
+- Add members  
+- Remove members  
+- Assign Site Admin  
+- Remove Site Admin  
+
+---
+
+### Teams Management
+
+Navigation:
+
+- **Teams** → **Managing Teams**
+
+You can:
+
+- Add members  
+- Remove members  
+
+View details such as:
+
+- Team details  
+- Member policies  
+- Guest policies  
+- Team owners  
+- Team members  
+- Installed applications  
+
+---
+
+## Conditional Access
+
+Navigation: from the dashboard scroll d
+
+- **Conditional Access** → **CA Policies**
+
+You can deploy Conditional Access policies such as:
+
+- Block high-risk users  
+- CA Test policies  
+- Require device compliance  
+
+### Deployment Steps
+
+1. Select tenants.  
+2. Select template to apply.  
+3. Review and deploy.  
+
+### Template Library
+
+- Select tenant.  
+- Create Conditional Access policies.  
+- Can also create policies for Intune.  
+
+### CA Policy Tester
+
+- Test Conditional Access policies before putting them into production.  
