@@ -347,7 +347,12 @@ Navigate to **Identity Management** → **Administration** → **Users**. Clicki
 - **M365 & OneDrive Details:** Storage usage, licensing, and last login time.
     
 - **Security Posture:** Applied Conditional Access policies and compromise remediation history.
-    
+     
+- Microsoft 365 management details  
+- OneDrive details  
+- Last login details  
+- Applied Conditional Access policies  
+- Compromise remediation information  
 
 ### User Actions (Day-to-Day)
 
@@ -357,7 +362,6 @@ Navigate to **Identity Management** → **Administration** → **Users**. Clicki
     
 - **JIT (Just-In-Time) Admin:** Create a temporary admin account for a technician that automatically expires after a scheduled start and end date.
     
-
 ### Lifecycle Automation
 
 - **Bulk Add Wizard:** Create multiple users across tenants simultaneously using templates.
@@ -371,8 +375,6 @@ Navigate to **Identity Management** → **Administration** → **Users**. Clicki
     - Removing licenses.
         
     - Canceling future calendar events.
-        
-
 ---
 
 ## 5. Device Management (Intune)
