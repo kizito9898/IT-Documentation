@@ -376,7 +376,6 @@ Navigate to **Identity Management** → **Administration** → **Users**. Clicki
         
     - Canceling future calendar events.
 ---
-
 ## 5. Device Management (Intune)
 
 Manage endpoints (laptops, mobiles) across all tenants from one view.
