@@ -333,7 +333,6 @@ When a client leaves the MSP, offboarding ensures clean removal of access.
     
 
 ---
-
 ## 4. Identity & User Management
 
 This module consolidates all user-related actions, replacing the standard Microsoft 365 Admin Center for day-to-day tasks.
