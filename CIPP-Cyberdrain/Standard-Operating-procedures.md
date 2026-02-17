@@ -464,7 +464,7 @@ Comprehensive tools for managing mail flow and mailboxes.
 
 ### Conditional Access (CA)
 
-- **Multi-Tenant Deployment:** Apply a standard baseline CA policy to multiple tenants at once.
+- **Multi-Tenant Deployment:** Apply a standard baseline CA policy to multiple tenants at once.(150 standards)
     
 - **Report-Only Mode:** Deploys policies in a "log-only" state to test their impact without locking users out.
     
