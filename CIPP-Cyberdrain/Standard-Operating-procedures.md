@@ -279,7 +279,6 @@ Instead of logging into each client's tenant individually, CIPP allows administr
 - Automate routine tasks like onboarding and offboarding.
     
 ---
-
 ## 2. Security & Permissions (GDAP)
 
 CIPP relies on **GDAP (Granular Delegated Admin Privileges)** to function securely.
@@ -298,9 +297,7 @@ To manage clients effectively, you must map roles in CIPP to groups in your part
     
 - **Assignment:** You add your technicians to these groups to grant them permissions across client tenants.
     
-
 ---
-
 ## 3. Setup & Onboarding
 
 This section covers how to set up the CIPP instance and bring client tenants into the ecosystem.
