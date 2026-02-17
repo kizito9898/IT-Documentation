@@ -266,6 +266,7 @@ Steps:
   - PSA  
   - Webhook  
   - Email  
+# CIPP (Cyberdrain Improved Partner Portal)
 ## 1. Introduction
 
 **CIPP (Cyberdrain Improved Partner Portal)** is an open-source, multi-tenant management platform designed for Managed Service Providers (MSPs). It serves as a centralized "single pane of glass" for administering Microsoft 365 environments.
