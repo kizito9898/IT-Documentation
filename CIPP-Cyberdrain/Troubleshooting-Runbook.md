@@ -131,8 +131,91 @@ Tickets enter the system through multiple channels:
 
 - I created a template that gets sent to the client when they contact support team so that they know we got the email and working on it, rather than keeping them on loops.  
 
-- Ticket is being set at Waiting on us.  
+- Ticket is being set at Waiting on us, or waiting on contact 
 
 ---
 
-1 -
+# CIPP Troubleshooting & Support Scenarios
+
+## Case Study 1: Tenant Sync Failure (Error 500)
+
+### 1. Issue Description
+
+**Symptom:** A user reports that specific tenants are missing users in the dashboard, or data is not populating. **Error Message:** The user later confirms receiving an **API Error 500** (Internal Server Error) when trying to load tenant data.
+
+### 2. Initial Triage & Investigation
+
+Upon receiving the ticket, the following standard checks were advised:
+
+- **GDAP Relationship Status:** Is the relationship still active in the Microsoft Partner Center?
+    
+- **Role Mapping:** Are the correct roles (e.g., _Global Reader_, _User Administrator_) mapped to the CIPP security groups?
+    
+- **Standard Sync:** Has the user attempted a manual "Tenant Sync" within CIPP?
+    
+
+When the issue persisted, I requested:
+
+- Specific tenant details (Tenant ID or Name).
+    
+- Screenshots of the error message to confirm the specific API failure code.
+    
+
+### 3. Root Cause Analysis
+
+**Diagnosis:** **Expired GDAP (Granular Delegated Admin Privileges).**
+
+- **Technical Explanation:** CIPP relies on the Microsoft Graph API to fetch user data. When GDAP expires, the Service Principal no longer has permission to read the data. The API call returns a `null` or `403 Forbidden` response, which the CIPP frontend often interprets and displays as a generic "500 Internal Server Error."
+    
+### 4. Resolution
+
+**Action Taken:** Guided the user to the **Onboarding Wizard** for permission remediation.
+
+- **Step 1:** Navigate to **Tenant Administration** > **Onboarding Wizard**.
+    
+- **Step 2:** Locate the affected tenant.
+    
+- **Step 3:** Re-run the **Permissions Check** and **GDAP Check**.
+    
+- **Step 4:** If prompted, re-consent to the application permissions. This refreshes the Service Principal’s access tokens.
+    
+
+**Outcome:** The "Missing Users" populated immediately after the wizard completed. **Status:** Ticket Closed.
+
+---
+
+## Case Study 2: System Slowness & Performance
+
+### 1. Issue Description
+
+**Symptom:** The user reports significant lag when navigating menus or loading data. **User Statement:**
+
+> "My account is running slow since I opened/logged into my instance. I have rebooted my PC and the issue still persists."
+
+### 2. Investigation
+
+- **Client-Side Check:** The user rebooted their workstation, ruling out local RAM/CPU issues.
+    
+- **Scope:** confirmed if this was affecting all users or just one (likely the whole instance).
+    
+
+### 3. Root Cause Analysis
+
+**Diagnosis:** **Azure Function "Cold Starts."**
+
+- **Technical Explanation:** CIPP is built on a "Serverless" architecture using **Azure Functions**. To save costs, Azure "spins down" (turns off) the backend resources when they are not being used.
+    
+    - **Cold Start:** When a user logs in after a period of inactivity (e.g., first thing in the morning), Azure must physically "spin up" the server to process the request. This can cause a 10–30 second delay on the first few clicks.
+        
+    - **Warm State:** Once the server is running, subsequent clicks are fast.
+        
+
+### 4. Resolution
+
+**Action Taken:** Educated the user on Azure hosting behavior.
+
+- **Explanation:** "Since CIPP is a self-hosted app on Azure, what you are experiencing is likely a 'Cold Start.' The backend goes to sleep to save you money on hosting costs. The initial slowness is the system waking up."
+    
+- **Verification:** Asked the user to click through 3–4 menus rapidly. The user confirmed that after the initial lag, the speed returned to normal.
+    
+- **Outcome:** Issue resolved by user education; no technical fix required.
