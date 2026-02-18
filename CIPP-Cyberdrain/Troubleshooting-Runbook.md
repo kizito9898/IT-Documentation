@@ -248,7 +248,6 @@ When the issue persisted, I requested:
 - **Result:** User confirmed the banner disappeared.
 
 ---
-
 ## Case Study 5: Tenant Access Denied (Invalid Grant)
 
 ### 1. Issue Description
@@ -278,7 +277,6 @@ When the issue persisted, I requested:
     
 3. The admin consent (GDAP permissions) was revoked or expired.
     
-
 ### 4. Resolution
 
 **Action Taken:**
