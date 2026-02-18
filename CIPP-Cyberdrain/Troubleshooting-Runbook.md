@@ -197,3 +197,95 @@ When the issue persisted, I requested:
 - **Verification:** Asked the user to click through 3–4 menus rapidly. The user confirmed that after the initial lag, the speed returned to normal.
     
 - **Outcome:** Issue resolved by user education; no technical fix required.
+## Case Study 4: Sponsorship Access & GitHub Linking (403 Errors)
+
+### 1. Issue Description
+
+**Symptom:** A managed service provider (MSP) sponsored the CIPP project using their corporate GitHub Organization account but could not access the "Sponsor-Only" features or deployment portal. **User Statement:** _"I just sponsored. This is my username for GitHub. Add a manual to log into the management portal."_
+
+### 2. Investigation & Constraint
+
+- **Constraint:** The CIPP management portal uses GitHub OAuth for authentication.
+    
+- **The Problem:** You cannot "log in" as a GitHub Organization (e.g., `@MyMSPCompany`). You must log in as an individual user (e.g., `@JohnDoe-Tech`).
+    
+- **Error:** The system saw the Organization as the sponsor, but the individual user (`JohnDoe-Tech`) had no entitlement linked, resulting in a **403 Forbidden** error.
+    
+
+### 3. Resolution
+
+**Action Taken:**
+
+- **Manual Linking:** Accessed the backend entitlement database and manually linked the user’s personal GitHub username (`JohnDoe-1998`) to the corporate Organization's Sponsor ID.
+    
+- **User Instruction:** Replied to the ticket instructing the user to log out and log back in. The system now recognizes their personal account as a valid seat under the corporate sponsorship.
+    
+- **Status:** Ticket Closed.
+    
+
+---
+
+## Case Study 5: "Out of Date" Warning After Update
+
+### 1. Issue Description
+
+**Symptom:** The user performed a CIPP update via the backend, but the dashboard continued to display a red banner saying "Version Out of Date." **User Statement:** _"I updated my CIPP. It is showing it is out of date. How can I resolve this?"_
+
+### 2. Root Cause Analysis
+
+**Diagnosis:** **Aggressive Browser Caching.** CIPP (v7+) relies heavily on client-side JavaScript. When the backend updates, the user's browser (Chrome/Edge) often holds onto the _old_ version of the `.js` and `.css` files to speed up loading. The browser essentially "thinks" it is still running the old version, even though the server is updated.
+
+### 3. Resolution
+
+**Action Taken:**
+
+- **Hard Reload Instruction:** Instructed the user that a standard "Refresh" button click is insufficient.
+    
+    - **Chrome/Edge:** Press `F12` to open Developer Tools -> Right-click the Refresh icon -> Select **"Empty Cache and Hard Reload"**.
+        
+    - **Firefox:** Click the padlock icon -> Clear Cookies and Site Data.
+        
+- **Expectation Setting:** Noted that in rare cases involving Azure CDNs, global propagation can take up to 48 hours, but the "Hard Reload" usually fixes it instantly.
+    
+- **Result:** User confirmed the banner disappeared.
+    
+
+---
+
+## Case Study 6: Tenant Access Denied (Invalid Grant)
+
+### 1. Issue Description
+
+**Symptom:** A user could manage most clients but was locked out of one specific tenant. **Error Code:** The user provided a screenshot showing an **Invalid Grant (AADSTS50076)** error when trying to perform actions.
+
+### 2. Initial Investigation
+
+**Troubleshooting Steps Provided:**
+
+1. **Refresh:** Instructed the user to manually trigger a Tenant Refresh from CIPP.
+    
+2. **Permissions Check:** Asked the user to verify their CIPP application permissions.
+    
+3. **GDAP Verification:** Checked the GDAP relationship status in the Partner Center.
+    
+4. **Access Check:** Ran the "Permissions Check" tool within CIPP.
+    
+
+### 3. Root Cause Analysis
+
+**Diagnosis:** **Expired or Revoked Refresh Token.** The "Invalid Grant" error typically indicates one of three things:
+
+1. The user's password was changed recently.
+    
+2. The user's account is blocked by a Conditional Access policy (e.g., an MFA challenge).
+    
+3. The admin consent (GDAP permissions) was revoked or expired.
+    
+
+### 4. Resolution
+
+**Action Taken:**
+
+- **Generate New Relationship:** Instructed the user to create a new GDAP relationship using a template that specifically includes **write permissions** (e.g., _Exchange Administrator_ + _User Administrator_).
+    
+- **Result:** The user confirmed access was restored immediately after recreating the relationship with the correct permissions.
