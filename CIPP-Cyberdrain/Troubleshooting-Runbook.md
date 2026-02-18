@@ -14,7 +14,6 @@ It serves as a central repository for all support requests, ensuring that no cus
 **Goal:** To prioritize, manage, and resolve tickets efficiently while improving customer satisfaction and agent productivity.
 
 ---
-
 ## 2. Getting Started & Dashboard
 
 This section covers the initial setup and navigation within a Demo or Live environment.
@@ -27,7 +26,6 @@ The dashboard provides a high-level overview of the support landscape.
     
 - **Pipelines:** Visual representation of tickets moving through different stages (e.g., New > Waiting on Customer > Closed).
     
-
 ### Views & Filtering
 
 Understanding "Views" is critical for managing workflow.
@@ -38,7 +36,6 @@ Understanding "Views" is critical for managing workflow.
     
 - **Assigned to Me:** Your personal queue of tickets that you are responsible for resolving.
 ---
-
 ## 3. IT Support Technician Workflow
 
 As an IT Support Technician, your primary responsibility is to manage the lifecycle of a ticket from arrival to resolution.
