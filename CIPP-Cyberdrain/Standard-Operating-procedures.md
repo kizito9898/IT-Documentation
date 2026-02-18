@@ -299,7 +299,7 @@ Navigate to **Identity Management** → **Administration** → **Users**. Clicki
 
 - **Bulk Add Wizard:** Create multiple users across tenants simultaneously using templates.
     
-- **Offboarding Wizard:** A critical tool for employee departures. It automates:( select the tenant> select the person you want to offboard )
+- **Offboarding Wizard:** A critical tool for employee departures. It automates:( select the tenant> select the person you want to offboard> then select the following action on what to disable)
     
     - Disabling sign-in.
         
@@ -391,10 +391,7 @@ Comprehensive tools for managing mail flow and mailboxes.
 - **Resource Management:** Manage room and equipment mailboxes.
     
 - **Contacts:** Create and edit global contacts or deploy contact templates to standardize address books.
-    
-
 ---
-
 ## 8. Advanced Tools & Automation
 
 ### Conditional Access (CA)
@@ -403,7 +400,6 @@ Comprehensive tools for managing mail flow and mailboxes.
     
 - **Report-Only Mode:** Deploys policies in a "log-only" state to test their impact without locking users out.
     
-
 ### Scheduler
 
 Automates CIPP maintenance tasks. You can schedule scripts or compliance checks to run at specific times and push the results to:
