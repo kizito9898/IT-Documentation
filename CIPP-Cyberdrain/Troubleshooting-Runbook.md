@@ -37,8 +37,6 @@ Understanding "Views" is critical for managing workflow.
 - **Unassigned:** Tickets that have come in (via email, form, or chat) but have not yet been picked up by an agent.
     
 - **Assigned to Me:** Your personal queue of tickets that you are responsible for resolving.
-    
-
 ---
 
 ## 3. IT Support Technician Workflow
@@ -77,8 +75,6 @@ Once a ticket is claimed, you must work within the Service Level Agreement (SLA)
     - If you are waiting for the user to reply, change the status to **"Waiting on Customer"**.
         
     - If you are actively working on it, change the status to **"In Progress"**.
-        
-
 ### Step 3: Escalation
 
 If you cannot resolve the issue yourself:
@@ -99,10 +95,7 @@ When the issue is resolved:
 2. **Change Status:** Update the ticket status to **"Closed"**.
     
 3. **Ticket Properties:** Fill out any required closing fields (e.g., "Resolution Type" or "Root Cause") to aid in future reporting.
-    
-
 ---
-
 ## 4. Ticket Sources (How Tickets are Created)
 
 Tickets enter the system through multiple channels:
@@ -118,7 +111,6 @@ Tickets enter the system through multiple channels:
 - Using internal notes to document technical steps, actions taken & professional attitude towards ticket priority.  
 - Follows Escalation Process → If I can’t resolve it, put in internal notes & escalate to tier 2.  
 - Knowledge Base → is very important to search for solutions & contribute to most re-occurring issues and document solutions.  
-
 ---
 # Creating New Ticket in HubSpot
 
@@ -134,7 +126,6 @@ Tickets enter the system through multiple channels:
 - Ticket is being set at Waiting on us, or waiting on contact 
 
 ---
-
 # CIPP Troubleshooting & Support Scenarios
 
 ## Case Study 1: Tenant Sync Failure (Error 500)
@@ -159,8 +150,6 @@ When the issue persisted, I requested:
 - Specific tenant details (Tenant ID or Name).
     
 - Screenshots of the error message to confirm the specific API failure code.
-    
-
 ### 3. Root Cause Analysis
 
 **Diagnosis:** **Expired GDAP (Granular Delegated Admin Privileges).**
