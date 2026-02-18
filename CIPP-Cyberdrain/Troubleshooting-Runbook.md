@@ -112,4 +112,28 @@ Tickets enter the system through multiple channels:
 - **Forms:** Support forms on the company website.
     
 - **Manual Creation:** If a user walks up to your desk or calls, you manually click **"Create Ticket"** in the top right corner and log the details.
-    
+# Communication
+
+- Communication (responding and giving solutions to problems).  
+- Using internal notes to document technical steps, actions taken & professional attitude towards ticket priority.  
+- Follows Escalation Process → If I can’t resolve it, put in internal notes & escalate to tier 2.  
+- Knowledge Base → is very important to search for solutions & contribute to most re-occurring issues and document solutions.  
+
+---
+
+# Creating New Ticket in HubSpot
+
+- Navigate to help desk and click on + to create ticket.  
+- Fill in the ticket name → ticket status as New → Ticket description of what the problem is about → then save whether it’s chat, email or phone conversations.  
+
+- Priority set → Associate ticket with (the person that called in with the problem) → Companies & create the ticket.  
+
+- Reached out to the client acknowledging that I created a ticket and currently working on it with their ticket reference.  
+
+- I created a template that gets sent to the client when they contact support team so that they know we got the email and working on it, rather than keeping them on loops.  
+
+- Ticket is being set at Waiting on us.  
+
+---
+
+- Client reported my CIPP is missing some users in my
