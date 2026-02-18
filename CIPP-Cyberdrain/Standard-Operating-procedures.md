@@ -1,10 +1,4 @@
-# CIPP (Cyberdrain Improved Partner Portal)
 
-CIPP (Cyberdrain Improved Partner Portal) is a multi-tenant management tool for Microsoft 365, making it easy to manage multiple clients from a centralized portal experience. It is also an open-source project.
-
-It centralizes administration across tenants so MSPs do not have to log into each environment separately.
-
-You can switch between t
 # CIPP (Cyberdrain Improved Partner Portal)
 ## 1. Introduction
 
