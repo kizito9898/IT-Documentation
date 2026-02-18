@@ -256,16 +256,7 @@ Steps:
 * Message Trace  
   - Allows you to trace an email instantly from any recipient or sender within the last 10 days.
 ---
-# Template Library
-
-* Retrieve the latest version of a specific tenant’s policies.
----
-# Scheduler
-
-* Allows you to schedule CPP functionality to be executed at a later date and send results to your:
-  - PSA  
-  - Webhook  
-  - Email  
+# T
 # CIPP (Cyberdrain Improved Partner Portal)
 ## 1. Introduction
 
