@@ -221,8 +221,6 @@ When the issue persisted, I requested:
 - **User Instruction:** Replied to the ticket instructing the user to log out and log back in. The system now recognizes their personal account as a valid seat under the corporate sponsorship.
     
 - **Status:** Ticket Closed.
-    
-
 ---
 
 ## Case Study 4 : "Out of Date" Warning After Update
@@ -248,7 +246,6 @@ When the issue persisted, I requested:
 - **Expectation Setting:** Noted that in rare cases involving Azure CDNs, global propagation can take up to 48 hours, but the "Hard Reload" usually fixes it instantly.
     
 - **Result:** User confirmed the banner disappeared.
-    
 
 ---
 
