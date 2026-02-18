@@ -278,7 +278,25 @@ Instead of logging into each client's tenant individually, CIPP allows administr
 - Apply configurations to all tenants simultaneously.
     
 - Automate routine tasks like onboarding and offboarding.
+### Hosting Models
+
+CIPP is flexible and can be deployed in two ways depending on your organization’s needs:
+
+- **Self-Hosted (Open Source):**
     
+    - **Definition:** You deploy CIPP into your own Azure tenant.
+        
+    - **Cost:** The software is free, but you pay for the underlying Azure consumption (Functions, Storage, KeyVault, etc.).
+        
+    - **Maintenance:** You are responsible for updates, backups, and security of the CIPP instance.
+        
+- **Hosted (SaaS):**
+    
+    - **Definition:** You pay a subscription fee to use a managed version of CIPP hosted by the developers.
+        
+    - **Cost:** Monthly per-user or per-tenant fee.
+        
+    - **Maintenance:** Updates, security patching, and infrastructure management are handled by the CIPP team.
 ---
 ## 2. Security & Permissions (GDAP)
 
