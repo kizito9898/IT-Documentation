@@ -197,7 +197,7 @@ When the issue persisted, I requested:
 - **Verification:** Asked the user to click through 3–4 menus rapidly. The user confirmed that after the initial lag, the speed returned to normal.
     
 - **Outcome:** Issue resolved by user education; no technical fix required.
-## Case Study 4: Sponsorship Access & GitHub Linking (403 Errors)
+## Case Study 3: Sponsorship Access & GitHub Linking (403 Errors)
 
 ### 1. Issue Description
 
@@ -225,7 +225,7 @@ When the issue persisted, I requested:
 
 ---
 
-## Case Study 5: "Out of Date" Warning After Update
+## Case Study 4 : "Out of Date" Warning After Update
 
 ### 1. Issue Description
 
@@ -252,7 +252,7 @@ When the issue persisted, I requested:
 
 ---
 
-## Case Study 6: Tenant Access Denied (Invalid Grant)
+## Case Study 5: Tenant Access Denied (Invalid Grant)
 
 ### 1. Issue Description
 
