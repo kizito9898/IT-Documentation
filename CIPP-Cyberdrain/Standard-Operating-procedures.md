@@ -299,7 +299,7 @@ Navigate to **Identity Management** → **Administration** → **Users**. Clicki
 
 - **Bulk Add Wizard:** Create multiple users across tenants simultaneously using templates.
     
-- **Offboarding Wizard:** A critical tool for employee departures. It automates:
+- **Offboarding Wizard:** A critical tool for employee departures. It automates:( select the tenant> select the person you want to offboard )
     
     - Disabling sign-in.
         
