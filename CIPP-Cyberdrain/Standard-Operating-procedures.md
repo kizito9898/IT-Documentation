@@ -321,34 +321,7 @@ To manage clients effectively, you must map roles in CIPP to groups in your part
 
 This section covers how to set up the CIPP instance and bring client tenants into the ecosystem.
 
-### CIPP Instance Setup
 
-- **Setup Wizard:** Automates the creation of App Registrations required for CIPP to read/write data.
-    
-    - Step 1: Select **"I would like CIPP to create an application for me."**
-        
-    - Step 2: Click **Start Setup Wizard**.
-        
-
-### Tenant Onboarding
-
-Once CIPP is running, you must onboard client tenants.
-
-1. Navigate to **Administration** → **Tenant Onboarding**.
-    
-2. **GDAP Validation:** Run the "GDAP Check" to ensure a valid relationship exists between the partner tenant and the client.
-    
-3. **Permissions Check:** Verifies that CIPP has the necessary API permissions to manage the tenant.
-    
-
-### Tenant Offboarding
-
-When a client leaves the MSP, offboarding ensures clean removal of access.
-
-- Navigate to **Tenant Settings** → **Tenant Offboarding Settings**.
-    
-- Select the tenant and confirm removal. This removes CIPP’s access to that specific environment.
-    
 
 ---
 ## 4. Identity & User Management
