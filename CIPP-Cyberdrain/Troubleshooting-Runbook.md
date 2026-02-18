@@ -178,8 +178,6 @@ When the issue persisted, I requested:
 - **Step 3:** Re-run the **Permissions Check** and **GDAP Check**.
     
 - **Step 4:** If prompted, re-consent to the application permissions. This refreshes the Service Principal’s access tokens.
-    
-
 **Outcome:** The "Missing Users" populated immediately after the wizard completed. **Status:** Ticket Closed.
 
 ---
@@ -197,8 +195,6 @@ When the issue persisted, I requested:
 - **Client-Side Check:** The user rebooted their workstation, ruling out local RAM/CPU issues.
     
 - **Scope:** confirmed if this was affecting all users or just one (likely the whole instance).
-    
-
 ### 3. Root Cause Analysis
 
 **Diagnosis:** **Azure Function "Cold Starts."**
@@ -208,8 +204,6 @@ When the issue persisted, I requested:
     - **Cold Start:** When a user logs in after a period of inactivity (e.g., first thing in the morning), Azure must physically "spin up" the server to process the request. This can cause a 10–30 second delay on the first few clicks.
         
     - **Warm State:** Once the server is running, subsequent clicks are fast.
-        
-
 ### 4. Resolution
 
 **Action Taken:** Educated the user on Azure hosting behavior.
