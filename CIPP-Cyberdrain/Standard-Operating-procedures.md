@@ -317,11 +317,47 @@ To manage clients effectively, you must map roles in CIPP to groups in your part
 - **Assignment:** You add your technicians to these groups to grant them permissions across client tenants.
     
 ---
-## 3. Setup & Onboarding
 
-This section covers how to set up the CIPP instance and bring client tenants into the ecosystem.
+## 3. Tenant Onboarding (Step-by-Step)
 
+Onboarding a tenant involves two distinct phases: establishing the relationship with Microsoft, and then syncing that relationship into CIPP.
 
+### Phase 1: Establish the Relationship (Microsoft Partner Center)
+
+Before a tenant appears in CIPP, you must have a valid CSP and GDAP relationship.
+
+1. **Invite the Client:** Log into Microsoft Partner Center and send a reseller relationship request (CSP) to the client.
+    
+2. **Request GDAP Relationship:**
+    
+    - In CIPP, go to **Tenant Administration** → **GDAP Invite Wizard**.
+        
+    - Select the roles you need and generate an invite link.
+        
+3. **Client Approval:** The client (or a Global Admin on their side) must click the link and approve the relationship.
+    
+
+### Phase 2: Onboard into CIPP
+
+Once the relationship exists in Microsoft's backend, follow these steps to make the tenant manageable in CIPP:
+
+1. **Navigate to Administration:** Go to **Tenant Administration** → **Tenant Onboarding**.
+    
+2. **Sync Tenants:** Click the **Refresh/Sync** button. CIPP will query the Microsoft Partner Center API to find new relationships.
+    
+    - _Note: It may take 15–30 minutes after client approval for Microsoft's APIs to report the new relationship._
+        
+3. **GDAP Check:**
+    
+    - Locate the new tenant in the list.
+        
+    - Run the **GDAP Check** to verify that the roles are active and valid.
+        
+4. **Permissions Check:**
+    
+    - Run the **Permissions Check** to ensure CIPP’s service principal has the necessary rights to read/write data to the tenant.
+        
+5. **Finalize:** Once both checks pass, the tenant is fully onboarded and will appear in the tenant selector bar.
 
 ---
 ## 4. Identity & User Management
