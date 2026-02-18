@@ -120,7 +120,6 @@ Tickets enter the system through multiple channels:
 - Knowledge Base → is very important to search for solutions & contribute to most re-occurring issues and document solutions.  
 
 ---
-
 # Creating New Ticket in HubSpot
 
 - Navigate to help desk and click on + to create ticket.  
