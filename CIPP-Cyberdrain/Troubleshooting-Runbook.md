@@ -196,7 +196,7 @@ When the issue persisted, I requested:
 2. The user's account is blocked by a Conditional Access policy (e.g., an MFA challenge).
     
 3. The admin consent (GDAP permissions) was revoked or expired.
-    
+![Screensh]
 ### 4. Resolution
 
 **Action Taken:**
