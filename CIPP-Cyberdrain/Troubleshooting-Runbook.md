@@ -204,4 +204,9 @@ When the issue persisted, I requested:
 - **Generate New Relationship:** Instructed the user to create a new GDAP relationship using a template that specifically includes **write permissions** (e.g., _Exchange Administrator_ + _User Administrator_).
     
 - **Result:** The user confirmed access was restored immediately after recreating the relationship with the correct permissions.
-![Screenshot]
+![Screenshot](images/screenshot925.jpg)
+
+![Screenshot](images/screenshot926)
+
+
+
