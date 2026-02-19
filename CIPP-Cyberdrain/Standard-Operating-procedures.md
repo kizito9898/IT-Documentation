@@ -11,6 +11,7 @@ Instead of logging into each client's tenant individually, CIPP allows administr
 - Apply configurations to all tenants simultaneously.
     
 - Automate routine tasks like onboarding and offboarding.
+
 ### Hosting Models
 
 CIPP is flexible and can be deployed in two ways depending on your organization’s needs:
