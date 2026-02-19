@@ -251,9 +251,9 @@ When the issue persisted, I requested:
 ![Screenshot](images/screenshot938.jpg)
 The client replied to the email
 ![Screenshot](images/screenshot939.jpg)
+![Screenshot](images/screenshot940.jpg)
 
-
-
+**upat
 
 
 ## What if I get errors while managing my tenants in CPP?
