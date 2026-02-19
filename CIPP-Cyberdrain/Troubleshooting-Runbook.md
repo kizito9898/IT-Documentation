@@ -151,6 +151,7 @@ When the issue persisted, I requested:
 
 **Diagnosis:** **Aggressive Browser Caching.** CIPP (v7+) relies heavily on client-side JavaScript. When the backend updates, the user's browser (Chrome/Edge) often holds onto the _old_ version of the `.js` and `.css` files to speed up loading. The browser essentially "thinks" it is still running the old version, even though the server is updated.
 
+
 ### 3. Resolution
 
 **Action Taken:**
@@ -158,7 +159,7 @@ When the issue persisted, I requested:
 - **Hard Reload Instruction:** Instructed the user that a standard "Refresh" button click is insufficient.
     
     - **Chrome/Edge:** Press `F12` to open Developer Tools -> Right-click the Refresh icon -> Select **"Empty Cache and Hard Reload"**.
-        ![Screenshot](images/scremsh)
+        ![Screenshot](images/screenshot921.jpg)
     - **Firefox:** Click the padlock icon -> Clear Cookies and Site Data.
         
 - **Expectation Setting:** Noted that in rare cases involving Azure CDNs, global propagation can take up to 48 hours, but the "Hard Reload" usually fixes it instantly.
