@@ -249,7 +249,8 @@ When the issue persisted, I requested:
     
 6. **Auth:** Sign in with the Microsoft 365 account.
 ![Screenshot](images/screenshot938.jpg)
-The 
+The client replied to the email
+![Screenshot](images/s)
 
 ## What if I get errors while managing my tenants in CPP?
 
