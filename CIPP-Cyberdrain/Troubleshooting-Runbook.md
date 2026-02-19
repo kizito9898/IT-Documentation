@@ -76,7 +76,6 @@ When the issue persisted, I requested:
 **Outcome:** The "Missing Users" populated immediately after the wizard completed. **Status:** Ticket Closed.
 
 ---
-
 ## Case Study 2: System Slowness & Performance
 
 ### 1. Issue Description
