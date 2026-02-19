@@ -133,11 +133,12 @@ When the issue persisted, I requested:
 
 **Action Taken:**
 
-- **Manual Linking:** Accessed the backend entitlement database and manually linked the user’s personal GitHub username (`JohnDoe-1998`) to the corporate Organization's Sponsor ID.
+- **Manual Linking:** Accessed the backend entitlement database and manually linked the user’s personal GitHub username (`JohnDuprey9898`) to the corporate Organization's Sponsor ID.
     
 - **User Instruction:** Replied to the ticket instructing the user to log out and log back in. The system now recognizes their personal account as a valid seat under the corporate sponsorship.
     
 - **Status:** Ticket Closed.
+!
 ---
 
 ## Case Study 4 : "Out of Date" Warning After Update
