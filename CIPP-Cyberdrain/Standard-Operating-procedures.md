@@ -91,6 +91,7 @@ Once the relationship exists in Microsoft's backend, follow these steps to make 
     - Run the **Permissions Check** to ensure CIPP’s service principal has the necessary rights to read/write data to the tenant.
         
 5. **Finalize:** Once both checks pass, the tenant is fully onboarded and will appear in the tenant selector bar.
+!
 
 ---
 ## 4. Identity & User Management
