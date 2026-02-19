@@ -119,7 +119,7 @@ When the issue persisted, I requested:
 ### 1. Issue Description
 
 **Symptom:** A managed service provider (MSP) sponsored the CIPP project using their corporate GitHub Organization account but could not access the "Sponsor-Only" features or deployment portal. **User Statement:** _"I just sponsored. This is my username for GitHub. Add a manual to log into the management portal."_
-
+![Screenshot](images/screenshot917)
 ### 2. Investigation & Constraint
 
 - **Constraint:** The CIPP management portal uses GitHub OAuth for authentication.
