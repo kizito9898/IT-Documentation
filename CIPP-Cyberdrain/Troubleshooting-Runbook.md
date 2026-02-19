@@ -258,7 +258,7 @@ The client replied to the email
 
 ## What if I get errors while managing my tenants in CPP?
 
-
+![Screenshot](images/screenshot933.jpg)
 
 ### 1. Perform a CPP Permissions Refresh
 
