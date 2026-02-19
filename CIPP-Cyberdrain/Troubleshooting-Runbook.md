@@ -248,6 +248,7 @@ When the issue persisted, I requested:
 5. **Generate & Accept:** Click **Generate**. Copy the link provided and paste it into the browser.
     
 6. **Auth:** Sign in with the Microsoft 365 account.
+![Screenshot](images/screenshot)
 
 ## What if I get errors while managing my tenants in CPP?
 
