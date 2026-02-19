@@ -186,7 +186,7 @@ When the issue persisted, I requested:
     
 4. **Access Check:** Ran the "Permissions Check" tool within CIPP.
     
-!
+![Screenshot](images/screenshot924.jpg)
 ### 3. Root Cause Analysis
 
 **Diagnosis:** **Expired or Revoked Refresh Token.** The "Invalid Grant" error typically indicates one of three things:
