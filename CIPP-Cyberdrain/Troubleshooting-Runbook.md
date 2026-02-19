@@ -32,6 +32,7 @@ It serves as a central repository for all support requests, ensuring that no cus
 - I created a template that gets sent to the client when they contact support team so that they know we got the email and working on it, rather than keeping them on loops.  
 
 - Ticket is being set at Waiting on us, or waiting on contact 
+![Screenshot](images/screenshot910.jpg)
 ---
 # CIPP Troubleshooting & Support Scenarios
 
