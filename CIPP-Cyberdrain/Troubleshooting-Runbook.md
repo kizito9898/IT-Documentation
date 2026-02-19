@@ -92,7 +92,7 @@ When the issue persisted, I requested:
 ### 2. Investigation
 
 - **Client-Side Check:** The user rebooted their workstation, ruling out local RAM/CPU issues.
-    .
+![Screenshot](images/screenshot)
 ### 3. Root Cause Analysis
 
 **Diagnosis:** **Azure Function "Cold Starts."**
