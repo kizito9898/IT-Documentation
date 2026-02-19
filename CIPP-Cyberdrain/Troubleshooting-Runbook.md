@@ -58,7 +58,7 @@ When the issue persisted, I requested:
 - Specific tenant details (Tenant ID or Name).
     
 - Screenshots of the error message to confirm the specific API failure code.
-![Screenshot](images/scree)
+![Screenshot](images/screenshot912.jpg)
 ### 3. Root Cause Analysis
 
 **Diagnosis:** **Expired GDAP (Granular Delegated Admin Privileges).**
