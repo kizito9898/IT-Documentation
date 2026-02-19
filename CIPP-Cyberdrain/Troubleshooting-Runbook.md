@@ -126,9 +126,9 @@ When the issue persisted, I requested:
     
 - **The Problem:** You cannot "log in" as a GitHub Organization (e.g., `@MyMSPCompany`). You must log in as an individual user (e.g., `@JohnDuprey9898`).
     
-- **Error:** The system saw the Organization as the sponsor, but the individual user (`JohnDuprey) had no entitlement linked, resulting in a **403 Forbidden** error.
+- **Error:** The system saw the Organization as the sponsor, but the individual user (`JohnDuprey9898) had no entitlement linked, resulting in a **403 Forbidden** error.
     
-
+![Screenshot](images/screenshot918.jpg)
 ### 3. Resolution
 
 **Action Taken:**
