@@ -253,7 +253,7 @@ The client replied to the email
 ![Screenshot](images/screenshot939.jpg)
 ![Screenshot](images/screenshot940.jpg)
 
-**upat
+**updating my ticket notes of what the issue is, the root cause and a solution**
 
 
 ## What if I get errors while managing my tenants in CPP?
