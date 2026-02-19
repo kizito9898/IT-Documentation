@@ -209,4 +209,79 @@ When the issue persisted, I requested:
 ![Screenshot](images/screenshot926.jpg)
 
 
+## What if I get errors while managing my tenants in CPP?
+
+### 1. Perform a CPP Permissions Refresh
+
+a. Navigate to:
+
+   **Settings → CPP → Application Settings**
+
+b. Click on the **Tenants** tab.
+
+  
+
+c. Click the blue **Refresh** button in the **Actions** column for the relevant tenant.
+
+  
+
+---
+
+  
+
+### 2. Perform Permissions Check
+
+  
+
+a. Navigate to:
+
+   **Settings → Application Settings**
+
+  
+
+b. Select **Perform Permissions Check**.
+
+  
+
+---
+
+  
+
+### 3. Conduct GDAP Check
+
+  
+
+a. Navigate to:
+
+   **CPP → Application Settings → GDAP Check**
+
+  
+
+b. After completing the Permissions Check, perform the **GDAP Check**.
+
+  
+
+---
+
+  
+
+### 4. Perform Access Check
+
+  
+
+a. Navigate to:
+
+   **CPP → Application Settings → Access Check**
+
+  
+
+b. Select the relevant tenant and click **Run Access Check**.
+
+  
+
+---
+
+  
+
+Complete all checks for effective troubleshooting.
 
