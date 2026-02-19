@@ -92,8 +92,7 @@ When the issue persisted, I requested:
 ### 2. Investigation
 
 - **Client-Side Check:** The user rebooted their workstation, ruling out local RAM/CPU issues.
-    
-- **Scope:** confirmed if this was affecting all users or just one (likely the whole instance).
+    .
 ### 3. Root Cause Analysis
 
 **Diagnosis:** **Azure Function "Cold Starts."**
@@ -112,6 +111,7 @@ When the issue persisted, I requested:
 - **Verification:** Asked the user to click through 3–4 menus rapidly. The user confirmed that after the initial lag, the speed returned to normal.
     
 - **Outcome:** Issue resolved by user education; no technical fix required.
+
 ## Case Study 3: Sponsorship Access & GitHub Linking (403 Errors)
 
 ### 1. Issue Description
