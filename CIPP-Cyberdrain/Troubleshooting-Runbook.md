@@ -158,7 +158,7 @@ When the issue persisted, I requested:
 - **Hard Reload Instruction:** Instructed the user that a standard "Refresh" button click is insufficient.
     
     - **Chrome/Edge:** Press `F12` to open Developer Tools -> Right-click the Refresh icon -> Select **"Empty Cache and Hard Reload"**.
-        
+        ![Screenshot](images/scremsh)
     - **Firefox:** Click the padlock icon -> Clear Cookies and Site Data.
         
 - **Expectation Setting:** Noted that in rare cases involving Azure CDNs, global propagation can take up to 48 hours, but the "Hard Reload" usually fixes it instantly.
