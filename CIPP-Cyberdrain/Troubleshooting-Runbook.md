@@ -24,7 +24,7 @@ It serves as a central repository for all support requests, ensuring that no cus
 
 - Navigate to help desk and click on + to create ticket.  
 - Fill in the ticket name → ticket status as New → Ticket description of what the problem is about → then save whether it’s chat, email or phone conversations.  
-
+![Screenshot](ima)
 - Priority set → Associate ticket with (the person that called in with the problem) → Companies & create the ticket.  
 
 - Reached out to the client acknowledging that I created a ticket and currently working on it with their ticket reference.  
