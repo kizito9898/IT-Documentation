@@ -150,7 +150,7 @@ When the issue persisted, I requested:
 ### 2. Root Cause Analysis
 
 **Diagnosis:** **Aggressive Browser Caching.** CIPP (v7+) relies heavily on client-side JavaScript. When the backend updates, the user's browser (Chrome/Edge) often holds onto the _old_ version of the `.js` and `.css` files to speed up loading. The browser essentially "thinks" it is still running the old version, even though the server is updated.
-
+![Screenshot](images/screenshot920.jpg)
 
 ### 3. Resolution
 
