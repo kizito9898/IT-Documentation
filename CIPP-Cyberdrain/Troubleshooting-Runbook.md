@@ -138,7 +138,7 @@ When the issue persisted, I requested:
 - **User Instruction:** Replied to the ticket instructing the user to log out and log back in. The system now recognizes their personal account as a valid seat under the corporate sponsorship.
     
 - **Status:** Ticket Closed.
-!
+![Screenshot](images/screenshot918.jpg)
 ---
 
 ## Case Study 4 : "Out of Date" Warning After Update
