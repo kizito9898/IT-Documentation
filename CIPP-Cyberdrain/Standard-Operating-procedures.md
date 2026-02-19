@@ -238,4 +238,39 @@ Automates CIPP maintenance tasks. You can schedule scripts or compliance checks 
 
 ### Template Library
 
-A repository that allows you to "snapshot" a tenant's configuration (e.g., Intune policies or Transport rules) and save it as a template to deploy to other clients.
+A repository that allows you to "snapshot" a tenant's configuration (e.g., Intune policies or Transport rules) and save it as a template to deploy to other clients
+
+
+# Relationships
+
+* Contains all the recommended roles.
+
+* Navigate to:  
+  **Relationship → View Relationship → Start Onboarding → Open Relationship in Partner Center**
+
+* Available actions:
+  - Enable automatic extension  
+  - Remove global admin from relationship  
+  - Reset role mapping  
+
+---
+
+# Standards & Drift
+
+Standards ensure consistent configurations across your Microsoft 365 tenants by re-applying baseline settings every four hours or evaluating drift every twelve hours.  
+
+This automatic enforcement and drift detection helps prevent unauthorized changes and maintain security.
+## Types of Standards
+
+### Classic
+
+* Traditional standards that have been available and used in CPP for some time.
+
+---
+# Drift Templates
+
+Drift templates provide continuous monitoring of tenant configurations to detect unauthorized changes.
+
+* Each tenant can only have **one drift template** applied at a time.
+* Monitors all security standards, Conditional Access policies, and Intune.
+* Detects changes made outside of CPP.
