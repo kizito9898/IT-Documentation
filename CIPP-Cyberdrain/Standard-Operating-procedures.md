@@ -70,7 +70,6 @@ Before a tenant appears in CIPP, you must have a valid CSP and GDAP relationship
         
 3. **Client Approval:** The client (or a Global Admin on their side) must click the link and approve the relationship.
     
-
 ### Phase 2: Onboard into CIPP
 
 Once the relationship exists in Microsoft's backend, follow these steps to make the tenant manageable in CIPP:
