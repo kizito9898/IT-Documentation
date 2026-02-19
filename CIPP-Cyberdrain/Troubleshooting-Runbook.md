@@ -207,7 +207,46 @@ When the issue persisted, I requested:
 ![Screenshot](images/screenshot925.jpg)
 
 ![Screenshot](images/screenshot926.jpg)
+## Case Study 7: "Access Denied" on Initial Setup (SWA vs. IAM Roles)
 
+### 1. Issue Description
+
+**Symptom:** A user (or myself) completed the deployment of a self-hosted CIPP instance. Upon navigating to the CIPP URL to log in for the first time, they received an **Access Denied** screen. **User Statement:** _"I have added the 'Contributor' role to my account in Azure, but I am still locked out."_
+
+### 2. Investigation & Misconfiguration
+
+- **User's Action:** The user followed the "Managed Identity" documentation (which tells you to give the _Function App_ contributor rights) and incorrectly applied that logic to _themselves_. They assigned their personal user account the **Contributor** role on the Resource Group IAM.
+    
+- **The Problem:** Azure IAM roles (Owner/Contributor) control access to the _Azure Portal resources_, not the CIPP Application itself.
+    
+- **Root Cause:** CIPP uses **Azure Static Web Apps (SWA)** for authentication. Access to the dashboard is controlled specifically through the **SWA Role Management** blade, not the general Subscription/Resource Group IAM.
+    
+
+### 3. Resolution
+
+**Action Taken:** Referenced the official documentation on **Adding Users and Managing Roles**. To resolve the "Access Denied" error, we must generate an invite link from the Static Web App.
+
+**Steps to Fix:**
+
+1. **Navigate to Azure Portal:** Open the Resource Group hosting CIPP.
+    
+2. **Select Static Web App:** Click on the resource named `CIPP-SWA-xxxx` (not the Function App).
+    
+3. **Role Management:** In the left menu, select **Role Management** (sometimes listed under _Settings_).
+    
+4. **Invite User:**
+    
+    - Click **Invite User**.
+        
+    - **Deployment Environment:** `default`
+        
+    - **Role:** Type `superadmin` (or `admin`).
+        
+    - **Expiration:** Select an expiration time for the link.
+        
+5. **Generate & Accept:** Click **Generate**. Copy the link provided and paste it into the browser.
+    
+6. **Auth:** Sign in with the Microsoft 365 account.
 
 ## What if I get errors while managing my tenants in CPP?
 
