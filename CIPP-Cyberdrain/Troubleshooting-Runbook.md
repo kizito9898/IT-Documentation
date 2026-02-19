@@ -254,9 +254,11 @@ The client replied to the email
 ![Screenshot](images/screenshot940.jpg)
 
 **updating my ticket notes of what the issue is, the root cause and a solution**
-
+![Screenshot](images/screenshot942.jpg)
 
 ## What if I get errors while managing my tenants in CPP?
+
+
 
 ### 1. Perform a CPP Permissions Refresh
 
