@@ -237,14 +237,7 @@ b. After completing the Permissions Check, perform the **GDAP Check**.
 ### 4. Perform Access Check
 a. Navigate to:
    **CPP → Application Settings → Access Check**
-
 b. Select the relevant tenant and click **Run Access Check**.
-
-  
-
----
-
-  
 
 Complete all checks for effective troubleshooting.
 
