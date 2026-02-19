@@ -40,7 +40,7 @@ It serves as a central repository for all support requests, ensuring that no cus
 ### 1. Issue Description
 
 **Symptom:** A user reports that specific tenants are missing users in the dashboard, or data is not populating. **Error Message:** The user later confirms receiving an **API Error 500** (Internal Server Error) when trying to load tenant data.
-
+!
 ### 2. Initial Triage & Investigation
 
 Upon receiving the ticket, the following standard checks were advised:
