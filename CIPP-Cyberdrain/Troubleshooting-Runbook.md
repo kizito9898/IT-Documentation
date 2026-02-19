@@ -221,6 +221,7 @@ When the issue persisted, I requested:
     
 - **Root Cause:** CIPP uses **Azure Static Web Apps (SWA)** for authentication. Access to the dashboard is controlled specifically through the **SWA Role Management** blade, not the general Subscription/Resource Group IAM.
     
+![Screenshot](images/screenshot944.jpg)
 
 ### 3. Resolution
 
