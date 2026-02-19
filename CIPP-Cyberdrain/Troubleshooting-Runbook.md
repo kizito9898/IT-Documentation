@@ -212,7 +212,7 @@ When the issue persisted, I requested:
 ### 1. Issue Description
 
 **Symptom:** A user (or myself) completed the deployment of a self-hosted CIPP instance. Upon navigating to the CIPP URL to log in for the first time, they received an **Access Denied** screen. **User Statement:** _"I have added the 'Contributor' role to my account in Azure, but I am still locked out."_
-![Screenshot](images/screenshot9)
+![Screenshot](images/screenshot936.jpg)
 ### 2. Investigation & Misconfiguration
 
 - **User's Action:** The user followed the "Managed Identity" documentation (which tells you to give the _Function App_ contributor rights) and incorrectly applied that logic to _themselves_. They assigned their personal user account the **Contributor** role on the Resource Group IAM.
