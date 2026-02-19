@@ -216,37 +216,17 @@ When the issue persisted, I requested:
 a. Navigate to:
 
    **Settings → CPP → Application Settings**
-
 b. Click on the **Tenants** tab.
-
-  
-
-c. Click the blue **Refresh** button in the **Actions** column for the relevant tenant.
-
-  
+c. Click the blue **Refresh** button in the **Actions** column for the relevant tenant. 
 
 ---
-
-  
-
-### 2. Perform Permissions Check
-
-  
+### 2. Perform Permissions Check 
 
 a. Navigate to:
-
-   **Settings → Application Settings**
-
-  
-
+   **Settings → Application Settings** 
 b. Select **Perform Permissions Check**.
 
-  
-
----
-
-  
-
+---  
 ### 3. Conduct GDAP Check
 
   
