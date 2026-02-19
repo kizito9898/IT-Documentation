@@ -211,7 +211,7 @@ When the issue persisted, I requested:
 
 ### 1. Issue Description
 
-**Symptom:** A user (or myself) completed the deployment of a self-hosted CIPP instance. Upon navigating to the CIPP URL to log in for the first time, they received an **Access Denied** screen. **User Statement:** _"I'm having issues with my deployment of _
+**Symptom:** A user (or myself) completed the deployment of a self-hosted CIPP instance. Upon navigating to the CIPP URL to log in for the first time, they received an **Access Denied** screen. **User Statement:** _"I'm having issues with my deployment of CIPP_
 ![Screenshot](images/screenshot936.jpg)
 ### 2. Investigation & Misconfiguration
 
