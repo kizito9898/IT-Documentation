@@ -119,12 +119,12 @@ When the issue persisted, I requested:
 ### 1. Issue Description
 
 **Symptom:** A managed service provider (MSP) sponsored the CIPP project using their corporate GitHub Organization account but could not access the "Sponsor-Only" features or deployment portal. **User Statement:** _"I just sponsored. This is my username for GitHub. Add a manual to log into the management portal."_
-![Screenshot](images/screenshot917)
+![Screenshot](images/screenshot917.jpg)
 ### 2. Investigation & Constraint
 
 - **Constraint:** The CIPP management portal uses GitHub OAuth for authentication.
     
-- **The Problem:** You cannot "log in" as a GitHub Organization (e.g., `@MyMSPCompany`). You must log in as an individual user (e.g., `@JohnDoe-Tech`).
+- **The Problem:** You cannot "log in" as a GitHub Organization (e.g., `@MyMSPCompany`). You must log in as an individual user (e.g., `@JohnDuprey9898`).
     
 - **Error:** The system saw the Organization as the sponsor, but the individual user (`JohnDoe-Tech`) had no entitlement linked, resulting in a **403 Forbidden** error.
     
