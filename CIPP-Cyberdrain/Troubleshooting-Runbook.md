@@ -102,6 +102,7 @@ When the issue persisted, I requested:
     - **Cold Start:** When a user logs in after a period of inactivity (e.g., first thing in the morning), Azure must physically "spin up" the server to process the request. This can cause a 10–30 second delay on the first few clicks.
         
     - **Warm State:** Once the server is running, subsequent clicks are fast.
+![Screenshot](images/screenshot916)
 ### 4. Resolution
 
 **Action Taken:** Educated the user on Azure hosting behavior.
