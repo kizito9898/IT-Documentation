@@ -78,7 +78,7 @@ When the issue persisted, I requested:
 - **Step 4:** If prompted, re-consent to the application permissions. This refreshes the Service Principal’s access tokens.
 **Outcome:** The "Missing Users" populated immediately after the wizard completed. **Status:** Ticket Closed.
 ![Screenshot](images/screenshot914.jpg)
-
+![Screenshot](images/screenshot913.jpg)
 
 ---
 ## Case Study 2: System Slowness & Performance
