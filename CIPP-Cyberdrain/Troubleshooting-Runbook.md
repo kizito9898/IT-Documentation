@@ -51,13 +51,14 @@ Upon receiving the ticket, the following standard checks were advised:
 - **Role Mapping:** Are the correct roles (e.g., _Global Reader_, _User Administrator_) mapped to the CIPP security groups?
     
 - **Standard Sync:** Has the user attempted a manual "Tenant Sync" within CIPP?
-![Screenshot](images/screenshot)
+![Screenshot](images/screenshot911.jpg)
 
 When the issue persisted, I requested:
 
 - Specific tenant details (Tenant ID or Name).
     
 - Screenshots of the error message to confirm the specific API failure code.
+![Screenshot](images/scree)
 ### 3. Root Cause Analysis
 
 **Diagnosis:** **Expired GDAP (Granular Delegated Admin Privileges).**
