@@ -206,7 +206,7 @@ When the issue persisted, I requested:
 - **Result:** The user confirmed access was restored immediately after recreating the relationship with the correct permissions.
 ![Screenshot](images/screenshot925.jpg)
 
-![Screenshot](images/screenshot926)
+![Screenshot](images/screenshot926.jpg)
 
 
 
