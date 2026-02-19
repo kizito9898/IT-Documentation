@@ -173,6 +173,7 @@ When the issue persisted, I requested:
 
 **Symptom:** A user could manage most clients but was locked out of one specific tenant. **Error Code:** The user provided a screenshot showing an **Invalid Grant (AADSTS50076)** error when trying to perform actions.
 
+![Screenshot](images/screems)
 ### 2. Initial Investigation
 
 **Troubleshooting Steps Provided:**
