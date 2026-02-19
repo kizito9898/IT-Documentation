@@ -10,7 +10,7 @@ It serves as a central repository for all support requests, ensuring that no cus
     
 - Previous ticket history.
 **Goal:** To prioritize, manage, and resolve tickets efficiently while improving customer satisfaction and agent productivity.
-![Screenshot]
+![Screenshot](images/screenshot902.jpg)
 
 ---
 # Communication
