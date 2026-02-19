@@ -173,7 +173,7 @@ When the issue persisted, I requested:
 
 **Symptom:** A user could manage most clients but was locked out of one specific tenant. **Error Code:** The user provided a screenshot showing an **Invalid Grant (AADSTS50076)** error when trying to perform actions.
 
-![Screenshot](images/screems)
+![Screenshot](images/screenshot923.jpg)
 ### 2. Initial Investigation
 
 **Troubleshooting Steps Provided:**
@@ -186,7 +186,7 @@ When the issue persisted, I requested:
     
 4. **Access Check:** Ran the "Permissions Check" tool within CIPP.
     
-
+!
 ### 3. Root Cause Analysis
 
 **Diagnosis:** **Expired or Revoked Refresh Token.** The "Invalid Grant" error typically indicates one of three things:
