@@ -165,7 +165,7 @@ When the issue persisted, I requested:
 - **Expectation Setting:** Noted that in rare cases involving Azure CDNs, global propagation can take up to 48 hours, but the "Hard Reload" usually fixes it instantly.
     
 - **Result:** User confirmed the banner disappeared.
-
+![Screenshot](images/screenshot922.jpg)
 ---
 ## Case Study 5: Tenant Access Denied (Invalid Grant)
 
