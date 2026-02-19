@@ -155,7 +155,6 @@ Navigate to **Intune** → **Applications**.
     
 - **Application Queue:** Monitor the status of app deployments.
     
-
 ### Configuration Policies
 
 - **Compliance Policies:** Create and assign templates that dictate device security requirements (e.g., BitLocker enabled, minimum OS version).
