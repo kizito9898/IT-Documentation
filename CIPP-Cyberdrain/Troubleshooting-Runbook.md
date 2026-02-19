@@ -51,7 +51,7 @@ Upon receiving the ticket, the following standard checks were advised:
 - **Role Mapping:** Are the correct roles (e.g., _Global Reader_, _User Administrator_) mapped to the CIPP security groups?
     
 - **Standard Sync:** Has the user attempted a manual "Tenant Sync" within CIPP?
-    
+![Screenshot](images/screenshot)
 
 When the issue persisted, I requested:
 
