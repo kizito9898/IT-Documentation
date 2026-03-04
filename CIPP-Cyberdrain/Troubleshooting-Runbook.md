@@ -6,7 +6,7 @@ It serves as a central repository for all support requests, ensuring that no cus
 
 - Contact details (Name, Company, Location).
     
-- Past conversations and emails overview
+- Past conversations and emails overview.
     
 - Previous ticket history.
 **Goal:** To prioritize, manage, and resolve tickets efficiently while improving customer satisfaction and agent productivity.
