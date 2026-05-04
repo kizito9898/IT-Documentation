@@ -181,13 +181,13 @@ A **network** is a group of two or more devices (like computers, servers, printe
      - Event log info
      - All steps already taken
 
-18. **Document Everything**:
+13. **Document Everything**:
    - In your ticketing system:
      - What was reported
      - What tests you ran
      - Results of each test
      - Final decision (resolved/escalated)
-     - Attach screenshots or logs if needed
+     - Attach screenshots or logs if needed.
 
 ---
 ## Notes
