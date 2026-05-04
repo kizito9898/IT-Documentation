@@ -84,4 +84,5 @@ I’m documenting how a Level 1 IT Support uses HaloPSA because I would be using
 ![Screenshot](images/screenshot411.jpg)
 
 
-Documr
+Documentation: Every ticket closed must have a ticket note 
+what was 
