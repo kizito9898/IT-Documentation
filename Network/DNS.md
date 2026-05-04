@@ -102,7 +102,7 @@ A DNS Server is a computer or network device that stores and manages domain name
 ## Creating and Testing DNS Resolution
 
 - Check on `SBT.Com` and create a new host  
-  - **Name**: `www`  
+  - **Name**: `www.SBT.com 
   - **IP Address**: `10.1.10.25`
 - When you launch **nslookup** and type the IP address, it points back to: `www.SBT.Com`
 ---
