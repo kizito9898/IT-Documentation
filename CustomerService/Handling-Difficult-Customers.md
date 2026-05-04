@@ -101,7 +101,7 @@ These are the core beliefs I apply in every user interaction:
 >  
 > Please let me know if it’s working properly now. If everything looks good, I’ll go ahead and close the ticket.  
 >  
-> If you’re still experiencing any trouble, feel free to reply and I’ll take another look.  
+> If you’re still experiencing any trouble, feel free to reply and I’ll take another look or anything please feel free to reach out to me. 
 >  
 > Kind regards,  
 > Kizito  
