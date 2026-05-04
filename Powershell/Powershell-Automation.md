@@ -258,7 +258,7 @@ Get-ADUser -Filter * -SearchBase $nonStaffOU | ForEach-Object {
 }
 ![Screenshot](images/screenshot627.jpg)
 
-updating soon, wrote an amazing script for RMM.
+updating soon, wrote an amazing script for RMM and printer setup for Ricom printer
 
 
 
