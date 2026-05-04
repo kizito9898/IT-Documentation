@@ -118,4 +118,4 @@ Tickets enter the system through multiple channels:
 
 - I created a template that gets sent to the client when they contact support team so that they know we got the email and working on it, rather than keeping them on loops.  
 
-- Ticket is being set at Waiting on us, or waiting on contact 
+- Ticket is being set at Waiting on us, or waiting on contact.

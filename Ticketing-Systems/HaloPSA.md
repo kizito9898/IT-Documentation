@@ -85,6 +85,6 @@ I’m documenting how a Level 1 IT Support uses HaloPSA because I would be using
 
 
 Documentation: Every ticket closed must have a ticket note 
-what was the issue 
-what troubleshooting steps were taken 
-what fixes the problem or was it escalated to the more a 
+what was the issue ?
+what troubleshooting steps were taken ?
+what fixes the problem or was it escalated to senior team for investigation 
