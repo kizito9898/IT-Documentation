@@ -113,7 +113,7 @@ If you're an **MSP, CTO, or remote team hiring manager** looking for someone wit
 
 - The ability to learn fast  
 - Practical troubleshooting mindset  
-- Strong communication and documentation skills  
+- Strong communication and documentation skills.
 
 Please reach out. I’d love to contribute and grow within your team.
 - **LinkedIn**: [Chiagozie Njika](https://www.linkedin.com/in/chiagozie-njika-a24660284)  
