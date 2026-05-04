@@ -200,7 +200,6 @@ The Computer has been joined to the domain
 - Add only **Billy Barnes** for HR.
 - Add only **Holly Cross** for Finance.
 - Disable inheritance in each case.
-
 ---
 ## Logging into Each User PC
 
