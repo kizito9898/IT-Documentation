@@ -214,7 +214,8 @@ Hi Sarah,
 
 Just checking in to make sure everything is still working after the fix applied earlier today. If you're still experiencing any issues, let me know and I’ll be happy to assist further.
 
-Best regards,  
+Best regards, 
+kizito
 IT Support.
 
 
