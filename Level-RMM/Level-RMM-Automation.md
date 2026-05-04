@@ -127,7 +127,7 @@ Automation using the prompt user to restart on a linux ubuntu device
 ![Screenshot](images/screenshot793.jpg)
 ![Screenshot](images/screenshot797.jpg)
 
-ubuntu device after patch a
+ubuntu device after patch management showing 95/100 security score.
 
 
 
