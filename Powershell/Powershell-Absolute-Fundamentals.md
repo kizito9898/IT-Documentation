@@ -221,7 +221,7 @@ Example in the script:
     
 - Helps track what the script is doing.
 ![Screenshot](images/screenshot622.jpg)
-I will continue learning powershell as its 
+I will continue learning powershell as its vital for my growth In IT and automations.
 
 
 
