@@ -165,7 +165,6 @@ If errors appear, check **event logs** and restart **Active Directory Services**
 
 ### Step 3: Update IT Glue Documentation
 - Add a note: *"Password reset for [User] on [Date]."*
-
 ## Updating IT Glue Documentation
 
 ### How to Update an Existing Entry
