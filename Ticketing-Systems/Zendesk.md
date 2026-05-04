@@ -135,7 +135,11 @@ My focus is solely on efficient handling of tickets, documenting well, and provi
 - Closed the ticket as Resolved.
  ![Screenshot](images/screenshot259.jpg)
 
-ticket notes with time stamps.
+Documentation: Every ticket closed must have a ticket note 
+what was the issue ?
+what troubleshooting steps were taken ?
+what fixes the problem or was it escalated to senior team for investigation 
+
 
 
 
