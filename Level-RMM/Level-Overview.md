@@ -131,3 +131,4 @@ System -> gives you everything or information about the operating system.
   Gain returnable insights about my Endpoints.  
 ![Screenshot](images/screenshot752.jpg)
 - Shows total devices flagged & maintenance endpoints, OS Distribution and Online devices which is very essential.
+My complete project on RMM to show case my understanding of tools used my MS
