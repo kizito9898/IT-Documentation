@@ -90,7 +90,7 @@ In my project, I have Windows 11 added to the PDQ Inventory.
 - Check target → Select time to deploy (etc.) → Deploy Now
 - Package is then deployed successfully
 ![Screenshot](images/screenshot381.jpg)
-- On the lab/test machine, you can see the two apps installed silently on it
+- On the lab/test machine, you can see the two apps installed silently on it.
 - This is how applications are installed on a client machine silently without disturbing them.
 ![Screenshot](images/screenshot382.jpg)
 ![Screenshot](images/screenshot383.jpg)
