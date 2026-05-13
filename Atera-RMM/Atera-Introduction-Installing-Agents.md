@@ -75,7 +75,7 @@ By the side you find the dashboard to the following :
   - ScreenConnect  
 
 - For technical support:
-  - Remote access (especially Splashtop) helps reproduce issues  
+  - Remote access  Splashtop) helps reproduce issues  
   - Assists users with specific tasks  
 
 ### Device Management Features
