@@ -78,9 +78,7 @@ From the device dashboard, you can:
 - Open terminal on Ubuntu  
 - Paste the installation script provided by Atera  
 - Execute the script  
-
 ---
-
 ## Issue Encountered
 
 ### Error Description
