@@ -45,3 +45,67 @@ The overview of my windows server 2022 on atera showing the following
   - Logged in  
   - Opened Chrome → Accessed Atera account  
   - Clicked **Install Agent** on the Windows 11 Pro device  
+## Atera Agent Installation and Troubleshooting
+
+---
+
+## Windows 11 Agent Installation Overview
+
+### Installation
+- Install the agent → Download → Installation completed successfully  
+- Windows 11 device is now installed and ready to be managed via Atera RMM  
+
+### Device Overview (Windows 11 Pro)
+- Navigate to the device overview page  
+- Displays:
+  - Device information  
+  - Hardware  
+  - Disk details  
+
+### Device Management Capabilities
+From the device dashboard, you can:
+- Wake the device (Wake-on-LAN if supported)  
+- Schedule reboot  
+- Restart device  
+- Connect remotely to the device  
+- Monitor health and performance  
+
+---
+
+## Installing Agent on Linux (Ubuntu)
+
+### Installation Steps
+- Follow the same general process used for Windows:
+  - Access your virtual machine  
+  - Log in with your credentials  
+  - Open a browser (e.g., Firefox)  
+  - Log in to your Atera account  
+  - Navigate to **Install Agent**  
+
+- Open terminal on Ubuntu  
+- Paste the installation script provided by Atera  
+- Execute the script  
+
+---
+
+## Issue Encountered
+
+### Error Description
+- During installation, the system returned a **.NET Core dependency error**  
+- This prevented the agent from completing installation  
+
+### Root Cause
+- Missing required **.NET runtime dependencies**  
+- As a result:
+  - The agent failed to create the required systemd service file:
+    - `AteraAgent.service`  
+  - Service remained in a **"not found"** or inactive state  
+
+---
+
+## Troubleshooting Steps
+
+### 1. Log Analysis
+- Checked service status using:
+  ```bash
+  systemctl status ateraagent.service
