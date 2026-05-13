@@ -45,7 +45,6 @@ The overview of my windows server 2022 on atera showing the following
   - Logged in  
   - Opened Chrome → Accessed Atera account  
   - Clicked **Install Agent** on the Windows 11 Pro device  
-## Atera Agent Installation and Troubleshooting
 
 ---
 
