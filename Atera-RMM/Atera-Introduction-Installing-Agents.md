@@ -26,20 +26,16 @@ This allows IT teams to efficiently support multiple users and devices without n
 
 # Getting Started with Atera
 
-## Trial Setup
-
 * Signed up for the 30-day trial version of Atera to explore:
   - RMM  
   - Patch management  
   - Automations and remote connection with Atera
-
 ## Initial Steps After Sign-Up
 
 * First point of access is the **Dashboard**
 * Navigate to:  
   **Devices → Install New Agent**
-
-## Main Navigation (Sidebar)
+By the side 
 
 * Dashboard  
 * Tickets (PSA)  
