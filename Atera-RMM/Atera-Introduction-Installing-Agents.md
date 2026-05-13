@@ -35,7 +35,7 @@ This allows IT teams to efficiently support multiple users and devices without n
 * First point of access is the **Dashboard**
 * Navigate to:  
   **Devices → Install New Agent**
-By the side 
+By the side you find the dashboard
 
 * Dashboard  
 * Tickets (PSA)  
