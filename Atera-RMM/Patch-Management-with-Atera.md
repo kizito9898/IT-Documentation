@@ -120,3 +120,104 @@ This approach helps ensure:
 - Improved operational efficiency for Tier 1 and Tier 2 support teams
 - Better end-user experience
 
+# Background System Management with Atera RMM
+
+## Overview
+
+Background system management allows IT support teams to troubleshoot, configure, and maintain Windows servers and endpoint devices without interrupting the end user or taking control of their screen.
+
+This approach enables technicians to resolve issues silently in the background while users continue working normally.
+
+---
+# Key Background Actions Performed Using Atera
+
+## Remote Task Manager
+
+Atera provides remote access to Task Manager functionality, allowing technicians to:
+
+- Identify high CPU usage processes
+- Monitor memory consumption
+- Detect unresponsive applications
+- Terminate problematic applications remotely
+- Improve overall system performance
+
+### Steps Performed
+
+1. Navigate to **Devices**
+2. Select the target device (Server 2022)
+3. Go to **Manage**
+4. Open **Task Manager**
+
+The Task Manager displays:
+
+- Running applications
+- Background processes
+- System processes
+- CPU and memory utilization
+
+---
+## Centralized Device Management
+
+The **Manage** section in Atera acts as a centralized dashboard or "single pane of glass" for performing administrative tasks on managed devices.
+
+This allows technicians to manage operating systems remotely from one platform.
+
+---
+# Software Installation on Windows Server 2022
+
+### Steps Performed
+
+1. Navigate to the target device
+2. Select **Server 2022**
+3. Go to **Manage**
+4. Open **Software Installation**
+5. Choose the desired software package
+6. Install the software remotely
+### Software Sources
+
+Atera supports software deployment through:
+
+- Chocolatey repositories
+- Winget repositories
+- Configured package sources
+
+This enables fast and centralized software deployment across multiple devices.
+
+---
+
+# Running Scripts on Windows 11 Devices
+
+The device management section also provides script execution capabilities.
+
+### Available Script Examples
+
+- Battery health checks
+- Wi-Fi diagnostics
+- Print queue cleanup
+- Display mapped network drives
+- System maintenance scripts
+
+### Steps Performed
+
+1. Open the Windows 11 device
+2. Navigate to **Manage**
+3. Select **Run Script**
+4. Choose or execute the required script
+
+This helps automate repetitive administrative tasks and troubleshooting operations.
+
+---
+
+# Remote Command Line Access
+
+The Manage section also allows administrators to remotely launch:
+
+- Command Prompt
+- PowerShell
+
+These tools can be executed as:
+
+- System user
+- Logged-in user
+
+This functionality enables advanced troubleshooting, automation, and remote administrative operations without disrupting the user session.
