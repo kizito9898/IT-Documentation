@@ -184,7 +184,6 @@ Atera supports software deployment through:
 This enables fast and centralized software deployment across multiple devices.
 
 ---
-
 # Running Scripts on Windows 11 Devices
 
 The device management section also provides script execution capabilities.
@@ -196,7 +195,6 @@ The device management section also provides script execution capabilities.
 - Print queue cleanup
 - Display mapped network drives
 - System maintenance scripts
-
 ### Steps Performed
 
 1. Open the Windows 11 device
@@ -207,7 +205,6 @@ The device management section also provides script execution capabilities.
 This helps automate repetitive administrative tasks and troubleshooting operations.
 
 ---
-
 # Remote Command Line Access
 
 The Manage section also allows administrators to remotely launch:
