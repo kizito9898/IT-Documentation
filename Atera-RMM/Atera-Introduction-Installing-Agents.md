@@ -43,4 +43,46 @@ By the side you find the dashboard to the following :
 * App Center  
 * Knowledge Base  etc
 
+## Installing My First Agent on Windows 10 (Atera)
 
+### Installation Steps
+- Navigated to:
+  - Devices → Install Agent → Select Operating System → Windows  
+  - Assign Agent → Install Agent  
+- Download installer
+
+- Click on the downloaded installer → Atera agent installation → Continue  
+- After installation (takes a few minutes), the OS shows up in the dashboard  
+- The agent has been installed
+
+### Verifying Installation
+- Dashboard → Devices → displays the newly installed device on Atera (Available / Online)  
+- Click on the device → shows a complete overview of the device  
+
+### Device Overview Includes
+- Alert status  
+- Patching status  
+- Hardware  
+- Disks  
+- OS and Security  
+- Custom fields  
+- Passwords  
+
+### Remote Access
+- Atera allows you to connect to the device (example: GUNTN41-10)  
+- Remote connection tools:
+  - Splashtop  
+  - AnyDesk  
+  - ScreenConnect  
+
+- For technical support:
+  - Remote access (especially Splashtop) helps reproduce issues  
+  - Assists users with specific tasks  
+
+### Device Management Features
+- Patch management  
+- Software inventory  
+- Software installation  
+- Run scripts for device management  
+- Ensure devices are up-to-date  
+- Run commands for connectivity  
