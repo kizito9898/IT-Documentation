@@ -31,7 +31,7 @@ This allows IT teams to efficiently support multiple users and devices without n
 * Signed up for the 30-day trial version of Atera to explore:
   - RMM  
   - Patch management  
-  - Automations and remote connecti
+  - Automations and remote connection with Atera
 
 ## Initial Steps After Sign-Up
 
