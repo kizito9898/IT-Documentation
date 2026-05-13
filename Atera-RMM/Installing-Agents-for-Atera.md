@@ -27,7 +27,6 @@
 - Run script via Command Line (as Administrator)  
 - Run the script → Atera Agent Installation  
 - Agent installs successfully  
-
 ### Device Overview (Windows Server 2022)
 - Available patches  
 - Hardware  
