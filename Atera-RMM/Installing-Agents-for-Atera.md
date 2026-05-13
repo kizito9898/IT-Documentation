@@ -2,10 +2,8 @@
 
 ### RMM Overview
 - It is a single pane of glass for accessing all information on a system  
-
 ### System Software Inventory
 - View and manage all software on the OS  
-
 ### Importance of RMM
 - RMM is an important asset for MSPs and technicians to:
   - View and manage devices  
@@ -13,9 +11,7 @@
   - Run scripts  
   - Handle patch management  
 - Ensures nothing gets missed  
-
 ---
-
 ## Installing New Agents
 
 ### Supported Systems
@@ -23,7 +19,6 @@
 - Windows Server  
 - Windows 11  
 - Linux devices  
-
 ---
 
 ## Installing Agent on Windows Server 2022
