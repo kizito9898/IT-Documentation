@@ -9,7 +9,6 @@ Atera combines multiple tools into one platform, including:
 * **Remote Monitoring**
   - Track device health  
   - Detect issues early  
-
 * **Remote Access**
   - Integrates with tools like Splashtop and AnyDesk  
 
