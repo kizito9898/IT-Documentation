@@ -96,7 +96,7 @@ From the device dashboard, you can:
 
 ### 1. Log Analysis
 - Checked service status using:
-  ```bash
+  ``bash
   systemctl status ateraagent.service
 - Verified that the service was not properly registered
 
@@ -125,9 +125,7 @@ From the device dashboard, you can:
 
 - Re-ran the Atera installation script after resolving dependencies
 - Confirmed successful installation
-
 ---
-
 ## Verification
 
 - Checked service status:
