@@ -28,6 +28,7 @@
 - Run the script → Atera Agent Installation  
 - Agent installs successfully  
 ### Device Overview (Windows Server 2022)
+The overview of my windows server 2022
 - Available patches  
 - Hardware  
 - Disks  
