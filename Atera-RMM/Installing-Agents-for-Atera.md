@@ -91,12 +91,52 @@ From the device dashboard, you can:
   - The agent failed to create the required systemd service file:
     - `AteraAgent.service`  
   - Service remained in a **"not found"** or inactive state  
-
 ---
-
 ## Troubleshooting Steps
 
 ### 1. Log Analysis
 - Checked service status using:
   ```bash
   systemctl status ateraagent.service
+- Verified that the service was not properly registered
+
+### 2. Cleanup Process
+
+- Removed partial installation files to avoid conflicts:
+    
+    ```
+    sudo rm -rf /usr/lib/atera-agent
+    ```
+    
+- Ensured a clean environment for reinstallation
+
+### 3. Dependency Resolution
+
+- Installed required .NET runtime packages:
+    
+    ```
+    sudo apt updatesudo apt install -y dotnet-runtime-6.0
+    ```
+    
+    (Version may vary depending on Atera requirements)
+    
+
+### 4. Reinstallation
+
+- Re-ran the Atera installation script after resolving dependencies
+- Confirmed successful installation
+
+---
+
+## Verification
+
+- Checked service status:
+    
+    ```
+    systemctl status ateraagent.service
+    ```
+    
+- Confirmed:
+    - Service is active and running
+    - Agent successfully registered in Atera dashboard
+    - Device appears online
