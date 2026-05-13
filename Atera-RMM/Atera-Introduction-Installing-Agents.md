@@ -79,7 +79,7 @@ By the side you find the dashboard to the following :
   - Assists users with specific tasks  
 
 ### Device Management Features
-Atera for devices also have mm
+Atera for devices also have management for :
 - Patch management  
 - Software inventory  
 - Software installation  
