@@ -23,7 +23,6 @@ Atera combines multiple tools into one platform, including:
 This allows IT teams to efficiently support multiple users and devices without needing to be physically present.
 
 ---
-
 # Getting Started with Atera
 
 * Signed up for the 30-day trial version of Atera to explore:
@@ -35,13 +34,11 @@ This allows IT teams to efficiently support multiple users and devices without n
 * First point of access is the **Dashboard**
 * Navigate to:  
   **Devices → Install New Agent**
-By the side you find the dashboard to the following
-
-* Dashboard  
+By the side you find the dashboard to the following :
 * Tickets (PSA)  
 * Customers  
 * Devices  
 * Alerts  
 * Patch Management  
 * App Center  
-* Knowledge Base  
+* Knowledge Base  etc
