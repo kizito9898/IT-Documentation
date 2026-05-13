@@ -15,12 +15,11 @@
 ## Installing New Agents
 
 ### Supported Systems
-- Windows  
+- Windows  10
 - Windows Server  
 - Windows 11  
-- Linux devices  
+- Linux device(ubuntu)  
 ---
-
 ## Installing Agent on Windows Server 2022
 - Click on **New Agent**  
 - Select OS → Windows  
