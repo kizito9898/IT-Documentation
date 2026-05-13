@@ -10,16 +10,13 @@ Atera combines multiple tools into one platform, including:
   - Track device health  
   - Detect issues early  
 * **Remote Access**
-  - Integrates with tools like Splashtop and AnyDesk  
-
+  - Integrates with tools like Splashtop and AnyDesk, TeamViewer. 
 * **Patch Management**
   - Windows updates  
   - Software patching  
-
 * **Scripting & Automation**
   - Run scripts  
   - Automate repetitive tasks  
-
 * **Helpdesk / Ticketing (PSA Features)**
   - Receive and manage support requests  
 
