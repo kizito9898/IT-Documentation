@@ -36,9 +36,6 @@ Automating patch management ensures systems stay updated without interrupting us
 - Zero disruption to client productivity
 - Consistent update deployment
 - Improved security posture
-
----
-
 ## Configuration Details
 
 - **Profile Name:** Off-hour Patch Management & Automation  
