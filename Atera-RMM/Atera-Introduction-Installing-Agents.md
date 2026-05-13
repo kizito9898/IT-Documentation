@@ -49,7 +49,7 @@ By the side you find the dashboard to the following :
 - Navigated to:
   - Devices → Install Agent → Select Operating System → Windows  
   - Assign Agent → Install Agent  
-- Download installer
+- Download installer via browser
 
 - Click on the downloaded installer → Atera agent installation → Continue  
 - After installation (takes a few minutes), the OS shows up in the dashboard  
@@ -67,7 +67,6 @@ By the side you find the dashboard to the following :
 - OS and Security  
 - Custom fields  
 - Passwords  
-
 ### Remote Access
 - Atera allows you to connect to the device (example: GUNTN41-10)  
 - Remote connection tools:
