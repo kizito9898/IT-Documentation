@@ -144,3 +144,4 @@ From the device dashboard, you can:
     - Service is active and running
     - Agent successfully registered in Atera dashboard
     - Device appears online
+![Screenshot](images/screenshot975.jpg)
