@@ -50,7 +50,7 @@ By the side you find the dashboard to the following :
   - Devices → Install Agent → Select Operating System → Windows  
   - Assign Agent → Install Agent  
 - Download installer via browser
-
+![Screenshot](images/screenshot949.jpg)
 
 - Click on the downloaded installer → Atera agent installation → Continue  
 - After installation (takes a few minutes), the OS shows up in the dashboard  
