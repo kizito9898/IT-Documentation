@@ -59,7 +59,7 @@ By the side you find the dashboard to the following :
 ### Verifying Installation
 - Dashboard → Devices → displays the newly installed device on Atera (Available / Online)  
 - Click on the device → shows a complete overview of the device  
-
+![Screenshot](images/screenshot)
 ### Device Overview Includes
 - Alert status  
 - Patching status  
