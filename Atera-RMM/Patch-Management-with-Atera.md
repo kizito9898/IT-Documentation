@@ -2,7 +2,7 @@
 
 ## Overview
 Patch management is the process of identifying, testing, and applying software updates (patches) to computers, servers, and applications.
-
+![Screenshot](images/screems)
 It is a core security practice that ensures client machines are protected against cyber threats and vulnerabilities.
 
 ---
