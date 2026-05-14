@@ -109,6 +109,7 @@ While traditional remote desktop control tools such as:
 - AnyDesk
 
 are commonly used for user-facing software troubleshooting and training sessions, Atera also provides background management tools that allow technicians to resolve system-level issues without interrupting the end user.
+![Screensho]
 
 ---
 ## Background Management Features
