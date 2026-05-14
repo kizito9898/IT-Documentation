@@ -90,6 +90,7 @@ Following the reboot:
 
 - Recent processes and general reports confirmed that the patch update completed successfully
 - The device returned to normal operational status
+![Screenshot](images/screenshot986.jpg)
 ---
 # Device Management Using Atera RMM
 
