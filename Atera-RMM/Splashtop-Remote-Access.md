@@ -50,7 +50,7 @@ Before using Splashtop through Atera:
 ![Screenshot](images/screenshot1023.jpg)
 Once connected, technicians can seamlessly access and manage the device remotely.
 ![Screenshot](images/screenshot1024.jpg)
-![S]
+![Screenshot](images/screenshot967.jpg)
 
 
 ---
