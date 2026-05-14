@@ -86,7 +86,7 @@ From the device dashboard, you can:
   - Open a browser (e.g., Firefox)  
   - Log in to your Atera account  
   - Navigate to **Install Agent**  
-![Screenshot](images/screenshot)
+![Screenshot](images/screenshot971.jpg)
 - Open terminal on Ubuntu  
 - Paste the installation script provided by Atera  
 - Execute the script  
@@ -96,7 +96,7 @@ From the device dashboard, you can:
 ### Error Description
 - During installation, the system returned a **.NET Core dependency error**  
 - This prevented the agent from completing installation  
-
+![Screenshot]
 ### Root Cause
 - Missing required **.NET runtime dependencies**  
 - As a result:
