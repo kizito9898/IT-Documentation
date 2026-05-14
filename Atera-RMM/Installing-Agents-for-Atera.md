@@ -3,7 +3,8 @@
 ### RMM (Remote monitoring management)
 - It is a single pane of glass for accessing all information on a system  
 ### System Software Inventory
-- View and manage all software on the OS  
+- View and manage all software on the OS
+![Screenshot](images/screenshot952.jpg)
 ### Importance of RMM
 - RMM is an important asset for MSPs and technicians to:
   - View and manage devices  
