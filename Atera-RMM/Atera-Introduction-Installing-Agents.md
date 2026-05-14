@@ -90,4 +90,4 @@ Atera for devices also have management for :
 - Ensure devices are up-to-date  
 - Run commands for connectivity  
 ![Screenshot](images/screenshot955.jpg)
-![Screenshot](images/screenshot)
+![Screenshot](images/screenshot956.jpg)
