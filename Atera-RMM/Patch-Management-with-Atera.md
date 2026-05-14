@@ -65,7 +65,6 @@ The patch management policy includes the following update categories:
 
 The patch deployment policy was configured to apply to:
 
-- Windows Server 2022
 - Windows 11 Endpoints
 - Windows 10 Endpoints
 ![Screenshot](images/screenshot985.jpg)
@@ -76,6 +75,7 @@ The patch deployment policy was configured to apply to:
 - Clicked **Run Now** to begin deployment
 
 This ensures the environment remains secure and compliant while maintaining maximum uptime for end users during active working hours.
+
 
 ---
 ## System Reboot After Patch Installation
