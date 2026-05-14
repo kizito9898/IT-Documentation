@@ -121,7 +121,7 @@ From the device dashboard, you can:
     ```
     
 - Ensured a clean environment for reinstallation
-![Screenshot]
+![Screenshot](images/screenshot973.jpg)
 ### 3. Dependency Resolution
 
 - Installed required .NET runtime packages:
@@ -137,6 +137,7 @@ From the device dashboard, you can:
 
 - Re-ran the Atera installation script after resolving dependencies
 - Confirmed successful installation
+![Scree]
 ---
 ## Verification
 
