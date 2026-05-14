@@ -128,6 +128,7 @@ Splashtop allows secure file transfer between the technician’s system and the 
 1. Open the remote session using Splashtop
 2. Select **File Transfer**
 3. Transfer files from the local device to the remote Windows 11 machine
+![Screenshot](images/screenshot)
 ### Benefits
 
 - Secure file movement
