@@ -61,7 +61,8 @@ The patch management policy includes the following update categories:
 
 - Critical Updates
 - Security Updates
-- Hardware Driver Updates
+- Hardware Driver Update
+![Screenshot]
 ---
 ## Target Devices
 
