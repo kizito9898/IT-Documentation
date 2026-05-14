@@ -168,6 +168,7 @@ If a user reports that they cannot log in to the system and requests a password 
 1. Open **Atera RMM**.
 2. Navigate to the **Windows Server 2022** device.
 3. Connect to the server using **Splashtop**.
+![Screenshot](images/screenshot1004.jpg)
 4. Open **Active Directory (AD)**.
 5. Locate the user account.
 6. Right-click the user account.
