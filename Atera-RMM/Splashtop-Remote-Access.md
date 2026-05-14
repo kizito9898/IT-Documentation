@@ -8,6 +8,7 @@ Remote connection tools such as:
 
 Allow IT technicians to securely view and control a client's screen remotely in order to provide immediate troubleshooting and technical support for end users.
 
+
 ---
 ## Splashtop Integration in Atera
 
@@ -36,7 +37,7 @@ Before using Splashtop through Atera:
 - Ensure the Atera agent is installed on the target device
 - Confirm the device is online and accessible
 - Verify that remote access features are enabled
-![Screenshot](images/screensh)
+![Screenshot](images/screenshot996.jpg)
 
 ---
 
