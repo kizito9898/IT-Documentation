@@ -47,7 +47,7 @@ The overview of my windows server 2022 on atera showing the following
   - Logged into virtual machine (VMware Pro)  
   - Powered on Windows 11 Pro  
 ![Screenshot](images/screenshot962.jpg)
-  - Logged in  
+  - Logged in  and changed the ip address from static to dynamic ip address
   - Opened Chrome → Accessed Atera account  
   - Clicked **Install Agent** on the Windows 11 Pro device 
 
