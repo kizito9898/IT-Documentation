@@ -68,7 +68,7 @@ The patch deployment policy was configured to apply to:
 - Windows Server 2022
 - Windows 11 Endpoints
 - Windows 10 Endpoints
-
+![Screenshot](images/screenshot985.jpg)
 ---
 ## Running the Patch Deployment
 
