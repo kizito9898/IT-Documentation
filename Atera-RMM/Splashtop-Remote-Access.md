@@ -36,6 +36,7 @@ Before using Splashtop through Atera:
 - Ensure the Atera agent is installed on the target device
 - Confirm the device is online and accessible
 - Verify that remote access features are enabled
+![Screenshot](images/screensh)
 
 ---
 
