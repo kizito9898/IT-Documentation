@@ -124,7 +124,7 @@ Atera enables technicians to:
 - Access PowerShell and Command Prompt
 - Monitor alerts and system events
 - Troubleshoot performance issues silently in the background
-
+![Screenshot](images/screenshot993.jpg)
 This approach helps ensure:
 
 - Minimal downtime
