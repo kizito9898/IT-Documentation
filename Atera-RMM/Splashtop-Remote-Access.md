@@ -142,3 +142,42 @@ This ensures:
 - Better troubleshooting coordination
 - Improved support experience for end users
 
+# Remote Support Session Using Atera and Splashtop
+
+Once the user disconnects from the remote support session, I can reconnect to the Windows Server 2022 device for further troubleshooting and support.
+
+## Reconnecting to a Device
+
+1. Navigate to **Devices**.
+2. Select **Windows Server 2022**.
+3. Click **Connect**.
+4. Choose **Splashtop** or **AnyDesk** from the remote connection options.
+5. Wait for the remote session to establish successfully.
+
+## Password Reset for User Accounts
+
+If a user reports that they cannot log in to the system and requests a password reset:
+
+1. Open **Atera RMM**.
+2. Navigate to the **Windows Server 2022** device.
+3. Connect to the server using **Splashtop**.
+4. Open **Active Directory (AD)**.
+5. Locate the user account.
+6. Right-click the user account.
+7. Select **Reset Password**.
+8. Enter the new password.
+9. Enable the option:
+    - `User must change password at next logon`
+10. Apply the changes.
+
+## Importance of Remote Connectivity
+
+Remote connectivity is essential for technical support because it allows IT administrators and support technicians to:
+
+- Troubleshoot issues quickly
+- Perform system maintenance remotely
+- Reduce downtime for end users
+- Access devices securely from different locations
+- Improve response time for support requests
+
+Reliable remote access tools such as Splashtop and AnyDesk help ensure efficient and secure remote administration.
