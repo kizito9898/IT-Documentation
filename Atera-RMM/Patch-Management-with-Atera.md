@@ -16,6 +16,7 @@ It is a core security practice that ensures client machines are protected agains
   - Devices already patched
   - Devices that do not require updates
   - Devices that require critical attention
+![Screenshot](images/screenshot)
 ---
 ## Installing OS Patches
 
