@@ -26,8 +26,9 @@
 - Select OS → Windows  
 - Click **Next** → Select Installer  
 - Run script via Command Line (as Administrator)  
-!
-- Run the script → Atera Agent Installation  
+![Screenshot](images/screenshot958.jpg)
+- Run the script → Atera Agent Installation
+![Screenshot](images/scr)
 - Agent installs successfully  
 ### Device Overview (Windows Server 2022)
 The overview of my windows server 2022 on atera showing the following 
