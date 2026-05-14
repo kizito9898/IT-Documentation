@@ -7,8 +7,8 @@
 ![Screenshot](images/screenshot952.jpg)
 ### Importance of RMM
 - RMM is an important asset for MSPs and technicians to:
-  - View and manage devices  
-  - Perform updates  
+  - View and manage devices from a single dashboard
+  - Perform updates and app installation
   - Run scripts  
   - Handle patch management  
 - Ensures nothing gets missed  
