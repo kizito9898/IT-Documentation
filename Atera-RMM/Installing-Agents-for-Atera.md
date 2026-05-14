@@ -12,7 +12,7 @@
   - Handle patch management  
 - Ensures nothing gets missed  
 ---
-## Installing New Agents
+## Installing New Agents on Atera
 
 ### Supported Systems
 - Windows  10
