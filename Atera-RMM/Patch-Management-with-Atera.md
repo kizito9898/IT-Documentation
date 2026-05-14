@@ -122,6 +122,7 @@ Atera enables technicians to:
 - Execute scripts remotely
 - Restart services
 - Access PowerShell and Command Prompt
+![Screenshot](images/screenshot995.jpg)
 - Monitor alerts and system events
 - Troubleshoot performance issues silently in the background
 ![Screenshot](images/screenshot993.jpg)
