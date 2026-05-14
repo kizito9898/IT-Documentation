@@ -30,6 +30,7 @@ It is a core security practice that ensures client machines are protected agains
   - Windows 11
 - Installed updates for:
   - Malicious Software Removal Tool
+
 ---
 
 ## Patch Management and IT Automation
