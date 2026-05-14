@@ -6,10 +6,9 @@ Remote connection tools such as:
 - AnyDesk
 - ScreenConnect
 
-llow IT technicians to securely view and control a client's screen remotely in order to provide immediate troubleshooting and technical support for end users.
+Allow IT technicians to securely view and control a client's screen remotely in order to provide immediate troubleshooting and technical support for end users.
 
 ---
-
 ## Splashtop Integration in Atera
 
 Splashtop is a secure, high-performance remote access solution integrated into Atera.
@@ -20,7 +19,6 @@ It enables IT administrators to remotely control:
 - macOS devices
 
 from their workstation through the Atera platform.
-
 ### Benefits
 
 - Fast remote connectivity
@@ -28,9 +26,7 @@ from their workstation through the Atera platform.
 - Simplified troubleshooting
 - Centralized device management
 - Improved support efficiency
-
 ---
-
 # Getting Started with Splashtop
 
 ### Prerequisites
@@ -66,3 +62,85 @@ Splashtop integration within Atera provides:
 - Safe remote support capabilities
 
 This ensures that remote support sessions remain secure while allowing IT teams to efficiently troubleshoot and resolve issues.
+
+# Remote Support for End Users with Atera RMM
+
+As an IT helpdesk technician, remote support tools allow quick access to a client system in order to reproduce issues, troubleshoot problems, and assist end users efficiently.
+
+---
+
+# Remote Access for Windows Devices
+
+## Connecting to a Device
+
+### Steps Performed
+
+1. Open the target Windows 11 device in the Atera dashboard
+2. Click on **Connect**
+3. Connect to the device remotely using:
+   - Splashtop
+   - AnyDesk
+
+This provides direct remote access to troubleshoot performance issues and user-related problems.
+
+---
+
+## Remote Troubleshooting
+
+During the remote session, technicians can:
+
+- Analyze system performance
+- Monitor running applications
+- Identify resource-heavy processes
+- Terminate unnecessary applications
+- Resolve performance bottlenecks
+
+### Example
+
+Used Task Manager to stop applications consuming excessive system resources in order to improve overall performance.
+
+---
+
+# Background Remote Management
+
+Atera also supports background management without taking over the user’s screen.
+
+Technicians can remotely:
+
+- Run PowerShell commands
+- Access Command Prompt
+- Execute scripts
+- Perform administrative tasks silently in the background
+
+This minimizes disruption for the end user while troubleshooting issues.
+
+---
+
+# File Transfer with Splashtop
+
+Splashtop allows secure file transfer between the technician’s system and the remote device.
+
+### Steps Performed
+
+1. Open the remote session using Splashtop
+2. Select **File Transfer**
+3. Transfer files from the local device to the remote Windows 11 machine
+
+### Benefits
+
+- Secure file movement
+- Fast transfer speeds
+- Simplified remote support operations
+- Reduced need for email attachments or external storage
+
+---
+
+# User Communication During Support Sessions
+
+The IT helpdesk can also communicate directly with end users during remote sessions through built-in chat functionality.
+
+This ensures:
+
+- Clear communication
+- Better troubleshooting coordination
+- Improved support experience for end users
