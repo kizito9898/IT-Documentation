@@ -38,7 +38,7 @@ The overview of my windows server 2022 on atera showing the following
 - Disks  
 - Connectivity  
 - Remote support access 
-![Screenshot](images/screenshot)
+![Screenshot](images/screenshot961.jpg)
 
 ---
 
