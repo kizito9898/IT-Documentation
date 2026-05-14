@@ -84,7 +84,7 @@ After patch updates were installed on the Windows 11 device:
 
 - The system displayed a prompt requesting a reboot to complete the installation
 - Selected **Reboot Now** since the device was currently online
-![Screenshot]
+![Screenshot](images/screenshot989.jpg)
 
 Following the reboot:
 
