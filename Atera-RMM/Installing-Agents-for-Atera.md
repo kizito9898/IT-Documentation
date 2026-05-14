@@ -121,7 +121,7 @@ From the device dashboard, you can:
     ```
     
 - Ensured a clean environment for reinstallation
-
+![Screenshot]
 ### 3. Dependency Resolution
 
 - Installed required .NET runtime packages:
