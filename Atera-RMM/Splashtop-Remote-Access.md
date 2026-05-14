@@ -114,7 +114,7 @@ Technicians can remotely:
 - Access Command Prompt
 - Execute scripts
 - Perform administrative tasks silently in the background
-
+![Screenshot](images/scree)
 This minimizes disruption for the end user while troubleshooting issues.
 
 ---
@@ -183,4 +183,4 @@ Remote connectivity is essential for technical support because it allows IT admi
 - Access devices securely from different locations
 - Improve response time for support requests
 
-Reliable remote access tools such as Splashtop and AnyDesk help ensure efficient and secure remote administration.
+Reliable remote access tools such as Splashtop and AnyDesk help ensure efficient and secure remote administr
