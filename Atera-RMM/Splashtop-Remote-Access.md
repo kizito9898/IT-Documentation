@@ -74,8 +74,6 @@ As an IT helpdesk technician, remote support tools allow quick access to a clien
 
 # Remote Access for Windows Devices
 
-## Connecting to a Device
-
 ### Steps Performed
 
 1. Open the target Windows 11 device in the Atera dashboard
