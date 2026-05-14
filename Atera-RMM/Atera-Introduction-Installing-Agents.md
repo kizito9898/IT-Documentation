@@ -55,7 +55,7 @@ By the side you find the dashboard to the following :
 - Click on the downloaded installer → Atera agent installation → Continue  
 - After installation (takes a few minutes), the OS shows up in the dashboard  
 - The agent has been installed
-
+![Screenshot]
 ### Verifying Installation
 - Dashboard → Devices → displays the newly installed device on Atera (Available / Online)  
 - Click on the device → shows a complete overview of the device  
