@@ -29,7 +29,8 @@
 ![Screenshot](images/screenshot958.jpg)
 - Run the script → Atera Agent Installation
 ![Screenshot](images/screenshot959.jpg)
-- Agent installs successfully  
+- Agent installs successfully  on windows server 2022
+![Screenshot](images/screensho)
 ### Device Overview (Windows Server 2022)
 The overview of my windows server 2022 on atera showing the following 
 - Available patches  
