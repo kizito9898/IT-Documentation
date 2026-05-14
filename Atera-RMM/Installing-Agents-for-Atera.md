@@ -1,6 +1,6 @@
 ## RMM Overview and Agent Installation
 
-### RMM Overview
+### RMM 
 - It is a single pane of glass for accessing all information on a system  
 ### System Software Inventory
 - View and manage all software on the OS  
