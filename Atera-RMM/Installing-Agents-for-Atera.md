@@ -75,7 +75,7 @@ From the device dashboard, you can:
 - Restart device  
 - Connect remotely to the device  
 - Monitor health and performance 
-![Screenshot](images/screenshot969.)
+![Screenshot](images/screenshot969.jpg)
 ---
 ## Installing Agent on Linux (Ubuntu)
 
