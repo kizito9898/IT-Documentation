@@ -7,7 +7,7 @@ Remote connection tools such as:
 - ScreenConnect
 
 Allow IT technicians to securely view and control a client's screen remotely in order to provide immediate troubleshooting and technical support for end users.
-
+![Screenshot](images/screenshot952.jpg)
 
 ---
 ## Splashtop Integration in Atera
