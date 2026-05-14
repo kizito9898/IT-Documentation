@@ -39,7 +39,6 @@ Before using Splashtop through Atera:
 ![Screenshot](images/screenshot996.jpg)
 
 ---
-
 ## Accessing a Device Remotely
 
 ### Steps Performed
