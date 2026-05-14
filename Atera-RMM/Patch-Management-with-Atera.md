@@ -47,7 +47,7 @@ Automating patch management ensures systems stay updated without interrupting us
 - **Execution Time:** Saturday at 01:00 AM
 ![Screenshot](images/screenshot987.jpg)
 
-
+![Screenshot](images/screenshot988.jpg)
 Atera RMM patch management allows IT teams to:
 - Monitor patch status across devices
 - Deploy updates efficiently
