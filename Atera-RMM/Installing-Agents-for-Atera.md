@@ -41,7 +41,6 @@ The overview of my windows server 2022 on atera showing the following
 ![Screenshot](images/screenshot961.jpg)
 
 ---
-
 ## Windows 11 Agent Installation Overview
 - Use the same installation method  
 - Steps followed:
