@@ -21,7 +21,6 @@ It enables IT administrators to remotely control:
 ![Screenshot](images/screenshot997.jpg)
 from their workstation through the Atera platform.
 ### Benefits
-
 - Fast remote connectivity
 - Secure remote access
 - Simplified troubleshooting
