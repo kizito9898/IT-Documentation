@@ -90,6 +90,7 @@ After patch updates were installed on the Windows 11 device:
 ![Screenshot](images/screenshot989.jpg)
 
 Following the reboot:
+![Scree]
 
 - Recent processes and general reports confirmed that the patch update completed successfully
 - The device returned to normal operational status
@@ -109,7 +110,7 @@ While traditional remote desktop control tools such as:
 - AnyDesk
 
 are commonly used for user-facing software troubleshooting and training sessions, Atera also provides background management tools that allow technicians to resolve system-level issues without interrupting the end user.
-![Screensho]
+![Screenshot](images/screenshot990.jpg)
 
 ---
 ## Background Management Features
