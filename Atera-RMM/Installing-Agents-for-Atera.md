@@ -67,7 +67,7 @@ The overview of my windows server 2022 on atera showing the following
   - Device information  
   - Hardware  
   - Disk details  
-
+![Screenshot](images/screenshot968.jpg)
 ### Device Management Capabilities
 From the device dashboard, you can:
 - Wake the device (Wake-on-LAN if supported)  
