@@ -18,7 +18,7 @@ It enables IT administrators to remotely control:
 
 - Windows devices
 - macOS devices
-
+![Screenshot](images/screenshot997.jpg)
 from their workstation through the Atera platform.
 ### Benefits
 
