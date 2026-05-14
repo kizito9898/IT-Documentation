@@ -46,6 +46,7 @@ The overview of my windows server 2022 on atera showing the following
 - Steps followed:
   - Logged into virtual machine (VMware Pro)  
   - Powered on Windows 11 Pro  
+
   - Logged in  
   - Opened Chrome → Accessed Atera account  
   - Clicked **Install Agent** on the Windows 11 Pro device 
