@@ -145,4 +145,5 @@ From the device dashboard, you can:
     - Agent successfully registered in Atera dashboard
     - Device appears online
 ![Screenshot](images/screenshot975.jpg)Atera is now managing ubuntu devices, showing overviews and others properties of the devices
-![Screenshot](images/screenshot97)
+![Screenshot](images/screenshot979.jpg)
+
