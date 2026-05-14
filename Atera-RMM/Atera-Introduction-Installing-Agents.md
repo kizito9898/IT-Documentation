@@ -69,6 +69,7 @@ By the side you find the dashboard to the following :
 - Custom fields  
 - Passwords  
 ![Screenshot](images/screenshot953.jpg)
+![]
 ### Remote Access
 - Atera allows you to connect to the device (example: GUNTN41-10)  
 - Remote connection tools:
