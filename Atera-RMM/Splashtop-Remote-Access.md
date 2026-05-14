@@ -99,7 +99,7 @@ During the remote session, technicians can:
 ### Example
 
 Used Task Manager to stop applications consuming excessive system resources in order to improve overall performance.
-![Screenshot](images/screenshot998.jpg)
+![Screenshot](images/screenshot999.jpg)
 
 ---
 
