@@ -59,7 +59,7 @@ By the side you find the dashboard to the following :
 ### Verifying Installation
 - Dashboard → Devices → displays the newly installed device on Atera (Available / Online)  
 - Click on the device → shows a complete overview of the device  
-![Screenshot](images/screenshot)
+![Screenshot](images/screenshot952.jpg)
 ### Device Overview Includes
 - Alert status  
 - Patching status  
@@ -68,6 +68,7 @@ By the side you find the dashboard to the following :
 - OS and Security  
 - Custom fields  
 - Passwords  
+
 ### Remote Access
 - Atera allows you to connect to the device (example: GUNTN41-10)  
 - Remote connection tools:
