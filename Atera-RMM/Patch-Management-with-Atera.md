@@ -45,7 +45,9 @@ Automating patch management ensures systems stay updated without interrupting us
 - **Profile Name:** Off-hour Patch Management & Automation  
 - **Deployment Schedule:** Weekly  
 - **Execution Time:** Saturday at 01:00 AM
-![Screenshot](images/screenshot984.jpg)
+![Screenshot](images/screenshot987.jpg)
+
+
 Atera RMM patch management allows IT teams to:
 - Monitor patch status across devices
 - Deploy updates efficiently
