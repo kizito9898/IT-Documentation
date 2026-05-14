@@ -51,6 +51,7 @@ By the side you find the dashboard to the following :
   - Assign Agent → Install Agent  
 - Download installer via browser
 
+
 - Click on the downloaded installer → Atera agent installation → Continue  
 - After installation (takes a few minutes), the OS shows up in the dashboard  
 - The agent has been installed
