@@ -49,6 +49,7 @@ Before using Splashtop through Atera:
 4. Connect to the remote machine
 ![Screenshot](images/screenshot1023.jpg)
 Once connected, technicians can seamlessly access and manage the device remotely.
+![Screenshot](images/screenshot1024.jpg)
 
 ---
 
