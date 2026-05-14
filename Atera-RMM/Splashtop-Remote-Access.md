@@ -141,6 +141,7 @@ Splashtop allows secure file transfer between the technician’s system and the 
 # User Communication During Support Sessions
 
 The IT helpdesk can also communicate directly with end users during remote sessions through built-in chat functionality.
+![Screenshot](images/screenshot1002.jpg)
 
 This ensures:
 
