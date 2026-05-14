@@ -96,7 +96,7 @@ From the device dashboard, you can:
 ### Error Description
 - During installation, the system returned a **.NET Core dependency error**  
 - This prevented the agent from completing installation  
-![Screenshot]
+![Screenshot](images/screenshot972.jpg)
 ### Root Cause
 - Missing required **.NET runtime dependencies**  
 - As a result:
