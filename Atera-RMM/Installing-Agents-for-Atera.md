@@ -137,16 +137,9 @@ From the device dashboard, you can:
 
 - Re-ran the Atera installation script after resolving dependencies
 - Confirmed successful installation
-![Scree]
+![Screenshot](images/screenshot974.jpg)
 ---
 ## Verification
-
-- Checked service status:
-    
-    ```
-    systemctl status ateraagent.service
-    ```
-    
 - Confirmed:
     - Service is active and running
     - Agent successfully registered in Atera dashboard
