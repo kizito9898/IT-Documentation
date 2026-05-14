@@ -57,7 +57,7 @@ The overview of my windows server 2022 on atera showing the following
 ![Screenshot](images/screenshot964.jpg)
 - Windows 11 device is now installed and ready to be managed via Atera RMM 
 ![Screenshot](images/screenshot965.jpg)
-
+![screenshot](images/screenshot966.jpg)
 
 
 
