@@ -90,7 +90,7 @@ After patch updates were installed on the Windows 11 device:
 ![Screenshot](images/screenshot989.jpg)
 
 Following the reboot:
-![Scree]
+![Screenshot](images/screenshot990.jpg)
 
 - Recent processes and general reports confirmed that the patch update completed successfully
 - The device returned to normal operational status
