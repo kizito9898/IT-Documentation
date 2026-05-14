@@ -125,16 +125,13 @@ Splashtop allows secure file transfer between the technician’s system and the 
 1. Open the remote session using Splashtop
 2. Select **File Transfer**
 3. Transfer files from the local device to the remote Windows 11 machine
-
 ### Benefits
 
 - Secure file movement
 - Fast transfer speeds
 - Simplified remote support operations
 - Reduced need for email attachments or external storage
-
 ---
-
 # User Communication During Support Sessions
 
 The IT helpdesk can also communicate directly with end users during remote sessions through built-in chat functionality.
@@ -144,3 +141,4 @@ This ensures:
 - Clear communication
 - Better troubleshooting coordination
 - Improved support experience for end users
+
