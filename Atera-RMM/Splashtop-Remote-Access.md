@@ -177,7 +177,7 @@ If a user reports that they cannot log in to the system and requests a password 
 9. Enable the option:
     - `User must change password at next logon`
 10. Apply the changes.
-![Screenshot](images/screenshot1005)
+![Screenshot](images/screenshot1005.jpg)
 ## Importance of Remote Connectivity
 
 Remote connectivity is essential for technical support because it allows IT administrators and support technicians to:
