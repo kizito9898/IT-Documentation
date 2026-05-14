@@ -81,6 +81,7 @@ As an IT helpdesk technician, remote support tools allow quick access to a clien
 3. Connect to the device remotely using:
    - Splashtop
    - AnyDesk
+![Screenshot](images/screenshot997.)
 
 This provides direct remote access to troubleshoot performance issues and user-related problems.
 
