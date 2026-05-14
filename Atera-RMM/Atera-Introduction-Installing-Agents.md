@@ -88,3 +88,4 @@ Atera for devices also have management for :
 - Run scripts for device management  
 - Ensure devices are up-to-date  
 - Run commands for connectivity  
+![Screenshot](images/screenshot)
