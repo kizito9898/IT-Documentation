@@ -23,6 +23,7 @@ It is a core security practice that ensures client machines are protected agains
 - Go to **OS Patches** → **Available Patches**
 - Select the patches you want to deploy
 - Click **Install** for selected Windows devices
+![Screenshot](images/screenshot981.jpg)
 ### Example
 - Installed patches for:
   - Windows 10
