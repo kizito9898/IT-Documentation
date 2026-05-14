@@ -1,7 +1,7 @@
 # Atera RMM Introduction
 
 Atera RMM is a cloud-based Remote Monitoring and Management (RMM) platform used by IT professionals and Managed Service Providers (MSPs) to monitor, manage, and support computers and networks remotely from a single dashboard.
-![Sc]
+![Screenshot](images/screenshot948.jpg)
 ## Key Features
 
 Atera combines multiple tools into one platform, including:
