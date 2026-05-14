@@ -96,6 +96,7 @@ During the remote session, technicians can:
 - Identify resource-heavy processes
 - Terminate unnecessary applications
 - Resolve performance bottlenecks
+![Screenshot](images/screenshot998.jpg)
 ### Example
 
 Used Task Manager to stop applications consuming excessive system resources in order to improve overall performance.
