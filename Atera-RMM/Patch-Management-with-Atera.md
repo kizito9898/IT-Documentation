@@ -75,7 +75,7 @@ The patch deployment policy was configured to apply to:
 - Clicked **Run Now** to begin deployment
 
 This ensures the environment remains secure and compliant while maintaining maximum uptime for end users during active working hours.
-
+![Screenshot](images/screenshot986.jpg)
 
 ---
 ## System Reboot After Patch Installation
