@@ -86,7 +86,7 @@ From the device dashboard, you can:
   - Open a browser (e.g., Firefox)  
   - Log in to your Atera account  
   - Navigate to **Install Agent**  
-
+![Screenshot](images/screenshot)
 - Open terminal on Ubuntu  
 - Paste the installation script provided by Atera  
 - Execute the script  
