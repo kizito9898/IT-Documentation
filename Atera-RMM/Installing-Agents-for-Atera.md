@@ -56,6 +56,9 @@ The overview of my windows server 2022 on atera showing the following
 - Install the agent → Download → Installation completed successfully  
 ![Screenshot](images/screenshot964.jpg)
 - Windows 11 device is now installed and ready to be managed via Atera RMM 
+![Screenshot](images/screenshot965.jpg)
+
+
 
 
 ### Device Overview (Windows 11 Pro)
