@@ -32,7 +32,7 @@ The connection process is similar to Splashtop remote access.
 5. Launch the AnyDesk session.
 6. Enter the connection password if required.
 7. The end user must approve the connection request before remote access is granted.
-
+![Screenshot](images/screenshot1007)
 
 Once accepted, the technician gains remote access to the user's system.
 
