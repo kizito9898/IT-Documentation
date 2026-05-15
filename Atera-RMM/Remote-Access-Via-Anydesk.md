@@ -1,7 +1,5 @@
 # Remote Connection with AnyDesk
 
-## Introduction to AnyDesk
-
 AnyDesk is a fast and secure remote desktop application that allows users to remotely access and control computers, servers, and mobile devices from anywhere.
 
 It provides:
@@ -206,6 +204,6 @@ Atera allows administrators to perform remote power actions, including:
 - Log off
 - Restart
 - Shutdown
-![Screenshot]
+![Screenshot](images/screenshot1020.jpg)
 
 These actions can be performed remotely without physically accessing the device.
