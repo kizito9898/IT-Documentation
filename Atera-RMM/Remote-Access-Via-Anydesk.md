@@ -88,7 +88,7 @@ This feature is useful for:
 - Delivering configuration files
 - Uploading troubleshooting tools
 - Sharing documents with end users
-
+![Screenshot](images/screenshot1013.jpg)
 ## Disconnecting a Remote Session
 
 After completing support activities:
