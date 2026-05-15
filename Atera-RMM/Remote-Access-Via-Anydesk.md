@@ -35,7 +35,7 @@ The connection process is similar to Splashtop remote access.
 ![Screenshot](images/screenshot1007.jpg)
 
 Once accepted, the technician gains remote access to the user's system.
-![Screenshot](images/screenshot1008)
+![Screenshot](images/screenshot1008.jpg)
 
 ## Remote Support Scenario
 
