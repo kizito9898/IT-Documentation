@@ -22,6 +22,7 @@ AnyDesk is integrated with Atera RMM, allowing technicians to remotely connect t
 
 The connection process is similar to Splashtop remote access.
 
+
 ## Connecting to a Device Using AnyDesk
 
 1. Navigate to **Devices** in Atera.
