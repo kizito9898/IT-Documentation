@@ -144,7 +144,7 @@ The **Service Manager** allows administrators to:
 - Start services
 - Stop services
 - Restart services
-
+![Screenshot](images/scree)
 ### Example
 
 Managing the **Print Spooler** service:
