@@ -166,7 +166,7 @@ Atera allows IT professionals to run:
 
 - Command Prompt commands
 - PowerShell scripts
-
+![Screenshot](images/screenshot1018.jpg)
 
 Commands can be executed as:
 
