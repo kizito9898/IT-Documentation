@@ -120,7 +120,7 @@ The **Manage** section in Atera provides several administrative and troubleshoot
 2. Click **Manage**.
 3. Open **Scripts**.
 4. Access the **Shared Script Library**.
-![S]
+![Screenshot](images/screenshot1016.jpg)
 ### Example Usage
 
 Scripts can be used for:
