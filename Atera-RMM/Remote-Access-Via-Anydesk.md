@@ -95,7 +95,7 @@ After completing support activities:
 
 1. Disconnect the remote connection session.
 2. Ensure all troubleshooting tasks are completed before ending the session.
-![Screenshot](images/scree)
+![Screenshot](images/screenshot1014.jpg)
 
 ---
 
