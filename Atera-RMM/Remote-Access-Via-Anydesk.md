@@ -206,5 +206,6 @@ Atera allows administrators to perform remote power actions, including:
 - Log off
 - Restart
 - Shutdown
+![Screenshot]
 
 These actions can be performed remotely without physically accessing the device.
