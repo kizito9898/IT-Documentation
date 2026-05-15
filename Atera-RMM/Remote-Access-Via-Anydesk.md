@@ -194,6 +194,7 @@ A user reports slow system performance on their device.
 3. Identify unnecessary or resource-intensive tasks.
 4. Select the unnecessary application.
 5. Click **End Task**.
+![Screenshot](images/screenshot1019.jpg)
 
 This helps improve system performance and free up CPU and memory resources.
 
