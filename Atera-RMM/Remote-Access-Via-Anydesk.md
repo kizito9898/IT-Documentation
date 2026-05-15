@@ -80,7 +80,7 @@ Atera allows technicians to transfer files between local and remote devices duri
 4. Choose the required file.
 5. Click **Upload**.
 6. The file is transferred and downloaded to the remote device.
-![Screenshot](images/screenshot1011.jpg)
+![Screenshot](images/screenshot1012.jpg)
 
 This feature is useful for:
 
@@ -95,6 +95,7 @@ After completing support activities:
 
 1. Disconnect the remote connection session.
 2. Ensure all troubleshooting tasks are completed before ending the session.
+![Screenshot](images/scree)
 
 ---
 
