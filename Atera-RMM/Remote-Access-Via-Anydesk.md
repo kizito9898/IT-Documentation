@@ -21,7 +21,7 @@ It provides:
 AnyDesk is integrated with Atera RMM, allowing technicians to remotely connect to managed devices through installed Atera agents.
 
 The connection process is similar to Splashtop remote access.
-
+![Screenshot](images/screenshot1006.jpg)
 
 ## Connecting to a Device Using AnyDesk
 
@@ -32,6 +32,7 @@ The connection process is similar to Splashtop remote access.
 5. Launch the AnyDesk session.
 6. Enter the connection password if required.
 7. The end user must approve the connection request before remote access is granted.
+
 
 Once accepted, the technician gains remote access to the user's system.
 
