@@ -64,6 +64,7 @@ ping 8.8.8.8
 ```
 
 This helped verify that the device had an active internet connection and could communicate externally.
+![Screenshot](images/screenshot1010.jpg)
 
 # File Transfer and Device Management with Atera
 
