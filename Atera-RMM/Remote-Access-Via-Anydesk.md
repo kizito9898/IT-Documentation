@@ -111,9 +111,7 @@ The **Manage** section in Atera provides several administrative and troubleshoot
 - Command Prompt
 - PowerShell
 - Additional remote management tools
-
 ---
-
 # Running Scripts on Windows 11 Devices
 
 ## Accessing Shared Script Library
@@ -122,7 +120,7 @@ The **Manage** section in Atera provides several administrative and troubleshoot
 2. Click **Manage**.
 3. Open **Scripts**.
 4. Access the **Shared Script Library**.
-
+![S]
 ### Example Usage
 
 Scripts can be used for:
