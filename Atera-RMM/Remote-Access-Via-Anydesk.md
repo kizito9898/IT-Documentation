@@ -144,7 +144,7 @@ The **Service Manager** allows administrators to:
 - Start services
 - Stop services
 - Restart services
-![Screenshot](images/scree)
+![Screenshot](images/screenshot1017.jpg)
 ### Example
 
 Managing the **Print Spooler** service:
@@ -166,6 +166,7 @@ Atera allows IT professionals to run:
 
 - Command Prompt commands
 - PowerShell scripts
+
 
 Commands can be executed as:
 
