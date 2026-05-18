@@ -76,9 +76,7 @@ My goal is to work remotely in a dynamic MSP or IT environment where I can grow,
 - [Installing-Agents-for-Atera](Atera-RMM/Installing-Agents-for-Atera.md)
 - [Patch-Management-with-Atera](Atera-RMM/Patch-Management-with-Atera.md)
 - [Remote-Access-VIa-Anydesk](Atera-RMM/Remote-Access-Via-Anydesk.md)
-- [Splashtop-Remote-Access](Atera-R)
-
-
+- [Splashtop-Remote-Access](Atera-RMM/Splashtop-Remote-Access.md)
 
 ### Powershell & Automation
 - [Powershell fundamentals](Powershell/Powershell-Absolute-Fundamentals.md)
