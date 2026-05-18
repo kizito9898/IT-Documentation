@@ -74,7 +74,8 @@ My goal is to work remotely in a dynamic MSP or IT environment where I can grow,
 ### Atera-RMM
 - [Atera-Introduction](Atera-RMM/Atera-introduction.md)
 - [Installing-Agents-for-Atera](Atera-RMM/Installing-Agents-for-Atera.md)
-- [Patch-Management-with-Atera](Atera-RMM)
+- [Patch-Management-with-Atera](Atera-RMM/Patch-Management-with-Atera.md)
+- [Remote]
 
 
 
