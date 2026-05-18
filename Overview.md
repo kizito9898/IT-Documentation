@@ -68,6 +68,13 @@ My goal is to work remotely in a dynamic MSP or IT environment where I can grow,
 - [App Deployment](Intune/App-Deployment.md)  
 - [Intune Troubleshooting](Intune/Enrollment-Troubleshooting.md)  
 
+### Atera-RMM
+- [Atera-Introduction](Atera-RMM/Atera-introduction.md)
+- [Installing-Agents-for-Atera](Atera-RMM/Installing-Agents-for-Atera.md)
+- [Patch-Management-with-Atera](Atera-RMM/Patch-Management-with-Atera.md)
+- [Remote-Access-VIa-Anydesk](Atera-RMM/Remote-Access-Via-Anydesk.md)
+- [Splashtop-Remote-Access](Atera-RMM/Splashtop-Remote-Access.md)
+
 ### Azure & Cloud  
 - [Azure VM Setup](Azure/Virtual-Machines-Setup.md)  
 - [Azure Entra ID](Azure/Entra-ID-Fundamentals.md)  
