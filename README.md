@@ -72,7 +72,8 @@ My goal is to work remotely in a dynamic MSP or IT environment where I can grow,
 - [Intune Troubleshooting](Intune/Enrollment-Troubleshooting.md)  
 
 ### Atera-RMM
-- [Atera-RMM](Atera-RMM/A)
+- [Atera-RMM](Atera-RMM/Atera-introduction.md)
+- 
 
 
 
