@@ -73,7 +73,7 @@ My goal is to work remotely in a dynamic MSP or IT environment where I can grow,
 
 ### Atera-RMM
 - [Atera-RMM](Atera-RMM/Atera-introduction.md)
-- 
+- [Atera-RMM](Atera-RMM/Installing-)
 
 
 
