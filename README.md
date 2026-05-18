@@ -66,14 +66,15 @@ My goal is to work remotely in a dynamic MSP or IT environment where I can grow,
 - [Microsoft 365 Deployment](Microsoft365/Microsoft-365-Deployment.md)  
 
 ### Intune & Endpoint Management  
-- [Device Enrollment](Intune/Device-Enrollment.md)  
+- [Device Enrollment](Intune/Device-Enrollment.md)
 - [Compliance Policies](Intune/Compliance-Policies.md)  
 - [App Deployment](Intune/App-Deployment.md)  
 - [Intune Troubleshooting](Intune/Enrollment-Troubleshooting.md)  
 
 ### Atera-RMM
 - [Atera-RMM](Atera-RMM/Atera-introduction.md)
-- [Atera-RMM](Atera-RMM/Installing-)
+- [Atera-RMM](Atera-RMM/Installing-Agents-for-Atera.md)
+- 
 
 
 
