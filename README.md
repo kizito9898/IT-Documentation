@@ -71,6 +71,7 @@ My goal is to work remotely in a dynamic MSP or IT environment where I can grow,
 - [App Deployment](Intune/App-Deployment.md)  
 - [Intune Troubleshooting](Intune/Enrollment-Troubleshooting.md)  
 
+###
 ### Powershell & Automation
 - [Powershell fundamentals](Powershell/Powershell-Absolute-Fundamentals.md)
 - [Powershell Automation](Powershell/Powershell-Automation.md)
