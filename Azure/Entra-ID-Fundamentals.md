@@ -125,7 +125,7 @@ Microsoft Entra ID (formerly Azure AD) provides centralized device management, a
 - Implement **Conditional Access** to restrict access from noncompliant or unmanaged devices.  
 - Use **device cleanup policies** to remove stale or inactive devices.  
 - Integrate with **Microsoft Intune** for advanced device management and endpoint security. 
-
+![Screenshot](images/screenshot1026.jpg)
 
 ---
 
