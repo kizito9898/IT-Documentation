@@ -158,3 +158,65 @@ GitHub Repository:
 2. Download the latest release.
 3. Extract the package.
 4. Prepare the files for the macOS installation process.
+
+# OpenCore 1.0.7 Release
+
+## Extract the OpenCore Package
+
+- Extract the downloaded **OpenCore 1.0.7 Release ZIP** from GitHub since it is compressed.
+
+---
+
+## Step 2: Download the macOS Sequoia Base System
+
+The next step is to download the **macOS Sequoia Base System** image.
+
+This is done using a tool called **macrecovery**, which is included in the OpenCore package.
+
+### Steps
+
+1. Navigate to the extracted **OpenCore 1.0.7 Release** folder.
+2. Open the `Utilities` folder.
+3. Launch either **PowerShell** or **Terminal**.
+
+To download the Base System image for the macOS version you want to install, provide the appropriate **Board ID** for the latest supported version.
+
+Example command:
+
+```bash
+py macrecovery.py -b Mac-937A206F2EE63C01 -m 00000000000000000 download
+```
+
+---
+
+## Convert the Downloaded Base System
+
+After the Base System download is complete, use **QEMU** to convert the downloaded image.
+
+### Navigate to the Download Location
+
+Use PowerShell to navigate to the folder where the files were downloaded:
+
+```powershell
+cd .\com.apple.recovery.boot\
+```
+
+You can use the `ls` command to verify that the downloaded files are present.
+
+---
+
+## Convert the BaseSystem Image
+
+Navigate to the QEMU installation directory (example):
+
+```powershell
+C:\Program Files\qemu\
+```
+
+Run the following command:
+
+```powershell
+qemu-img.exe convert -O vmdk -o compat6 BaseSystem.dmg BaseSystem.vmdk
+```
+
+This converts the downloaded `BaseSystem.dmg` into a VMware-compatible `BaseSystem.vmdk` disk image.
