@@ -220,3 +220,122 @@ qemu-img.exe convert -O vmdk -o compat6 BaseSystem.dmg BaseSystem.vmdk
 ```
 
 This converts the downloaded `BaseSystem.dmg` into a VMware-compatible `BaseSystem.vmdk` disk image.
+
+# Getting Started with macOS Installation (Continued)
+
+- Using the `ls` command shows you the pathway of the file.
+- Using File Explorer, locate the `com.apple.recovery.boot` file.
+
+## Step 2: Create the VMware Virtual Machine
+
+- Create the VMware virtual machine using the template provided in the **OCA4VM** package.
+
+### Prepare the VMware Template
+
+1. Navigate to the **OCA4VM** folder.
+2. Open the folder.
+3. Go to:
+   - `VMware`
+   - `VMware`
+   - `Intel & AMD`
+4. Copy the **Intel** folder (since I am using an Intel laptop).
+
+### Organize the Files
+
+1. Go to the **Documents** folder.
+2. Paste the copied Intel folder.
+3. Rename the folder to **macOS**.
+4. Move the `BaseSystem.vmdk` file from:
+
+   `Utilities → macrecovery → com.apple.recovery.boot`
+
+   into the newly renamed **macOS (Intel)** virtual machine folder inside **Documents**.
+
+## Step 3: Open VMware Workstation Pro
+
+1. Open **VMware Workstation Pro**.
+2. From the top-left menu:
+   - Click **File**
+   - Select **Open**
+3. Navigate to:
+
+   `Documents → Virtual Machine → macOS`
+
+4. Open the macOS virtual machine file.
+
+### Configure the Virtual Machine
+
+- Click **Edit Virtual Machine Settings**.
+- Configure the following:
+  - **Memory:** 8 GB (can be increased to 16 GB)
+  - **Hard Disk:** SATA (128 GB)
+
+### Add the BaseSystem Disk
+
+The `BaseSystem.vmdk` file will be used for the macOS installation.
+
+1. Click **Hard Disk (SATA)**.
+2. Click **Add**.
+3. Select **Hard Disk**.
+4. Click **Next**.
+
+# Continuing macOS Installation in VMware
+
+## Attach the Base System Disk
+
+- Select **Disk Type** as **SATA**.
+- Click **Next**.
+- Select **Use an Existing Virtual Disk**.
+- Click **Browse** and choose the **BaseSystem.vmdk** file.
+- Click **Finish**.
+- Choose **Keep Existing Format**.
+- Click **OK**.
+
+## Boot the Virtual Machine
+
+- Power on the virtual machine.
+- OpenCore will detect a single bootable drive, which is the **Base System** we created that contains the macOS Recovery environment.
+
+## Install macOS Sequoia
+
+1. Wait for the Apple logo to appear.
+2. After a few minutes, select your preferred language.
+3. Click **Next**.
+4. Select **Reinstall macOS Sequoia**.
+5. Click **Continue**.
+6. Accept the license agreement.
+7. Select **Macintosh HD** as the installation destination.
+8. Click **Continue**.
+
+- The installation process will take some time to complete.
+
+## Complete the Initial Setup
+
+After macOS finishes installing:
+
+- Select your country or region.
+- Follow the setup wizard.
+- Create a user account with a username and password.
+
+macOS has now been successfully installed inside VMware Workstation Pro.
+
+# Enable Shared Folders Between Host and macOS
+
+1. Open **VMware Settings**.
+2. Select the **Options** tab.
+3. Click **Shared Folders**.
+4. Set the option to **Always Enabled**.
+5. Click **Add**.
+6. The **Add Shared Folder Wizard** will open.
+7. Select the folder you want to share.
+8. Click **OK**.
+9. Restart macOS.
+
+After restarting:
+
+1. Open **Finder**.
+2. Click **Go** from the top menu.
+3. Select **Computer**.
+4. The **VM Shared Folder** will appear.
+5. Open it to access shared files.
+6. You can copy files from the shared folder or use images as wallpapers if needed.
