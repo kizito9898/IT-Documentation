@@ -290,7 +290,7 @@ The `BaseSystem.vmdk` file will be used for the macOS installation.
 ![Screenshot](images/screenshot1043.jpg)
 7. Select **Macintosh HD** as the installation destination.
 8. Click **Continue**.
-
+![Screenshot](images/screenshot1045.jpg)
 - The installation process will take some time to complete.
 ![Screenshot](images/screenshot1044.jpg)
 ## Complete the Initial Setup
