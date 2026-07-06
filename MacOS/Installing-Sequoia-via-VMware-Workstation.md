@@ -171,6 +171,9 @@ Example command:
 py macrecovery.py -b Mac-937A206F2EE63C01 -m 00000000000000000 download
 ```
 
+![Screenshot](images/screenshot1033.jpg)
+
+
 ---
 
 ## Convert the Downloaded Base System
