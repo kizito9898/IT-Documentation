@@ -235,7 +235,7 @@ This converts the downloaded `BaseSystem.dmg` into a VMware-compatible `BaseSyst
    `Utilities → macrecovery → com.apple.recovery.boot`
 
    into the newly renamed **macOS (Intel)** virtual machine folder inside **Documents**.
-
+![Screenshot](images/screenshot1038.jpg)
 ## Step 3: Open VMware Workstation Pro
 
 1. Open **VMware Workstation Pro**.
