@@ -147,14 +147,9 @@ GitHub Repository:
 1. Navigate to the GitHub repository.
 2. Download the latest release.
 3. Extract the package.
-4. Prepare the files for the macOS installation process.
-
-# OpenCore 1.0.7 Release
-
-## Extract the OpenCore Package
-
+4. Prepare the files for the macOS installation process
 - Extract the downloaded **OpenCore 1.0.7 Release ZIP** from GitHub since it is compressed.
-
+![Screenshot](images/screenshot1032.jpg)
 ---
 
 ## Step 2: Download the macOS Sequoia Base System
