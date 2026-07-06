@@ -59,27 +59,21 @@ The following software must be installed before proceeding:
 - VMware Workstation Pro
 - OCVM (OpenCore VMware Package)
 - OpenCorePkg
-
 ---
-
 # Installing Python 3
 
 Python is required by several scripts used during the macOS installation process.
-
-## Steps
+## steps
 
 1. Visit the official Python website:
    - https://www.python.org
 2. Download the latest stable release of **Python 3**.
 3. Run the installer.
 4. Complete the installation wizard.
-
 ---
-
 # Installing QEMU
 
 QEMU provides virtualization components required during the macOS setup.
-
 ## Steps
 
 1. Visit the official download page:
@@ -88,9 +82,7 @@ QEMU provides virtualization components required during the macOS setup.
 3. Launch the installer.
 4. Complete the QEMU installation wizard.
 5. Verify that QEMU has been installed successfully.
-
 ---
-
 # Installing VMware Workstation Pro
 
 VMware Workstation Pro is used as the virtualization platform for running macOS.
