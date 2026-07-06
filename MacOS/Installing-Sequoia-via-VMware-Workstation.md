@@ -303,7 +303,7 @@ After macOS finishes installing:
 - Create a user account with a username and password.
 ![Screenshot](images/screenshot1046.jpg)
 macOS has now been successfully installed inside VMware Workstation Pro.
-
+![Screenshot](images/screenshot1050.jpg)
 # Enable Shared Folders Between Host and macOS
 
 1. Open **VMware Settings**.
