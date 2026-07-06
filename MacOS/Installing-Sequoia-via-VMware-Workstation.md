@@ -231,7 +231,7 @@ This converts the downloaded `BaseSystem.dmg` into a VMware-compatible `BaseSyst
 2. Paste the copied Intel folder.
 3. Rename the folder to **macOS**.
 4. Move the `BaseSystem.vmdk` file from:
-
+![Screenshot]
    `Utilities → macrecovery → com.apple.recovery.boot`
 
    into the newly renamed **macOS (Intel)** virtual machine folder inside **Documents**.
