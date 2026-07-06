@@ -278,10 +278,10 @@ The `BaseSystem.vmdk` file will be used for the macOS installation.
 
 - Power on the virtual machine.
 - OpenCore will detect a single bootable drive, which is the **Base System** we created that contains the macOS Recovery environment.
-
 ## Install macOS Sequoia
 
 1. Wait for the Apple logo to appear.
+![Screenshot](images/screenshot1041.jpg)
 2. After a few minutes, select your preferred language.
 3. Click **Next**.
 4. Select **Reinstall macOS Sequoia**.
