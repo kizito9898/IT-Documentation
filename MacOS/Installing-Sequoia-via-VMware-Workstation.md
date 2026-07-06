@@ -262,8 +262,7 @@ The `BaseSystem.vmdk` file will be used for the macOS installation.
 2. Click **Add**.
 3. Select **Hard Disk**.
 4. Click **Next**.
-
-# Continuing macOS Installation in VMware
+![Screenshot](images/screenshot1039.jpg)
 
 ## Attach the Base System Disk
 
