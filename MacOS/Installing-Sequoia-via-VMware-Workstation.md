@@ -79,10 +79,11 @@ QEMU provides virtualization components required during the macOS setup.
 
 1. Visit the official download page:
    - https://qemu.weilnetz.de/w64/
-2. Download the latest stable Windows release.
-3. Launch the installer.
-4. Complete the QEMU installation wizard.
-5. Verify that QEMU has been installed successfully.
+1. Download the latest stable Windows release.
+![Screenshot](images/screenshot1028.jpg)
+2. Launch the installer.
+3. Complete the QEMU installation wizard.
+4. Verify that QEMU has been installed successfully.
 ---
 # Installing VMware Workstation Pro
 
