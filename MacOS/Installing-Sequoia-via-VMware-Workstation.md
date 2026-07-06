@@ -84,6 +84,7 @@ QEMU provides virtualization components required during the macOS setup.
 2. Launch the installer.
 3. Complete the QEMU installation wizard.
 4. Verify that QEMU has been installed successfully.
+![Screenshot](images/screenshot1029.jpg)
 ---
 # Installing VMware Workstation Pro
 
