@@ -206,8 +206,7 @@ qemu-img.exe convert -O vmdk -o compat6 BaseSystem.dmg BaseSystem.vmdk
 ```
 
 This converts the downloaded `BaseSystem.dmg` into a VMware-compatible `BaseSystem.vmdk` disk image.
-![Screenshot](im)
-# Getting Started with macOS Installation (Continued)
+![Screenshot](images/screenshot1034.jpg)
 
 - Using the `ls` command shows you the pathway of the file.
 - Using File Explorer, locate the `com.apple.recovery.boot` file.
