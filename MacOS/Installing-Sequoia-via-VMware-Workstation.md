@@ -287,6 +287,7 @@ The `BaseSystem.vmdk` file will be used for the macOS installation.
 4. Select **Reinstall macOS Sequoia**.
 5. Click **Continue**.
 6. Accept the license agreement.
+![Screenshot](images/screenshot1043.jpg)
 7. Select **Macintosh HD** as the installation destination.
 8. Click **Continue**.
 
