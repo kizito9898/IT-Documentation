@@ -107,14 +107,14 @@ The next package required is **OCVM (OpenCore VMware Package)**.
 GitHub Repository:
 
 - https://github.com/DrDonk/OCVM/releases
-![Screensjh]
+![Screenshot](images/screenshot1030.jpg)
 ## Steps
 
 1. Open the GitHub releases page.
 2. Download the latest stable release.
 3. For this project, Version **3.0** was selected.
 4. Extract the downloaded package.
-
+![Screenshot]
 ---
 
 # Understanding OpenCore
