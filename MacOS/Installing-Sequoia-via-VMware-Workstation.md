@@ -247,14 +247,13 @@ This converts the downloaded `BaseSystem.dmg` into a VMware-compatible `BaseSyst
    `Documents → Virtual Machine → macOS`
 
 4. Open the macOS virtual machine file.
-![Screenshot](ima)
+![Screenshot](images/screenshot1040.jpg)
 ### Configure the Virtual Machine
 
 - Click **Edit Virtual Machine Settings**.
 - Configure the following:
   - **Memory:** 8 GB (can be increased to 16 GB)
   - **Hard Disk:** SATA (128 GB)
-
 ### Add the BaseSystem Disk
 
 The `BaseSystem.vmdk` file will be used for the macOS installation.
