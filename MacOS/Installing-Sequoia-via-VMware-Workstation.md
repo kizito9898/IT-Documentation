@@ -29,6 +29,7 @@ Understanding macOS enables technicians to:
 - Support mixed operating system environments
 - Expand their technical skill set
 - Increase employability in modern IT environments
+![Screen]
 ---
 # Benefits of Learning macOS
 
@@ -328,4 +329,4 @@ After restarting:
 5. Open it to access shared files.
 6. You can copy files from the shared folder or use images as wallpapers if needed.
 
-![Scree]
+![Screenshot](images/screenshot1052.jpg)
