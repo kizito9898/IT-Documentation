@@ -7,7 +7,6 @@ macOS is the proprietary Unix-based operating system developed by Apple Inc. It 
 Unlike Microsoft Windows, macOS combines an intuitive graphical user interface (GUI) with powerful command-line capabilities, making it suitable for both everyday users and IT professionals.
 
 ---
-
 # Project Objective
 
 The goal of this project is to configure and document a fully functional virtualized macOS environment (macOS 15 Sequoia) using a VMware hypervisor on standard Windows hardware.
@@ -19,7 +18,6 @@ This project also serves as a learning platform to:
 - Develop technical support skills for macOS environments
 
 ---
-
 # Why Learn macOS for IT Support?
 
 To provide private and enterprise-level technical support, technicians must possess a strong understanding of multiple operating systems rather than relying on a single platform.
@@ -30,7 +28,6 @@ Understanding macOS enables technicians to:
 - Support mixed operating system environments
 - Expand their technical skill set
 - Increase employability in modern IT environments
-
 ---
 # Benefits of Learning macOS
 
@@ -53,7 +50,6 @@ This knowledge helps technicians transition smoothly into modern IT support role
 Before installing macOS Sequoia in a virtual environment, several prerequisite tools and packages must be downloaded and installed. These tools are required to prepare the virtualization environment and support the macOS installation process.
 
 ---
-
 # Prerequisites
 
 The following software must be installed before proceeding:
