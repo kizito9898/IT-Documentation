@@ -318,7 +318,7 @@ macOS has now been successfully installed inside VMware Workstation Pro.
 7. Select the folder you want to share.
 8. Click **OK**.
 9. Restart macOS.
-
+![Screenshot](images/screenshot1051.jp)
 After restarting:
 
 1. Open **Finder**.
