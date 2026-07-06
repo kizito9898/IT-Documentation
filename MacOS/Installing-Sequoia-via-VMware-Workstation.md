@@ -292,7 +292,7 @@ The `BaseSystem.vmdk` file will be used for the macOS installation.
 8. Click **Continue**.
 
 - The installation process will take some time to complete.
-
+![Screenshot](images/screenshot1044.jpg)
 ## Complete the Initial Setup
 
 After macOS finishes installing:
