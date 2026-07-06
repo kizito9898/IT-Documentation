@@ -114,7 +114,7 @@ GitHub Repository:
 2. Download the latest stable release.
 3. For this project, Version **3.0** was selected.
 4. Extract the downloaded package.
-![Screenshot]
+![Screenshot](images/screenshot1031.jpg)
 ---
 
 # Understanding OpenCore
