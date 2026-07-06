@@ -70,6 +70,7 @@ Python is required by several scripts used during the macOS installation process
 2. Download the latest stable release of **Python 3**.
 3. Run the installer.
 4. Complete the installation wizard.
+![Screenshot](images/screenshot1027.jpg)
 ---
 # Installing QEMU
 
