@@ -29,7 +29,7 @@ Understanding macOS enables technicians to:
 - Support mixed operating system environments
 - Expand their technical skill set
 - Increase employability in modern IT environments
-![Screen]
+![Screenshot](images/screenshot1052.jpg)
 ---
 # Benefits of Learning macOS
 
