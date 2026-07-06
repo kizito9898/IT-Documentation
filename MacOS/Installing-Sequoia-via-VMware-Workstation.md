@@ -188,9 +188,9 @@ cd .\com.apple.recovery.boot\
 ```
 
 You can use the `ls` command to verify that the downloaded files are present.
+![Screenshot](images/screenshot1034.jpg)
 
 ---
-
 ## Convert the BaseSystem Image
 
 Navigate to the QEMU installation directory (example):
