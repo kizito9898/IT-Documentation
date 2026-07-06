@@ -247,7 +247,7 @@ This converts the downloaded `BaseSystem.dmg` into a VMware-compatible `BaseSyst
    `Documents → Virtual Machine → macOS`
 
 4. Open the macOS virtual machine file.
-
+![Screenshot](ima)
 ### Configure the Virtual Machine
 
 - Click **Edit Virtual Machine Settings**.
