@@ -100,7 +100,6 @@ VMware Workstation Pro is used as the virtualization platform for running macOS.
 > For this lab environment, VMware Workstation Pro was already installed from previous virtualization projects.
 
 ---
-
 # Downloading OCVM
 
 The next package required is **OCVM (OpenCore VMware Package)**.
@@ -108,7 +107,7 @@ The next package required is **OCVM (OpenCore VMware Package)**.
 GitHub Repository:
 
 - https://github.com/DrDonk/OCVM/releases
-
+![Screensjh]
 ## Steps
 
 1. Open the GitHub releases page.
