@@ -141,7 +141,7 @@ OpenCorePkg contains the OpenCore bootloader and supporting files required durin
 GitHub Repository:
 
 - https://github.com/acidanthera/OpenCorePkg
-
+![Screenshot](images/screenshot1031.jpg)
 ## Steps
 
 1. Navigate to the GitHub repository.
