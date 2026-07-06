@@ -224,7 +224,7 @@ This converts the downloaded `BaseSystem.dmg` into a VMware-compatible `BaseSyst
    - `VMware`
    - `Intel & AMD`
 4. Copy the **Intel** folder (since I am using an Intel laptop).
-![Screenshot](images/screenshot1035.jp)
+![Screenshot](images/screenshot1035.jpg)
 ### Organize the Files
 
 1. Go to the **Documents** folder.
