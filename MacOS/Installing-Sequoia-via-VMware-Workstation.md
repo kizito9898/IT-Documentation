@@ -151,7 +151,6 @@ GitHub Repository:
 - Extract the downloaded **OpenCore 1.0.7 Release ZIP** from GitHub since it is compressed.
 ![Screenshot](images/screenshot1032.jpg)
 ---
-
 ## Step 2: Download the macOS Sequoia Base System
 
 The next step is to download the **macOS Sequoia Base System** image.
