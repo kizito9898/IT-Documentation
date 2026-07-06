@@ -5,6 +5,7 @@
 macOS is the proprietary Unix-based operating system developed by Apple Inc. It is designed to run on Macintosh (Mac) computers.
 
 Unlike Microsoft Windows, macOS combines an intuitive graphical user interface (GUI) with powerful command-line capabilities, making it suitable for both everyday users and IT professionals.
+![Screenshot](images/screenshot1047.jpg)
 
 ---
 # Project Objective
