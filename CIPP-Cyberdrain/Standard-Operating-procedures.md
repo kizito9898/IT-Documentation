@@ -50,7 +50,6 @@ To manage clients effectively, you must map roles in CIPP to groups in your part
 - **Group Creation:** CIPP creates a corresponding group for each role in your partner tenant (e.g., `M365 GDAP Exchange Admin`).
     
 - **Assignment:** You add your technicians to these groups to grant them permissions across client tenants.
-    
 ---
 ## 3. Tenant Onboarding (Step-by-Step)
 
@@ -69,7 +68,6 @@ Before a tenant appears in CIPP, you must have a valid CSP and GDAP relationship
     - Select the roles you need and generate an invite link.
         
 3. **Client Approval:** The client (or a Global Admin on their side) must click the link and approve the relationship.
-    
 ### Phase 2: Onboard into CIPP
 
 Once the relationship exists in Microsoft's backend, follow these steps to make the tenant manageable in CIPP:
