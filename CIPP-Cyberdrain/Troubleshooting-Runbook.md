@@ -64,7 +64,6 @@ When the issue persisted, I requested:
 **Diagnosis:** **Expired GDAP (Granular Delegated Admin Privileges).**
 
 - **Technical Explanation:** CIPP relies on the Microsoft Graph API to fetch user data. When GDAP expires, the Service Principal no longer has permission to read the data. The API call returns a `null` or `403 Forbidden` response, which the CIPP frontend often interprets and displays as a generic "500 Internal Server Error."
-    
 ### 4. Resolution
 
 **Action Taken:** Guided the user to the **Onboarding Wizard** for permission remediation.
