@@ -241,3 +241,120 @@ Example:
 5. Click **Finish** to map the network drive.
 
 The shared folder is now available in File Explorer as a mapped network drive.
+# Drive Mapping with Group Policy
+
+Drive mapping using **Group Policy** allows administrators to automatically map network drives for users whenever they sign in. This provides a consistent user experience and eliminates the need for users to manually map shared drives.
+
+---
+
+## Opening Group Policy Management
+
+1. Open **Server Manager**.
+2. Select **Tools**.
+3. Click **Group Policy Management**.
+
+The Group Policy Management console opens and displays:
+
+- Forest
+- Domains
+- Domain (e.g., `Njikason.local`)
+- Organizational Units (OUs)
+- Sub-OUs
+- Group Policy Objects (GPOs)
+
+---
+
+## Creating a Group Policy Object (GPO)
+
+1. Right-click the **Accounting** Organizational Unit (OU).
+2. Select **Create a GPO in this domain, and Link it here**.
+3. Enter a name for the policy.
+
+Example:
+
+```text
+Tech-Map
+```
+
+4. Click **OK**.
+
+---
+
+## Editing the Group Policy
+
+Expand the **Accounting** OU.
+
+Right-click the newly created GPO (**Tech-Map**) and select **Edit**.
+
+The Group Policy Editor displays two main sections:
+
+- Computer Configuration
+- User Configuration
+
+Since drive mapping is applied to users when they sign in, configure the policy under **User Configuration**.
+
+---
+## Configuring Drive Mapping
+
+Navigate to:
+
+```text
+User Configuration
+    └── Preferences
+        └── Windows Settings
+            └── Drive Maps
+```
+
+1. Right-click **Drive Maps**.
+2. Select **New**.
+3. Click **Mapped Drive**.
+
+Configure the following settings:
+### Action
+
+Change the action to:
+
+```text
+Create
+```
+### Location
+
+Copy the network share path from the shared folder.
+
+Example:
+
+```text
+\\SERVER2025\CompanyData
+```
+
+Paste the path into the **Location** field.
+### Label
+
+Enter a friendly drive name.
+
+Example:
+
+```text
+Department_Drive
+```
+
+### Drive Letter
+
+Select an available drive letter.
+
+Example:
+
+```text
+D:
+```
+
+---
+## Common Tab
+
+Open the **Common** tab.
+
+Enable:
+
+- Item-level targeting
+
+This allows the mapped drive to be applied only to specific users or groups based on the configured targeting rules.
