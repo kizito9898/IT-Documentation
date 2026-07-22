@@ -348,7 +348,7 @@ Kizito Njika
 5. Click **Check Names**.
 6. Click **OK**.
 7. Click **Apply** and **OK**.
-![Screenshot](im)
+![Screenshot](images/screenshot1085.jpg)
 The user is now a member of the selected security group.
 
 ---
@@ -363,9 +363,7 @@ Once joined:
 - Users can log in using their Active Directory accounts.
 - Group Policies can be applied.
 - IT administrators can centrally manage the device.
-
 ---
-
 ## Preparing the Windows 11 Client
 
 Before joining the domain, the Windows 11 computer must be on the same network as the Domain Controller.
