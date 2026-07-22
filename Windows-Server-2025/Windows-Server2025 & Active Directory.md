@@ -437,6 +437,7 @@ After the restart:
 2. Sign in using the Active Directory user credentials created earlier and change password.
 
 3. Confirm that the user can successfully log in to the domain.
+![Screenshot](images/screenshot1095.jpg)
 ---
 ### Verify the Computer in Active Directory
 
