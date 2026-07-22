@@ -348,7 +348,7 @@ Kizito Njika
 5. Click **Check Names**.
 6. Click **OK**.
 7. Click **Apply** and **OK**.
-
+![Screenshot](im)
 The user is now a member of the selected security group.
 
 ---
