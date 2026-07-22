@@ -44,7 +44,7 @@ Navigate to **Windows Server 2025**.
   - HR
   - IT
   - Marketing
-
+![Screenshot](Images/screenshot1101.jpg)
 These security groups will later be used to assign folder permissions instead of assigning permissions directly to individual users.
 
 ---
