@@ -159,3 +159,4 @@ Example:
   - Run programs
 
 When a user connects to a shared folder from another computer, **Share Permissions** determine the user's initial level of access. NTFS permissions are then combined with Share Permissions to determine the user's effective permissions.
+
