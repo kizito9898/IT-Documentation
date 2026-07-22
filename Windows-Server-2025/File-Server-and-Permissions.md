@@ -194,20 +194,17 @@ To ensure that only the HR team can access the folder:
 ![Screenshot](images/screenshot1104.jpg)
 
 ---
-
 ## Best Practice
 
 Leave the following accounts with administrative permissions:
 
 - Administrators
 - SYSTEM
-
 These accounts are required for Windows to function correctly and for administrative management.
 
 Click **Apply**, then **OK**.
 
 ---
-
 # Configuring Share Permissions
 
 Navigate to the **Company Data** folder.
