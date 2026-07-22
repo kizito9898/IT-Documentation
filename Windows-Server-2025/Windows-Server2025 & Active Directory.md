@@ -433,6 +433,7 @@ njikason.local
 After the restart:
 
 1. Select **Other User** on the Windows sign-in screen.
+
 2. Sign in using the Active Directory user credentials created earlier.
 3. Confirm that the user can successfully log in to the domain.
 ---
