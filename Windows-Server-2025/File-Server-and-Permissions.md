@@ -398,7 +398,7 @@ Since the mapped drive did not appear:
 2. Locate the **Tech-Map** Group Policy Object.
 3. Right-click the policy.
 4. Select **Enforced**.
-![Screenshot]
+![Screenshot](images/screenshot1118.jpg)
 5. Return to the Windows 11 client.
 6. Sign out and sign back in.
 
