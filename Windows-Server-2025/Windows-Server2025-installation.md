@@ -133,12 +133,10 @@ Njikason.local
 - Enter the **Directory Services Restore Mode (DSRM)** password.
 - Ignore the DNS delegation warning for now.
 - Click **Next**.
-
 ### Additional Options
 
 - Leave the default settings.
 - Click **Next**.
-
 ### Prerequisites Check
 
 - Wait for the prerequisite checks to complete successfully.
@@ -148,9 +146,7 @@ After the installation finishes:
 
 - The server automatically restarts.
 - The server is now configured as a **Domain Controller**.
-
 ---
-
 # Opening Active Directory Users and Computers
 
 ### Method 1
@@ -158,7 +154,6 @@ After the installation finishes:
 - Open the **Start Menu**.
 - Select **Windows Tools**.
 - Open **Active Directory Users and Computers**.
-
 ### Method 2
 
 - Open **Server Manager**.
@@ -168,7 +163,6 @@ After the installation finishes:
 The Active Directory management console opens.
 
 ---
-
 # Joining Windows 11 to an Active Directory Domain
 
 Joining a Windows 11 computer to Active Directory allows administrators to centrally manage users, computers, and security policies across the organization's network.
