@@ -233,18 +233,18 @@ Open **File Explorer**.
 Example:
 
 ```text
-\\FileServer\CompanyData
+\\Server2022\CompanyData
 ```
 
 5. Click **Finish** to map the network drive.
-![Screenshot](images/screenshot)
+![Screenshot](images/screenshot1106.jpg)
 
 The shared folder is now available in File Explorer as a mapped network drive.
+
+---
 # Drive Mapping with Group Policy
 
 Drive mapping using **Group Policy** allows administrators to automatically map network drives for users whenever they sign in. This provides a consistent user experience and eliminates the need for users to manually map shared drives.
-
----
 
 ## Opening Group Policy Management
 
