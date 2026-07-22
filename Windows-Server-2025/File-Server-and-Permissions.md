@@ -237,6 +237,7 @@ Example:
 ```
 
 5. Click **Finish** to map the network drive.
+![Screenshot](images/screenshot)
 
 The shared folder is now available in File Explorer as a mapped network drive.
 # Drive Mapping with Group Policy
