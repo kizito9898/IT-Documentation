@@ -337,20 +337,16 @@ Example:
 ```text
 Department_Drive
 ```
-
 ### Drive Letter
 
 Select an available drive letter.
-
 Example:
 
 ```text
 D:
 ```
-
 ---
 ## Common Tab
-
 Open the **Common** tab.
 
 Enable:
@@ -358,3 +354,64 @@ Enable:
 - Item-level targeting
 
 This allows the mapped drive to be applied only to specific users or groups based on the configured targeting rules.
+
+# Applying Security Group Filtering
+
+Configure the Group Policy to apply only to the **Accounting** security group.
+
+1. Locate the **Accounting** Security Group.
+2. Select the group.
+3. Click **OK**.
+4. Click **Apply**.
+
+The Group Policy configuration is now complete.
+
+---
+
+# Testing the Drive Mapping
+
+To verify that the policy works correctly:
+
+1. Log into the **Windows 11** client computer using a user account that belongs to the **Accounting** security group.
+
+Example:
+
+```text
+Christopher Nolan
+```
+
+2. Open **File Explorer**.
+
+At this stage, the mapped drive was **not displayed**.
+
+---
+
+# Troubleshooting
+
+Since the mapped drive did not appear:
+
+1. Return to **Group Policy Management**.
+2. Locate the **Tech-Map** Group Policy Object.
+3. Right-click the policy.
+4. Select **Enforced**.
+5. Return to the Windows 11 client.
+6. Sign out and sign back in.
+
+If the mapped drive is still unavailable, manually refresh Group Policy.
+
+---
+# Refreshing Group Policy
+
+Open **Command Prompt** and run:
+
+```cmd
+gpupdate /force
+```
+
+After the policy refresh completes:
+
+1. Sign out if prompted.
+2. Sign back into Windows.
+3. Open **File Explorer**.
+
+The mapped network drive should now appear automatically for users who belong to the **Accounting** security group.
