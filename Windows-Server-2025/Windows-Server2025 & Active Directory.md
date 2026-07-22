@@ -271,3 +271,96 @@ Examples include:
 - HR
 
 This structure helps organize Active Directory objects and simplifies administration, Group Policy management, and permission delegation.
+
+# Creating User Accounts in Active Directory
+
+Creating user accounts in Active Directory allows users within the organization to authenticate and access company resources using their assigned usernames and passwords.
+
+## Creating a New User Account
+
+1. Open **Active Directory Users and Computers**.
+2. Navigate to the Organizational Unit (OU) where the user account will be created.
+3. Right-click the OU.
+4. Select **New** → **User**.
+5. Enter the following information:
+
+- First Name
+- Last Name
+- User Logon Name (Username)
+
+6. Click **Next**.
+7. Create a password for the user.
+8. Select **User must change password at next logon**.
+9. Click **Next**.
+10. Click **Finish**.
+
+The user account has now been created.
+
+---
+
+## Creating Additional User Accounts
+
+To create another user:
+
+1. Navigate to the appropriate Organizational Unit (Example: **IT**).
+2. Right-click the OU.
+3. Select **New** → **User**.
+4. Enter:
+
+- First Name
+- Last Name
+- User Logon Name
+- Password
+
+5. Click **Next**.
+6. Click **Finish**.
+
+Repeat the process for additional users as required.
+
+---
+
+## Adding a User to a Security Group
+
+1. Double-click the user account.
+
+Example:
+
+```text
+Kizito Njika
+```
+
+2. Open the **Member Of** tab.
+3. Click **Add**.
+4. Search for the required security group.
+5. Click **Check Names**.
+6. Click **OK**.
+7. Click **Apply** and **OK**.
+
+The user is now a member of the selected security group.
+
+---
+
+# Joining Windows 11 to the Domain Controller (Windows Server 2025)
+
+Joining a Windows 11 computer to an Active Directory domain allows users to sign in using their domain credentials and enables centralized management by the Domain Controller.
+
+Once joined:
+
+- Windows Server and Windows 11 can communicate over the network.
+- Users can log in using their Active Directory accounts.
+- Group Policies can be applied.
+- IT administrators can centrally manage the device.
+
+---
+
+## Preparing the Windows 11 Client
+
+Before joining the domain, the Windows 11 computer must be on the same network as the Domain Controller.
+
+1. Obtain the IP address of the Windows Server.
+2. Open **Network Adapter Properties** on the Windows 11 computer.
+3. Open **Internet Protocol Version 4 (TCP/IPv4)**.
+4. Configure the network settings so the Windows 11 computer is on the same IP subnet as the Windows Server.
+5. Configure the **Preferred DNS Server** to point to the Domain Controller.
+
+Once the network configuration is complete, the Windows 11 computer is ready to join the Active Directory domain.
