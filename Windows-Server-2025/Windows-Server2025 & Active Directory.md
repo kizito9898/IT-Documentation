@@ -176,3 +176,101 @@ Some common administrative tasks include:
 - Controlling user access to company resources.
 
 Joining a computer to the domain gives IT administrators centralized control over devices while allowing users to securely access company network resources and services.
+
+# Setting a Static IP Address for Windows Server 2025
+
+Setting a static IP address on a Windows Server is a best practice because servers should always have a consistent IP address. This ensures the server can always be reached on the network and allows administrators to reliably manage server roles and services.
+
+## View the Current IP Configuration
+
+1. Open **Command Prompt**.
+2. Run the following command:
+
+```cmd
+ipconfig
+```
+
+This displays the current IP address assigned to the server.
+
+---
+## Configure a Static IP Address
+
+1. Open **Control Panel**.
+2. Select **Network and Internet**.
+3. Open **Network and Sharing Center**.
+4. Click **Change adapter settings**.
+5. Right-click **Ethernet0**.
+6. Select **Properties**.
+7. Double-click **Internet Protocol Version 4 (TCP/IPv4)**.
+8. Change the setting from **Obtain an IP address automatically** to **Use the following IP address**.
+9. Enter the following information:
+
+- IP Address (from the `ipconfig` output)
+- Subnet Mask
+- Default Gateway
+- Preferred DNS Server (Loopback Address)
+
+10. Click **OK** to save the configuration.
+
+---
+## Verify the Configuration
+
+1. Restart the Windows Server.
+2. Open **Command Prompt**.
+3. Run:
+
+```cmd
+ipconfig /all
+```
+
+Confirm that the static IP address has been successfully applied.
+
+---
+# Creating Organizational Units (OUs) for Users and Computers
+
+Organizational Units (OUs) help organize users, computers, and departments within Active Directory. They also make it easier to apply Group Policies and delegate administrative permissions.
+
+## Create the Parent OU
+
+1. Open **Server Manager**.
+2. Click **Tools**.
+3. Open **Active Directory Users and Computers**.
+4. Expand the domain controller.
+5. Right-click the domain.
+6. Select **New** → **Organizational Unit**.
+7. Enter the OU name.
+
+Example:
+
+```text
+USA
+```
+
+8. Click **OK**.
+
+---
+
+## Create Child Organizational Units
+
+Inside the **USA** OU:
+
+1. Right-click the **USA** OU.
+2. Select **New** → **Organizational Unit**.
+3. Create the following child OUs:
+
+- Users
+- Computers
+
+---
+
+## Create Departmental OUs
+
+Create additional Organizational Units to separate departments within the organization.
+
+Examples include:
+
+- IT
+- Accounting
+- HR
+
+This structure helps organize Active Directory objects and simplifies administration, Group Policy management, and permission delegation.
