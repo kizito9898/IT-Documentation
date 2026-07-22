@@ -307,7 +307,8 @@ Creating user accounts in Active Directory allows users within the organization 
 
 6. Click **Next**.
 7. Create a password for the user.
-8. Select **User must change password at next logon**.
+8. Select **User must change password at next logon**
+!
 9. Click **Next**.
 10. Click **Finish**.
 
