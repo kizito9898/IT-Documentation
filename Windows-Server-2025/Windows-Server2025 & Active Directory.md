@@ -211,7 +211,7 @@ This displays the current IP address assigned to the server.
 ---
 ## Configure a Static IP Address
 
-1. Open **Control Panel**.
+1. Open **Control Panel** from the search button 
 2. Select **Network and Internet**.
 3. Open **Network and Sharing Center**.
 4. Click **Change adapter settings**.
@@ -220,7 +220,7 @@ This displays the current IP address assigned to the server.
 7. Double-click **Internet Protocol Version 4 (TCP/IPv4)**.
 8. Change the setting from **Obtain an IP address automatically** to **Use the following IP address**.
 9. Enter the following information:
-![Screenshot]
+![Screenshot](images/screenshot1080.jpg)
 - IP Address (from the `ipconfig` output)
 - Subnet Mask
 - Default Gateway
