@@ -447,5 +447,5 @@ On the Windows Server:
 2. Expand the domain.
 3. Open the **Computers** container (or the Organizational Unit where the computer was joined).
 4. Verify that the Windows 11 computer appears in Active Directory.
-!
+![Screenshot](images/screenshot1096.jpg)
 This confirms that the Windows 11 device has successfully joined the Active Directory domain and is being managed by the Domain Controller.
