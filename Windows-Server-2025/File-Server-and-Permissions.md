@@ -75,7 +75,6 @@ Example:
 The selected users are now members of the **Accounting** security group.
 
 ---
-
 # Windows File Permissions
 
 In Windows environments, especially file servers and shared folders, there are two main permission types:
@@ -86,7 +85,6 @@ In Windows environments, especially file servers and shared folders, there are t
 Both control who can access files and what actions users can perform. They work together but apply in different situations.
 
 ---
-
 ## NTFS Permissions
 
 NTFS permissions are stored on drives formatted with the **New Technology File System (NTFS)**.
@@ -128,7 +126,6 @@ They apply both:
   - Modify existing files
 
 ---
-
 ## Share Permissions
 
 Share permissions control access when a folder is shared over the network.
