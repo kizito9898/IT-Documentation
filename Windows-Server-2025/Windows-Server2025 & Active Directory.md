@@ -151,7 +151,7 @@ Njikason.local
 
 - Wait for the prerequisite checks to complete successfully.
 - Click **Install**.
-
+![Screenshot]
 After the installation finishes:
 
 - The server automatically restarts.
