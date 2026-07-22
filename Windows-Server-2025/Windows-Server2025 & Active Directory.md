@@ -257,7 +257,6 @@ Organizational Units (OUs) help organize users, computers, and departments withi
 ![Screenshot](images/screenshot1082.jpg)
 6. Select **New** → **Organizational Unit**.
 7. Enter the OU name.
-
 Example:
 
 ```text
