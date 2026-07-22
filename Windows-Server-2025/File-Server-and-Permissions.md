@@ -385,7 +385,6 @@ Christopher Nolan
 At this stage, the mapped drive was **not displayed**.
 
 ---
-
 # Troubleshooting
 
 Since the mapped drive did not appear:
@@ -415,3 +414,12 @@ After the policy refresh completes:
 3. Open **File Explorer**.
 
 The mapped network drive should now appear automatically for users who belong to the **Accounting** security group.
+
+
+
+
+
+
+
+
+
