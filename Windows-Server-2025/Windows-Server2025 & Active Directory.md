@@ -39,6 +39,7 @@ Windows Server 2025 is Microsoft's latest Long-Term Servicing Channel (LTSC) ope
 ## Powering On the Virtual Machine
 
 - Click **Power On This Virtual Machine**.
+![Screenshot](images/screenshot1058.jpg)
 
 - Click inside the virtual machine window.
 
