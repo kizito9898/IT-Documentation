@@ -69,7 +69,7 @@ Example:
 - Click **Check Names** until the user is resolved.
 - Click **OK**.
 - Click **Apply**.
-
+![Screenshot(images/screenshot1101)
 The selected users are now members of the **Accounting** security group.
 
 ---
