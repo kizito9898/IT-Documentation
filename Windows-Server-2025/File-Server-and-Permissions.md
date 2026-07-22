@@ -277,10 +277,9 @@ Tech-Map
 ```
 ![Screenshot](images/screenshot1111.jpg)
 
-![Screenshot](images/screenshot1112)
+![Screenshot](images/screenshot1112.jpg)
 4. Click **OK**.
 ---
-
 ## Editing the Group Policy
 
 Expand the **Accounting** OU.
