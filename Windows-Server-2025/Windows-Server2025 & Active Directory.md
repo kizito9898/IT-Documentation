@@ -118,7 +118,7 @@ This installs the following Active Directory components:
 - AD DS Role Administration Tools
 - Required management features
 - Click **Install**.
-![Screenshot]
+![Screenshot](images/screenshot1071.jpg)
 ---
 ## Promoting the Server to a Domain Controller
 
