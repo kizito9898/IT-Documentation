@@ -87,6 +87,7 @@ Renaming the server provides a consistent naming convention before configuring A
 - Click **Change**.
 - Enter a new computer name of your choice.
 - Click **OK**.
+![Screenshot](images/screensh)
 - Restart the server when prompted for the changes to take effect.
 ---
 # Installing Active Directory Users and Computers (AD DS)
