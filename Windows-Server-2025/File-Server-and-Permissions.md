@@ -58,12 +58,10 @@ Example:
 - Add HR users to the **HR** security group.
 - Add IT users to the **IT** security group.
 - Add Marketing users to the **Marketing** security group
-# Adding Users to Security Groups
 
 Open the required security group.
 
 Example:
-
 - Open the **Accounting** security group.
 - Select the **Members** tab.
 - Click **Add**.
