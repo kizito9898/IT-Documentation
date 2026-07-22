@@ -69,7 +69,7 @@ For a better performance and user experience, install VMware Tools.
 - Navigate to the **VMware Tools** virtual CD.
 - Run **Setup64.exe**.
 - Follow the VMware Tools installation wizard.
-!
+![Screenshot](images/screenshot1065.jpg)
 - Complete the installation.
 - Restart the virtual machine.
 ---
