@@ -366,7 +366,7 @@ Configure the Group Policy to apply only to the **Accounting** security group.
 2. Select the group.
 3. Click **OK**.
 4. Click **Apply**.
-!
+![Screenshot](images/screenshot1116.jpg)
 
 The Group Policy configuration is now complete.
 
