@@ -203,7 +203,7 @@ Leave the following accounts with administrative permissions:
 These accounts are required for Windows to function correctly and for administrative management.
 
 Click **Apply**, then **OK**.
-!
+![Screenshot](images/screenshot1108.jpg)
 
 ---
 # Configuring Share Permissions
