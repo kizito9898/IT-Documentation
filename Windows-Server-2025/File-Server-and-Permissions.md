@@ -173,6 +173,7 @@ The goal is to modify the permissions so that only members of the **HR** securit
 7. Click **OK**.
 8. Select the required NTFS permissions (Modify).
 9. Click **Apply**, then **OK**.
+![Screenshot](images/screenshot11)
 
 ---
 
