@@ -435,7 +435,7 @@ After the restart:
 1. Select **Other User** on the Windows sign-in screen.
 ![screenshot](images/screenshot1093.jpg)
 2. Sign in using the Active Directory user credentials created earlier and change password.
-
+![Screenshot](images/screenshot1094.jpg)
 3. Confirm that the user can successfully log in to the domain.
 ![Screenshot](images/screenshot1095.jpg)
 ---
