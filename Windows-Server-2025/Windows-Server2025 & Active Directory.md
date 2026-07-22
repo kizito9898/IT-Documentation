@@ -286,7 +286,7 @@ Examples include:
 - IT
 - Accounting
 - HR
-
+![Screenshot](images/screenshot1083)
 This structure helps organize Active Directory objects and simplifies administration, Group Policy management, and permission delegation.
 
 # Creating User Accounts in Active Directory
