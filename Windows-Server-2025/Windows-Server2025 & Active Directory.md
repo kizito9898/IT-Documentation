@@ -127,7 +127,6 @@ Njikason.local
 ```
 
 - Click **Next**.
-
 ### Domain Controller Options
 
 - Enter the **Directory Services Restore Mode (DSRM)** password.
