@@ -363,4 +363,78 @@ Before joining the domain, the Windows 11 computer must be on the same network a
 4. Configure the network settings so the Windows 11 computer is on the same IP subnet as the Windows Server.
 5. Configure the **Preferred DNS Server** to point to the Domain Controller.
 
-Once the network configuration is complete, the Windows 11 computer is ready to join the Active Directory domain.
+Once the network configuration is complete, the Windows 11 computer is ready to join the Active Directory domain
+
+### Configure the Windows 11 Network Settings
+
+The next step is to configure the Windows 11 computer so it can communicate with the Windows Server 2025 Domain Controller.
+
+1. Open the **Search Bar**.
+2. Search for and open **Control Panel**.
+3. Navigate to:
+
+   **Network and Internet** → **Network and Sharing Center** → **Change adapter settings**
+
+4. Right-click **Ethernet0** and select **Properties**.
+5. Double-click **Internet Protocol Version 4 (TCP/IPv4)**.
+6. Change the configuration from **Obtain an IP address automatically** to **Use the following IP address**.
+7. Enter the IP address manually using the same network range as the Windows Server.
+8. Click **OK** to save the configuration.
+
+---
+
+### Verify Network Connectivity
+
+Open **Command Prompt** and test communication with the Windows Server.
+
+```cmd
+ping <Windows Server IP Address>
+```
+
+A successful reply confirms that the Windows 11 client can communicate with the Windows Server.
+
+For my lab environment, I changed the VMware network adapter from **NAT** to **Host-Only** to allow communication between the virtual machines.
+
+---
+
+### Join the Windows 11 Computer to the Domain
+
+1. Open **File Explorer**.
+2. Right-click **This PC** and select **Properties**.
+3. Scroll down and click **Domain or Workgroup**.
+4. Click **Computer Name** → **Change**.
+5. Under **Member of**, select **Domain**.
+6. Enter the domain name.
+
+Example:
+
+```text
+nyksson.local
+```
+
+7. Click **OK**.
+8. When prompted, enter the Domain Administrator username and password.
+9. After authentication is successful, restart the Windows 11 computer.
+
+---
+
+### Sign In with a Domain User Account
+
+After the restart:
+
+1. Select **Other User** on the Windows sign-in screen.
+2. Sign in using the Active Directory user credentials created earlier.
+3. Confirm that the user can successfully log in to the domain.
+
+---
+
+### Verify the Computer in Active Directory
+
+On the Windows Server:
+
+1. Open **Active Directory Users and Computers**.
+2. Expand the domain.
+3. Open the **Computers** container (or the Organizational Unit where the computer was joined).
+4. Verify that the Windows 11 computer appears in Active Directory.
+
+This confirms that the Windows 11 device has successfully joined the Active Directory domain and is being managed by the Domain Controller.
