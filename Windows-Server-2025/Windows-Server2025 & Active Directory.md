@@ -72,7 +72,7 @@ For a better performance and user experience, install VMware Tools.
 ![Screenshot](images/screenshot1065.jpg)
 - Complete the installation.
 - Restart the virtual machine.
-![Screenshot]
+![Screenshot](images/screenshot1066.jpg)
 ---
 # Rename the Windows Server 2025
 
