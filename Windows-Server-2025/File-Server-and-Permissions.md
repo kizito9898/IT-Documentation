@@ -19,7 +19,7 @@ Go to the server and open **File Explorer**.
 
 - Navigate to the **C:** drive.
 - Create a new folder called **Company Data**.
-
+![Screenshot](images/screenshot1098)
 - For this lab practice, create four department folders:
   - HR
   - IT
