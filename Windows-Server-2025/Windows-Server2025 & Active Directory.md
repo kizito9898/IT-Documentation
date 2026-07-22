@@ -156,8 +156,9 @@ After the installation finishes:
 
 - The server automatically restarts.
 - The server is now configured as a **Domain Controller**.
-- \\
 ![Screenshot](images/screenshot1074.jpg)
+![screenshot](images/screenshot1076.jpg)
+
 ---
 # Opening Active Directory Users and Computers
 
