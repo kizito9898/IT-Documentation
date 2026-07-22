@@ -167,7 +167,7 @@ After the installation finishes:
 - Open the **Start Menu**.
 - Select **Windows Tools**.
 - Open **Active Directory Users and Computers**.
-![Screenshot](images/screenshot1077)
+![Screenshot](images/screenshot1077.jpg)
 ### Method 2
 
 - Open **Server Manager**.
