@@ -403,10 +403,9 @@ ping <Windows Server IP Address>
 A successful reply confirms that the Windows 11 client can communicate with the Windows Server.
 
 For my lab environment, I changed the VMware network adapter from **NAT** to **Host-Only** to allow communication between the virtual machines.
-
+![Screenshot](images/screenshot1089.jpg)
 
 ---
-
 ### Join the Windows 11 Computer to the Domain
 
 1. Open **File Explorer**.
@@ -419,7 +418,7 @@ For my lab environment, I changed the VMware network adapter from **NAT** to **H
 Example:
 
 ```text
-nyksson.local
+njikason.local
 ```
 
 7. Click **OK**.
