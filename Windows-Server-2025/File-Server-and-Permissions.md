@@ -160,3 +160,84 @@ Example:
 
 When a user connects to a shared folder from another computer, **Share Permissions** determine the user's initial level of access. NTFS permissions are then combined with Share Permissions to determine the user's effective permissions.
 
+# Configuring NTFS Permissions
+
+Right-click the **HR** folder inside the **Company Data** folder and select **Properties**.
+
+The goal is to modify the permissions so that only members of the **HR** security group can access the folder.
+
+1. Click the **Security** tab.
+2. Select **Edit**.
+3. Remove the **Users** group if necessary.
+4. Click **Add**.
+5. Type **HR**.
+6. Click **Check Names**.
+7. Click **OK**.
+8. Select the required NTFS permissions (Modify).
+9. Click **Apply**, then **OK**.
+
+---
+
+## Removing Inherited Permissions
+
+Due to inherited permissions, other groups may still have access to this folder.
+
+To ensure that only the HR team can access the folder:
+
+1. Right-click the **HR** folder.
+2. Select **Properties**.
+3. Open the **Security** tab.
+4. Click **Advanced**.
+5. Select **Disable Inheritance**.
+6. Choose **Convert inherited permissions into explicit permissions** (or the appropriate option depending on your lab).
+7. Remove unnecessary entries such as the **Users** group if required.
+
+---
+
+## Best Practice
+
+Leave the following accounts with administrative permissions:
+
+- Administrators
+- SYSTEM
+
+These accounts are required for Windows to function correctly and for administrative management.
+
+Click **Apply**, then **OK**.
+
+---
+
+# Configuring Share Permissions
+
+Navigate to the **Company Data** folder.
+
+1. Right-click the folder.
+2. Select **Properties**.
+3. Open the **Sharing** tab.
+4. Click **Advanced Sharing**.
+5. Check **Share this folder**.
+6. Click **Permissions**.
+7. Configure the required share permissions.
+8. Click **Apply**, then **OK**.
+
+---
+# Mapping the Shared Folder as a Network Drive
+
+Log into the **Windows 11** client computer.
+
+Open **File Explorer**.
+
+1. Right-click **This PC**.
+2. Select **Map network drive**.
+3. Choose a drive letter.
+4. Enter the shared folder path.
+
+Example:
+
+```text
+\\FileServer\CompanyData
+```
+
+5. Click **Finish** to map the network drive.
+
+The shared folder is now available in File Explorer as a mapped network drive.
