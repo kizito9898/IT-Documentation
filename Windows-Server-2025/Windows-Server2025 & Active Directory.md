@@ -54,6 +54,7 @@ Windows Server 2025 is Microsoft's latest Long-Term Servicing Channel (LTSC) ope
 - Accept the Microsoft License Terms.
 - Click **Install**.
 
+
 - After the installation completes, create and configure the **Administrator** password.
 
 - Windows Server 2025 is now fully installed. The Evaluation ISO license is valid for **180 days**.
