@@ -125,7 +125,7 @@ This installs the following Active Directory components:
 After the installation is complete:
 
 - Click **Promote this server to a domain controller**.
-
+![Screenshot](images/screenshot1072.jpg)
 ### Deployment Configuration
 
 - Select **Add a new forest**.
