@@ -260,7 +260,7 @@ The Group Policy Management console opens and displays:
 - Organizational Units (OUs)
 - Sub-OUs
 - Group Policy Objects (GPOs)
-
+![Screenshot](images/screenshot1110.jpg)
 
 ---
 
@@ -277,7 +277,6 @@ Tech-Map
 ```
 
 4. Click **OK**.
-
 ---
 
 ## Editing the Group Policy
