@@ -66,10 +66,9 @@ For a better performance and user experience, install VMware Tools.
 - Complete the installation.
 - Restart the virtual machine.
 ---
-# Rename the Windows Server 20
+# Rename the Windows Server 2025
 
 Renaming the server provides a consistent naming convention before configuring Active Directory roles and features. It also makes the server easier to identify instead of using the default Windows Server computer name.
-
 ### Steps
 
 - Open **File Explorer**.
@@ -81,9 +80,7 @@ Renaming the server provides a consistent naming convention before configuring A
 - Enter a new computer name of your choice.
 - Click **OK**.
 - Restart the server when prompted for the changes to take effect.
-
 ---
-
 # Installing Active Directory Users and Computers (AD DS)
 
 ### Opening the Add Roles and Features Wizard
