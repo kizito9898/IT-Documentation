@@ -423,6 +423,7 @@ njikason.local
 
 7. Click **OK**.
 8. When prompted, enter the Domain Administrator username and password.
+![Screenshot](images/screenshot1091.jpg)
 9. After authentication is successful, restart the Windows 11 computer.
 
 ---
