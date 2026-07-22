@@ -370,6 +370,7 @@ Configure the Group Policy to apply only to the **Accounting** security group.
 
 The Group Policy configuration is now complete.
 
+
 ---
 
 # Testing the Drive Mapping
