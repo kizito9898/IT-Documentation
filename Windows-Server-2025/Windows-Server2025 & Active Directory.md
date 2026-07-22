@@ -206,7 +206,7 @@ ipconfig
 ```
 
 This displays the current IP address assigned to the server.
-
+![Screenshot](images/screenshot1)
 
 ---
 ## Configure a Static IP Address
