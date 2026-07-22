@@ -417,7 +417,6 @@ nyksson.local
 9. After authentication is successful, restart the Windows 11 computer.
 
 ---
-
 ### Sign In with a Domain User Account
 
 After the restart:
@@ -425,9 +424,7 @@ After the restart:
 1. Select **Other User** on the Windows sign-in screen.
 2. Sign in using the Active Directory user credentials created earlier.
 3. Confirm that the user can successfully log in to the domain.
-
 ---
-
 ### Verify the Computer in Active Directory
 
 On the Windows Server:
