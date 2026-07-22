@@ -329,6 +329,8 @@ Example:
 ```
 
 Paste the path into the **Location** field.
+
+![Screen]
 ### Label
 
 Enter a friendly drive name.
