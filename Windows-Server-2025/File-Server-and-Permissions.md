@@ -57,4 +57,108 @@ Example:
 - Add Accounting users to the **Accounting** security group.
 - Add HR users to the **HR** security group.
 - Add IT users to the **IT** security group.
-- Add Marketing users to the **Marketing** security group.
+- Add Marketing users to the **Marketing** security group
+# Adding Users to Security Groups
+
+Open the required security group.
+
+Example:
+
+- Open the **Accounting** security group.
+- Select the **Members** tab.
+- Click **Add**.
+- Type the username.
+- Click **Check Names** until the user is resolved.
+- Click **OK**.
+- Click **Apply**.
+
+The selected users are now members of the **Accounting** security group.
+
+---
+
+# Windows File Permissions
+
+In Windows environments, especially file servers and shared folders, there are two main permission types:
+
+- NTFS Permissions
+- Share Permissions
+
+Both control who can access files and what actions users can perform. They work together but apply in different situations.
+
+---
+
+## NTFS Permissions
+
+NTFS permissions are stored on drives formatted with the **New Technology File System (NTFS)**.
+
+They apply both:
+
+- Locally (when logged into the computer)
+- Over the network
+
+### Common NTFS Permission Levels
+
+- **Full Control**
+  - Read
+  - Write
+  - Modify
+  - Delete
+  - Change permissions
+
+- **Modify**
+  - Read
+  - Write
+  - Edit
+  - Delete
+
+- **Read & Execute**
+  - View files
+  - Open files
+  - Run programs
+
+- **List Folder Contents**
+  - View files and folders inside a directory
+
+- **Read**
+  - Open files
+  - View file contents
+
+- **Write**
+  - Create new files and folders
+  - Modify existing files
+
+---
+
+## Share Permissions
+
+Share permissions control access when a folder is shared over the network.
+
+They only apply when users access the folder through a shared network path.
+
+Example:
+
+```text
+\\FileServer\SharedFolder
+```
+
+### Common Share Permission Levels
+
+- **Full Control**
+  - Read
+  - Write
+  - Modify
+  - Delete
+  - Change permissions
+
+- **Change**
+  - Read
+  - Write
+  - Modify
+
+- **Read**
+  - View files
+  - View subfolders
+  - Read file data
+  - Run programs
+
+When a user connects to a shared folder from another computer, **Share Permissions** determine the user's initial level of access. NTFS permissions are then combined with Share Permissions to determine the user's effective permissions.
