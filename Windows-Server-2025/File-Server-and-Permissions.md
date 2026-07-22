@@ -369,7 +369,7 @@ Configure the Group Policy to apply only to the **Accounting** security group.
 ![Screenshot](images/screenshot1116.jpg)
 
 The Group Policy configuration is now complete.
-
+![Screenshot](images/screenshot1117.jpg)
 
 ---
 
