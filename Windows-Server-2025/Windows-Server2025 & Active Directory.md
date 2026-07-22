@@ -373,7 +373,7 @@ Before joining the domain, the Windows 11 computer must be on the same network a
 3. Open **Internet Protocol Version 4 (TCP/IPv4)**.
 4. Configure the network settings so the Windows 11 computer is on the same IP subnet as the Windows Server.
 5. Configure the **Preferred DNS Server** to point to the Domain Controller.
-
+!
 Once the network configuration is complete, the Windows 11 computer is ready to join the Active Directory domain
 
 ### Configure the Windows 11 Network Settings
