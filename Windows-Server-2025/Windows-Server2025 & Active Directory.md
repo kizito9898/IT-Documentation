@@ -273,7 +273,7 @@ Inside the **USA** OU:
 1. Right-click the **USA** OU.
 2. Select **New** → **Organizational Unit**.
 3. Create the following child OUs:
-
+![Screenshot](images/screenshot1083.jpg)
 - Users
 - Computers
 ---
