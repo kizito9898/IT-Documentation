@@ -328,7 +328,7 @@ To create another user:
 
 5. Click **Next**.
 6. Click **Finish**.
-
+![Screenshot](images/screenshot1086.jpg)
 Repeat the process for additional users as required.
 
 ---
