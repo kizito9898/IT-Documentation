@@ -240,7 +240,7 @@ ipconfig /all
 ```
 
 Confirm that the static IP address has been successfully applied.
-
+![Screenshot](images/screenshot1081.jpg)
 
 ---
 # Creating Organizational Units (OUs) for Users and Computers
