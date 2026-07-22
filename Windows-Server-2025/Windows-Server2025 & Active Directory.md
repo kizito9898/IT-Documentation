@@ -312,9 +312,7 @@ Creating user accounts in Active Directory allows users within the organization 
 9. Click **Next**.
 10. Click **Finish**.
 The user account has now been created.
-
 ---
-
 ## Creating Additional User Accounts
 
 To create another user:
