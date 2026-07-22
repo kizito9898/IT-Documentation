@@ -412,6 +412,7 @@ Open **Command Prompt** and run:
 ```cmd
 gpupdate /force
 ```
+![Screenshot](imag)
 
 After the policy refresh completes:
 
