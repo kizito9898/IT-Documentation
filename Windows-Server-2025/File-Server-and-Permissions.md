@@ -191,9 +191,7 @@ To ensure that only the HR team can access the folder:
 6. Choose **Convert inherited permissions into explicit permissions** (or the appropriate option depending on your lab).
 7. Remove unnecessary entries such as the **Users** group if required.
 ![Screenshot](images/screenshot1103.jpg)
-![Scre]
-
-
+![Screenshot](images/screenshot1104.jpg)
 
 ---
 
