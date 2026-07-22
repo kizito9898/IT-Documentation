@@ -35,6 +35,7 @@ Windows Server 2025 is Microsoft's latest Long-Term Servicing Channel (LTSC) ope
   - Choose **Use ISO Image File**.
   - Browse to the downloaded Windows Server 2025 ISO.
   - Click **Close**, then **Finish**.
+![Screenshot](images/screenshot1056.jpg)
 ## Powering On the Virtual Machine
 
 - Click **Power On This Virtual Machine**.
