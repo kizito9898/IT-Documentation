@@ -357,7 +357,7 @@ Enable:
 - Item-level targeting
 
 This allows the mapped drive to be applied only to specific users or groups based on the configured targeting rules.
-
+![Screenshot](images/screenshot1115.jpg)
 # Applying Security Group Filtering
 
 Configure the Group Policy to apply only to the **Accounting** security group.
@@ -366,6 +366,7 @@ Configure the Group Policy to apply only to the **Accounting** security group.
 2. Select the group.
 3. Click **OK**.
 4. Click **Apply**.
+!
 
 The Group Policy configuration is now complete.
 
