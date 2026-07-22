@@ -364,7 +364,6 @@ Once joined:
 - Group Policies can be applied.
 - IT administrators can centrally manage the device.
 ---
-## Preparing the Windows 11 Client
 
 Before joining the domain, the Windows 11 computer must be on the same network as the Domain Controller.
 
@@ -393,7 +392,6 @@ The next step is to configure the Windows 11 computer so it can communicate with
 8. Click **OK** to save the configuration.
 
 ---
-
 ### Verify Network Connectivity
 
 Open **Command Prompt** and test communication with the Windows Server.
