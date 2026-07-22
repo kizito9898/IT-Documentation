@@ -59,6 +59,7 @@ Windows Server 2025 is Microsoft's latest Long-Term Servicing Channel (LTSC) ope
 ![Screenshot](images/screenshot1063.jpg)
 - Windows Server 2025 is now fully installed. The Evaluation ISO license is valid for **180 days**.
 
+
 ---
 ## Installing VMware Tools
 
