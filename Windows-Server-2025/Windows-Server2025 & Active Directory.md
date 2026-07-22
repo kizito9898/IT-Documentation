@@ -24,6 +24,7 @@ Windows Server 2025 is Microsoft's latest Long-Term Servicing Channel (LTSC) ope
 - Select **I will install the operating system later**, then click **Next**.
 
 - Select **Microsoft Windows Server 2025** as the operating system.
+![]
 
 - Allocate the virtual disk size (**Recommended: 60 GB**).
 
