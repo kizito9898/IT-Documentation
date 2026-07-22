@@ -275,6 +275,8 @@ Example:
 ```text
 Tech-Map
 ```
+![Screenshot]
+
 
 4. Click **OK**.
 ---
