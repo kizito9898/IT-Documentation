@@ -321,7 +321,6 @@ To create another user:
 2. Right-click the OU.
 3. Select **New** → **User**.
 4. Enter:
-
 - First Name
 - Last Name
 - User Logon Name
@@ -333,7 +332,6 @@ To create another user:
 Repeat the process for additional users as required.
 
 ---
-
 ## Adding a User to a Security Group
 
 1. Double-click the user account.
