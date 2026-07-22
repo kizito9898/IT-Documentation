@@ -217,7 +217,7 @@ Navigate to the **Company Data** folder.
 6. Click **Permissions**.
 7. Configure the required share permissions.
 8. Click **Apply**, then **OK**.
-
+![Screenshot](images/screenshot1105.jpg)
 ---
 # Mapping the Shared Folder as a Network Drive
 
