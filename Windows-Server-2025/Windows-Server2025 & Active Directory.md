@@ -254,6 +254,7 @@ Organizational Units (OUs) help organize users, computers, and departments withi
 3. Open **Active Directory Users and Computers**.
 4. Expand the domain controller.
 5. Right-click the domain.
+![Screenshot](images/screenshot1082.jpg)
 6. Select **New** → **Organizational Unit**.
 7. Enter the OU name.
 
