@@ -330,7 +330,7 @@ Example:
 
 Paste the path into the **Location** field.
 
-![Screen]
+![Screenshot](images/screenshot1114.jpg)
 ### Label
 
 Enter a friendly drive name.
