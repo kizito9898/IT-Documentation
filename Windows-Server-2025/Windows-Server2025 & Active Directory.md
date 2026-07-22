@@ -414,7 +414,7 @@ For my lab environment, I changed the VMware network adapter from **NAT** to **H
 4. Click **Computer Name** → **Change**.
 5. Under **Member of**, select **Domain**.
 6. Enter the domain name.
-
+![Screenshot](images/screenshot1090.jpg)
 Example:
 
 ```text
