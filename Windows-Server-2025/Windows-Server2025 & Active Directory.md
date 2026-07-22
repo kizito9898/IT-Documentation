@@ -241,6 +241,7 @@ ipconfig /all
 
 Confirm that the static IP address has been successfully applied.
 
+
 ---
 # Creating Organizational Units (OUs) for Users and Computers
 
