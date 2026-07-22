@@ -53,7 +53,7 @@ Windows Server 2025 is Microsoft's latest Long-Term Servicing Channel (LTSC) ope
 - Click **Next**.
 - Accept the Microsoft License Terms.
 - Click **Install**.
-
+![Screenshot](images/screenshot1062.jpg)
 
 - After the installation completes, create and configure the **Administrator** password.
 
