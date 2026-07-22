@@ -1,5 +1,4 @@
 
-
 ## What is a File Server?
 
 A file server is a computer or server that stores files in one central place and lets other computers access those files over a network.
