@@ -206,7 +206,7 @@ ipconfig
 ```
 
 This displays the current IP address assigned to the server.
-![Screenshot](images/screenshot1)
+![Screenshot](images/screenshot1079.jpg)
 
 ---
 ## Configure a Static IP Address
@@ -220,7 +220,7 @@ This displays the current IP address assigned to the server.
 7. Double-click **Internet Protocol Version 4 (TCP/IPv4)**.
 8. Change the setting from **Obtain an IP address automatically** to **Use the following IP address**.
 9. Enter the following information:
-
+![Screenshot]
 - IP Address (from the `ipconfig` output)
 - Subnet Mask
 - Default Gateway
