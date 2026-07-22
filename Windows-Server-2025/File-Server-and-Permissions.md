@@ -421,7 +421,7 @@ After the policy refresh completes:
 3. Open **File Explorer**.
 
 The mapped network drive should now appear automatically for users who belong to the **Accounting** security group.
-![Screenshot](images/screenshot1122)
+![Screenshot](images/screenshot1122.jpg)
 
 
 
