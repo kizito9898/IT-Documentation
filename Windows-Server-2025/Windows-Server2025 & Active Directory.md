@@ -96,6 +96,7 @@ Renaming the server provides a consistent naming convention before configuring A
 
 - Open **Server Manager**.
 - In the upper-right corner, click **Manage**.
+![Screenshot](images/screenshot1069.jpg)
 - Select **Add Roles and Features**.
 - The **Add Roles and Features Wizard** opens.
 - Under **Installation Type**, select:
