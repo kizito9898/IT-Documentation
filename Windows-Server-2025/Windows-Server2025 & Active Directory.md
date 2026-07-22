@@ -151,11 +151,12 @@ Njikason.local
 
 - Wait for the prerequisite checks to complete successfully.
 - Click **Install**.
-![Screenshot]
+![Screenshot](images/screenshot1073.jpg)
 After the installation finishes:
 
 - The server automatically restarts.
 - The server is now configured as a **Domain Controller**.
+![]
 ---
 # Opening Active Directory Users and Computers
 
