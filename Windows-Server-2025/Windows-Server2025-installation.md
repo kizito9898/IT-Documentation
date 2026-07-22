@@ -55,7 +55,6 @@ Windows Server 2025 is Microsoft's latest Long-Term Servicing Channel (LTSC) ope
 - Windows Server 2025 is now fully installed. The Evaluation ISO license is valid for **180 days**.
 
 ---
-
 ## Installing VMware Tools
 
 For a better performance and user experience, install VMware Tools.
@@ -66,10 +65,8 @@ For a better performance and user experience, install VMware Tools.
 - Follow the VMware Tools installation wizard.
 - Complete the installation.
 - Restart the virtual machine.
-
 ---
-
-# Rename the Windows Server 2025 Computer
+# Rename the Windows Server 20
 
 Renaming the server provides a consistent naming convention before configuring Active Directory roles and features. It also makes the server easier to identify instead of using the default Windows Server computer name.
 
