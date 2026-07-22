@@ -412,7 +412,7 @@ Open **Command Prompt** and run:
 ```cmd
 gpupdate /force
 ```
-![Screenshot](imag)
+![Screenshot](images/screenshot1121.jpg)
 
 After the policy refresh completes:
 
@@ -421,7 +421,7 @@ After the policy refresh completes:
 3. Open **File Explorer**.
 
 The mapped network drive should now appear automatically for users who belong to the **Accounting** security group.
-
+![Screenshot](images/screenshot1122)
 
 
 
