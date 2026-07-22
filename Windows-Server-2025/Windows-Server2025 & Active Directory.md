@@ -107,7 +107,7 @@ Renaming the server provides a consistent naming convention before configuring A
 - Under **Server Roles**, select:
 
   - **Active Directory Domain Services (AD DS)**
-
+![Screenshot](images/screenshot1070.jpg)
 - Click **Next** through the remaining pages.
 - On the **Features** page, accept the required features.
 
