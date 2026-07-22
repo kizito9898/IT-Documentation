@@ -249,7 +249,6 @@ USA
 8. Click **OK**.
 
 ---
-
 ## Create Child Organizational Units
 
 Inside the **USA** OU:
@@ -260,9 +259,7 @@ Inside the **USA** OU:
 
 - Users
 - Computers
-
 ---
-
 ## Create Departmental OUs
 
 Create additional Organizational Units to separate departments within the organization.
