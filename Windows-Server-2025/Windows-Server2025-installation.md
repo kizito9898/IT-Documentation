@@ -15,7 +15,6 @@ Windows Server 2025 is Microsoft's latest Long-Term Servicing Channel (LTSC) ope
 - **vCPUs:** 2
 - **Memory:** 4 GB - 8 GB RAM
 - **Virtual Disk:** 60 GB NVMe
-
 ## Creating the Virtual Machine
 
 - Navigate to **File** → **Create New Virtual Machine**.
@@ -35,7 +34,6 @@ Windows Server 2025 is Microsoft's latest Long-Term Servicing Channel (LTSC) ope
   - Choose **Use ISO Image File**.
   - Browse to the downloaded Windows Server 2025 ISO.
   - Click **Close**, then **Finish**.
-
 ## Powering On the Virtual Machine
 
 - Click **Power On This Virtual Machine**.
