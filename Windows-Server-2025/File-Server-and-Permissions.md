@@ -261,6 +261,7 @@ The Group Policy Management console opens and displays:
 - Sub-OUs
 - Group Policy Objects (GPOs)
 
+
 ---
 
 ## Creating a Group Policy Object (GPO)
