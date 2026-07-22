@@ -92,3 +92,98 @@ Renaming the server provides a consistent naming convention before configuring A
 - Under **Installation Type**, select:
 
   - **Role-based or feature-based installation**.
+
+- Select the target server (the server appears with its IP address).
+- Click **Next**.
+- Under **Server Roles**, select:
+
+  - **Active Directory Domain Services (AD DS)**
+
+- Click **Next** through the remaining pages.
+- On the **Features** page, accept the required features.
+
+This installs the following Active Directory components:
+
+- Active Directory Domain Services
+- Group Policy Management
+- AD DS Role Administration Tools
+- Required management features
+
+- Click **Install**.
+
+---
+
+## Promoting the Server to a Domain Controller
+
+After the installation is complete:
+
+- Click **Promote this server to a domain controller**.
+
+### Deployment Configuration
+
+- Select **Add a new forest**.
+- Enter the root domain name.
+
+Example:
+
+```text
+nykason.local
+```
+
+- Click **Next**.
+
+### Domain Controller Options
+
+- Enter the **Directory Services Restore Mode (DSRM)** password.
+- Ignore the DNS delegation warning for now.
+- Click **Next**.
+
+### Additional Options
+
+- Leave the default settings.
+- Click **Next**.
+
+### Prerequisites Check
+
+- Wait for the prerequisite checks to complete successfully.
+- Click **Install**.
+
+After the installation finishes:
+
+- The server automatically restarts.
+- The server is now configured as a **Domain Controller**.
+
+---
+
+# Opening Active Directory Users and Computers
+
+### Method 1
+
+- Open the **Start Menu**.
+- Select **Windows Tools**.
+- Open **Active Directory Users and Computers**.
+
+### Method 2
+
+- Open **Server Manager**.
+- Click **Tools**.
+- Select **Active Directory Users and Computers**.
+
+The Active Directory management console opens.
+
+---
+
+# Joining Windows 11 to an Active Directory Domain
+
+Joining a Windows 11 computer to Active Directory allows administrators to centrally manage users, computers, and security policies across the organization's network.
+
+Some common administrative tasks include:
+
+- Creating and managing user accounts.
+- Managing computer objects.
+- Resetting user passwords.
+- Unlocking locked user accounts.
+- Applying Group Policy settings.
+- Controlling user access to company resources.
+
+Joining a computer to the domain gives IT administrators centralized control over devices while allowing users to securely access company network resources and services.
