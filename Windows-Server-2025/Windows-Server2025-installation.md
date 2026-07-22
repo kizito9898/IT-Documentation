@@ -5,13 +5,11 @@
 Windows Server 2025 is Microsoft's latest Long-Term Servicing Channel (LTSC) operating system built on the Windows 11 codebase. It is designed for modern infrastructure, offering deeper cloud integration, significantly enhanced storage performance, and updated security baselines compared to its predecessor, Windows Server 2022.
 
 ---
-
 # Getting Started
 
 - Download the **Windows Server 2025 Evaluation ISO** from the Microsoft Evaluation Center.
 
 - After downloading the ISO file, launch **VMware Workstation Pro**.
-
 ## VMware Baseline Configuration
 
 - **vCPUs:** 2
