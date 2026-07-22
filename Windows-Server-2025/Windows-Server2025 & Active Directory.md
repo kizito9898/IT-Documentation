@@ -49,7 +49,7 @@ Windows Server 2025 is Microsoft's latest Long-Term Servicing Channel (LTSC) ope
 - Select **Keyboard: US**.
 - Click **Next**.
 - Select the Windows Server edition (**Desktop Experience**).
-![]
+![Screenshot](images/screenshot1060.jpg)
 - Click **Next**.
 - Accept the Microsoft License Terms.
 - Click **Install**.
