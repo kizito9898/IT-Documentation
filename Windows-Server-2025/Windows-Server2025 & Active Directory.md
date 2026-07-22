@@ -404,6 +404,7 @@ A successful reply confirms that the Windows 11 client can communicate with the 
 
 For my lab environment, I changed the VMware network adapter from **NAT** to **Host-Only** to allow communication between the virtual machines.
 
+
 ---
 
 ### Join the Windows 11 Computer to the Domain
