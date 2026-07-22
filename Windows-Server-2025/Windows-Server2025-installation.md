@@ -92,7 +92,6 @@ Renaming the server provides a consistent naming convention before configuring A
 - Under **Installation Type**, select:
 
   - **Role-based or feature-based installation**.
-
 - Select the target server (the server appears with its IP address).
 - Click **Next**.
 - Under **Server Roles**, select:
@@ -108,11 +107,8 @@ This installs the following Active Directory components:
 - Group Policy Management
 - AD DS Role Administration Tools
 - Required management features
-
 - Click **Install**.
-
 ---
-
 ## Promoting the Server to a Domain Controller
 
 After the installation is complete:
@@ -127,7 +123,7 @@ After the installation is complete:
 Example:
 
 ```text
-nykason.local
+Njikason.local
 ```
 
 - Click **Next**.
