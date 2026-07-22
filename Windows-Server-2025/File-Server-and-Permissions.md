@@ -308,7 +308,7 @@ User Configuration
 1. Right-click **Drive Maps**.
 2. Select **New**.
 3. Click **Mapped Drive**.
-![Screenshot](images/screensh)
+![Screenshot](images/screenshot1113.jpg)
 
 Configure the following settings:
 ### Action
