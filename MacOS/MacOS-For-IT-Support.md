@@ -66,7 +66,6 @@ Activity Monitor
    - Any process consistently using more than **80% CPU**.
 
 ---
-
 ## Check Memory Usage
 
 1. Open the **Memory** tab.
@@ -76,3 +75,14 @@ Activity Monitor
 
 - **Green** – RAM usage is healthy and the system has sufficient available memory.
 - **Yellow/Red** – The Mac is under memory pressure and is actively using storage (swap memory), which can significantly reduce system performance.
+
+
+
+
+
+
+
+
+
+
+
