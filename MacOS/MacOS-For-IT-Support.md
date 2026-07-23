@@ -217,7 +217,7 @@ If an external drive is not being recognized, verify that it is mounted correctl
 4. Check whether the drive is **Mounted**.
 5. If the drive is not mounted, select it and click **Mount**.
 6. Once mounted successfully, verify that the drive appears in **Finder**.
-
+![Screenshot](images/screenshot1134.jpg)
 ## Expected Result
 
 - The external drive is mounted successfully.
