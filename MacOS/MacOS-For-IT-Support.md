@@ -75,7 +75,73 @@ Activity Monitor
 
 - **Green** – RAM usage is healthy and the system has sufficient available memory.
 - **Yellow/Red** – The Mac is under memory pressure and is actively using storage (swap memory), which can significantly reduce system performance.
+# macOS IT Support Troubleshooting
 
+## Case Study 1: User Having Issues with Slow Mac Performance (Continued)
+
+### Free Up Memory (RAM)
+
+- Click on the **Memory** tab in **Activity Monitor**.
+- Select applications that are consuming excessive memory.
+- Click **Stop** or **Force Quit** to close unnecessary applications and free up RAM.
+
+### Disable Startup Applications
+
+- Open **System Settings**.
+- Navigate to:
+
+  **General → Login Items & Extensions**
+
+- Review the list of applications that launch automatically when the Mac starts.
+- Remove unnecessary applications using the **(-)** button to prevent them from starting automatically.
+
+### Clear User Cache
+
+- Open **Spotlight Search**.
+- Type:
+
+  ```
+  ~/Library/Caches
+  ```
+
+- Open the **Caches** folder.
+- Select unnecessary cache files or folders and move them to the **Trash**.
+
+---
+# Case Study 2: Mac Battery Drains Too Quickly
+
+## Scenario
+
+The user contacted IT Support because their Mac battery was draining much faster than expected.
+
+## Troubleshooting Steps
+
+### Check Battery Settings
+
+- Open **System Settings**.
+- Navigate to:
+
+  **Battery** or **Energy**
+
+- Enable **Low Power Mode** when needed to extend battery life.
+
+### Identify High Energy Applications
+
+- Open **Activity Monitor**.
+- Select the **Energy** tab.
+- Identify applications consuming excessive energy.
+- Close unnecessary applications to reduce battery usage.
+---
+# Case Study 3: Wi-Fi Keeps Disconnecting Randomly
+
+## Possible Cause
+
+This issue can occur when macOS stores multiple old Wi-Fi profiles and passwords, causing connection conflicts.
+
+## Troubleshooting
+
+- Open the **Terminal** application.
+- Continue troubleshooting by removing outdated Wi-Fi configurations or resetting the saved network settings.
 
 
 
