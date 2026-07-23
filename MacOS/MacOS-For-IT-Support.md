@@ -153,6 +153,7 @@ Run the following command in Terminal:
 sudo ifconfig en0 down && sudo ifconfig en0 up
 ```
 
+
 - Enter your administrator password and press **Enter**.
 - This resets the Wi-Fi connection without restarting the Mac.
 
