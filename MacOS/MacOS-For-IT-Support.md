@@ -201,7 +201,7 @@ If a user's external drive is not appearing:
 2. Go to **Finder Settings** (or **Finder Preferences**, depending on the macOS version).
 3. Verify that **External disks** are enabled under the appropriate tab.
 4. Confirm that the external drive is selected to appear in Finder.
-5
+![Screenshot](images/screenshot1133.jpg)
 
 This is one of the first checks an IT support technician should perform before moving on to more advanced troubleshooting.
 
