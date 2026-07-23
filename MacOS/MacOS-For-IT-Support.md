@@ -199,7 +199,82 @@ If a user's external drive is not appearing:
 
 This is one of the first checks an IT support technician should perform before moving on to more advanced troubleshooting.
 
+# Printer Setup & Troubleshooting on macOS
 
+## Scenario
+
+A user contacts IT Support because they are unable to print from their Mac. The printer may not be detected, remains offline, or print jobs are stuck in the queue.
+
+---
+## Add a Printer
+
+1. Open **System Settings**.
+2. Navigate to **Printers & Scanners**.
+3. Click **Add Printer, Scanner, or Fax**.
+4. Select the printer from the list.
+5. Click **Add**.
+6. Print a test page.
+---
+## Printer Is Offline
+
+### Verify Network Connectivity
+
+- Ensure the Mac and printer are connected to the same Wi-Fi network.
+- Ping the printer's IP address if applicable.
+### Restart Devices
+
+- Restart the printer.
+- Restart the Mac.
+- Retry printing.
+---
+## Clear the Print Queue
+
+1. Open **System Settings**.
+2. Go to **Printers & Scanners**.
+3. Select the printer.
+4. Open the print queue.
+5. Cancel any stuck print jobs.
+6. Retry printing.
+---
+## Reset the Printing System
+
+If the issue persists:
+
+1. Open **Printers & Scanners**.
+2. Right-click in the printer list.
+3. Select **Reset Printing System**.
+4. Re-add the printer.
+---
+## Update Printer Drivers
+
+- Install the latest printer driver from the manufacturer's website if macOS does not automatically install one.
+- Run **Software Update** to install available printer updates.
+---
+## Check Printer Permissions
+
+- Verify the user has permission to print.
+- Ensure the printer is shared correctly if connected through a print server.
+---
+## Test Printing
+
+Print a document from:
+
+- TextEdit
+- Preview
+- Safari
+
+If only one application fails to print, the issue is application-specific rather than printer-related.
+
+---
+
+## Escalation
+
+Escalate the issue if:
+
+- The printer is not detected after basic troubleshooting.
+- Hardware faults are suspected.
+- Multiple users are affected.
+- Network printing services are unavailable.
 
 
 
