@@ -85,6 +85,7 @@ Activity Monitor
 - Select applications that are consuming excessive memory.
 - Click **Stop** or **Force Quit** to close unnecessary applications and free up RAM.
 ![Screenshot](images/screenshot1125.jpg)
+![Screenshot](images/screenshot1126.jpg)
 ### Disable Startup Applications
 
 - Open **System Settings**.
