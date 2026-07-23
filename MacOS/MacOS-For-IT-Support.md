@@ -33,6 +33,7 @@ The goal is to build practical experience supporting both Windows and macOS envi
 A user contacted IT Support reporting slow performance on their macOS device.
 
 I reached out to the user via email and performed basic troubleshooting, such as asking the user to restart the system. However, the issue still persisted.
+![Screenshot](images/screenshot1123.jpg)
 
 ---
 # Troubleshooting Sluggish macOS Performance
