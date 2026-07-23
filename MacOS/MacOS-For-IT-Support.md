@@ -239,6 +239,7 @@ A user contacts IT Support because they are unable to print from their Mac. The 
 4. Select the printer from the list.
 5. Click **Add**.
 6. Print a test page.
+![Screenshot]
 ---
 ## Printer Is Offline
 
