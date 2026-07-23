@@ -51,6 +51,7 @@ There are two ways to open the Group Policy Management Console:
 3. Select **New**.
 4. Enter a name for the policy (for example, **Test GPO**).
 5. Click **OK**.
+![Scre]
 ---
 # Configuring Security Filtering
 
