@@ -65,6 +65,7 @@ To apply the policy to only a specific user:
 6. Click **OK**.
 7. Remove **Authenticated Users** from the Security Filtering list.
 8. If prompted, confirm the removal and click **OK**.
+![Screenshot](images/screenshot1137.jpg)
 ---
 # Linking the GPO
 
