@@ -190,7 +190,7 @@ If a user reports low storage or the Mac is running out of space:
 
 5. Review old application support files that are no longer needed.
 6. Delete unnecessary files (administrator password may be required).
-
+![Screenshot](images/screenshot1132.jpg)
 
 ---
 ## Case Study 5: External Drive Is Not Being Recognized
@@ -201,6 +201,7 @@ If a user's external drive is not appearing:
 2. Go to **Finder Settings** (or **Finder Preferences**, depending on the macOS version).
 3. Verify that **External disks** are enabled under the appropriate tab.
 4. Confirm that the external drive is selected to appear in Finder.
+5
 
 This is one of the first checks an IT support technician should perform before moving on to more advanced troubleshooting.
 
