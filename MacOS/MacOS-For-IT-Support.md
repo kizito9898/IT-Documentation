@@ -126,7 +126,7 @@ The user contacted IT Support because their Mac battery was draining much faster
   **Battery** or **Energy**
 
 - Enable **Low Power Mode** when needed to extend battery life.
-
+![Screenshot](images/screenshot1129.jpg)
 ### Identify High Energy Applications
 
 - Open **Activity Monitor**.
