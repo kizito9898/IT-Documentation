@@ -10,6 +10,7 @@ My goal is simple: to broaden my technical skill set and demonstrate my ability 
 
 I am currently building this portfolio and will continue updating it with step-by-step configurations, troubleshooting workflows, and screenshots as I explore macOS.
 
+
 > **Note:** Some configurations are being tested in a local environment without a primary Apple ID.
 
 ---
