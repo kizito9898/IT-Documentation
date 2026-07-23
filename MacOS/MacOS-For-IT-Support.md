@@ -205,8 +205,25 @@ If a user's external drive is not appearing:
 
 This is one of the first checks an IT support technician should perform before moving on to more advanced troubleshooting.
 
+# Verify External Drive Mount Status in macOS
 
+If an external drive is not being recognized, verify that it is mounted correctly.
 
+## Steps
+
+1. Open **Spotlight Search** (`Command + Space`).
+2. Type **Disk Utility** and press **Enter**.
+3. In the left pane, locate the external drive.
+4. Check whether the drive is **Mounted**.
+5. If the drive is not mounted, select it and click **Mount**.
+6. Once mounted successfully, verify that the drive appears in **Finder**.
+
+## Expected Result
+
+- The external drive is mounted successfully.
+- The drive becomes accessible through **Finder**.
+- The user can access files stored on the external drive.
+---
 # Printer Setup & Troubleshooting on macOS
 
 ## Scenario
