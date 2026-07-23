@@ -153,13 +153,13 @@ Run the following command in Terminal:
 sudo ifconfig en0 down && sudo ifconfig en0 up
 ```
 
-
+![Screenshot](images/screenshot1130.jpg)
 - Enter your administrator password and press **Enter**.
 - This resets the Wi-Fi connection without restarting the Mac.
 
 ---
 
-## Storage Issues on macOS
+## Case Studytorage Issues on macOS
 
 If a user reports low storage or the Mac is running out of space:
 
