@@ -11,6 +11,7 @@ This section documents my hands-on experience using the **Group Policy Managemen
 - Enforce security baselines
 - Automate client configurations
 - Centralize user and computer settings across a domain
+![Screenshot](images/screenshot1135.jpg)
 
 ## Prerequisites
 
