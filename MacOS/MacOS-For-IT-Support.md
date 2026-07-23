@@ -36,8 +36,6 @@ I reached out to the user via email and performed basic troubleshooting, such as
 ![Screenshot](images/screenshot1123.jpg)
 
 ---
-# Troubleshooting Sluggish macOS Performance
-
 ## Step 1: Isolate the Resource Hog (Activity Monitor)
 
 The macOS equivalent of **Task Manager** in Windows is **Activity Monitor**. It is the primary diagnostic tool used to identify processes consuming excessive system resources.
