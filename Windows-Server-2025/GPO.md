@@ -268,5 +268,155 @@ Configure it as follows:
 
 1. In the **Scope** tab, add your test user (e.g., **Christopher Nolan**).
 2. Remove **Authenticated Users** so the policy only applies to the selected test account.
+# Link the GPO to an Organizational Unit (OU)
 
+1. Right-click the target **OU** (e.g., **USA**).
+2. Select **Link an Existing GPO**.
+3. Choose the **Hide Control Panel** GPO.
+4. Click **OK**.
 
+## Test the Policy
+
+1. Log in to the client computer.
+2. Open **Command Prompt** as an administrator.
+3. Run the following command:
+
+```cmd
+gpupdate /force
+```
+
+4. Verify the applied policies by running:
+
+```cmd
+gpresult /r /user:ChrisN /f
+```
+
+This confirms that the **Hide Control Panel** policy has been applied to the user.
+
+> **Note:** The policy did not initially work for **ChrisN** because the **Scope** also required **Domain Computers** to be added.
+
+## Fix the Scope
+
+Navigate to:
+
+```
+Hide Control Panel GPO
+→ Scope
+→ Add
+→ Domain Computers
+```
+
+This ensures the policy applies to computers that are joined to the domain.
+
+Click **OK** to save the changes.
+
+## Verify the Result
+
+On the user's computer:
+
+1. Open the **Start Menu**.
+2. Search for **Control Panel**.
+3. Attempt to open it.
+
+Expected result:
+
+- Control Panel cannot be opened.
+- The user receives a message instructing them to contact their system administrator.
+
+---
+
+# Case Study 3: Password Policy for Users (GPO)
+
+## Overview
+
+Use Group Policy to create and enforce password policies for domain users. Password policies help improve security by enforcing password requirements and reducing the risk of unauthorized access or brute-force attacks.
+
+They also allow administrators to manage:
+
+- Password complexity requirements
+- Minimum password length
+- Password expiration
+- Account lockout policies
+- Password reset and account unlock procedures for users
+```
+
+# Case Study 3: Password Policy for Users (GPO)
+
+## Objective
+
+Create and enforce a password policy using Group Policy to improve domain security by requiring stronger passwords and password expiration.
+
+## Create the Password Policy GPO
+
+1. Open **Group Policy Management**.
+2. Navigate to **Group Policy Objects**.
+3. Right-click **Group Policy Objects** and select **New**.
+4. Name the policy **Password Policy**.
+5. Right-click the newly created GPO and select **Edit**.
+
+## Configure Password Policy
+
+Navigate to:
+
+```text
+Computer Configuration
+└── Policies
+    └── Windows Settings
+        └── Security Settings
+            └── Account Policies
+                └── Password Policy
+```
+
+Configure the following settings:
+
+- **Enforce Password History**
+  - Set to **5 remembered passwords**.
+
+- **Maximum Password Age**
+  - Set to **90 days**.
+
+- **Minimum Password Age**
+  - Set to **30 days**.
+
+## Link the GPO
+
+1. Navigate to the target **Branch OU (USA)**.
+2. Right-click the OU.
+3. Select **Link an Existing GPO**.
+4. Choose the **Password Policy** GPO.
+5. Click **OK**.
+
+## Test the Policy
+
+1. Log in to the test computer (**ChrisN OS**).
+2. Update Group Policy if necessary.
+3. Change the user's password several times.
+
+Expected result:
+
+- Windows prevents the user from reusing any of the last **5 passwords** because of the **Enforce Password History** policy.
+
+> **Note:** The Account Lockout Policy was later modified to reduce the lockout threshold to **5 invalid sign-in attempts**.
+
+---
+
+# Case Study 4: Account Lockout Policy (GPO)
+
+## Objective
+
+Configure an Account Lockout Policy to protect domain accounts from brute-force password attacks.
+
+The policy temporarily locks a user's account after a specified number of failed sign-in attempts. This helps:
+
+- Prevent brute-force attacks.
+- Improve domain security.
+- Reduce the risk of unauthorized access.
+- Allow administrators to unlock accounts or assist users with password resets when necessary.
+
+## Create the GPO
+
+1. Open **Group Policy Management**.
+2. Navigate to **Group Policy Objects**.
+3. Right-click **Group Policy Objects**.
+4. Select **New**.
+5. Create a new GPO for the **Account Lockout Policy**.
