@@ -191,6 +191,7 @@ If a user reports low storage or the Mac is running out of space:
 5. Review old application support files that are no longer needed.
 6. Delete unnecessary files (administrator password may be required).
 
+
 ---
 ## Case Study 5: External Drive Is Not Being Recognized
 
