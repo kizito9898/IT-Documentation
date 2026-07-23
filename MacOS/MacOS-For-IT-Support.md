@@ -170,7 +170,8 @@ If a user reports low storage or the Mac is running out of space:
    - Trash
    - Large documents
    - Other unwanted files
-4. Enable **Empty Trash Automatically** if appropriate.
+1. Enable **Empty Trash Automatically** if appropriate.
+![Screenshot](images/screenshot11)
 
 **Keyboard shortcut to bypass Trash when deleting:**
 
