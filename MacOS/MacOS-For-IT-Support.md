@@ -205,6 +205,8 @@ If a user's external drive is not appearing:
 
 This is one of the first checks an IT support technician should perform before moving on to more advanced troubleshooting.
 
+
+
 # Printer Setup & Troubleshooting on macOS
 
 ## Scenario
