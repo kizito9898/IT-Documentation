@@ -76,3 +76,72 @@ To apply the policy to only a specific user:
 ## Note
 
 Even if the GPO is linked to the top-level **Users** OU, the policy will only apply to the specific user added in **Security Filtering**, since **Authenticated Users** has been removed.
+
+# Group Policy Management – GPO Delegation and Configuring Windows Defender Firewall
+
+## GPO Delegation
+
+At the top of the **Test GPO**, the **Delegation** tab allows administrators to grant specific permissions to users or groups that the policy applies to, such as:
+
+- Full Control
+- Edit
+- Read
+
+The **Settings** tab displays the details of the Group Policy Object (GPO), including:
+
+- The configured policy settings.
+- Whether the GPO contains **Computer Configuration** or **User Configuration** settings.
+- Which users or computers the GPO applies to.
+
+---
+
+# Lab: Disable the Domain Firewall Using Group Policy
+
+## Step 1: Create a New GPO
+
+1. Open **Group Policy Management**.
+2. Expand **Group Policy Objects**.
+3. Right-click **Group Policy Objects** and select **New**.
+4. Name the policy:
+
+   ```
+   Disable Domain Firewall
+   ```
+
+5. Click **OK**.
+
+---
+
+## Step 2: Edit the GPO
+
+1. Right-click the newly created **Disable Domain Firewall** GPO.
+2. Select **Edit**.
+
+The editor displays two main sections:
+
+- Computer Configuration
+- User Configuration
+
+> **Note:** Since disabling the Windows Defender Firewall is a computer-wide setting, this configuration must be made under **Computer Configuration**, not **User Configuration**.
+
+### Policies vs Preferences
+
+- **Policies** enforce settings that users generally cannot change.
+- **Preferences** configure settings that users can usually modify later if necessary.
+
+---
+## Step 3: Navigate to Windows Defender Firewall Settings
+
+Navigate to:
+
+```text
+Computer Configuration
+└── Policies
+    └── Windows Settings
+        └── Security Settings
+            └── Windows Defender Firewall with Advanced Security
+```
+
+Expand **Windows Defender Firewall with Advanced Security** to configure the firewall profiles and settings for domain-joined computers.
+
+
