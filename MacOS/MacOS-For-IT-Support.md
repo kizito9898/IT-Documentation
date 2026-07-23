@@ -107,7 +107,7 @@ Activity Monitor
 
 - Open the **Caches** folder.
 - Select unnecessary cache files or folders and move them to the **Trash**.
-![]
+![Screenshot](images/screenshot1128.jpg)
 
 ---
 # Case Study 2: Mac Battery Drains Too Quickly
