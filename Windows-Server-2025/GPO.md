@@ -144,4 +144,129 @@ Computer Configuration
 
 Expand **Windows Defender Firewall with Advanced Security** to configure the firewall profiles and settings for domain-joined computers.
 
+# Testing a Group Policy Object (GPO)
+
+## Configure the Windows Defender Firewall Policy
+
+1. Open **Windows Defender Firewall Properties**.
+2. Under the **Domain Profile**:
+   - Set **Firewall State** to **Off**.
+   - Leave **Inbound Connections** and **Outbound Connections** at their default settings.
+3. Click **Apply**, then **OK**.
+4. Close the Group Policy Editor.
+
+## Apply the GPO to a Test Computer
+
+1. Navigate back to **Group Policy Objects**.
+2. Select the **Disable Domain Firewall** GPO.
+3. Open the **Scope** tab.
+4. Remove **Authenticated Users**.
+5. Since this policy is being tested on a specific computer:
+   - Click **Add**.
+   - Change **Object Types** to **Computers** only.
+   - Enter the name of the domain-joined computer.
+   - Click **OK**.
+
+## Link the GPO to an Organizational Unit (OU)
+
+1. Navigate to the target OU (e.g., **USA**).
+2. Right-click the OU.
+3. Select **Link an Existing GPO**.
+4. Choose the **Disable Domain Firewall** GPO.
+5. Click **OK** to link the policy.
+
+## Test the GPO
+
+1. Sign in to the domain-joined Windows 11 client computer.
+2. Open **Command Prompt** as Administrator.
+3. Run the following command to immediately apply the policy:
+
+```cmd
+gpupdate /force
+```
+
+This forces Group Policy to refresh immediately so the new settings take effect without waiting for the next policy refresh cycle.
+# Verifying and Testing the GPO
+
+> **Note:** Since the user is **not** a local administrator, open **Command Prompt** using an administrator account.
+
+Run the following command:
+
+```cmd
+gpresult /r /scope:computer
+```
+
+This displays the applied Group Policy Objects (GPOs) for the computer.
+
+Verify that the following policies are listed:
+
+- Disable Domain Firewall
+- Default Domain Policy
+
+Next, open the **Start** menu and search for:
+
+```
+Firewall & Network Protection
+```
+
+If the **Domain Firewall** is shown as **Off** (as configured by the GPO), then the policy has been successfully applied.
+
+## Clean Up the GPO Scope
+
+Once testing is complete:
+
+1. Return to the GPO.
+2. Open the **Scope** tab.
+3. Add **Authenticated Users** back.
+4. Remove the test computer if it is no longer needed.
+
+This restores the policy to its intended scope.
+
+---
+
+# Case Study 2: Hide Control Panel for Users (GPO)
+
+## Create a New GPO
+
+1. Open **Group Policy Objects**.
+2. Right-click and select **New**.
+3. Name the policy:
+
+```
+Hide Control Panel
+```
+
+4. Click **OK**.
+5. Right-click the new GPO and select **Edit**.
+
+> **Note:** This is a **User Configuration** policy because it targets user accounts rather than computers.
+
+## Configure the Policy
+
+Navigate to:
+
+```text
+User Configuration
+└── Policies
+    └── Administrative Templates
+        └── Control Panel
+```
+
+Open the policy:
+
+```
+Prohibit access to Control Panel and PC settings
+```
+
+Configure it as follows:
+
+- Select **Enabled**.
+- Click **Apply**.
+- Click **OK**.
+
+## Apply the Policy to a Test User
+
+1. In the **Scope** tab, add your test user (e.g., **Christopher Nolan**).
+2. Remove **Authenticated Users** so the policy only applies to the selected test account.
+
 
