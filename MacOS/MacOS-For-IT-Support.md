@@ -95,7 +95,7 @@ Activity Monitor
 
 - Review the list of applications that launch automatically when the Mac starts.
 - Remove unnecessary applications using the **(-)** button to prevent them from starting automatically.
-
+![Screenshot](images/screenshot1127.jpg)
 ### Clear User Cache
 
 - Open **Spotlight Search**.
