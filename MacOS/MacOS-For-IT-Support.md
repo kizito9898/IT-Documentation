@@ -55,6 +55,7 @@ Activity Monitor
 ```
 
 3. Press **Enter**.
+![Screenshot](images/screenshot1124.jpg)
 ---
 ## Check CPU Usage
 
