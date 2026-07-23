@@ -419,4 +419,78 @@ The policy temporarily locks a user's account after a specified number of failed
 2. Navigate to **Group Policy Objects**.
 3. Right-click **Group Policy Objects**.
 4. Select **New**.
-5. Create a new GPO for the **Account Lockout Policy**.
+5. Create a new GPO for the **Account Lockout Policy**
+
+6. Open **Group Policy Management**.
+7. Navigate to **Group Policy Objects**.
+8. Right-click **Group Policy Objects** and select **New**.
+9. Name the policy **Account Lockout Policy**.
+10. Right-click the newly created GPO and select **Edit**.
+
+## Configure the Account Lockout Policy
+
+Navigate to:
+
+```text
+Computer Configuration
+└── Policies
+    └── Windows Settings
+        └── Security Settings
+            └── Account Policies
+                └── Account Lockout Policy
+```
+
+Configure the following setting:
+
+- **Account Lockout Threshold**
+  - Defines how many failed sign-in attempts are allowed before a user account is locked.
+  - Set the threshold to **5 invalid logon attempts**.
+  - Click **Apply** and **OK**.
+
+## Configure the Scope
+
+After editing the GPO:
+
+1. Open the **Scope** tab.
+2. Add the **test user** or allow **Authenticated Users**, depending on your testing requirements.
+3. Ensure the appropriate test computer is included if required.
+
+## Link the GPO
+
+1. Navigate to the target **Branch OU (USA)**.
+2. Right-click the OU.
+3. Select **Link an Existing GPO**.
+4. Choose the **Account Lockout Policy** GPO.
+
+The policy will be inherited by child OUs, allowing users within those OUs to receive the policy.
+
+## Test the Policy
+
+1. Log in as the test user (**ChrisN**).
+2. Open **Command Prompt** as Administrator.
+3. Run:
+
+```cmd
+gpupdate /force
+```
+
+This refreshes both **Computer** and **User** Group Policies.
+
+Verify that the policy has been applied by running:
+
+```cmd
+gpresult /r /user:ChrisN /f
+```
+
+Review the applied Group Policy Objects to confirm the **Account Lockout Policy** is listed.
+
+## Additional Notes
+
+Group Policy can also be used to manage other Windows settings, including:
+
+- Disable Control Panel
+- Disable the Lock Screen
+- Disable Start Menu options
+- Restrict access to specific Windows features
+
+These policies allow administrators to centrally control what users can and cannot do on domain-joined computers.
