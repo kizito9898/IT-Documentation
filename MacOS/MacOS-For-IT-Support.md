@@ -159,7 +159,7 @@ sudo ifconfig en0 down && sudo ifconfig en0 up
 
 ---
 
-## Case Studytorage Issues on macOS
+## Case Study 4: Storage Issues on macOS
 
 If a user reports low storage or the Mac is running out of space:
 
@@ -191,7 +191,7 @@ If a user reports low storage or the Mac is running out of space:
 6. Delete unnecessary files (administrator password may be required).
 
 ---
-## External Drive Is Not Being Recognized
+## Case Study 5: External Drive Is Not Being Recognized
 
 If a user's external drive is not appearing:
 
