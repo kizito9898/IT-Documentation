@@ -17,6 +17,7 @@ I am currently building this portfolio and will continue updating it with step-b
 ## Cross-Platform Troubleshooting
 
 Understanding how macOS handles local networking, permissions, and file systems makes me a more adaptable and effective IT Support professional and problem solver.
+![Screenshot](images/screenshot1174.jpg)
 
 ---
 ## Portfolio Objective
