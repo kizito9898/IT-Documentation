@@ -9,7 +9,7 @@ As an IT Support Professional with a strong foundation in Windows environments, 
 My goal is simple: to broaden my technical skill set and demonstrate my ability to support users across multiple platforms.
 
 I am currently building this portfolio and will continue updating it with step-by-step configurations, troubleshooting workflows, and screenshots as I explore macOS.
-
+![Screenshot](images/screenshot1175.jpg)
 
 > **Note:** Some configurations are being tested in a local environment without a primary Apple ID.
 
