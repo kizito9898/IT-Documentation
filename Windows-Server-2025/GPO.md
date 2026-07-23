@@ -423,7 +423,7 @@ The policy temporarily locks a user's account after a specified number of failed
 
 6. Open **Group Policy Management**.
 7. Navigate to **Group Policy Objects**.
-8. Right-click **Group Policy Objects** and select **New**.
+8. Right-click **Group Policy Objects** and select **New**
 9. Name the policy **Account Lockout Policy**.
 10. Right-click the newly created GPO and select **Edit**.
 
