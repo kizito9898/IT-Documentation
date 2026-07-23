@@ -141,9 +141,64 @@ This issue can occur when macOS stores multiple old Wi-Fi profiles and passwords
 ## Troubleshooting
 
 - Open the **Terminal** application.
-- Continue troubleshooting by removing outdated Wi-Fi configurations or resetting the saved network settings.
+- Continue troubleshooting by removing outdated Wi-Fi configurations or resetting the saved network settings
 
+## Wi-Fi Keeps Disconnecting Randomly
 
+Run the following command in Terminal:
+
+```bash
+sudo ifconfig en0 down && sudo ifconfig en0 up
+```
+
+- Enter your administrator password and press **Enter**.
+- This resets the Wi-Fi connection without restarting the Mac.
+
+---
+
+## Storage Issues on macOS
+
+If a user reports low storage or the Mac is running out of space:
+
+1. Navigate to:
+   - **Apple Menu** → **System Settings** → **Storage**
+2. Review what is consuming storage space.
+3. Delete unnecessary files such as:
+   - Trash
+   - Large documents
+   - Other unwanted files
+4. Enable **Empty Trash Automatically** if appropriate.
+
+**Keyboard shortcut to bypass Trash when deleting:**
+
+- **Option + Command + Delete**
+
+### Remove Old Application Support Files
+
+1. Open **Finder**.
+2. From the menu bar, select **Go**.
+3. Scroll down and choose **Go to Folder**.
+4. Enter:
+
+```text
+/Library/Application Support
+```
+
+5. Review old application support files that are no longer needed.
+6. Delete unnecessary files (administrator password may be required).
+
+---
+
+## External Drive Is Not Being Recognized
+
+If a user's external drive is not appearing:
+
+1. Open **Finder**.
+2. Go to **Finder Settings** (or **Finder Preferences**, depending on the macOS version).
+3. Verify that **External disks** are enabled under the appropriate tab.
+4. Confirm that the external drive is selected to appear in Finder.
+
+This is one of the first checks an IT support technician should perform before moving on to more advanced troubleshooting.
 
 
 
