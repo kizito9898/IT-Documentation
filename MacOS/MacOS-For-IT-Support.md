@@ -54,7 +54,6 @@ Activity Monitor
 ```
 
 3. Press **Enter**.
-
 ---
 ## Check CPU Usage
 
@@ -64,7 +63,6 @@ Activity Monitor
    - Third-party applications consuming excessive CPU.
    - Stuck system processes.
    - Any process consistently using more than **80% CPU**.
-
 ---
 ## Check Memory Usage
 
@@ -266,7 +264,6 @@ Print a document from:
 If only one application fails to print, the issue is application-specific rather than printer-related.
 
 ---
-
 ## Escalation
 
 Escalate the issue if:
