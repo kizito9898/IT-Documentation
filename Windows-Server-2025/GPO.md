@@ -116,6 +116,7 @@ The **Settings** tab displays the details of the Group Policy Object (GPO), incl
 
 1. Right-click the newly created **Disable Domain Firewall** GPO.
 2. Select **Edit**.
+![Screenshot](images/screenshot1140.jpg)
 
 The editor displays two main sections:
 
