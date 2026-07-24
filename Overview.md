@@ -21,54 +21,54 @@
 <p align="lds.io/badge/Windows_Server-2019/2022-blue?logo=windows&logoColor=white" />
 
 ---
+# IT Documentation Portfolio
 
+<p align="center">
+
+<img src="https://img.shields.io/badge/Windows_Server-2022--2025-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+<img src="https://img.shields.io/badge/Active_Directory-Administration-512BD4?style=for-the-badge&logo=microsoft&logoColor=white"/>
+<img src="https://img.shields.io/badge/Group_Policy-GPMC-0078D4?style=for-the-badge&logo=windows&logoColor=white"/>
+<img src="https://img.shields.io/badge/Microsoft_365-Administration-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white"/>
+<img src="https://img.shields.io/badge/Microsoft_Intune-Endpoint_Management-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
+<img src="https://img.shields.io/badge/Azure_Entra_ID-Identity_Management-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+<img src="https://img.shields.io/badge/PowerShell-Automation-5391FE?style=for-the-badge&logo=powershell&logoColor=white"/>
+<img src="https://img.shields.io/badge/Atera-RMM-00B388?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Level-RMM-4CAF50?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/PDQ-Deploy_&_Inventory-2E8B57?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ServiceNow-HaloPSA-Zendesk-4B5563?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DNS-DHCP-00599C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/macOS-Support-000000?style=for-the-badge&logo=apple"/>
+<img src="https://img.shields.io/badge/Windows-Troubleshooting-0078D6?style=for-the-badge&logo=windows"/>
+
+</p>
+
+---
+
+# Hi, I'm Chiagozie Kizito Njika
+
+**IT Support Specialist | Microsoft 365 | Windows Server | Active Directory | Microsoft Intune | PowerShell | MSP Technologies**
+
+> **About this Repository**
+>
+> This repository contains **XX+** technical documents covering Windows Server, Active Directory, Group Policy, Microsoft 365, Intune, Azure, Networking, PowerShell, macOS, RMM platforms, ticketing systems, and real-world IT troubleshooting.
+>
+> Every document is based on hands-on projects, practical learning, and detailed technical documentation that reflects how I approach problem solving and IT support.
+
+---
 
 # About Me
 
-I'm an IT Support Specialist with a strong foundation in Microsoft technologies, endpoint management, networking, remote support, and technical troubleshooting.
+I'm an IT Support Specialist who enjoys building, troubleshooting, and documenting IT environments.
 
-Before transitioning into IT, I worked in customer-facing roles within the consumer goods industry. That experience strengthened my communication, patience, problem-solving, and customer service skills—qualities that continue to shape how I support users today.
+Rather than only completing online courses, I decided to create this portfolio to demonstrate my technical skills through practical projects and detailed documentation. Every guide in this repository was written while performing the work myself, allowing me to build both technical knowledge and strong documentation habits.
 
-I enjoy learning new technologies, documenting technical procedures, and improving my skills through practical projects. This portfolio reflects that journey and serves as a living knowledge base that continues to grow as I expand my experience across Windows, Microsoft 365, Intune, Azure, networking, PowerShell, and MSP technologies.
+Before transitioning into IT, I worked in customer-facing roles within the consumer goods industry, where I developed communication, patience, active listening, and problem-solving skills. Those experiences continue to influence how I support users today by communicating clearly, remaining calm under pressure, and providing professional customer service.
 
-I'm seeking an opportunity where I can contribute to a collaborative IT team, continue learning from experienced engineers, and provide reliable technical support while growing professionally.
+This repository continues to grow as I expand my skills across Windows Server, Microsoft 365, Intune, Azure, networking, PowerShell, endpoint management, and Managed Service Provider (MSP) technologies.
 
----
-
-# Technical Skills Demonstrated
-
-| Technology                   | Practical Experience                                                                                                                            |
-| ---------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Windows Server 2022–2025** | Installation, Server Manager, Roles & Features, Windows Administration                                                                          |
-| **Active Directory**         | User account creation, User onboarding & offboarding, Password resets, Account unlocks, Security groups, Organizational Units (OUs)             |
-| **Group Policy Management**  | Creating GPOs, Security filtering, OU linking, Password policies, Account lockout policies, Windows Defender Firewall, Administrative Templates |
-| **Microsoft 365**            | User administration, License assignment, Exchange Online, Microsoft Teams, SharePoint, MFA, Password resets                                     |
-| **Microsoft Intune**         | Device enrollment, Compliance policies, Win32 application deployment, Endpoint management, Troubleshooting                                      |
-| **Microsoft Entra ID**       | Identity management, User administration, Groups, Authentication                                                                                |
-| **PowerShell**               | PowerShell fundamentals, Active Directory cmdlets, Administrative automation, Windows management                                                |
-| **Windows 11**               | Desktop support, User troubleshooting, Domain joining, Windows administration                                                                   |
-| **macOS**                    | Installation, User support, System settings, File management, Performance troubleshooting, Printer troubleshooting, Terminal basics             |
-| **Networking**               | DNS, DHCP, TCP/IP, IP configuration, Ping, Tracert, Nslookup, Network troubleshooting                                                           |
-| **Remote Support**           | Microsoft Remote Desktop, TeamViewer, Splashtop, AnyDesk                                                                                        |
-| **RMM Platforms**            | Atera RMM, Level RMM, Remote monitoring, Patch management, Remote access                                                                        |
-| **PDQ Deploy & Inventory**   | Software deployment, Patch deployment, Asset inventory                                                                                          |
-| **Ticketing Systems**        | ServiceNow, HaloPSA, Zendesk, Ticket management, Documentation                                                                                  |
-| **Virtualization**           | VMware Workstation, Windows Server virtual machines, Windows 11 clients, macOS virtual machine                                                  |
+My goal is to contribute to a collaborative IT team where I can continue learning, solve technical problems, and provide dependable support while growing professionally.
 
 ---
-
-# Why This Portfolio?
-
-This repository was created to showcase practical IT skills through real technical projects and detailed documentation.
-
-Instead of simply listing technologies on a résumé, I wanted to demonstrate how I build environments, troubleshoot issues, document solutions, and continuously improve my technical knowledge.
-
-Each document is written from hands-on experience and follows a structured approach that mirrors the type of documentation used by IT departments and Managed Service Providers (MSPs).
-
-This portfolio reflects my commitment to continuous learning, technical excellence, and providing clear, repeatable documentation that can help both users and fellow IT professionals.
-
----
-
 
 # Certifications
 
@@ -78,7 +78,29 @@ This portfolio reflects my commitment to continuous learning, technical excellen
 - Google Cybersecurity Professional Certificate
 - ISC2 Certified in Cybersecurity (CC)
 - Microsoft Learn
-- Udemy Hands-on Windows Server & Microsoft 365 Training
+- Udemy Hands-on Training (Windows Server, Microsoft 365, Intune & PowerShell)
+
+---
+
+# Technical Skills Demonstrated
+
+| Technology | Practical Experience |
+|------------|----------------------|
+| **Windows Server 2022–2025** | Installation, Server Manager, Roles & Features, Windows Administration |
+| **Active Directory** | User account creation, Password resets, Account unlocks, User onboarding & offboarding, Security Groups, Organizational Units (OUs) |
+| **Group Policy (GPO)** | GPO creation, Security filtering, Password policies, Account lockout policies, Windows Defender Firewall, Administrative Templates |
+| **Microsoft 365** | User administration, License assignment, Exchange Online, Teams, SharePoint, MFA, Password resets |
+| **Microsoft Intune** | Device enrollment, Compliance policies, Win32 application deployment, Endpoint management, Troubleshooting |
+| **Microsoft Entra ID** | User administration, Groups, Identity management, Authentication |
+| **PowerShell** | PowerShell fundamentals, Active Directory cmdlets, Administrative automation |
+| **Windows 11** | Desktop support, User troubleshooting, Domain joining, Windows administration |
+| **macOS** | Installation, System Settings, Terminal basics, File management, Printer setup, Performance troubleshooting |
+| **Networking** | DNS, DHCP, TCP/IP, Ping, Tracert, Nslookup, Network troubleshooting |
+| **Remote Support** | Microsoft RDP, TeamViewer, Splashtop, AnyDesk |
+| **RMM Platforms** | Atera RMM, Level RMM, Remote monitoring, Patch management, Remote access |
+| **PDQ Deploy & Inventory** | Software deployment, Patch deployment, Asset inventory |
+| **Ticketing Systems** | ServiceNow, HaloPSA, Zendesk, Ticket lifecycle, Documentation |
+| **Virtualization** | VMware Workstation, Windows Server, Windows 11 and macOS virtual machines |
 
 ---
 
@@ -91,6 +113,14 @@ This portfolio reflects my commitment to continuous learning, technical excellen
 - [Active Directory](Windows-Server/Active-Directory.md)
 - [Group Policy Management](Windows-Server/Group-Policy-Management.md)
 - [File Sharing & NTFS Permissions](Windows-Server/File-Sharing.md)
+
+---
+
+## Networking
+
+- [Networking Troubleshooting](Network/Networking-Troubleshooting.md)
+- [DNS](Network/DNS.md)
+- [DHCP](Network/DHCP.md)
 
 ---
 
@@ -118,14 +148,6 @@ This portfolio reflects my commitment to continuous learning, technical excellen
 
 ---
 
-## Networking
-
-- [Networking Troubleshooting](Network/Networking-Troubleshooting.md)
-- [DNS](Network/DNS.md)
-- [DHCP](Network/DHCP.md)
-
----
-
 ## PowerShell
 
 - [PowerShell Fundamentals](Powershell/Powershell-Absolute-Fundamentals.md)
@@ -133,9 +155,7 @@ This portfolio reflects my commitment to continuous learning, technical excellen
 
 ---
 
-## RMM Platforms
-
-### Atera RMM
+## Atera RMM
 
 - [Introduction](Atera-RMM/Atera-introduction.md)
 - [Installing Agents](Atera-RMM/Installing-Agents-for-Atera.md)
@@ -143,14 +163,16 @@ This portfolio reflects my commitment to continuous learning, technical excellen
 - [Remote Access via AnyDesk](Atera-RMM/Remote-Access-Via-Anydesk.md)
 - [Splashtop Remote Access](Atera-RMM/Splashtop-Remote-Access.md)
 
-### Level RMM
+---
+
+## Level RMM
 
 - [Level Overview](Level-RMM/Level-Overview.md)
 - [Level RMM Automation](Level-RMM/Level-RMM-Automation.md)
 
 ---
 
-## Ticketing & PSA Platforms
+## Ticketing Systems
 
 - [ServiceNow](Ticketing-Systems/ServiceNow-Ticketing.md)
 - [HaloPSA](Ticketing-Systems/HaloPSA.md)
@@ -183,39 +205,27 @@ This portfolio reflects my commitment to continuous learning, technical excellen
 
 # Why This Portfolio?
 
-This repository demonstrates how I approach technical documentation, troubleshooting, and systems administration.
+Technology changes constantly, and so does this repository.
 
-Highlights include:
+I created this portfolio to document my learning, demonstrate practical IT skills, and build a collection of technical runbooks that reflect the way I troubleshoot, administer systems, and solve problems.
 
-- Hands-on home lab projects
-- Step-by-step deployment guides
-- Microsoft administration workflows
-- Real-world troubleshooting documentation
-- MSP-oriented runbooks
-- PowerShell administration
-- Endpoint management
-- Structured documentation practices
+Every project added here represents another step in my growth as an IT Support professional. My goal is not only to continue learning new technologies, but also to document them clearly so they can be understood, repeated, and improved over time.
 
-Rather than simply listing technologies on a résumé, this portfolio demonstrates how I work through technical problems and document repeatable solutions.
+Thank you for taking the time to explore my work.
 
 ---
 
-# Let's Connect
+# Connect With Me
 
 **LinkedIn**
 
-www.linkedin.com/in/chiagozie-njika-a24660284
+- www.linkedin.com/in/chiagozie-njika-a24660284
 
 **GitHub**
 
-https://github.com/kizito9898
+- https://github.com/kizito9898
 
 **Email**
 
-chiagozienjika078@gmail.com
-
-Njikakizito@gmail.com
-
----
-
-*"Good documentation is part of good IT support."*
+- chiagozienjika078@gmail.com
+- njikakizito@gmail.com
