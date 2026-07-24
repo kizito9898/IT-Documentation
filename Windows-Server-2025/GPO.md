@@ -333,6 +333,7 @@ Expected result:
 
 - Control Panel cannot be opened.
 - The user receives a message instructing them to contact their system administrator.
+![Screenshot](images/screenshot1157.jpg)
 
 ---
 
