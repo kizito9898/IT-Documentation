@@ -163,6 +163,7 @@ Expand **Windows Defender Firewall with Advanced Security** to configure the fir
 2. Select the **Disable Domain Firewall** GPO.
 3. Open the **Scope** tab.
 4. Remove **Authenticated Users**.
+![Screenshot](images/screenshot1144.jpg)
 5. Since this policy is being tested on a specific computer:
    - Click **Add**.
    - Change **Object Types** to **Computers** only.
