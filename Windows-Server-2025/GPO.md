@@ -129,6 +129,7 @@ The editor displays two main sections:
 
 - **Policies** enforce settings that users generally cannot change.
 - **Preferences** configure settings that users can usually modify later if necessary.
+![Screenshot](Images/screenshot1141.jpg)
 
 ---
 ## Step 3: Navigate to Windows Defender Firewall Settings
