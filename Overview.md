@@ -54,60 +54,67 @@ This repository contains practical documentation created while building and admi
 
 My goal is to continuously document real-world IT procedures, troubleshooting techniques, and administrative workflows while developing as an IT Support professional.
 
+
+# Hi, I'm Chiagozie Kizito Njika
+
+**IT Support Specialist | Microsoft 365 | Windows Server | Active Directory | Intune | PowerShell | MSP Technologies**
+
+Welcome to my IT Documentation Portfolio.
+
+This repository represents my commitment to becoming a highly capable IT Support professional through continuous learning, hands-on technical projects, and detailed documentation.
+
+Every guide in this repository was created while building, configuring, administering, and troubleshooting real IT environments. Rather than simply completing online courses, I chose to document everything I learned as if I were creating an internal knowledge base for an MSP or enterprise IT team.
+
+My goal is to demonstrate not only what technologies I have studied, but how I approach troubleshooting, documentation, and solving technical problems in a structured and repeatable way.
+
 ---
 
-# Lab Environment
+# About Me
 
-| Technology                   | Hands-on Experience                                                                                                                     |
-| ---------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- |
-| **Windows Server 2022–2025** | Installation, Server Manager, Roles & Features, Windows Administration                                                                  |
-| **Active Directory**         | User account management, Password resets, Account unlocks, Group management, Organizational Units (OUs), User onboarding & offboarding  |
-| **Group Policy (GPO)**       | GPO creation, OU linking, Security filtering, Password policies, Account lockout policies, Windows Firewall, Control Panel restrictions |
-| **Microsoft 365**            | User administration, License assignment, Password resets, Exchange administration, Teams, SharePoint, MFA                               |
-| **Microsoft Intune**         | Device enrollment, Compliance policies, Win32 application deployment, Endpoint management                                               |
-| **Microsoft Entra ID**       | User management, Groups, Identity administration, Authentication                                                                        |
-| **PowerShell**               | PowerShell fundamentals, AD cmdlets, Administrative automation, System management                                                       |
-| **Windows 11**               | Desktop support, User troubleshooting, Domain joining, Windows administration                                                           |
-| **macOS**                    | Basic user support, System settings, File management, Troubleshooting                                                                   |
-| **Networking**               | DNS, DHCP, TCP/IP, IP addressing, Ping, Tracert, Nslookup, Network troubleshooting                                                      |
-| **Remote Support**           | Microsoft RDP, TeamViewer, Splashtop, AnyDesk                                                                                           |
-| **RMM Platforms**            | Atera RMM, Level RMM, Remote monitoring, Patch management, Remote access                                                                |
-| **PDQ Deploy & Inventory**   | Software deployment, Asset inventory, Package deployment                                                                                |
-| **Ticketing Systems**        | ServiceNow, HaloPSA, Zendesk, Ticket lifecycle, Documentation                                                                           |
-| **Virtualization**           | VMware Workstation, Windows Server lab environments, Client virtual machines                                                            |
+I'm an IT Support Specialist with a strong foundation in Microsoft technologies, endpoint management, networking, remote support, and technical troubleshooting.
 
+Before transitioning into IT, I worked in customer-facing roles within the consumer goods industry. That experience strengthened my communication, patience, problem-solving, and customer service skills—qualities that continue to shape how I support users today.
 
+I enjoy learning new technologies, documenting technical procedures, and improving my skills through practical projects. This portfolio reflects that journey and serves as a living knowledge base that continues to grow as I expand my experience across Windows, Microsoft 365, Intune, Azure, networking, PowerShell, and MSP technologies.
 
+I'm seeking an opportunity where I can contribute to a collaborative IT team, continue learning from experienced engineers, and provide reliable technical support while growing professionally.
 
+---
 
+# Technical Skills Demonstrated
 
-
-
-
-
-
-
-
-
-
-| Technology | Hands-on Experience |
-|------------|---------------------|
+| Technology | Practical Experience |
+|------------|----------------------|
 | **Windows Server 2022–2025** | Installation, Server Manager, Roles & Features, Windows Administration |
-| **Active Directory** | User account management, Password resets, Account unlocks, Group management, Organizational Units (OUs), User onboarding & offboarding |
-| **Group Policy (GPO)** | GPO creation, OU linking, Security filtering, Password policies, Account lockout policies, Windows Firewall, Control Panel restrictions |
-| **Microsoft 365** | User administration, License assignment, Password resets, Exchange administration, Teams, SharePoint, MFA |
-| **Microsoft Intune** | Device enrollment, Compliance policies, Win32 application deployment, Endpoint management |
-| **Microsoft Entra ID** | User management, Groups, Identity administration, Authentication |
-| **PowerShell** | PowerShell fundamentals, AD cmdlets, Administrative automation, System management |
+| **Active Directory** | User account creation, User onboarding & offboarding, Password resets, Account unlocks, Security groups, Organizational Units (OUs) |
+| **Group Policy Management** | Creating GPOs, Security filtering, OU linking, Password policies, Account lockout policies, Windows Defender Firewall, Administrative Templates |
+| **Microsoft 365** | User administration, License assignment, Exchange Online, Microsoft Teams, SharePoint, MFA, Password resets |
+| **Microsoft Intune** | Device enrollment, Compliance policies, Win32 application deployment, Endpoint management, Troubleshooting |
+| **Microsoft Entra ID** | Identity management, User administration, Groups, Authentication |
+| **PowerShell** | PowerShell fundamentals, Active Directory cmdlets, Administrative automation, Windows management |
 | **Windows 11** | Desktop support, User troubleshooting, Domain joining, Windows administration |
-| **macOS** | Basic user support, System settings, File management, Troubleshooting |
-| **Networking** | DNS, DHCP, TCP/IP, IP addressing, Ping, Tracert, Nslookup, Network troubleshooting |
-| **Remote Support** | Microsoft RDP, TeamViewer, Splashtop, AnyDesk |
+| **macOS** | Installation, User support, System settings, File management, Performance troubleshooting, Printer troubleshooting, Terminal basics |
+| **Networking** | DNS, DHCP, TCP/IP, IP configuration, Ping, Tracert, Nslookup, Network troubleshooting |
+| **Remote Support** | Microsoft Remote Desktop, TeamViewer, Splashtop, AnyDesk |
 | **RMM Platforms** | Atera RMM, Level RMM, Remote monitoring, Patch management, Remote access |
-| **PDQ Deploy & Inventory** | Software deployment, Asset inventory, Package deployment |
-| **Ticketing Systems** | ServiceNow, HaloPSA, Zendesk, Ticket lifecycle, Documentation |
-| **Virtualization** | VMware Workstation, Windows Server lab environments, Client virtual machines |
+| **PDQ Deploy & Inventory** | Software deployment, Patch deployment, Asset inventory |
+| **Ticketing Systems** | ServiceNow, HaloPSA, Zendesk, Ticket management, Documentation |
+| **Virtualization** | VMware Workstation, Windows Server virtual machines, Windows 11 clients, macOS virtual machine |
+
 ---
+
+# Why This Portfolio?
+
+This repository was created to showcase practical IT skills through real technical projects and detailed documentation.
+
+Instead of simply listing technologies on a résumé, I wanted to demonstrate how I build environments, troubleshoot issues, document solutions, and continuously improve my technical knowledge.
+
+Each document is written from hands-on experience and follows a structured approach that mirrors the type of documentation used by IT departments and Managed Service Providers (MSPs).
+
+This portfolio reflects my commitment to continuous learning, technical excellence, and providing clear, repeatable documentation that can help both users and fellow IT professionals.
+
+---
+
 
 # Certifications
 
