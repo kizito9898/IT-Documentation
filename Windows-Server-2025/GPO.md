@@ -189,7 +189,7 @@ gpupdate /force
 ```
 
 This forces Group Policy to refresh immediately so the new settings take effect without waiting for the next policy refresh cycle.
-
+![Screenshot](images/screenshot1147.jpg)
 # Verifying and Testing the GPO
 
 > **Note:** Since the user is **not** a local administrator, open **Command Prompt** using an administrator account.
@@ -206,6 +206,7 @@ Verify that the following policies are listed:
 
 - Disable Domain Firewall
 - Default Domain Policy
+
 
 Next, open the **Start** menu and search for:
 
