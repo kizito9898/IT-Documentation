@@ -80,7 +80,6 @@ My documentation is built from a hands-on lab consisting of:
 - TeamViewer
 - Splashtop
 - AnyDesk
-
 ---
 
 # Certifications
