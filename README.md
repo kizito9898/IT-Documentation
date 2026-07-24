@@ -3,24 +3,8 @@
 
 ---
 
-<p align="lds.io/badge/Windows_Server-2019/2022-blue?logo=windows&logoColor=white" /
-# IT Documentation Portfolio
 
-<p align="center">
 
-<img src="https://img.shields.io/badge/Windows_Server-2022--2025-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
-<img src="https://img.shields.io/badge/Active_Directory-Administration-512BD4?style=for-the-badge&logo=microsoft&logoColor=white"/>
-<img src="https://img.shields.io/badge/Group_Policy-GPMC-0078D4?style=for-the-badge&logo=windows&logoColor=white"/>
-<img src="https://img.shields.io/badge/Microsoft_365-Administration-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white"/>
-<img src="https://img.shields.io/badge/Microsoft_Intune-Endpoint_Management-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
-<img src="https://img.shields.io/badge/Azure_Entra_ID-Identity_Management-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-<img src="https://img.shields.io/badge/PowerShell-Automation-5391FE?style=for-the-badge&logo=powershell&logoColor=white"/>
-<img src="https://img.shields.io/badge/Atera-RMM-00B388?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Level-RMM-4CAF50?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/PDQ-Deploy_&_Inventory-2E8B57?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/ServiceNow-HaloPSA-Zendesk-4B5563?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/DNS-DHCP-00599C?style=for-the-badge"/>
-<img src="https://img.shields.io/badg
 ---
 
 # Hi, I'm Chiagozie Kizito Njika
