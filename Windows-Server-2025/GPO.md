@@ -71,6 +71,7 @@ To apply the policy to only a specific user:
 
 1. Link the GPO to the target Organizational Unit (OU) (for example, **Users**).
 2. This allows the policy to be applied within that OU while Security Filtering ensures only the specified test user receives the policy.
+![Screenshot](images/screenshot1139.jpg)
 ---
 ## Note
 
