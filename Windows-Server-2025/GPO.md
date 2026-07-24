@@ -390,7 +390,7 @@ Configure the following settings:
 
 - **Minimum Password Age**
   - Set to **30 days**.
-
+![Screenshot](Images/screenshot1164.jpg)
 ## Link the GPO
 
 1. Navigate to the target **Branch OU (USA)**.
