@@ -21,53 +21,7 @@
 <p align="lds.io/badge/Windows_Server-2019/2022-blue?logo=windows&logoColor=white" />
 
 ---
-# IT Documentation Portfolio
 
-<p align="center">
-
-<img src="https://img.shields.io/badge/Windows_Server-2022-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
-<img src="https://img.shields.io/badge/Active_Directory-Administration-512BD4?style=for-the-badge&logo=microsoft&logoColor=white"/>
-<img src="https://img.shields.io/badge/Group_Policy-GPMC-0078D4?style=for-the-badge&logo=windows&logoColor=white"/>
-<img src="https://img.shields.io/badge/Microsoft_365-Administration-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white"/>
-<img src="https://img.shields.io/badge/Microsoft_Intune-Endpoint_Management-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
-<img src="https://img.shields.io/badge/Azure_Entra_ID-Identity_Management-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-<img src="https://img.shields.io/badge/PowerShell-Automation-5391FE?style=for-the-badge&logo=powershell&logoColor=white"/>
-<img src="https://img.shields.io/badge/Atera-RMM-00B388?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Level-RMM-4CAF50?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/PDQ-Deploy_&_Inventory-2E8B57?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/ServiceNow-HaloPSA-Zendesk-4B5563?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/DNS-DHCP-00599C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/macOS-Support-000000?style=for-the-badge&logo=apple"/>
-<img src="https://img.shields.io/badge/Windows-Troubleshooting-0078D6?style=for-the-badge&logo=windows"/>
-
-</p>
-
----
-
-# Hi, I'm Chiagozie Kizito Njika
-
-**IT Support Specialist | Microsoft 365 | Windows Server | Active Directory | Intune | PowerShell | MSP Technologies**
-
-Welcome to my IT Documentation Portfolio.
-
-This repository contains practical documentation created while building and administering my home lab environment. Every guide is based on hands-on work rather than copied tutorials, covering Windows administration, Microsoft 365, Active Directory, Group Policy, networking, endpoint management, PowerShell, and MSP technologies.
-
-My goal is to continuously document real-world IT procedures, troubleshooting techniques, and administrative workflows while developing as an IT Support professional.
-
-
-# Hi, I'm Chiagozie Kizito Njika
-
-**IT Support Specialist | Microsoft 365 | Windows Server | Active Directory | Intune | PowerShell | MSP Technologies**
-
-Welcome to my IT Documentation Portfolio.
-
-This repository represents my commitment to becoming a highly capable IT Support professional through continuous learning, hands-on technical projects, and detailed documentation.
-
-Every guide in this repository was created while building, configuring, administering, and troubleshooting real IT environments. Rather than simply completing online courses, I chose to document everything I learned as if I were creating an internal knowledge base for an MSP or enterprise IT team.
-
-My goal is to demonstrate not only what technologies I have studied, but how I approach troubleshooting, documentation, and solving technical problems in a structured and repeatable way.
-
----
 
 # About Me
 
