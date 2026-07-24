@@ -215,7 +215,7 @@ Firewall & Network Protection
 ```
 
 If the **Domain Firewall** is shown as **Off** (as configured by the GPO), then the policy has been successfully applied.
-
+![Screenshot](images/screenshot11)
 ## Clean Up the GPO Scope
 
 Once testing is complete:
