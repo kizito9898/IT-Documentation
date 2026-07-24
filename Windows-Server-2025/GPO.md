@@ -284,7 +284,7 @@ Configure it as follows:
 2. Select **Link an Existing GPO**.
 3. Choose the **Hide Control Panel** GPO.
 4. Click **OK**.
-
+![Screenshot](images/screenshot1155.jpg)
 ## Test the Policy
 
 1. Log in to the client computer.
