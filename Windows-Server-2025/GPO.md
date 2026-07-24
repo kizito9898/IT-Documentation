@@ -244,8 +244,10 @@ Hide Control Panel
 
 4. Click **OK**.
 5. Right-click the new GPO and select **Edit**.
+![Screenshot](images/screenshot1150.jpg)
 
 > **Note:** This is a **User Configuration** policy because it targets user accounts rather than computers.
+
 ## Configure the Policy
 
 Navigate to:
