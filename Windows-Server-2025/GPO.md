@@ -320,7 +320,7 @@ Hide Control Panel GPO
 This ensures the policy applies to computers that are joined to the domain.
 
 Click **OK** to save the changes.
-
+![Screenshot](images/screenshot1160.jpg)
 ## Verify the Result
 
 On the user's computer:
