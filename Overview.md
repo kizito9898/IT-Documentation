@@ -58,28 +58,25 @@ My goal is to continuously document real-world IT procedures, troubleshooting te
 
 # Lab Environment
 
-My documentation is built from a hands-on lab consisting of:
+# Lab Environment
 
-- Windows Server 2022
-- Windows 11
-- Active Directory Domain Services
-- Group Policy Management
-- Microsoft 365
-- Microsoft Intune
-- Microsoft Entra ID
-- Azure Virtual Machines
-- VMware Workstation
-- Atera RMM
-- Level RMM
-- PDQ Deploy
-- PDQ Inventory
-- ServiceNow
-- HaloPSA
-- Zendesk
-- Windows Remote Desktop
-- TeamViewer
-- Splashtop
-- AnyDesk
+| Technology | Hands-on Experience |
+|------------|---------------------|
+| **Windows Server 2022–2025** | Installation, Server Manager, Roles & Features, Windows Administration |
+| **Active Directory** | User account management, Password resets, Account unlocks, Group management, Organizational Units (OUs), User onboarding & offboarding |
+| **Group Policy (GPO)** | GPO creation, OU linking, Security filtering, Password policies, Account lockout policies, Windows Firewall, Control Panel restrictions |
+| **Microsoft 365** | User administration, License assignment, Password resets, Exchange administration, Teams, SharePoint, MFA |
+| **Microsoft Intune** | Device enrollment, Compliance policies, Win32 application deployment, Endpoint management |
+| **Microsoft Entra ID** | User management, Groups, Identity administration, Authentication |
+| **PowerShell** | PowerShell fundamentals, AD cmdlets, Administrative automation, System management |
+| **Windows 11** | Desktop support, User troubleshooting, Domain joining, Windows administration |
+| **macOS** | Basic user support, System settings, File management, Troubleshooting |
+| **Networking** | DNS, DHCP, TCP/IP, IP addressing, Ping, Tracert, Nslookup, Network troubleshooting |
+| **Remote Support** | Microsoft RDP, TeamViewer, Splashtop, AnyDesk |
+| **RMM Platforms** | Atera RMM, Level RMM, Remote monitoring, Patch management, Remote access |
+| **PDQ Deploy & Inventory** | Software deployment, Asset inventory, Package deployment |
+| **Ticketing Systems** | ServiceNow, HaloPSA, Zendesk, Ticket lifecycle, Documentation |
+| **Virtualization** | VMware Workstation, Windows Server lab environments, Client virtual machines |
 ---
 
 # Certifications
