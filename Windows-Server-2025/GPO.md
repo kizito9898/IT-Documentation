@@ -460,7 +460,7 @@ Configure the following setting:
   - Defines how many failed sign-in attempts are allowed before a user account is locked.
   - Set the threshold to **5 invalid logon attempts**.
   - Click **Apply** and **OK**.
-
+![Screenshot](images/screenshot1169.jpg)
 ## Configure the Scope
 
 After editing the GPO:
