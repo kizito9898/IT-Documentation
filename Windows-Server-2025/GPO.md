@@ -177,7 +177,7 @@ Expand **Windows Defender Firewall with Advanced Security** to configure the fir
 3. Select **Link an Existing GPO**.
 4. Choose the **Disable Domain Firewall** GPO.
 5. Click **OK** to link the policy.
-
+![Screenshot](images/screenshot114)
 ## Test the GPO
 
 1. Sign in to the domain-joined Windows 11 client computer.
