@@ -35,12 +35,11 @@
 
 > **About this Repository**
 >
-> This repository contains **XX+** technical documents covering Windows Server, Active Directory, Group Policy, Microsoft 365, Intune, Azure, Networking, PowerShell, macOS, RMM platforms, ticketing systems, and real-world IT troubleshooting.
+> This repository contains  technical documents covering Windows Server, Active Directory, Group Policy, Microsoft 365, Intune, Azure, Networking, PowerShell, macOS, RMM platforms, ticketing systems, and real-world IT troubleshooting.
 >
 > Every document is based on hands-on projects, practical learning, and detailed technical documentation that reflects how I approach problem solving and IT support.
 
 ---
-
 # About Me
 
 I'm an IT Support Specialist who enjoys building, troubleshooting, and documenting IT environments.
@@ -54,7 +53,6 @@ This repository continues to grow as I expand my skills across Windows Server, M
 My goal is to contribute to a collaborative IT team where I can continue learning, solve technical problems, and provide dependable support while growing professionally.
 
 ---
-
 # Certifications
 
 - CompTIA A+
@@ -64,9 +62,7 @@ My goal is to contribute to a collaborative IT team where I can continue learnin
 - ISC2 Certified in Cybersecurity (CC)
 - Microsoft Learn
 - Udemy Hands-on Training (Windows Server, Microsoft 365, Intune & PowerShell)
-
 ---
-
 # Technical Skills Demonstrated
 
 | Technology | Practical Experience |
@@ -97,17 +93,13 @@ My goal is to contribute to a collaborative IT team where I can continue learnin
 - [Active Directory](Windows-Server/Active-Directory.md)  
 - [Group Policy Management](Windows-Server/Group-Policy-Management.md)
 - [File Sharing](Windows-Server/File-Sharing.md)
-
 ---
-
 ## Networking
 
 - [Networking Troubleshooting](Network/Networking-Troubleshooting.md)
 - [DNS](Network/DNS.md)
 - [DHCP](Network/DHCP.md)
-
 ---
-
 ## Microsoft 365
 
 - [Microsoft 365 Administration](Microsoft365/Microsoft-365-Administration.md)
