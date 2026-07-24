@@ -25,20 +25,25 @@
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Windows_Server-2022--2025-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
-<img src="https://img.shields.io/badge/Active_Directory-Administration-512BD4?style=for-the-badge&logo=microsoft&logoColor=white"/>
-<img src="https://img.shields.io/badge/Group_Policy-GPMC-0078D4?style=for-the-badge&logo=windows&logoColor=white"/>
-<img src="https://img.shields.io/badge/Microsoft_365-Administration-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white"/>
-<img src="https://img.shields.io/badge/Microsoft_Intune-Endpoint_Management-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
-<img src="https://img.shields.io/badge/Azure_Entra_ID-Identity_Management-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-<img src="https://img.shields.io/badge/PowerShell-Automation-5391FE?style=for-the-badge&logo=powershell&logoColor=white"/>
-<img src="https://img.shields.io/badge/Atera-RMM-00B388?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Level-RMM-4CAF50?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/PDQ-Deploy_&_Inventory-2E8B57?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/ServiceNow-HaloPSA-Zendesk-4B5563?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/DNS-DHCP-00599C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/macOS-Support-000000?style=for-the-badge&logo=apple"/>
-<img src="https://img.shields.io/badge/Windows-Troubleshooting-0078D6?style=for-the-badge&logo=windows"/>
+<img src="https://img.shields.io/badge/Windows_Server-2022_&_2025-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+<img src="https://img.shields.io/badge/Active_Directory-Administration-512BD4?style=for-the-badge&logo=microsoft&logoColor=white" />
+<img src="https://img.shields.io/badge/Group_Policy-GPO-0078D4?style=for-the-badge&logo=windows&logoColor=white" />
+<img src="https://img.shields.io/badge/Microsoft_365-Administration-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white" />
+<img src="https://img.shields.io/badge/Microsoft_Intune-Endpoint_Management-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
+<img src="https://img.shields.io/badge/Azure-Entra_ID-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+<img src="https://img.shields.io/badge/PowerShell-Automation-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
+<img src="https://img.shields.io/badge/macOS-IT_Support-000000?style=for-the-badge&logo=apple&logoColor=white" />
+<img src="https://img.shields.io/badge/Networking-DNS_|_DHCP_|_TCP/IP-00599C?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Atera-RMM-00B388?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Level-RMM-4CAF50?style=for-the-badge" />
+<img src="https://img.shields.io/badge/CIPP-CyberDrain-5E60CE?style=for-the-badge" />
+<img src="https://img.shields.io/badge/IT_Glue-Documentation-F57C00?style=for-the-badge" />
+<img src="https://img.shields.io/badge/MDM-Mobile_Device_Management-1976D2?style=for-the-badge" />
+<img src="https://img.shields.io/badge/PDQ-Deploy_&_Inventory-2E8B57?style=for-the-badge" />
+<img src="https://img.shields.io/badge/ServiceNow-HaloPSA_|_Zendesk-4B5563?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Remote_Support-RDP_|_TeamViewer_|_Splashtop_|_AnyDesk-795548?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Troubleshooting-Windows_|_macOS_|_Microsoft_365-607D8B?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Customer_Service-Communication-8E24AA?style=for-the-badge" />
 
 </p>
 
