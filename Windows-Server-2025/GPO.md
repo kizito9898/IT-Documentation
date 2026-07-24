@@ -156,7 +156,7 @@ Expand **Windows Defender Firewall with Advanced Security** to configure the fir
    - Leave **Inbound Connections** and **Outbound Connections** at their default settings.
 3. Click **Apply**, then **OK**.
 4. Close the Group Policy Editor.
-
+![Screenshot](images/screenshot1143.jpg)
 ## Apply the GPO to a Test Computer
 
 1. Navigate back to **Group Policy Objects**.
