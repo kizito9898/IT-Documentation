@@ -145,7 +145,7 @@ Computer Configuration
 ```
 
 Expand **Windows Defender Firewall with Advanced Security** to configure the firewall profiles and settings for domain-joined computers.
-
+![Screenshot](images/screenshot1142.jpg)
 # Testing a Group Policy Object (GPO)
 
 ## Configure the Windows Defender Firewall Policy
