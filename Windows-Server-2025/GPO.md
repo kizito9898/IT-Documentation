@@ -226,7 +226,7 @@ Once testing is complete:
 4. Remove the test computer if it is no longer needed.
 
 This restores the policy to its intended scope.
-!
+![Screenshot](images/screenshot1149.jpg)
 
 ---
 
