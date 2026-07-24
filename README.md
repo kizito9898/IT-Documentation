@@ -35,7 +35,7 @@
 
 > **About this Repository**
 >
-> This repository contains  technical documents covering Windows Server, Active Directory, Group Policy, Microsoft 365, Intune, Azure, Networking, PowerShell, macOS, RMM platforms, ticketing systems, and real-world IT troubleshooting.
+> This repository contains technical documents covering Windows Server, Active Directory, Group Policy, Microsoft 365, Intune, Azure, Networking, PowerShell, macOS, RMM platforms, ticketing systems, and real-world IT troubleshooting.
 >
 > Every document is based on hands-on projects, practical learning, and detailed technical documentation that reflects how I approach problem solving and IT support.
 
@@ -65,23 +65,23 @@ My goal is to contribute to a collaborative IT team where I can continue learnin
 ---
 # Technical Skills Demonstrated
 
-| Technology | Practical Experience |
-|------------|----------------------|
-| **Windows Server 2022–2025** | Installation, Server Manager, Roles & Features, Windows Administration |
-| **Active Directory** | User account creation, Password resets, Account unlocks, User onboarding & offboarding, Security Groups, Organizational Units (OUs) |
-| **Group Policy (GPO)** | GPO creation, Security filtering, Password policies, Account lockout policies, Windows Defender Firewall, Administrative Templates |
-| **Microsoft 365** | User administration, License assignment, Exchange Online, Teams, SharePoint, MFA, Password resets |
-| **Microsoft Intune** | Device enrollment, Compliance policies, Win32 application deployment, Endpoint management, Troubleshooting |
-| **Microsoft Entra ID** | User administration, Groups, Identity management, Authentication |
-| **PowerShell** | PowerShell fundamentals, Active Directory cmdlets, Administrative automation |
-| **Windows 11** | Desktop support, User troubleshooting, Domain joining, Windows administration |
-| **macOS** | Installation, System Settings, Terminal basics, File management, Printer setup, Performance troubleshooting |
-| **Networking** | DNS, DHCP, TCP/IP, Ping, Tracert, Nslookup, Network troubleshooting |
-| **Remote Support** | Microsoft RDP, TeamViewer, Splashtop, AnyDesk |
-| **RMM Platforms** | Atera RMM, Level RMM, Remote monitoring, Patch management, Remote access |
-| **PDQ Deploy & Inventory** | Software deployment, Patch deployment, Asset inventory |
-| **Ticketing Systems** | ServiceNow, HaloPSA, Zendesk, Ticket lifecycle, Documentation |
-| **Virtualization** | VMware Workstation, Windows Server, Windows 11 and macOS virtual machines |
+| Technology                   | Practical Experience                                                                                                                |
+| ---------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
+| **Windows Server 2022–2025** | Installation, Server Manager, Roles & Features, Windows Administration                                                              |
+| **Active Directory**         | User account creation, Password resets, Account unlocks, User onboarding & offboarding, Security Groups, Organizational Units (OUs) |
+| **Group Policy (GPO)**       | GPO creation, Security filtering, Password policies, Account lockout policies, Windows Defender Firewall, Administrative Templates  |
+| **Microsoft 365**            | User administration, License assignment, Exchange Online, Teams, SharePoint, MFA, Password resets                                   |
+| **Microsoft Intune**         | Device enrollment, Compliance policies, Win32 application deployment, Endpoint management, Troubleshooting                          |
+| **Microsoft Entra ID**       | User administration, Groups, Identity management, Authentication                                                                    |
+| **PowerShell**               | PowerShell fundamentals, Active Directory cmdlets, Administrative automation                                                        |
+| **Windows 11**               | Desktop support, User troubleshooting, Domain joining, Windows administration                                                       |
+| **macOS**                    | Installation, System Settings, Terminal basics, File management, Printer setup, Performance troubleshooting                         |
+| **Networking**               | DNS, DHCP, TCP/IP, Ping, Tracert, Nslookup, Network troubleshooting                                                                 |
+| **Remote Support**           | Microsoft RDP, TeamViewer, Splashtop, AnyDesk                                                                                       |
+| **RMM Platforms**            | Atera RMM, Level RMM, Remote monitoring, Patch management, Remote access                                                            |
+| **PDQ Deploy & Inventory**   | Software deployment, Patch deployment, Asset inventory                                                                              |
+| **Ticketing Systems**        | ServiceNow, HaloPSA, Zendesk, Ticket lifecycle, Documentation                                                                       |
+| **Virtualization**           | VMware Workstation, Windows Server, Windows 11 and macOS virtual machines                                                           |
 
 ---
 # Documentation Library
