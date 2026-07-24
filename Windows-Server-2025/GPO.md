@@ -168,7 +168,7 @@ Expand **Windows Defender Firewall with Advanced Security** to configure the fir
    - Change **Object Types** to **Computers** only.
    - Enter the name of the domain-joined computer.
    - Click **OK**.
-
+![Screenshot](images/screenshot1145.jpg)
 ## Link the GPO to an Organizational Unit (OU)
 
 1. Navigate to the target OU (e.g., **USA**).
