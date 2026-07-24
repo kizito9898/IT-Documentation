@@ -497,7 +497,7 @@ gpresult /r /user:ChrisN /f
 ```
 
 Review the applied Group Policy Objects to confirm the **Account Lockout Policy** is listed.
-
+![Screenshot](images/screenshot1173.jpg)
 ## Additional Notes
 
 Group Policy can also be used to manage other Windows settings, including:
