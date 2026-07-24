@@ -83,23 +83,23 @@ I'm seeking an opportunity where I can contribute to a collaborative IT team, co
 
 # Technical Skills Demonstrated
 
-| Technology | Practical Experience |
-|------------|----------------------|
-| **Windows Server 2022–2025** | Installation, Server Manager, Roles & Features, Windows Administration |
-| **Active Directory** | User account creation, User onboarding & offboarding, Password resets, Account unlocks, Security groups, Organizational Units (OUs) |
-| **Group Policy Management** | Creating GPOs, Security filtering, OU linking, Password policies, Account lockout policies, Windows Defender Firewall, Administrative Templates |
-| **Microsoft 365** | User administration, License assignment, Exchange Online, Microsoft Teams, SharePoint, MFA, Password resets |
-| **Microsoft Intune** | Device enrollment, Compliance policies, Win32 application deployment, Endpoint management, Troubleshooting |
-| **Microsoft Entra ID** | Identity management, User administration, Groups, Authentication |
-| **PowerShell** | PowerShell fundamentals, Active Directory cmdlets, Administrative automation, Windows management |
-| **Windows 11** | Desktop support, User troubleshooting, Domain joining, Windows administration |
-| **macOS** | Installation, User support, System settings, File management, Performance troubleshooting, Printer troubleshooting, Terminal basics |
-| **Networking** | DNS, DHCP, TCP/IP, IP configuration, Ping, Tracert, Nslookup, Network troubleshooting |
-| **Remote Support** | Microsoft Remote Desktop, TeamViewer, Splashtop, AnyDesk |
-| **RMM Platforms** | Atera RMM, Level RMM, Remote monitoring, Patch management, Remote access |
-| **PDQ Deploy & Inventory** | Software deployment, Patch deployment, Asset inventory |
-| **Ticketing Systems** | ServiceNow, HaloPSA, Zendesk, Ticket management, Documentation |
-| **Virtualization** | VMware Workstation, Windows Server virtual machines, Windows 11 clients, macOS virtual machine |
+| Technology                   | Practical Experience                                                                                                                            |
+| ---------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Windows Server 2022–2025** | Installation, Server Manager, Roles & Features, Windows Administration                                                                          |
+| **Active Directory**         | User account creation, User onboarding & offboarding, Password resets, Account unlocks, Security groups, Organizational Units (OUs)             |
+| **Group Policy Management**  | Creating GPOs, Security filtering, OU linking, Password policies, Account lockout policies, Windows Defender Firewall, Administrative Templates |
+| **Microsoft 365**            | User administration, License assignment, Exchange Online, Microsoft Teams, SharePoint, MFA, Password resets                                     |
+| **Microsoft Intune**         | Device enrollment, Compliance policies, Win32 application deployment, Endpoint management, Troubleshooting                                      |
+| **Microsoft Entra ID**       | Identity management, User administration, Groups, Authentication                                                                                |
+| **PowerShell**               | PowerShell fundamentals, Active Directory cmdlets, Administrative automation, Windows management                                                |
+| **Windows 11**               | Desktop support, User troubleshooting, Domain joining, Windows administration                                                                   |
+| **macOS**                    | Installation, User support, System settings, File management, Performance troubleshooting, Printer troubleshooting, Terminal basics             |
+| **Networking**               | DNS, DHCP, TCP/IP, IP configuration, Ping, Tracert, Nslookup, Network troubleshooting                                                           |
+| **Remote Support**           | Microsoft Remote Desktop, TeamViewer, Splashtop, AnyDesk                                                                                        |
+| **RMM Platforms**            | Atera RMM, Level RMM, Remote monitoring, Patch management, Remote access                                                                        |
+| **PDQ Deploy & Inventory**   | Software deployment, Patch deployment, Asset inventory                                                                                          |
+| **Ticketing Systems**        | ServiceNow, HaloPSA, Zendesk, Ticket management, Documentation                                                                                  |
+| **Virtualization**           | VMware Workstation, Windows Server virtual machines, Windows 11 clients, macOS virtual machine                                                  |
 
 ---
 
