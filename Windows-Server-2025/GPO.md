@@ -350,7 +350,7 @@ They also allow administrators to manage:
 - Password expiration
 - Account lockout policies
 - Password reset and account unlock procedures for users
-
+![Screenshot](images/screenshot1161.jpg)
 ```
 
 # Case Study 3: Password Policy for Users (GPO)
