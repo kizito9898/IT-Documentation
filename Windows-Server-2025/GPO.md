@@ -177,7 +177,7 @@ Expand **Windows Defender Firewall with Advanced Security** to configure the fir
 3. Select **Link an Existing GPO**.
 4. Choose the **Disable Domain Firewall** GPO.
 5. Click **OK** to link the policy.
-![Screenshot](images/screenshot114)
+![Screenshot](images/screenshot1146.jpg)
 ## Test the GPO
 
 1. Sign in to the domain-joined Windows 11 client computer.
@@ -189,6 +189,7 @@ gpupdate /force
 ```
 
 This forces Group Policy to refresh immediately so the new settings take effect without waiting for the next policy refresh cycle.
+
 # Verifying and Testing the GPO
 
 > **Note:** Since the user is **not** a local administrator, open **Command Prompt** using an administrator account.
