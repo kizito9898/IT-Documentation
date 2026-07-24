@@ -173,15 +173,12 @@ Thank you for taking the time to explore my work.
 # Connect With Me
 
 **LinkedIn**
-
 - www.linkedin.com/in/chiagozie-njika-a24660284
 
 **GitHub**
-
 - https://github.com/kizito9898
 
 **Email**
-
 - chiagozienjika078@gmail.com
 - njikakizito@gmail.com
 ---
