@@ -1,12 +1,9 @@
 
 <h1 align="center">IT Documentation Portfolio</h1>
 
-
-
-<p align="lds.io/badge/Windows_Server-2019/2022-blue?logo=windows&logoColor=white" />
-
 ---
-# IT Documentation Portfolio 
+
+<p align="lds.io/badge/Windows_Server-2019/2022-blue?logo=windows&logoColor=white" /
 # IT Documentation Portfolio
 
 <p align="center">
@@ -23,11 +20,7 @@
 <img src="https://img.shields.io/badge/PDQ-Deploy_&_Inventory-2E8B57?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/ServiceNow-HaloPSA-Zendesk-4B5563?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/DNS-DHCP-00599C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/macOS-Support-000000?style=for-the-badge&logo=apple"/>
-<img src="https://img.shields.io/badge/Windows-Troubleshooting-0078D6?style=for-the-badge&logo=windows"/>
-
-</p>
-
+<img src="https://img.shields.io/badg
 ---
 
 # Hi, I'm Chiagozie Kizito Njika
