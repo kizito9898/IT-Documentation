@@ -404,6 +404,7 @@ Configure the following settings:
 1. Log in to the test computer (**ChrisN OS**).
 2. Update Group Policy if necessary.
 3. Change the user's password several times.
+![Screenshot](images/screenshot1166.jpg)
 
 Expected result:
 
