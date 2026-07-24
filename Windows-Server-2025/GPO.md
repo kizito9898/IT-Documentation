@@ -277,6 +277,7 @@ Configure it as follows:
 
 1. In the **Scope** tab, add your test user (e.g., **Christopher Nolan**).
 2. Remove **Authenticated Users** so the policy only applies to the selected test account.
+![Screenshot](images/screenshot1154)
 # Link the GPO to an Organizational Unit (OU)
 
 1. Right-click the target **OU** (e.g., **USA**).
