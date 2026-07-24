@@ -270,7 +270,7 @@ Configure it as follows:
 - Select **Enabled**.
 - Click **Apply**.
 - Click **OK**.
-
+![Screenshot]
 ## Apply the Policy to a Test User
 
 1. In the **Scope** tab, add your test user (e.g., **Christopher Nolan**).
