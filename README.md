@@ -85,7 +85,7 @@ My goal is to contribute to a collaborative IT team where I can continue learnin
 
 ---
 # Documentation Library
-
+---
 ## Windows & Windows Server
 
 - [Windows Troubleshooting](Windows-Server/Windows-Troubleshooting.md)  
@@ -105,32 +105,24 @@ My goal is to contribute to a collaborative IT team where I can continue learnin
 - [Microsoft 365 Administration](Microsoft365/Microsoft-365-Administration.md)
 - [Exchange Online Administration](Microsoft365/Exchange-Administration.md)
 - [Microsoft 365 Deployment](Microsoft365/Microsoft-365-Deployment.md)
-
 ---
-
 ## Microsoft Intune
 
 - [Device Enrollment](Intune/Device-Enrollment.md)
 - [Compliance Policies](Intune/Compliance-Policies.md)
 - [Application Deployment](Intune/App-Deployment.md)
 - [Enrollment Troubleshooting](Intune/Enrollment-Troubleshooting.md)
-
 ---
-
 ## Azure
 
 - [Azure Virtual Machines](Azure/Virtual-Machines-Setup.md)
 - [Microsoft Entra ID Fundamentals](Azure/Entra-ID-Fundamentals.md)
-
 ---
-
 ## PowerShell
 
 - [PowerShell Fundamentals](Powershell/Powershell-Absolute-Fundamentals.md)
 - [PowerShell Automation](Powershell/Powershell-Automation.md)
-
 ---
-
 ## Atera RMM
 
 - [Introduction](Atera-RMM/Atera-introduction.md)
@@ -138,47 +130,35 @@ My goal is to contribute to a collaborative IT team where I can continue learnin
 - [Patch Management](Atera-RMM/Patch-Management-with-Atera.md)
 - [Remote Access via AnyDesk](Atera-RMM/Remote-Access-Via-Anydesk.md)
 - [Splashtop Remote Access](Atera-RMM/Splashtop-Remote-Access.md)
-
 ---
-
 ## Level RMM
 
 - [Level Overview](Level-RMM/Level-Overview.md)
 - [Level RMM Automation](Level-RMM/Level-RMM-Automation.md)
-
 ---
-
 ## Ticketing Systems
 
 - [ServiceNow](Ticketing-Systems/ServiceNow-Ticketing.md)
 - [HaloPSA](Ticketing-Systems/HaloPSA.md)
 - [Zendesk](Ticketing-Systems/Zendesk.md)
-
 ---
-
 ## Troubleshooting
 
 - [Printer Issues](Troubleshooting/Printer-Issues.md)
 - [Outlook Issues](Troubleshooting/Outlook-Issues.md)
 - [Domain Trust Relationship Failed](Troubleshooting/Domain-Trust-Relationship-Failed.md)
 - [General IT Troubleshooting](Troubleshooting/Troubleshooting-IT-Issues.md)
-
 ---
-
 ## PDQ
 
 - [PDQ Deploy](PDQ/PDQ-Deploy-Automation.md)
 - [PDQ Inventory](PDQ/PDQ-Inventory.md)
-
 ---
-
 ## Remote Support
 
 - [Microsoft Remote Desktop](Remote-Connection/Microsoft-RDP.md)
 - [TeamViewer](Remote-Connection/TeamViewer.md)
-
 ---
-
 # Why This Portfolio?
 
 Technology changes constantly, and so does this repository.
