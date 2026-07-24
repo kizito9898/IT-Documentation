@@ -206,7 +206,7 @@ Verify that the following policies are listed:
 
 - Disable Domain Firewall
 - Default Domain Policy
-
+![Screenshot](images/screenshot1148.jpg)
 
 Next, open the **Start** menu and search for:
 
