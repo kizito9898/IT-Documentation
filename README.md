@@ -88,16 +88,15 @@ My goal is to contribute to a collaborative IT team where I can continue learnin
 | **Virtualization** | VMware Workstation, Windows Server, Windows 11 and macOS virtual machines |
 
 ---
-
 # Documentation Library
 
 ## Windows & Windows Server
 
-- [Windows Troubleshooting](Windows-Server/Windows-Troubleshooting.md)
-- [Windows Server Administration](Windows-Server/Windows-Server.md)
-- [Active Directory](Windows-Server/Active-Directory.md)
+- [Windows Troubleshooting](Windows-Server/Windows-Troubleshooting.md)  
+- [Windows Server](Windows-Server/Windows-Server.md)  
+- [Active Directory](Windows-Server/Active-Directory.md)  
 - [Group Policy Management](Windows-Server/Group-Policy-Management.md)
-- [File Sharing & NTFS Permissions](Windows-Server/File-Sharing.md)
+- [File Sharing](Windows-Server/File-Sharing.md)
 
 ---
 
