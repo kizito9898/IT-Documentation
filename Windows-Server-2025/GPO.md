@@ -271,6 +271,8 @@ Configure it as follows:
 - Click **Apply**.
 - Click **OK**.
 ![Screenshot](images/screenshot1151.jpg)
+![Screenshot](images/screenshot1152.jpg)
+
 ## Apply the Policy to a Test User
 
 1. In the **Scope** tab, add your test user (e.g., **Christopher Nolan**).
