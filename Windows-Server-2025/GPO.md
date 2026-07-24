@@ -302,6 +302,7 @@ gpresult /r /user:ChrisN /f
 ```
 
 This confirms that the **Hide Control Panel** policy has been applied to the user.
+!
 
 > **Note:** The policy did not initially work for **ChrisN** because the **Scope** also required **Domain Computers** to be added.
 
