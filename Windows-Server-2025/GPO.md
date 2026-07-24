@@ -506,5 +506,5 @@ Group Policy can also be used to manage other Windows settings, including:
 - Disable the Lock Screen
 - Disable Start Menu options
 - Restrict access to specific Windows features
-
+![Screenshot](images/scre)
 These policies allow administrators to centrally control what users can and cannot do on domain-joined computers.
